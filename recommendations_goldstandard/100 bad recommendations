@@ -1,0 +1,728 @@
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 21 -- $15.15/Hr.
+, 41 -- '49-17
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 1121 -- 1492: Conquest of Paradise
+, 39551 -- Black Hawk Down
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 1121 -- 1492: Conquest of Paradise
+, 39829 -- Black Rain
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 1121 -- 1492: Conquest of Paradise
+, 40199 -- Blade Runner
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 10830 -- Alien
+, 39551 -- Black Hawk Down
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 10830 -- Alien
+, 39829 -- Black Rain
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 10830 -- Alien
+, 40199 -- Blade Runner
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 11507 -- All the Invisible Children
+, 39551 -- Black Hawk Down
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 11507 -- All the Invisible Children
+, 39829 -- Black Rain
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 11507 -- All the Invisible Children
+, 40199 -- Blade Runner
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 45476 -- Boy on a Bicycle
+, 39551 -- Black Hawk Down
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 45476 -- Boy on a Bicycle
+, 39829 -- Black Rain
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 45476 -- Boy on a Bicycle
+, 40199 -- Blade Runner
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 64187 -- Cinema16
+, 39551 -- Black Hawk Down
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 64187 -- Cinema16
+, 39829 -- Black Rain
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 64187 -- Cinema16
+, 40199 -- Blade Runner
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 129185 -- Gladiator
+, 39551 -- Black Hawk Down
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 129185 -- Gladiator
+, 39829 -- Black Rain
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 129185 -- Gladiator
+, 40199 -- Blade Runner
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 308025 -- Someone to Watch Over Me
+, 39551 -- Black Hawk Down
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 308025 -- Someone to Watch Over Me
+, 39829 -- Black Rain
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 308025 -- Someone to Watch Over Me
+, 40199 -- Blade Runner
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 90837 -- Doodlebug
+, 39551 -- Black Hawk Down
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 90837 -- Doodlebug
+, 39829 -- Black Rain
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 90837 -- Doodlebug
+, 40199 -- Blade Runner
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 105697 -- Exec, The
+, 39551 -- Black Hawk Down
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 105697 -- Exec, The
+, 39829 -- Black Rain
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 105697 -- Exec, The
+, 40199 -- Blade Runner
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 158 -- Some Comedy Movie
+, 39551 -- Black Hawk Down
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 158 -- Some Comedy Movie
+, 39829 -- Black Rain
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 158 -- Some Comedy Movie
+, 40199 -- Blade Runner
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 6779 -- Advantages of Paternity, The
+, 4970 -- Abominable
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 6794 -- Adventure at Briarcliff, The
+, 4971 -- Abominable Dr. Phibes, The
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 6804 -- Adventure in Baltimore
+, 4976 -- Abominable Snowman, The
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 6805 -- Adventure in Manhattan
+, 4979 -- Abomination, The
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 6826 -- Adventure of the Actress, The
+, 5755 -- Acosada
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 6827 -- Adventure of the Alarm Clock, The
+, 5756 -- Acosado
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 6833 -- Adventure of the Extra Baby, The
+, 6248 -- Addams Family Values
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 6842 -- Adventure of the Stolen Papers, The
+, 6264 -- Addicted to Murder
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 6865 -- Adventures in Babysitting
+, 6265 -- Addicted to Murder 3: Blood Lust
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 6891 -- Adventures in the Magic Kingdom
+, 6266 -- Addicted to Murder: Tainted Blood
+, 1
+, 'Shelly Orenstein'
+, 'Large gap between genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 5 -- $1,000 Reward
+, 33 -- $windle
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 5 -- $1,000 Reward
+, 34 -- $windle
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 6 -- $10,000 Under a Pillow
+, 28 -- 28 Dodge Aries
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 6 -- $10,000 Under a Pillow
+, 33 -- $windle
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 6 -- $10,000 Under a Pillow
+, 34 -- $windle
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 8 -- $10,000 Under a Pillow
+, 28 -- 28 Dodge Aries
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 8 -- $10,000 Under a Pillow
+, 33 -- $windle
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 8 -- $10,000 Under a Pillow
+, 34 -- $windle
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 9 -- $100,000
+, 28 -- 28 Dodge Aries
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 9 -- $100,000
+, 33 -- $windle
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 9 -- $100,000
+, 34 -- $windle
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 10 -- 1000 Pyramid, The
+, 28 -- 28 Dodge Aries
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 10 -- 1000 Pyramid, The
+, 33 -- $windle
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 10 -- 1000 Pyramid, The
+, 34 -- $windle
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 20 -- $5,000,000 Counterfeiting Plot, The
+, 28 -- 28 Dodge Aries
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 20 -- $5,000,000 Counterfeiting Plot, The
+, 33 -- $windle
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 20 -- $5,000,000 Counterfeiting Plot, The
+, 34 -- $windle
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 25 -- $15.15/Hr.
+, 28 -- 28 Dodge Aries
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 25 -- $15.15/Hr.
+, 33 -- $windle
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 25 -- $15.15/Hr.
+, 34 -- $windle
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 28 -- $500,000 Reward
+, 33 -- $windle
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 28 -- $500,000 Reward
+, 34 -- $windle
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 29 -- $500,000 Reward
+, 33 -- $windle
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 29 -- $500,000 Reward
+, 34 -- $windle
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 36 -- '15'
+, 5 -- $1,000 Reward
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 36 -- '15'
+, 6 -- $10,000 Under a Pillow
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 36 -- '15'
+, 8 -- $10,000 Under a Pillow
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 36 -- '15'
+, 9 -- $100,000
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 36 -- '15'
+, 10 -- 1000 Pyramid, The
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 36 -- '15'
+, 20 -- $5,000,000 Counterfeiting Plot, The
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 36 -- '15'
+, 25 -- $15.15/Hr.
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 36 -- '15'
+, 28 -- 28 Dodge Aries
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 36 -- '15'
+, 105 -- Fighting Dan McCool
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 36 -- '15'
+, 99 -- Dikke Bertha op doortocht in Brussel
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 36 -- '15'
+, 89 -- Columbia and Defender Rounding State-Boat
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 21 -- $15.15/Hr.
+, 47 -- 88 Dodge Aries
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 21 -- $15.15/Hr.
+, 41 -- '49-17
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 21 -- $15.15/Hr.
+, 59 -- Arry and 'Arriet's Evening Out
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 21 -- $15.15/Hr.
+, 71 -- Broadway Melody of 1940
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.not_reccomended VALUES
+( 21 -- $15.15/Hr.
+, 41 -- '49-17
+, 4
+, 'Shelly Orenstein'
+, 'Large gap between release years'
+, NULL
+);

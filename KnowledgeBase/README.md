@@ -49,3 +49,6 @@
 
 # Others
 1. [A love letter to the CSV format](https://github.com/medialab/xan/blob/master/docs/LOVE_LETTER.md)
+
+   #APPS 
+1. [DATACAMP](https://www.datacamp.com/courses/introduction-to-sql?utm_source=google&utm_medium=paid_search&utm_campaignid=805200711&utm_adgroupid=155612384048&utm_device=c&utm_keyword=datacamp&utm_matchtype=e&utm_network=g&utm_adpostion=&utm_creative=733859308759&utm_targetid=kwd-297372810188&utm_loc_interest_ms=&utm_loc_physical_ms=1008004&utm_content=ps-other~emea-en~brd~pure~pure&accountid=9624585688&utm_campaign=220808_1-ps-brd~brd~branded_2-b2c_3-emea_4-rtw_5-na_6-na_7-le_8-pdsh-go_9-b-e_10-na_11-na&gad_source=1&gad_campaignid=805200711&gbraid=0AAAAADQ9WsFKegK0tpiEQ1Z5HLWAZK5GH&gclid=CjwKCAjw3rnCBhBxEiwArN0QE2T8waaYVbS_DN4ZzXjTThcl2JaA3xFgwsPzF09bQlYJLRpOsxA06BoC8r0QAvD_BwE) - Learn SQL and data skills with interactive mobile courses and real coding practice
