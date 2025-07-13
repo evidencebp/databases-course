@@ -1,3 +1,15 @@
+DROP TABLE imdb_ijs.movies_recommendations;
+
+CREATE TABLE imdb_ijs.movies_recommendations (
+    movie_id_1 INT,
+    movie_id_2 INT,
+    score INT,
+    author VARCHAR(100),
+    reason TEXT,
+    explanation TEXT
+);
+
+
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (
 297838  -- Shawshank Redemption, The
@@ -126,6 +138,9 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 203359  -- Man on the Moon, The
 , 9
 , 'Ido Ohayon'
+, 'Both are dramas with emotional depth'
+, NULL
+);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (
@@ -448,7 +463,6 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 8
 , 'Ido Ohayon'
 , 'Both star Brad Pitt'
-, 'Fans of Brad Pitt often enjoy other films he appears in'
 , NULL
 );
 
@@ -458,7 +472,6 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 8
 , 'Ido Ohayon'
 , 'Both star Brad Pitt'
-, 'Fans of Brad Pitt often enjoy other films he appears in'
 , NULL
 );
 
@@ -468,7 +481,6 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 8
 , 'Ido Ohayon'
 , 'Both star Brad Pitt'
-, 'Fans of Brad Pitt often enjoy other films he appears in'
 , NULL
 );
 
@@ -738,7 +750,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 'Ido Ohayon'
 , 'Same series recommendation'
 , NULL
-);p
+);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (
@@ -895,7 +907,6 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 7
 , 'Ido Ohayon'
 , 'Both are Quentin Tarantino movies'
-, 'Quentin Tarantino has a distinct cinematic style, so viewers who appreciate one of his films often enjoy exploring his other works.'
 , NULL
 );
 
@@ -905,7 +916,6 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 7
 , 'Ido Ohayon'
 , 'Both are Quentin Tarantino movies'
-, 'Quentin Tarantino has a distinct cinematic style, so viewers who appreciate one of his films often enjoy exploring his other works.'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
@@ -941,7 +951,6 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 7
 , 'Ido Ohayon'
 , 'Both are Quentin Tarantino movies'
-, 'Quentin Tarantino has a distinct cinematic style, so viewers who appreciate one of his films often enjoy exploring his other works.'
 , NULL
 );
 
