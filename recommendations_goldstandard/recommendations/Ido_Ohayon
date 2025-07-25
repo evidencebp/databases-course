@@ -301,15 +301,6 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , NULL
 );
 
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(
-311038  -- Spider-Man 2
-, 194497  -- Lord of the Rings: The Fellowship of the Ring
-, 9
-, 'Ido Ohayon'
-, 'Highly rated fantasy and hero films'
-, NULL
-);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (
@@ -358,6 +349,15 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 8
 , 'Ido Ohayon'
 , 'Cult favorites and adventure hits'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(79593  -- David Nelson Live
+, 123371  -- Game Day
+, 8
+, 'Achiad Avigdori'
+, 'Comedy; released 2000; rank > 9'
 , NULL
 );
 
@@ -563,11 +563,10 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(
-179  -- 'N Sync: Live From Madison Square Garden
-, 180  -- 'N Sync: Making the Tour
+(178  -- 'N Sync: 'Ntimale Holiday Special
+, 183  -- 'N Sync: The Atlantis Concert
 , 8
-, 'Ido Ohayon'
+, 'Achiad Avigdori'
 , 'Same series recommendation'
 , NULL
 );
@@ -1881,4 +1880,3 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 'Minor thematic similarities'
 , NULL
 );
-
