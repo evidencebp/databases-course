@@ -181,6 +181,18 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (
+ 313476  -- Star Wars: Episode II - Attack of the Clones
+, 168725 -- Johnny Ostrich and His American Songbag
+, 9
+, 'Ido Ohayon'
+, 'Sci-fi sequels of the 2000s'
+, NULL
+);
+
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
 311038  -- Spider-Man 2
 , 139655  -- Harry Potter and the Prisoner of Azkaban
 , 9
@@ -821,10 +833,10 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (
 194500  -- Lord of the Rings: The Return of the King
-, 313476  -- Star Wars: Episode II - Attack of the Clones
+, 168725 -- Johnny Ostrich and His American Songbag
 , 7
 , 'Ido Ohayon'
-, 'Fantasy and sci-fi epics'
+, ' Highly rated fantasy movies'
 , NULL
 );
 
@@ -1532,7 +1544,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (278797  -- Risen Soul of Jim Grant, The
-, 286751  -- Sampark
+, 157499 -- In America
 , 5
 , 'Ido Ohayon'
 , 'Loosely related atmosphere'
@@ -1540,7 +1552,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(265843  -- Prowler, The
+(157499  -- In America
 , 34497  -- Beasts of No Nation
 , 4
 , 'Ido Ohayon'
@@ -1568,7 +1580,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (34497  -- Beasts of No Nation
-, 370324  -- Yakko no Takohei: Otomo wa tsuyoi ne
+, 155460 -- Ich war 19
 , 4
 , 'Ido Ohayon'
 , 'Different decade but similar mood'
@@ -1585,7 +1597,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(278797  -- Risen Soul of Jim Grant, The
+(108938  -- Far From China
 , 265843  -- Prowler, The
 , 5
 , 'Ido Ohayon'
@@ -1639,11 +1651,11 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(326043  -- Tauromaquias
-, 34497  -- Beasts of No Nation
+(254987-- Pianista, El
+, 254986 -- Pianist, The
 , 6
 , 'Ido Ohayon'
-, 'Some shared themes'
+, 'Stylistically similar, but different in tone and intent'
 , NULL
 );
 
@@ -1656,9 +1668,11 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , NULL
 );
 
+
+
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(286751  -- Sampark
-, 265843  -- Prowler, The
+( 256894 -- Pits
+, 255409  -- Pie-Eyed
 , 5
 , 'Ido Ohayon'
 , 'Different decade but similar mood'
@@ -1676,7 +1690,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (286751  -- Sampark
-, 285535  -- Schemers
+, 18277 -- Antigone
 , 5
 , 'Ido Ohayon'
 , 'Minor thematic similarities'
@@ -1684,7 +1698,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(326043  -- Tauromaquias
+(109093 -- Fargo
 , 285535  -- Schemers
 , 4
 , 'Ido Ohayon'
@@ -1702,20 +1716,20 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(265843  -- Prowler, The
+(43151 -- Bolivia
 , 278797  -- Risen Soul of Jim Grant, The
 , 6
 , 'Ido Ohayon'
-, 'Partial genre overlap'
+, 'Similar genre but released many decades apart'
 , NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(285535  -- Schemers
-, 278797  -- Risen Soul of Jim Grant, The
+(289109 -- Saving Private Ryan
+, 53086 -- Campanadas a medianoche
 , 4
 , 'Ido Ohayon'
-, 'Different decade but similar mood'
+, ' Both are war films, yet they differ greatly in structure and thematic depth'
 , NULL
 );
 
@@ -1747,11 +1761,11 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(34497  -- Beasts of No Nation
-, 285535  -- Schemers
+(275792  -- Rent-a-Person
+,270250  -- Rabbit Fire
 , 4
 , 'Ido Ohayon'
-, 'Minor thematic similarities'
+, ' Both are exceptionally short in length, but share no thematic or stylistic similarities'
 , NULL
 );
 
@@ -1783,7 +1797,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(285535  -- Schemers
+(21384  -- Arvottomat
 , 286751  -- Sampark
 , 6
 , 'Ido Ohayon'
@@ -1793,7 +1807,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (286751  -- Sampark
-, 34497  -- Beasts of No Nation
+, 108938  -- Far From China
 , 6
 , 'Ido Ohayon'
 , 'Some overlapping elements'
@@ -1801,7 +1815,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(326043  -- Tauromaquias
+(44058  -- Boot Polish
 , 34497  -- Beasts of No Nation
 , 4
 , 'Ido Ohayon'
@@ -1810,16 +1824,16 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(326043  -- Tauromaquias
+(289109 -- Saving Private Ryan
 , 265843  -- Prowler, The
 , 5
 , 'Ido Ohayon'
-, 'Different genre but same era'
+, ' Both are war-themed, yet fundamentally different in style and message'
 , NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(278797  -- Risen Soul of Jim Grant, The
+(256655-- Piravi
 , 34497  -- Beasts of No Nation
 , 5
 , 'Ido Ohayon'
@@ -1828,11 +1842,11 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(278797  -- Risen Soul of Jim Grant, The
+(19501  -- Ar daidardo
 , 326043  -- Tauromaquias
 , 4
 , 'Ido Ohayon'
-, 'Partial genre overlap'
+, 'Different decade but similar mood'
 , NULL
 );
 
