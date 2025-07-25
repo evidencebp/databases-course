@@ -1,0 +1,2447 @@
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(263360  -- Pretty Woman
+, 397250  -- Me and the Chimp
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(263360  -- Pretty Woman
+, 391006  -- Happy Days
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(263360  -- Pretty Woman
+, 395271  -- Laverne & Shirley
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(263360  -- Pretty Woman
+, 382208  -- Blansky's Beauties
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(263360  -- Pretty Woman
+, 398232  -- Mork & Mindy
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(263360  -- Pretty Woman
+, 372525  -- Young Doctors in Love
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(263360  -- Pretty Woman
+, 391453  -- Herndon
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(263360  -- Pretty Woman
+, 235615  -- Nothing in Common
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(263360  -- Pretty Woman
+, 245699  -- Overboard
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(263360  -- Pretty Woman
+, 31715  -- Beaches
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(263360  -- Pretty Woman
+, 398571  -- Murphy Brown
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(263360  -- Pretty Woman
+, 118980  -- Frankie and Johnny
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(263360  -- Pretty Woman
+, 105851  -- Exit to Eden
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(263360  -- Pretty Woman
+, 80969  -- Dear God
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(263360  -- Pretty Woman
+, 283410  -- Runaway Bride
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(263360  -- Pretty Woman
+, 271344  -- Raising Helen
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(397250  -- Me and the Chimp
+, 391006  -- Happy Days
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(397250  -- Me and the Chimp
+, 395271  -- Laverne & Shirley
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(397250  -- Me and the Chimp
+, 382208  -- Blansky's Beauties
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(397250  -- Me and the Chimp
+, 398232  -- Mork & Mindy
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(397250  -- Me and the Chimp
+, 372525  -- Young Doctors in Love
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(397250  -- Me and the Chimp
+, 391453  -- Herndon
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(397250  -- Me and the Chimp
+, 235615  -- Nothing in Common
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(397250  -- Me and the Chimp
+, 245699  -- Overboard
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(397250  -- Me and the Chimp
+, 31715  -- Beaches
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(397250  -- Me and the Chimp
+, 398571  -- Murphy Brown
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(397250  -- Me and the Chimp
+, 263360  -- Pretty Woman
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(397250  -- Me and the Chimp
+, 118980  -- Frankie and Johnny
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(397250  -- Me and the Chimp
+, 105851  -- Exit to Eden
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(397250  -- Me and the Chimp
+, 80969  -- Dear God
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(397250  -- Me and the Chimp
+, 283410  -- Runaway Bride
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(397250  -- Me and the Chimp
+, 271344  -- Raising Helen
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(391006  -- Happy Days
+, 397250  -- Me and the Chimp
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(391006  -- Happy Days
+, 395271  -- Laverne & Shirley
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(391006  -- Happy Days
+, 382208  -- Blansky's Beauties
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(391006  -- Happy Days
+, 398232  -- Mork & Mindy
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(391006  -- Happy Days
+, 372525  -- Young Doctors in Love
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(391006  -- Happy Days
+, 391453  -- Herndon
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(391006  -- Happy Days
+, 235615  -- Nothing in Common
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(391006  -- Happy Days
+, 245699  -- Overboard
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(391006  -- Happy Days
+, 31715  -- Beaches
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(391006  -- Happy Days
+, 398571  -- Murphy Brown
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(391006  -- Happy Days
+, 263360  -- Pretty Woman
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(391006  -- Happy Days
+, 118980  -- Frankie and Johnny
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(391006  -- Happy Days
+, 105851  -- Exit to Eden
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(391006  -- Happy Days
+, 80969  -- Dear God
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(391006  -- Happy Days
+, 283410  -- Runaway Bride
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(391006  -- Happy Days
+, 271344  -- Raising Helen
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(395271  -- Laverne & Shirley
+, 397250  -- Me and the Chimp
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(395271  -- Laverne & Shirley
+, 391006  -- Happy Days
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(395271  -- Laverne & Shirley
+, 382208  -- Blansky's Beauties
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(395271  -- Laverne & Shirley
+, 398232  -- Mork & Mindy
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(395271  -- Laverne & Shirley
+, 372525  -- Young Doctors in Love
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(395271  -- Laverne & Shirley
+, 391453  -- Herndon
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(395271  -- Laverne & Shirley
+, 235615  -- Nothing in Common
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(395271  -- Laverne & Shirley
+, 245699  -- Overboard
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(395271  -- Laverne & Shirley
+, 31715  -- Beaches
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(395271  -- Laverne & Shirley
+, 398571  -- Murphy Brown
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(395271  -- Laverne & Shirley
+, 263360  -- Pretty Woman
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(395271  -- Laverne & Shirley
+, 118980  -- Frankie and Johnny
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(395271  -- Laverne & Shirley
+, 105851  -- Exit to Eden
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(395271  -- Laverne & Shirley
+, 80969  -- Dear God
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(395271  -- Laverne & Shirley
+, 283410  -- Runaway Bride
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(395271  -- Laverne & Shirley
+, 271344  -- Raising Helen
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(382208  -- Blansky's Beauties
+, 397250  -- Me and the Chimp
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(382208  -- Blansky's Beauties
+, 391006  -- Happy Days
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(382208  -- Blansky's Beauties
+, 395271  -- Laverne & Shirley
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(382208  -- Blansky's Beauties
+, 398232  -- Mork & Mindy
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(382208  -- Blansky's Beauties
+, 372525  -- Young Doctors in Love
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(382208  -- Blansky's Beauties
+, 391453  -- Herndon
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(382208  -- Blansky's Beauties
+, 235615  -- Nothing in Common
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(382208  -- Blansky's Beauties
+, 245699  -- Overboard
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(382208  -- Blansky's Beauties
+, 31715  -- Beaches
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(382208  -- Blansky's Beauties
+, 398571  -- Murphy Brown
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(382208  -- Blansky's Beauties
+, 263360  -- Pretty Woman
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(382208  -- Blansky's Beauties
+, 118980  -- Frankie and Johnny
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(382208  -- Blansky's Beauties
+, 105851  -- Exit to Eden
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(382208  -- Blansky's Beauties
+, 80969  -- Dear God
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(382208  -- Blansky's Beauties
+, 283410  -- Runaway Bride
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(382208  -- Blansky's Beauties
+, 271344  -- Raising Helen
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(398232  -- Mork & Mindy
+, 397250  -- Me and the Chimp
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(398232  -- Mork & Mindy
+, 391006  -- Happy Days
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(398232  -- Mork & Mindy
+, 395271  -- Laverne & Shirley
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(398232  -- Mork & Mindy
+, 382208  -- Blansky's Beauties
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(398232  -- Mork & Mindy
+, 372525  -- Young Doctors in Love
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(398232  -- Mork & Mindy
+, 391453  -- Herndon
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(398232  -- Mork & Mindy
+, 235615  -- Nothing in Common
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(398232  -- Mork & Mindy
+, 245699  -- Overboard
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(398232  -- Mork & Mindy
+, 31715  -- Beaches
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(398232  -- Mork & Mindy
+, 398571  -- Murphy Brown
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(398232  -- Mork & Mindy
+, 263360  -- Pretty Woman
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(398232  -- Mork & Mindy
+, 118980  -- Frankie and Johnny
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(398232  -- Mork & Mindy
+, 105851  -- Exit to Eden
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(398232  -- Mork & Mindy
+, 80969  -- Dear God
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(398232  -- Mork & Mindy
+, 283410  -- Runaway Bride
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(398232  -- Mork & Mindy
+, 271344  -- Raising Helen
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(372525  -- Young Doctors in Love
+, 397250  -- Me and the Chimp
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(372525  -- Young Doctors in Love
+, 391006  -- Happy Days
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(372525  -- Young Doctors in Love
+, 395271  -- Laverne & Shirley
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(372525  -- Young Doctors in Love
+, 382208  -- Blansky's Beauties
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(372525  -- Young Doctors in Love
+, 398232  -- Mork & Mindy
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(372525  -- Young Doctors in Love
+, 391453  -- Herndon
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(372525  -- Young Doctors in Love
+, 235615  -- Nothing in Common
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(372525  -- Young Doctors in Love
+, 245699  -- Overboard
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(372525  -- Young Doctors in Love
+, 31715  -- Beaches
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(372525  -- Young Doctors in Love
+, 398571  -- Murphy Brown
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(372525  -- Young Doctors in Love
+, 263360  -- Pretty Woman
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(372525  -- Young Doctors in Love
+, 118980  -- Frankie and Johnny
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(372525  -- Young Doctors in Love
+, 105851  -- Exit to Eden
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(372525  -- Young Doctors in Love
+, 80969  -- Dear God
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(372525  -- Young Doctors in Love
+, 283410  -- Runaway Bride
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(372525  -- Young Doctors in Love
+, 271344  -- Raising Helen
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(391453  -- Herndon
+, 397250  -- Me and the Chimp
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(391453  -- Herndon
+, 391006  -- Happy Days
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(391453  -- Herndon
+, 395271  -- Laverne & Shirley
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(391453  -- Herndon
+, 382208  -- Blansky's Beauties
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(391453  -- Herndon
+, 398232  -- Mork & Mindy
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(391453  -- Herndon
+, 372525  -- Young Doctors in Love
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(391453  -- Herndon
+, 235615  -- Nothing in Common
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(391453  -- Herndon
+, 245699  -- Overboard
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(391453  -- Herndon
+, 31715  -- Beaches
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(391453  -- Herndon
+, 263360  -- Pretty Woman
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(391453  -- Herndon
+, 118980  -- Frankie and Johnny
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(391453  -- Herndon
+, 105851  -- Exit to Eden
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(391453  -- Herndon
+, 80969  -- Dear God
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(391453  -- Herndon
+, 283410  -- Runaway Bride
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(391453  -- Herndon
+, 271344  -- Raising Helen
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(235615  -- Nothing in Common
+, 397250  -- Me and the Chimp
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(235615  -- Nothing in Common
+, 391006  -- Happy Days
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(235615  -- Nothing in Common
+, 395271  -- Laverne & Shirley
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(235615  -- Nothing in Common
+, 382208  -- Blansky's Beauties
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(235615  -- Nothing in Common
+, 398232  -- Mork & Mindy
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(235615  -- Nothing in Common
+, 372525  -- Young Doctors in Love
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(235615  -- Nothing in Common
+, 391453  -- Herndon
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(235615  -- Nothing in Common
+, 245699  -- Overboard
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(235615  -- Nothing in Common
+, 31715  -- Beaches
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(235615  -- Nothing in Common
+, 263360  -- Pretty Woman
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(235615  -- Nothing in Common
+, 118980  -- Frankie and Johnny
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(235615  -- Nothing in Common
+, 105851  -- Exit to Eden
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(235615  -- Nothing in Common
+, 80969  -- Dear God
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(235615  -- Nothing in Common
+, 283410  -- Runaway Bride
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(235615  -- Nothing in Common
+, 271344  -- Raising Helen
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(245699  -- Overboard
+, 397250  -- Me and the Chimp
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(245699  -- Overboard
+, 391006  -- Happy Days
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(245699  -- Overboard
+, 395271  -- Laverne & Shirley
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(245699  -- Overboard
+, 382208  -- Blansky's Beauties
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(245699  -- Overboard
+, 398232  -- Mork & Mindy
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(245699  -- Overboard
+, 372525  -- Young Doctors in Love
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(245699  -- Overboard
+, 391453  -- Herndon
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(245699  -- Overboard
+, 235615  -- Nothing in Common
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(245699  -- Overboard
+, 31715  -- Beaches
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(245699  -- Overboard
+, 263360  -- Pretty Woman
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(245699  -- Overboard
+, 118980  -- Frankie and Johnny
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(245699  -- Overboard
+, 105851  -- Exit to Eden
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(245699  -- Overboard
+, 80969  -- Dear God
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(245699  -- Overboard
+, 283410  -- Runaway Bride
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(245699  -- Overboard
+, 271344  -- Raising Helen
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31715  -- Beaches
+, 397250  -- Me and the Chimp
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31715  -- Beaches
+, 391006  -- Happy Days
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31715  -- Beaches
+, 395271  -- Laverne & Shirley
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31715  -- Beaches
+, 382208  -- Blansky's Beauties
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31715  -- Beaches
+, 398232  -- Mork & Mindy
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31715  -- Beaches
+, 372525  -- Young Doctors in Love
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31715  -- Beaches
+, 391453  -- Herndon
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31715  -- Beaches
+, 235615  -- Nothing in Common
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31715  -- Beaches
+, 245699  -- Overboard
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31715  -- Beaches
+, 263360  -- Pretty Woman
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31715  -- Beaches
+, 118980  -- Frankie and Johnny
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31715  -- Beaches
+, 105851  -- Exit to Eden
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31715  -- Beaches
+, 80969  -- Dear God
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31715  -- Beaches
+, 283410  -- Runaway Bride
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31715  -- Beaches
+, 271344  -- Raising Helen
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(118980  -- Frankie and Johnny
+, 397250  -- Me and the Chimp
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(118980  -- Frankie and Johnny
+, 391006  -- Happy Days
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(118980  -- Frankie and Johnny
+, 395271  -- Laverne & Shirley
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(118980  -- Frankie and Johnny
+, 382208  -- Blansky's Beauties
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(118980  -- Frankie and Johnny
+, 398232  -- Mork & Mindy
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(118980  -- Frankie and Johnny
+, 372525  -- Young Doctors in Love
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(118980  -- Frankie and Johnny
+, 391453  -- Herndon
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(118980  -- Frankie and Johnny
+, 235615  -- Nothing in Common
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(118980  -- Frankie and Johnny
+, 245699  -- Overboard
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(118980  -- Frankie and Johnny
+, 31715  -- Beaches
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(118980  -- Frankie and Johnny
+, 263360  -- Pretty Woman
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(118980  -- Frankie and Johnny
+, 105851  -- Exit to Eden
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(118980  -- Frankie and Johnny
+, 80969  -- Dear God
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(118980  -- Frankie and Johnny
+, 283410  -- Runaway Bride
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(118980  -- Frankie and Johnny
+, 271344  -- Raising Helen
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(105851  -- Exit to Eden
+, 397250  -- Me and the Chimp
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(105851  -- Exit to Eden
+, 391006  -- Happy Days
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(105851  -- Exit to Eden
+, 395271  -- Laverne & Shirley
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(105851  -- Exit to Eden
+, 382208  -- Blansky's Beauties
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(105851  -- Exit to Eden
+, 398232  -- Mork & Mindy
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(105851  -- Exit to Eden
+, 372525  -- Young Doctors in Love
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(105851  -- Exit to Eden
+, 391453  -- Herndon
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(105851  -- Exit to Eden
+, 235615  -- Nothing in Common
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(105851  -- Exit to Eden
+, 245699  -- Overboard
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(105851  -- Exit to Eden
+, 31715  -- Beaches
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(105851  -- Exit to Eden
+, 263360  -- Pretty Woman
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(105851  -- Exit to Eden
+, 118980  -- Frankie and Johnny
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(105851  -- Exit to Eden
+, 80969  -- Dear God
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(105851  -- Exit to Eden
+, 283410  -- Runaway Bride
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(105851  -- Exit to Eden
+, 271344  -- Raising Helen
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(80969  -- Dear God
+, 397250  -- Me and the Chimp
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(80969  -- Dear God
+, 391006  -- Happy Days
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(80969  -- Dear God
+, 395271  -- Laverne & Shirley
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(80969  -- Dear God
+, 382208  -- Blansky's Beauties
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(80969  -- Dear God
+, 398232  -- Mork & Mindy
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(80969  -- Dear God
+, 372525  -- Young Doctors in Love
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(80969  -- Dear God
+, 391453  -- Herndon
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(80969  -- Dear God
+, 235615  -- Nothing in Common
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(80969  -- Dear God
+, 245699  -- Overboard
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(80969  -- Dear God
+, 31715  -- Beaches
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(80969  -- Dear God
+, 263360  -- Pretty Woman
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(80969  -- Dear God
+, 118980  -- Frankie and Johnny
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(80969  -- Dear God
+, 105851  -- Exit to Eden
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(80969  -- Dear God
+, 283410  -- Runaway Bride
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(80969  -- Dear God
+, 271344  -- Raising Helen
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(283410  -- Runaway Bride
+, 397250  -- Me and the Chimp
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(283410  -- Runaway Bride
+, 391006  -- Happy Days
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(283410  -- Runaway Bride
+, 395271  -- Laverne & Shirley
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(283410  -- Runaway Bride
+, 382208  -- Blansky's Beauties
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(283410  -- Runaway Bride
+, 398232  -- Mork & Mindy
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(283410  -- Runaway Bride
+, 372525  -- Young Doctors in Love
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(283410  -- Runaway Bride
+, 391453  -- Herndon
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(283410  -- Runaway Bride
+, 235615  -- Nothing in Common
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(283410  -- Runaway Bride
+, 245699  -- Overboard
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(283410  -- Runaway Bride
+, 31715  -- Beaches
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(283410  -- Runaway Bride
+, 263360  -- Pretty Woman
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(283410  -- Runaway Bride
+, 118980  -- Frankie and Johnny
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(283410  -- Runaway Bride
+, 105851  -- Exit to Eden
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(283410  -- Runaway Bride
+, 80969  -- Dear God
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(283410  -- Runaway Bride
+, 271344  -- Raising Helen
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(271344  -- Raising Helen
+, 397250  -- Me and the Chimp
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(271344  -- Raising Helen
+, 391006  -- Happy Days
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(271344  -- Raising Helen
+, 395271  -- Laverne & Shirley
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(271344  -- Raising Helen
+, 382208  -- Blansky's Beauties
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(271344  -- Raising Helen
+, 398232  -- Mork & Mindy
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(271344  -- Raising Helen
+, 372525  -- Young Doctors in Love
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(271344  -- Raising Helen
+, 391453  -- Herndon
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(271344  -- Raising Helen
+, 235615  -- Nothing in Common
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(271344  -- Raising Helen
+, 245699  -- Overboard
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(271344  -- Raising Helen
+, 31715  -- Beaches
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(271344  -- Raising Helen
+, 263360  -- Pretty Woman
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(271344  -- Raising Helen
+, 118980  -- Frankie and Johnny
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(271344  -- Raising Helen
+, 105851  -- Exit to Eden
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(271344  -- Raising Helen
+, 80969  -- Dear God
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(271344  -- Raising Helen
+, 283410  -- Runaway Bride
+,  9
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(391453  -- Herndon
+, 398571  -- Murphy Brown"
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(235615  -- Nothing in Common
+, 398571  -- Murphy Brown"
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(245699  -- Overboard
+, 398571  -- Murphy Brown"
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31715  -- Beaches
+, 398571  -- Murphy Brown"
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(398571  -- Murphy Brown"
+, 397250  -- Me and the Chimp
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(398571  -- Murphy Brown"
+, 391006  -- Happy Days
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(398571  -- Murphy Brown"
+, 395271  -- Laverne & Shirley
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(398571  -- Murphy Brown"
+, 382208  -- Blansky's Beauties
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(398571  -- Murphy Brown"
+, 398232  -- Mork & Mindy
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(398571  -- Murphy Brown"
+, 372525  -- Young Doctors in Love
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(398571  -- Murphy Brown"
+, 391453  -- Herndon
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(398571  -- Murphy Brown"
+, 235615  -- Nothing in Common
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(398571  -- Murphy Brown"
+, 245699  -- Overboard
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(398571  -- Murphy Brown"
+, 31715  -- Beaches
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(398571  -- Murphy Brown"
+, 263360  -- Pretty Woman
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(398571  -- Murphy Brown"
+, 118980  -- Frankie and Johnny
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(398571  -- Murphy Brown"
+, 105851  -- Exit to Eden
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(398571  -- Murphy Brown"
+, 80969  -- Dear God
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(398571  -- Murphy Brown"
+, 283410  -- Runaway Bride
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(398571  -- Murphy Brown"
+, 271344  -- Raising Helen
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(118980  -- Frankie and Johnny
+, 398571  -- Murphy Brown"
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(105851  -- Exit to Eden
+, 398571  -- Murphy Brown"
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(80969  -- Dear God
+, 398571  -- Murphy Brown"
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(283410  -- Runaway Bride
+, 398571  -- Murphy Brown"
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(271344  -- Raising Helen
+, 398571  -- Murphy Brown"
+,  8
+, 'Amit Doyev'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
