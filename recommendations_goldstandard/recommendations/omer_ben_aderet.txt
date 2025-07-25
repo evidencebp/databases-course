@@ -1819,3 +1819,4 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 'Combining horror and comedy usually doesn’t make sense in recommendations'
 , NULL
 );
+
