@@ -801,86 +801,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , NULL
 );
 # bad recommendations
-INSERT INTO imdb_ijs.movies_recommendations VALUES
-( 21 -- $15.15/Hr.
-, 41 -- '49-17
-, 4
-, 'Shelly Orenstein'
-, 'Large gap between release years'
-, NULL
-);
-INSERT INTO imdb_ijs.movies_recommendations VALUES
-( 1121 -- 1492: Conquest of Paradise
-, 39551 -- Black Hawk Down
-, 1
-, 'Shelly Orenstein'
-, 'Large gap between genres'
-, NULL
-);
-INSERT INTO imdb_ijs.movies_recommendations VALUES
-( 1121 -- 1492: Conquest of Paradise
-, 39829 -- Black Rain
-, 1
-, 'Shelly Orenstein'
-, 'Large gap between genres'
-, NULL
-);
-INSERT INTO imdb_ijs.movies_recommendations VALUES
-( 1121 -- 1492: Conquest of Paradise
-, 40199 -- Blade Runner
-, 1
-, 'Shelly Orenstein'
-, 'Large gap between genres'
-, NULL
-);
-INSERT INTO imdb_ijs.movies_recommendations VALUES
-( 10830 -- Alien
-, 39551 -- Black Hawk Down
-, 1
-, 'Shelly Orenstein'
-, 'Large gap between genres'
-, NULL
-);
-INSERT INTO imdb_ijs.movies_recommendations VALUES
-( 10830 -- Alien
-, 39829 -- Black Rain
-, 1
-, 'Shelly Orenstein'
-, 'Large gap between genres'
-, NULL
-);
-INSERT INTO imdb_ijs.movies_recommendations VALUES
-( 10830 -- Alien
-, 40199 -- Blade Runner
-, 1
-, 'Shelly Orenstein'
-, 'Large gap between genres'
-, NULL
-);
-INSERT INTO imdb_ijs.movies_recommendations VALUES
-( 11507 -- All the Invisible Children
-, 39551 -- Black Hawk Down
-, 1
-, 'Shelly Orenstein'
-, 'Large gap between genres'
-, NULL
-);
-INSERT INTO imdb_ijs.movies_recommendations VALUES
-( 11507 -- All the Invisible Children
-, 39829 -- Black Rain
-, 1
-, 'Shelly Orenstein'
-, 'Large gap between genres'
-, NULL
-);
-INSERT INTO imdb_ijs.movies_recommendations VALUES
-( 11507 -- All the Invisible Children
-, 40199 -- Blade Runner
-, 1
-, 'Shelly Orenstein'
-, 'Large gap between genres'
-, NULL
-);
+
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 45476 -- Boy on a Bicycle
 , 39551 -- Black Hawk Down
@@ -1417,14 +1338,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 'Large gap between release years'
 , NULL
 );
-INSERT INTO imdb_ijs.movies_recommendations VALUES
-( 21 -- $15.15/Hr.
-, 41 -- '49-17
-, 4
-, 'Shelly Orenstein'
-, 'Large gap between release years'
-, NULL
-);
+
 INSERT INTO imdb_ijs.movies_recommendations VALUES
 ( 21 -- $15.15/Hr.
 , 59 -- Arry and 'Arriet's Evening Out
@@ -1447,5 +1361,278 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 4
 , 'Shelly Orenstein'
 , 'Large gap between release years'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(28657  -- Balls Deep
+, 229259  -- Ned Kelly
+, 4
+, 'Shelly Orenstein'
+, 'year gap'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(28657  -- Balls Deep
+, 316661  -- Street of a Thousand Pleasures
+, 4
+, 'Shelly Orenstein'
+, 'year gap'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(42030  -- Blueberry
+, 16888  -- Angels Die Hard
+, 4
+, 'Shelly Orenstein'
+, 'year gap'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(42030  -- Blueberry
+, 16753  -- Angel Unchained
+, 4
+, 'Shelly Orenstein'
+, 'year gap'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(42030  -- Blueberry
+, 149726  -- Horror of the Blood Monsters
+, 4
+, 'Shelly Orenstein'
+, 'year gap'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(42030  -- Blueberry
+, 316661  -- Street of a Thousand Pleasures
+, 4
+, 'Shelly Orenstein'
+, 'year gap'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(263360  -- Pretty Woman
+, 398232  -- Mork & Mindy
+,  8
+, 'Shelly Orenstein'
+, 'same director, year gap'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(263360  -- Pretty Woman
+, 372525  -- Young Doctors in Love
+,  8
+, 'Shelly Orenstein'
+, 'same director, year gap'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(263360  -- Pretty Woman
+, 391453  -- Herndon
+,  8
+, 'Shelly Orenstein'
+, 'same director, year gap'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(263360  -- Pretty Woman
+, 235615  -- Nothing in Common
+,  8
+, 'Shelly Orenstein'
+, 'same director, year gap'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(263360  -- Pretty Woman
+, 245699  -- Overboard
+,  8
+, 'Shelly Orenstein'
+, 'same director, year gap'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(263360  -- Pretty Woman
+, 31715  -- Beaches
+,  8
+, 'Shelly Orenstein'
+, 'same director, year gap'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(263360  -- Pretty Woman
+, 398571  -- Murphy Brown
+,  8
+, 'Shelly Orenstein'
+, 'same director, year gap'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(12225  -- Almost Guys, The
+, 219753  -- Most
+, 2
+, 'shelly orenstein'
+, 'gap between genres and audiences'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(12248  -- Almost Salinas
+, 219753  -- Most
+, 2
+, 'shelly orenstein'
+, 'gap between genres and audiences'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(12332  -- Along Came a Spider
+, 310998  -- Spider
+, 2
+, 'shelly orenstein'
+, 'gap between genres and audiences'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(12413  -- Alphaville, Live In America
+, 157499  -- In America
+, 2
+, 'shelly orenstein'
+, 'gap between genres and audiences'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(13497  -- Amber
+, 139650  -- Harry Potter and the Chamber of Secrets
+, 2
+, 'shelly orenstein'
+, 'gap between genres and audiences'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(13497  -- Amber
+, 357827  -- Vlo de Ghislain Lambert, Le
+, 2
+, 'shelly orenstein'
+, 'gap between genres and audiences'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(34319  -- Superman III
+, 112290  -- Shrek Forever After
+, 1
+, 'shelly orenstein'
+, 'gap between genres and audiences'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+( 72012 -- Courting Courtney
+, 267038  --  Pulp Fiction
+, 3
+, 'shelly orenstein'
+, 'Mismatch in tone '
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+( 176711 -- Kill Bill: Vol. 1
+, 55004 --  Carga mortal
+, 3
+,'shelly orenstein'
+, 'Different production quality '
+,
+ NULL
+ );
+ 
+ INSERT INTO imdb_ijs.movies_recommendations VALUES 
+( 118367-- 	Four Rooms
+,  164572  -- Jackie Brown
+, 8
+, 'shelly orenstein'
+, 'SAME DIERCTOR'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+( 267038 -- 	Pulp Fiction
+, 276217   -- Reservoir Dogs
+, 8
+, 'shelly orenstein'
+, 'SAME DIERCTOR'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(97360  -- Ed Wood
+, 97727  -- Edward Scissorhands
+, 9
+, 'shelly orenstein'
+, 'Two Tim Burton-directed films showcasing Depps eccentric characters'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+(22640   -- Astro Boy
+, 10701  -- Alice Cuts the Ice
+, 3
+, 'shelly orenstein'
+, 'large gap in realese year'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+(22640   -- Astro Boy
+, 10706  -- Alice Foils the Pirates
+, 3
+, 'shelly orenstein'
+, 'large gap in realese year'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+(22640   -- Astro Boy
+, 10707  -- Alice Gets in Dutch
+, 3
+, 'shelly orenstein'
+, 'large gap in realese year'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+(22640   -- Astro Boy
+, 10708  -- Alice Gets Stung
+, 3
+, 'shelly orenstein'
+, 'large gap in realese year'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+(22640   -- Astro Boy
+, 10711  -- Alice Helps the Romance
+, 3
+, 'shelly orenstein'
+, 'large gap in realese year'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+(22640   -- Astro Boy
+, 10712  -- Alice Hunting in Africa
+, 3
+, 'shelly orenstein'
+, 'large gap in realese year'
 , NULL
 );
