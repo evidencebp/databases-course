@@ -1577,3 +1577,246 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , NULL
 );
 
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1750  -- 2009 Lost Memories
+, 194697  -- Lost
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2438  -- 4 Freunde und 4 Pfoten
+, 120044  -- Freunde
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(3085  -- 7th Street
+, 361588  -- West 47th Street
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(6382  -- Adieu
+, 6407  -- Adieu pays
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(7615  -- Afraid of Everything
+, 271053  -- Raid
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(7833  -- After Freedom
+, 119466  -- Free
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(7986  -- AfterLife
+, 7987  -- AfterLife
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(8904  -- Aiki
+, 358253  -- Waikiki Brothers
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(10559  -- Alias
+, 10614  -- Alias: The Lost Episode
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(10614  -- Alias: The Lost Episode
+, 194697  -- Lost
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(10675  -- Alice
+, 10800  -- Alice's Misadventures in Wonderland
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(10675  -- Alice
+, 11716  -- Alla lskar Alice
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(10675  -- Alice
+, 138063  -- Hana to Alice
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(10675  -- Alice
+, 362133  -- What Alice Found
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(10800  -- Alice's Misadventures in Wonderland
+, 367960  -- Wonder
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(11129  -- All Access: Front Row. Backstage. Live!
+, 312761  -- Stag
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(11171  -- All Babes Want to Kill Me
+, 359072  -- Want
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(11281  -- All I Want for Christmas
+, 359072  -- Want
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(12225  -- Almost Guys, The
+, 136298  -- Guys, The
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(12225  -- Almost Guys, The
+, 219753  -- Most
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(12248  -- Almost Salinas
+, 219753  -- Most
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(12332  -- Along Came a Spider
+, 310998  -- Spider
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(12413  -- Alphaville, Live In America
+, 157499  -- In America
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(13497  -- Amber
+, 139650  -- Harry Potter and the Chamber of Secrets
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(13497  -- Amber
+, 357827  -- Vlo de Ghislain Lambert, Le
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(34319  -- Superman III
+, 112290  -- Shrek Forever After
+, 1
+, 'Omer Ben Aderet'
+, 'Completely unrelated genres and audiences'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(84427  -- The Ring
+, 116797  -- The Hangover
+, 1
+, 'Omer Ben Aderet'
+, 'Combining horror and comedy usually doesn’t make sense in recommendations'
+, NULL
+);
+

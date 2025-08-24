@@ -35,9 +35,9 @@ insert into movies_recommendations values(139654, 139652,  10 ,'Yotam Ben Moshe'
 insert into movies_recommendations values(139654, 139653,  10 ,'Yotam Ben Moshe','The same film series - Sequel',null);#Hp5
 insert into movies_recommendations values(139653, 139657,  10 ,'Yotam Ben Moshe','The same film series - Prequel',null);#Hp6
 insert into movies_recommendations values(139653, 139650,  10 ,'Yotam Ben Moshe','The same film series - Prequel',null);#Hp6
-insert into movies_recommendations values(139653, 139654,  10 ,'Yotam Ben Moshe','The same film series - Prequel',null);#Hp6
+insert into movies_recommendations values(139653, 139655,  10 ,'Yotam Ben Moshe','The same film series - Prequel',null);#Hp6 
 insert into movies_recommendations values(139653, 139652,  10 ,'Yotam Ben Moshe','The same film series - Prequel',null);#Hp6
-insert into movies_recommendations values(139653, 139654,  10 ,'Yotam Ben Moshe','The same film series - Prequel',null);#Hp6
+insert into movies_recommendations values(139653, 139654,  10 ,'Yotam Ben Moshe','The same film series - Prequel',null);#Hp6 
 insert into movies_recommendations values(30961  #Batman Beyond: Return of the Joker
 , 30957 #Batman and Robin
 , 8,'Yotam Ben Moshe','Both are Batman Movies',null);
@@ -390,8 +390,8 @@ insert into movies_recommendations values(30959 #Batman Begins
 insert into movies_recommendations values(30959 #Batman Begins 
 , 53 #'A' gai waak juk jaap
 , 3,'Yotam Ben Moshe','A medium gap between the years of theatrical release',null);
-insert into movies_recommendations values(30959 #Batman Begins 
-, 62 #'Babicky dobjejte presne!' 
+insert into movies_recommendations values( 62 #'Babicky dobjejte presne!'
+, 30959 #Batman Begins 
 , 3,'Yotam Ben Moshe','A medium gap between the years of theatrical release',null);
 insert into movies_recommendations values(160524 #Insomnia
 , 194495 #Lord of the Rings: Return of the King, The (2003/II)

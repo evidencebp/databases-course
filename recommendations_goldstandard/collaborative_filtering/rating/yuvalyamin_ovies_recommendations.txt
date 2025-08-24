@@ -1,0 +1,200 @@
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (398571, 7, 'Yuval', 'Smart and funny sitcom, light and witty.', null);  # 398571 Murphy Brown 1988
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30955, 8, 'Yuval', 'Dark comic action, entertaining and classic.', null);  # 30955 Batman 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30959, 7, 'Yuval', 'Solid action with good world building.', null);  # 30959 Batman Begins 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30965, 6, 'Yuval', 'Fun but a bit shallow and dated.', null);  # 30965 Batman Forever 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30967, 7, 'Yuval', 'Stylish action with a dark tone.', null);  # 30967 Batman Returns 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (54209, 8, 'Yuval', 'Strong psychological thriller with De Niro.', null);  # 54209 Cape Fear 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (62460, 7, 'Yuval', 'Charming drama-comedy with romance.', null);  # 62460 Chocolat 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (85871, 6, 'Yuval', 'Classic Bond, enjoyable but dated.', null);  # 85871 Diamonds Are Forever 1971
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (86263, 5, 'Yuval', 'Flashy Bond with weak story.', null);  # 86263 Die Another Day 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (92573, 6, 'Yuval', 'Iconic first Bond but slow today.', null);  # 92573 Dr. No 1962
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (112290, 9, 'Yuval', 'Provocative drama with sharp tension.', null);  # 112290 Fight Club 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (117314, 5, 'Yuval', 'Average Bond adventure, nothing new.', null);  # 117314 For Your Eyes Only 1981
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (120574, 6, 'Yuval', 'Classic spy story, slow paced.', null);  # 120574 From Russia with Love 1963
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (130945, 7, 'Yuval', 'Fun Bond revival with strong action.', null);  # 130945 GoldenEye 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (130953, 6, 'Yuval', 'Iconic but formula feels old.', null);  # 130953 Goldfinger 1964
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (131780, 9, 'Yuval', 'Powerful crime drama with great pacing.', null);  # 131780 Goodfellas 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159167, 4, 'Yuval', 'Weak sequel with tired formula.', null);  # 159167 Indiana Jones 4 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159172, 8, 'Yuval', 'Great mix of humor and adventure.', null);  # 159172 Indiana Jones and the Last Crusade 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159175, 7, 'Yuval', 'Dark adventure with comic touches.', null);  # 159175 Indiana Jones and the Temple of Doom 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159665, 9, 'Yuval', 'Sharp Tarantino war drama with tension.', null);  # 159665 Inglorious Bastards 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (164572, 7, 'Yuval', 'Cool crime drama, slower but stylish.', null);  # 164572 Jackie Brown 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (165961, 7, 'Yuval', 'Classic thriller that still works.', null);  # 165961 Jaws 1975
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176711, 10, 'Yuval', 'Brilliant action with Tarantino flair.', null);  # 176711 Kill Bill: Vol. 1 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176712, 9, 'Yuval', 'Emotional closure with great action.', null);  # 176712 Kill Bill: Vol. 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (189403, 6, 'Yuval', 'Tougher Bond, solid but not iconic.', null);  # 189403 Licence to Kill 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (192514, 6, 'Yuval', 'Bond with strong music, average plot.', null);  # 192514 Live and Let Die 1973
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (203649, 5, 'Yuval', 'Light Bond with weak execution.', null);  # 203649 Man with the Golden Gun, The 1974
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (210511, 10, 'Yuval', 'Mind-bending thriller, sharp and unique.', null);  # 210511 Memento 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (218808, 6, 'Yuval', 'Big set pieces, thin story.', null);  # 218808 Moonraker 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (220805, 7, 'Yuval', 'Fun spy comedy with good chemistry.', null);  # 220805 Mr. and Mrs. Smith 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (230947, 7, 'Yuval', 'Anthology drama, uneven but engaging.', null);  # 230947 New York Stories 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (238072, 8, 'Yuval', 'Stylish heist with star ensemble.', null);  # 238072 Ocean's Eleven 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (240521, 6, 'Yuval', 'Bond with romance, less dynamic.', null);  # 240521 On Her Majesty's Secret Service 1969
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (263360, 8, 'Yuval', 'Iconic rom-com with strong chemistry.', null);  # 263360 Pretty Woman 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (267038, 10, 'Yuval', 'Witty crime drama with sharp tension.', null);  # 267038 Pulp Fiction 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (271095, 9, 'Yuval', 'Perfect mix of action and humor.', null);  # 271095 Raiders of the Lost Ark 1981
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (276217, 9, 'Yuval', 'Tense crime story with sharp dialogue.', null);  # 276217 Reservoir Dogs 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280270, 8, 'Yuval', 'Emotional sports drama with action.', null);  # 280270 Rocky 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280281, 6, 'Yuval', 'Decent sequel but less emotional.', null);  # 280281 Rocky II 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280282, 5, 'Yuval', 'Tired sequel with weak story.', null);  # 280282 Rocky III 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (289109, 10, 'Yuval', 'Epic war drama with emotion and tension.', null);  # 289109 Saving Private Ryan 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (290070, 10, 'Yuval', 'Powerful historical drama, deeply moving.', null);  # 290070 Schindler's List 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (306032, 9, 'Yuval', 'Fast crime comedy with witty style.', null);  # 306032 Snatch. 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312170, 6, 'Yuval', 'Fun Bond with flashy style.', null);  # 312170 Spy Who Loved Me, The 1977
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313476, 7, 'Yuval', 'Space action with less drama.', null);  # 313476 Star Wars: Episode II - Attack of the Clones 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313477, 7, 'Yuval', 'Good action but weaker dialogue.', null);  # 313477 Star Wars: Episode III - Revenge of the Sith 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313478, 10, 'Yuval', 'Perfect mix of action and drama.', null);  # 313478 Star Wars: Episode V - The Empire Strikes Back 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313479, 9, 'Yuval', 'Strong closure with adventure and heart.', null);  # 313479 Star Wars: Episode VI - Return of the Jedi 1983
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (326155, 9, 'Yuval', 'Dark crime drama with haunting style.', null);  # 326155 Taxi Driver 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (335336, 6, 'Yuval', 'Modern Bond, solid but unremarkable.', null);  # 335336 Tomorrow Never Dies 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (335835, 8, 'Yuval', 'Iconic air action with thrills.', null);  # 335835 Top Gun 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (368418, 6, 'Yuval', 'Entertaining but standard Bond.', null);  # 368418 World Is Not Enough, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (372233, 6, 'Yuval', 'Classic Bond with slower pace.', null);  # 372233 You Only Live Twice 1967
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (251, 4, 'Yuval', 'Obscure short likely not your vibe.', null);  # 251 't bolleken
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (252, 4, 'Yuval', 'Very niche short with limited appeal.', null);  # 252 't is maar een woord
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (253, 4, 'Yuval', 'Old short; little drama or action.', null);  # 253 't Is wreed in de wereld
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (254, 4, 'Yuval', 'Early short; likely too slight.', null);  # 254 't Was een April
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (255, 5, 'Yuval', 'Micro-short concept piece; mild.', null);  # 255 'Tags': A Short Film
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256, 4, 'Yuval', 'Vintage novelty; low tension or humor.', null);  # 256 'Taint Legal
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (257, 4, 'Yuval', 'Old comedy short; dated style.', null);  # 257 'Teddy' Bears, The
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (258, 4, 'Yuval', 'Experimental vibe; not action/thriller.', null);  # 258 'Tempo'
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (259, 3, 'Yuval', 'Parade footage; documentary feel only.', null);  # 259 'Texas,' Naval Parade, The
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (260, 6, 'Yuval', 'Drama premise could work for you.', null);  # 260 'Til Death Do Us Part
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (261, 6, 'Yuval', 'Thriller/drama angle fits your taste.', null);  # 261 'Til Death Do Us Part (1998/I)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (262, 6, 'Yuval', 'Marriage drama with tension elements.', null);  # 262 'Til Death Do Us Part
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (263, 6, 'Yuval', 'Romantic drama; light but engaging.', null);  # 263 'Til There Was You
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (264, 6, 'Yuval', 'Classic drama; gentle emotional beats.', null);  # 264 'Til We Meet Again
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (265, 5, 'Yuval', 'Moody art-drama; a bit slow.', null);  # 265 'Till Human Voices Wake Us and We Drown
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (266, 4, 'Yuval', 'Quiet short drama; limited punch.', null);  # 266 'Till the Garden Grows
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (267, 4, 'Yuval', 'Very old proverb-style short; slight.', null);  # 267 'Tis a Long Lane That Has No Turning
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (268, 3, 'Yuval', 'Silent-era curio; not your genres.', null);  # 268 'Tis Mother!
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (270, 4, 'Yuval', 'Seasonal short; minimal drama.', null);  # 270 'Tis Spring
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (271, 3, 'Yuval', 'Dance/ball piece; low stakes.', null);  # 271 'Tis the Ball
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (272, 3, 'Yuval', 'Light novelty; not much tension.', null);  # 272 'Tis the Bull
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (273, 5, 'Yuval', 'Festive cartoon; mild comedy fun.', null);  # 273 'Tis the Season to Be Smurfy
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (274, 4, 'Yuval', 'Old short; gentle but thin.', null);  # 274 'Tis Tough to Be Tender
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (275, 4, 'Yuval', 'Slapstick-style title; dated humor.', null);  # 275 'Tong tatlong tatay kong pakitong-kitong
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (276, 4, 'Yuval', 'Early short; little impact.', null);  # 276 'Twas Ever Thus
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (277, 4, 'Yuval', 'Duplicate-titled short; slight.', null);  # 277 'Twas Ever Thus
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (278, 4, 'Yuval', 'Comic blame gag; minor piece.', null);  # 278 'Twas Henry's Fault
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (279, 5, 'Yuval', 'Seasonal family fun; light comedy.', null);  # 279 'Twas the Night
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280, 5, 'Yuval', 'Holiday caper vibe; easy watch.', null);  # 280 'Twas the Night
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (281, 5, 'Yuval', 'Classic holiday tale; cozy tone.', null);  # 281 'Twas the Night Before Christmas
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (282, 5, 'Yuval', 'Another take on the holiday classic.', null);  # 282 'Twas the Night Before Christmas
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (283, 4, 'Yuval', 'Old romance angle; minimal stakes.', null);  # 283 'Tween Two Loves
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (284, 4, 'Yuval', 'Frontier drama short; dated style.', null);  # 284 'Twixt Red Man and White
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (285, 3, 'Yuval', 'Traveling troupe short; niche.', null);  # 285 'Uncle Tom's Cabin' Troupe, An
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (286, 4, 'Yuval', 'Industrial/worker doc; limited drama.', null);  # 286 'Unis - Pretis' - put do fabrike
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (287, 5, 'Yuval', 'War short; some tension elements.', null);  # 287 'V' enfrenta a la Blitzkrieg, La
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (288, 3, 'Yuval', 'Ship footage; documentary-like.', null);  # 288 'Vizcaya' Under Full Headway
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (289, 4, 'Yuval', 'Southern melodrama; slow burn.', null);  # 289 'Way Down South
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (290, 4, 'Yuval', 'Tramp gag short; old-fashioned.', null);  # 290 'Weary Willie' and the Gardener
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (291, 7, 'Yuval', 'Music-comedy special; light and fun.', null);  # 291 'Weird Al' Yankovic Live!
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (292, 7, 'Yuval', 'Goofy music videos; good laughs.', null);  # 292 'Weird Al' Yankovic Video Library: His Greatest Hits, The
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (293, 7, 'Yuval', 'Parody energy; short and funny.', null);  # 293 'Weird Al' Yankovic: (There's No)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (294, 7, 'Yuval', 'Best-of parody videos; easy fun.', null);  # 294 'Weird Al' Yankovic: The Ultimate Video Collection
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (295, 7, 'Yuval', 'More parody clips; breezy watch.', null);  # 295 'Weird Al' Yankovic: The Videos
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (296, 3, 'Yuval', 'Obscure oldie; little relevance.', null);  # 296 'Wenn die Hhne krh'n...
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (297, 4, 'Yuval', 'Quiz short; mild interest.', null);  # 297 'What's Your 'I.Q.'?' Number Two
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (298, 6, 'Yuval', 'Rainy mood short; stylish tone.', null);  # 298 'When It Rains'
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (299, 5, 'Yuval', 'Minimalist comedy; quirky concept.', null);  # 299 'Where Did You Go?' 'Out.' 'What Did You Do?' 'Nothing.'
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300, 4, 'Yuval', 'Venue history doc; niche appeal.', null);  # 300 'Wiltons' - The Handsomest Hall in Town
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (301, 3, 'Yuval', 'Artist group doc; low tension.', null);  # 301 'Zemlja' - Grupa slikara
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (302, 3, 'Yuval', 'Obscure piece; minimal drama.', null);  # 302 'Zmeiny istochnik
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (303, 2, 'Yuval', 'Untitled/blank concept; skip.', null);  # 303 ()
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (304, 2, 'Yuval', 'Non-title fragment; non-cinematic.', null);  # 304 (A)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (305, 2, 'Yuval', 'Another fragment; not engaging.', null);  # 305 (A)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (306, 2, 'Yuval', 'Experimental fragment; not your style.', null);  # 306 (ab)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (307, 3, 'Yuval', 'Blooper reel; trivial.', null);  # 307 (Blooper)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (308, 3, 'Yuval', 'Abstract inquiry; little payoff.', null);  # 308 (Brief Inquiry Into)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (309, 4, 'Yuval', 'Travel doc tone; low drama.', null);  # 309 (Calcutta)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (310, 4, 'Yuval', 'Relationship slice; modest impact.', null);  # 310 (Entre nous)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311, 2, 'Yuval', 'Single letter piece; skip.', null);  # 311 (G)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312, 2, 'Yuval', 'Single letter concept; negligible.', null);  # 312 (H)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313, 3, 'Yuval', 'Name fragment; minimal content.', null);  # 313 (Haru)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (314, 2, 'Yuval', 'Preposition title; conceptual.', null);  # 314 (In)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (315, 2, 'Yuval', 'One-word fragment; not cinematic.', null);  # 315 (Now)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (316, 2, 'Yuval', 'Untitled art piece; very niche.', null);  # 316 (Ohne Titel)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (317, 3, 'Yuval', 'Paris art short; mood over plot.', null);  # 317 (Paris: XY)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (318, 3, 'Yuval', 'Abstract time meditation; slow.', null);  # 318 (Past Present Future)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (319, 2, 'Yuval', 'Half-word title; non-narrative.', null);  # 319 (Po)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (320, 2, 'Yuval', 'Single letter; no substance.', null);  # 320 (R)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (321, 3, 'Yuval', 'Vignette idea; thin storytelling.', null);  # 321 (Stories from)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (322, 2, 'Yuval', 'Single letter; conceptual only.', null);  # 322 (T)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (323, 2, 'Yuval', 'Minimalist concept; not for you.', null);  # 323 (Un)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (324, 3, 'Yuval', 'Seasonal mood short; quiet.', null);  # 324 (Winter)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (325, 2, 'Yuval', 'Blank/untitled; skip.', null);  # 325 ()
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (326, 3, 'Yuval', 'Political doc piece; niche.', null);  # 326 * FDR
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (327, 3, 'Yuval', 'Title gag; little substance.', null);  # 327 *69
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (328, 7, 'Yuval', 'Warm sci-fi dramedy with heart.', null);  # 328 *batteries not included
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (329, 4, 'Yuval', 'Avant-garde experiment; low appeal.', null);  # 329 *Corpus Callosum
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (330, 3, 'Yuval', 'Mathy concept short; abstract.', null);  # 330 +1 -1
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (331, 6, 'Yuval', 'Newsroom drama energy; decent.', null);  # 331 -30-
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (332, 5, 'Yuval', 'Old melodrama; serviceable.', null);  # 332 -But the Flesh Is Weak
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (334, 6, 'Yuval', 'Italian thriller vibe; tense enough.', null);  # 334 ...4 ...3 ...2 ...1 ...morte
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (335, 5, 'Yuval', 'Czech drama; likely slow burn.', null);  # 335 ...a pozdravuji vlastovky
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (336, 6, 'Yuval', 'Western/war mix; some tension.', null);  # 336 ...a pty jezdec je Strach
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (337, 5, 'Yuval', 'Police thriller; modest impact.', null);  # 337 ...a tutte le auto della polizia
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (338, 5, 'Yuval', 'Stylish doc; interesting visuals.', null);  # 338 ...A Valparaso
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (339, 5, 'Yuval', 'Relationship query; mild drama.', null);  # 339 ...A vy lyubili kogda nibud?
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (340, 5, 'Yuval', 'Farewell theme; gentle drama.', null);  # 340 ...A ya uezzhayu domoy
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (341, 5, 'Yuval', 'Light Czech comedy vibe.', null);  # 341 ...a zase ta Lucie!
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (342, 5, 'Yuval', 'German comedy/drama; modest.', null);  # 342 ...aber Jonny!
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (343, 4, 'Yuval', 'Alt title/compilation; uneven.', null);  # 343 ...aka Southern Exposure
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (344, 6, 'Yuval', 'Sports dramedy; light fun.', null);  # 344 ...All the Marbles
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (345, 5, 'Yuval', 'Indie slice; almost there.', null);  # 345 ...Almost
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (346, 4, 'Yuval', 'Bio doc feel; limited thrills.', null);  # 346 ...als Diesel geboren
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (347, 5, 'Yuval', 'Tribute concert film; niche fun.', null);  # 347 ...An Incredible Simulation
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (348, 6, 'Yuval', 'Medical comedy/drama angle.', null);  # 348 ...And Call Me In the Morning
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (349, 9, 'Yuval', 'Strong courtroom drama with punch.', null);  # 349 ...And Justice for All
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (350, 4, 'Yuval', 'Disaster/exploitation tone; uneven.', null);  # 350 ...And Millions Die!
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (351, 5, 'Yuval', 'Epic romance/war; slow pacing.', null);  # 351 ...and Quiet Flows the Don
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (352, 6, 'Yuval', 'Immigrant drama with heart.', null);  # 352 ...And the Earth Did Not Swallow Him
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (353, 7, 'Yuval', 'Thriller setup; engaging tension.', null);  # 353 ...And Then She Was Gone
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (354, 5, 'Yuval', 'Fairy-tale style romance; mild.', null);  # 354 ...and They Lived Happily Ever After
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (355, 4, 'Yuval', 'Political doc; low entertainment.', null);  # 355 ...Angola No Est  Venda
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (356, 5, 'Yuval', 'Czech drama; steady but quiet.', null);  # 356 ...ani smrt nebere
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (357, 6, 'Yuval', 'Romance drama with sentiment.', null);  # 357 ...At First Sight
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (358, 6, 'Yuval', 'War/valor theme; some intensity.', null);  # 358 ...Au champ d'honneur
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (359, 5, 'Yuval', 'Bollywood romance; sweet but long.', null);  # 359 ...Aur Pyaar Ho Gaya
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (360, 5, 'Yuval', 'Eastern European drama; somber.', null);  # 360 ...Az vozdam
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (361, 4, 'Yuval', 'Moral melodrama; thin plot.', null);  # 361 ...Because She Disobeyed
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (362, 5, 'Yuval', 'Italian satire/drama; uneven.', null);  # 362 ...Belpaese, Il
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (363, 5, 'Yuval', 'Political coming-of-age; mild.', null);  # 363 ...beschloss ich Politiker zu werden
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (364, 4, 'Yuval', 'Workday slice; little momentum.', null);  # 364 ...bis Montagmorgen
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (365, 6, 'Yuval', 'French drama; sharp social edge.', null);  # 365 ...borgnes sont rois, Les
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (366, 5, 'Yuval', 'Schoolyard comedy; lightweight.', null);  # 366 ...boroume kai kato ap' ta thrania!
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (367, 7, 'Yuval', 'LGBTQ+ doc with inspiring story.', null);  # 367 ...But I Was a Girl: The Story of Frieda Belinfante
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (368, 4, 'Yuval', 'Poetic experimental short; airy.', null);  # 368 ...but the clouds...
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (409, 5, 'Yuval', 'Quirky concept, mild interest.', null);  # 409 ...Is It the Design on the Wrapper?
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (410, 4, 'Yuval', 'Obscure foreign drama, heavy tone.', null);  # 410 ...Ispolnit vsyakuyu pravdu
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (411, 5, 'Yuval', 'Social satire, light but dated.', null);  # 411 ...It Is Nice to Be Privileged
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (412, 4, 'Yuval', 'Foreign drama with niche appeal.', null);  # 412 ...ja Helena soittaa
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (413, 4, 'Yuval', 'Experimental short, limited fun.', null);  # 413 ...Ja teeb trikke
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (414, 4, 'Yuval', 'Small local comedy, not strong.', null);  # 414 ...kai dio avga Tourkias
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (415, 3, 'Yuval', 'Unclear foreign short, very niche.', null);  # 415 ...kone na betne
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (416, 3, 'Yuval', 'Military theme, obscure.', null);  # 416 ...lipotaktis
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (417, 6, 'Yuval', 'Drama with loss theme, emotional.', null);  # 417 ...Lost
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (418, 7, 'Yuval', 'Romantic drama with heart.', null);  # 418 ...Maybe This Time
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (419, 4, 'Yuval', 'Obscure German piece, low appeal.', null);  # 419 ...mit besten Empfehlungen
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (420, 5, 'Yuval', 'War drama, heavy but dated.', null);  # 420 ...na vojne jako kdyz najdes
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (421, 5, 'Yuval', 'War/kill-or-be-killed theme, tense.', null);  # 421 ...nebo bt zabit
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (422, 4, 'Yuval', 'Comedy angle but very old.', null);  # 422 ...nur ein Komdiant
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (423, 4, 'Yuval', 'Drama about loss of value.', null);  # 423 ...nur noch die Hlfte wert
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (424, 5, 'Yuval', 'War/political message, moderate.', null);  # 424 ...nchste Woche ist Frieden
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (425, 6, 'Yuval', 'Bergman comedy with satire.', null);  # 425 ...och alla dessa kvinnor
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (426, 6, 'Yuval', 'Dark Swedish drama, moody.', null);  # 426 ...och efter skymning kommer mrker
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (427, 5, 'Yuval', 'Light fairy-tale comedy.', null);  # 427 ...och halva kungariket
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (428, 6, 'Yuval', 'Romantic drama with tension.', null);  # 428 ...Or Forever Hold Your Peace
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (429, 6, 'Yuval', 'First love drama, emotional.', null);  # 429 ...Pervaya lyubov
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (430, 6, 'Yuval', 'Crime action drama, fits taste.', null);  # 430 ...Po prozvishchu 'Zver'
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (431, 5, 'Yuval', 'Foreign drama, stormy setting.', null);  # 431 ...Quando Troveja
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (437, 5, 'Yuval', 'War drama, patriotic theme.', null);  # 437 ...reitet fr Deutschland
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (438, 4, 'Yuval', 'Experimental repetition piece.', null);  # 438 ...Remote... Remote...
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (439, 4, 'Yuval', 'Engagement comedy, very light.', null);  # 439 ...schwierig, sich zu verloben
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (440, 5, 'Yuval', 'Italian melodrama, niche interest.', null);  # 440 ...Se non avessi l'amore
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (441, 5, 'Yuval', 'French drama with tension.', null);  # 441 ...Sinon j'touffe
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (442, 4, 'Yuval', 'Childlike drama, too slight.', null);  # 442 ...so groe Augen
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (443, 5, 'Yuval', 'Latin American doc-style drama.', null);  # 443 ...sol y lluvia
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (444, 5, 'Yuval', 'Swedish drama, moody tone.', null);  # 444 ...som en tjuv om natten

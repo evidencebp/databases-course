@@ -34,18 +34,6 @@ m.id = mg.movie_id
 where name like '%Superman%'
 order by year, name, genre;
 
-# We want one record per movie, with all genres together
-select year as production_year 
-, name  
-, group_concat(distinct genre order by genre) as movie_genres
-from imdb_ijs.movies as m
-join
-imdb_ijs.movies_genres as mg
-on
-m.id = mg.movie_id
-where name like '%Superman%'
-group by year, name
-order by year, name;
 
 # Class exercises
  

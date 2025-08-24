@@ -1,0 +1,1898 @@
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+297838  -- Shawshank Redemption, The
+, 194500  -- Lord of the Rings: The Return of the King
+, 9
+, 'Ido Ohayon'
+, 'Epic tales of hope and triumph'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+112290  -- Fight Club
+, 297838  -- Shawshank Redemption, The
+, 9
+, 'Ido Ohayon'
+, 'Critically acclaimed dramas about freedom'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+139657  -- Harry Potter and the Sorcerer's Stone
+, 194497  -- Lord of the Rings: The Fellowship of the Ring
+, 9
+, 'Ido Ohayon'
+, 'Fantasy blockbusters with strong reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+139650  -- Harry Potter and the Chamber of Secrets
+, 207989  -- Matrix re
+, 9
+, 'Ido Ohayon'
+, 'Popular fantasy and sci-fi'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+139657  -- Harry Potter and the Sorcerer's Stone
+, 207991  -- Matrix Revolutions
+, 9
+, 'Ido Ohayon'
+, 'Iconic franchises with similar years'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+194497  -- Lord of the Rings: The Fellowship of the Ring
+, 311038  -- Spider-Man 2
+, 9
+, 'Ido Ohayon'
+, 'Top-rated adventure films'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(297838  -- Shawshank Redemption, The
+, 130128  -- Godfather, The
+, 9
+, 'Ido Ohayon'
+, 'Both are acclaimed crime dramas'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(297838  -- Shawshank Redemption, The
+, 330322  -- Thief, The
+, 9
+, 'Ido Ohayon'
+, 'Recommended for fans of prison stories'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(297838  -- Shawshank Redemption, The
+, 119491  -- Free Frenchman, The
+, 9
+, 'Ido Ohayon'
+, 'Shared themes of resilience and freedom'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(126792  -- The Godfather: Part II
+, 134675  -- The Godfather
+, 9
+, 'Ido Ohayon'
+, 'Classic sequels from The Godfather series'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(126792  -- The Godfather: Part II
+, 134676  -- The Godfather: Part III
+, 9
+, 'Ido Ohayon'
+, 'Classic sequels from The Godfather series'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(134675  -- The Godfather
+, 134676  -- The Godfather: Part III
+, 9
+, 'Ido Ohayon'
+, 'Classic sequels from The Godfather series'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(297838  -- Shawshank Redemption, The
+, 43904  -- Book and the Rose, The
+, 9
+, 'Ido Ohayon'
+, 'Both are dramas with emotional depth'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(297838  -- Shawshank Redemption, The
+, 203359  -- Man on the Moon, The
+, 9
+, 'Ido Ohayon'
+, 'Both are dramas with emotional depth'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+194502  -- Lord of the Rings: The Two Towers
+, 256632  -- Pirates of the Caribbean: The Curse of the Black Pearl
+, 9
+, 'Ido Ohayon'
+, 'Fantasy epics with huge audiences'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+194500  -- Lord of the Rings: The Return of the King
+, 313476  -- Star Wars: Episode II - Attack of the Clones
+, 9
+, 'Ido Ohayon'
+, 'Major saga installments'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+207989  -- Matrix Reloaded
+, 311037  -- Spider-Man
+, 9
+, 'Ido Ohayon'
+, 'Action hits from the same period'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(279594  -- Robbers
+, 79593   -- David Nelson Live
+, 9
+, 'Ido Ohayon'
+, 'Comedy; released 2000; rank > 9'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+207991  -- Matrix Revolutions
+, 313476  -- Star Wars: Episode II - Attack of the Clones
+, 9
+, 'Ido Ohayon'
+, 'Sci-fi sequels of the 2000s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+ 313476  -- Star Wars: Episode II - Attack of the Clones
+, 168725 -- Johnny Ostrich and His American Songbag
+, 9
+, 'Ido Ohayon'
+, 'Sci-fi sequels of the 2000s'
+, NULL
+);
+
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+311038  -- Spider-Man 2
+, 139655  -- Harry Potter and the Prisoner of Azkaban
+, 9
+, 'Ido Ohayon'
+, 'Popular sequels of the era'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+139655  -- Harry Potter and the Prisoner of Azkaban
+, 256632  -- Pirates of the Caribbean: The Curse of the Black Pearl
+, 9
+, 'Ido Ohayon'
+, 'Blockbusters from the early 2000s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+837  -- 1001 Nights
+, 1689  -- 2000 pieds carrs
+, 9
+, 'Ido Ohayon'
+, 'Shared crime elements'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(391006  -- Happy Days
+, 398232  -- Mork & Mindy
+, 9
+, 'Ido Ohayon'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(190869  -- Lilo & Stitch
+, 300229  -- Shrek
+, 8
+, 'Ido Ohayon'
+, 'Both combine humor with emotional depth in animated form'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(311604  -- SpongeBob SquarePants: Legend of the Lost Spatula
+, 311606  -- SpongeBob SquarePants: Revenge of the Flying Dutchman
+, 8
+, 'Ido Ohayon'
+, 'Both are early SpongeBob adventure games with similar tone'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(391006  -- Happy Days
+, 372525  -- Young Doctors in Love
+, 9
+, 'Ido Ohayon'
+, 'Directed by Garry Marshall, and from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+837  -- 1001 Nights
+, 11156  -- All Around Mistake, An
+, 9
+, 'Ido Ohayon'
+, 'Recommended for fans of the genre'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(400853  -- Parenthood
+, 73574  -- Critters 3
+, 8
+, 'Ido Ohayon'
+, 'Both include early performances by Leonardo DiCaprio from the same period'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(73574  -- Critters 3
+, 258948  -- Poison Ivy
+, 8
+, 'Ido Ohayon'
+, 'Both include early performances by Leonardo DiCaprio from the same period'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(258948  -- Poison Ivy
+, 330670  -- This Boy's Life
+, 8
+, 'Ido Ohayon'
+, 'Both include early performances by Leonardo DiCaprio from the same period'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(330670  -- This Boy's Life
+, 116829  -- Foot Shooting Party, The
+, 8
+, 'Ido Ohayon'
+, 'Both include early performances by Leonardo DiCaprio from the same period'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+837  -- 1001 Nights
+, 19256  -- Aprendiz, El
+, 9
+, 'Ido Ohayon'
+, 'Feature similar themes'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+297838  -- Shawshank Redemption, The
+, 194502  -- Lord of the Rings: The Two Towers
+, 8
+, 'Ido Ohayon'
+, 'Stories of endurance and friendship'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+297838  -- Shawshank Redemption, The
+, 194497  -- Lord of the Rings: The Fellowship of the Ring
+, 8
+, 'Ido Ohayon'
+, 'Critically acclaimed classics'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+112290  -- Fight Club
+, 194497  -- Lord of the Rings: The Fellowship of the Ring
+, 8
+, 'Ido Ohayon'
+, 'Late 90s and early 2000s icons'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+112290  -- Fight Club
+, 139657  -- Harry Potter and the Sorcerer's Stone
+, 8
+, 'Ido Ohayon'
+, 'Late 90s and early 2000s cultural icons'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+112290  -- Fight Club
+, 256632  -- Pirates of the Caribbean: The Curse of the Black Pearl
+, 8
+, 'Ido Ohayon'
+, 'Cult favorites and adventure hits'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1595  -- 2+1
+, 123371  -- Game Day
+, 8
+, 'Ido Ohayon'
+, 'Comedy; released 2000; rank > 9'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+139657  -- Harry Potter and the Sorcerer's Stone
+, 311038  -- Spider-Man 2
+, 8
+, 'Ido Ohayon'
+, 'Fantasy and superhero blockbusters'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(333856  -- Titanic
+, 56871  -- Catch Me If You Can
+, 8
+, 'Ido Ohayon'
+, 'Both star Leonardo DiCaprio'
+, 'Fans of DiCaprio tend to enjoy other films he stars in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31715  -- Beaches
+, 80969  -- Beaches II
+, 8
+, 'Ido Ohayon'
+, 'different genre, directed by Marshall'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31715  -- Beaches
+, 105851  -- Another Story
+, 8
+, 'Ido Ohayon'
+, 'different genre, directed by Marshall'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+207991  -- Matrix Revolutions
+, 256632  -- Pirates of the Caribbean: The Curse of the Black Pearl
+, 8
+, 'Ido Ohayon'
+, 'Action-packed adventures'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(279594  -- Robbers
+, 152856  -- Hungry
+, 8
+, 'Ido Ohayon'
+, 'Comedy; released 2000; rank > 9'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(168745  -- Johnny the Amazing Firetruck
+, 79593   -- David Nelson Live
+, 8
+, 'Ido Ohayon'
+, 'Comedy; released 2000; rank > 9'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(100130  -- Empire of the Sun
+, 149287  -- Hook
+, 8
+, 'Ido Ohayon'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(67395  -- Color Purple, The
+, 149287  -- Hook
+, 8
+, 'Ido Ohayon'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+112290  -- Fight Club
+, 238072  -- Ocean's Eleven
+, 8
+, 'Ido Ohayon'
+, 'Both star Brad Pitt'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(238072  -- Ocean's Eleven
+, 340652  -- Troy
+, 8
+, 'Ido Ohayon'
+, 'Both star Brad Pitt'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(238072  -- Ocean's Eleven
+, 238073  -- Ocean's Twelve
+, 8
+, 'Ido Ohayon'
+, 'Both star Brad Pitt'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+139650  -- Harry Potter and the Chamber of Secrets
+, 194497  -- Lord of the Rings: The Fellowship of the Ring
+, 8
+, 'Ido Ohayon'
+, 'Fantasy blockbusters released around the same time'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+194502  -- Lord of the Rings: The Two Towers
+, 311037  -- Spider-Man
+, 8
+, 'Ido Ohayon'
+, 'Early 2000s fantasy and action hits'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+139650  -- Harry Potter and the Chamber of Secrets
+, 256632  -- Pirates of the Caribbean: The Curse of the Black Pearl
+, 8
+, 'Ido Ohayon'
+, 'Adventure hits from the early 2000s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+194500  -- Lord of the Rings: The Return of the King
+, 207989  -- Matrix Reloaded
+, 8
+, 'Ido Ohayon'
+, 'Epic trilogies with high ratings'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+194502  -- Lord of the Rings: The Two Towers
+, 207991  -- Matrix Revolutions
+, 8
+, 'Ido Ohayon'
+, 'Sequels of landmark franchises'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+311037  -- Spider-Man
+, 256632  -- Pirates of the Caribbean: The Curse of the Black Pearl
+, 8
+, 'Ido Ohayon'
+, 'Early 2000s blockbuster hits'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+256632  -- Pirates of the Caribbean: The Curse of the Black Pearl
+, 313476  -- Star Wars: Episode II - Attack of the Clones
+, 8
+, 'Ido Ohayon'
+, 'Adventure and sci-fi blockbusters'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+180  -- 'N Sync: Making the Tour
+, 179  -- 'N Sync: Live From Madison Square Garden
+, 8
+, 'Ido Ohayon'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+179  -- 'N Sync: Live From Madison Square Garden
+, 178  -- 'N Sync: 'Ntimale Holiday Special
+, 8
+, 'Ido Ohayon'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(178  -- 'N Sync: 'Ntimale Holiday Special
+, 183  -- 'N Sync: The Atlantis Concert
+, 8
+, 'Ido Ohayon'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+30952  -- Batman & Robin
+, 311038  -- Spider-Man 2
+, 8
+, 'Ido Ohayon'
+, 'Comic book heroes brought to life'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+30952  -- Batman & Robin
+, 207989  -- Matrix Reloaded
+, 8
+, 'Ido Ohayon'
+, 'Stylish action franchises of the 90s and 2000s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+30952  -- Batman & Robin
+, 139657  -- Harry Potter and the Sorcerer's Stone
+, 8
+, 'Ido Ohayon'
+, 'Fantasy universes of the early 2000s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(179  -- 'N Sync: Live From Madison Square Garden
+, 183  -- 'N Sync: The Atlantis Concert
+, 8
+, 'Ido Ohayon'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(724  -- 100 Years of Horror
+, 730  -- 100 Years of Horror: The Aristocrats of Evil
+, 8
+, 'Ido Ohayon'
+, 'Same series recommendation'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(724  -- 100 Years of Horror
+, 731  -- 100 Years of Horror: The Count and Company
+, 8
+, 'Ido Ohayon'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(724  -- 100 Years of Horror
+, 732  -- 100 Years of Horror: The Double Demons
+, 8
+, 'Ido Ohayon'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(263360  -- Pretty Woman
+, 397250  -- Me and the Chimp
+, 8
+, 'Ido Ohayon'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(263360  -- Pretty Woman
+, 391006  -- Happy Days
+, 8
+, 'Ido Ohayon'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(263360  -- Pretty Woman
+, 395271  -- Laverne & Shirley
+, 8
+, 'Ido Ohayon'
+, 'Directed by Garry Marshall, but not from the same decade'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(182  -- 'N Sync: PopOdyssey Live
+, 178  -- 'N Sync: 'Ntimale Holiday Special
+, 8
+, 'Ido Ohayon'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+112290  -- Fight Club
+, 238073  -- Ocean's Twelve
+, 8
+, 'Ido Ohayon'
+, 'Both feature Brad Pitt'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(725  -- 100 Years of Horror: Freaks
+, 727  -- 100 Years of Horror: Maniacs
+, 8
+, 'Ido Ohayon'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+112290  -- Fight Club
+, 220805  -- Mr. and Mrs. Smith
+, 8
+, 'Ido Ohayon'
+, 'Both feature Brad Pitt'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+306032  -- Snatch
+, 291698  -- Se7en
+, 8
+, 'Ido Ohayon'
+, 'Both feature Brad Pitt'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+306032  -- Snatch
+, 112290  -- Fight Club
+, 8
+, 'Ido Ohayon'
+, 'Both feature Brad Pitt'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(725  -- 100 Years of Horror: Freaks
+, 728  -- 100 Years of Horror: Scream Queens
+, 8
+, 'Ido Ohayon'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(725  -- 100 Years of Horror: Freaks
+, 729  -- 100 Years of Horror: Sorcerers
+, 8
+, 'Ido Ohayon'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+306032  -- Snatch
+, 238072  -- Ocean's Eleven
+, 8
+, 'Ido Ohayon'
+, 'Both feature Brad Pitt'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(30976  -- Batman: Mask of the Phantasm
+, 30965  -- Batman Forever
+, 8
+, 'Ido Ohayon'
+, 'We recommend the next Batman-related film'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+837  -- 1001 Nights
+, 19490  -- Aqu iba el himno
+, 8
+, 'Ido Ohayon'
+, 'Comparable mood and atmosphere'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+112290  -- Fight Club
+, 139655  -- Harry Potter and the Prisoner of Azkaban
+, 7
+, 'Ido Ohayon'
+, 'Unconventional heroes and coming of age'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+207989  -- Matrix Reloaded
+, 313476  -- Star Wars: Episode II - Attack of the Clones
+, 7
+, 'Ido Ohayon'
+, 'Sci-fi sequels from early 2000s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+15964  -- Animatrix
+, 311037  -- Spider-Man
+, 7
+, 'Ido Ohayon'
+, 'Stylized stories of heroes'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+15964  -- Animatrix
+, 207989  -- Matrix Reloaded
+, 7
+, 'Ido Ohayon'
+, 'Animated and live-action stories in the Matrix universe'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+139655  -- Harry Potter and the Prisoner of Azkaban
+, 311037  -- Spider-Man
+, 7
+, 'Ido Ohayon'
+, 'Blockbuster fantasy and superhero adventures'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+194500  -- Lord of the Rings: The Return of the King
+, 168725 -- Johnny Ostrich and His American Songbag
+, 7
+, 'Ido Ohayon'
+, ' Highly rated fantasy movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+297838  -- Shawshank Redemption, The
+, 256632  -- Pirates of the Caribbean: The Curse of the Black Pearl
+, 7
+, 'Ido Ohayon'
+, 'Beloved stories of escape and adventure'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+112290  -- Fight Club
+, 207989  -- Matrix Reloaded
+, 7
+, 'Ido Ohayon'
+, 'Popular films with strong cult following'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+207989  -- Matrix Reloaded
+, 311038  -- Spider-Man 2
+, 7
+, 'Ido Ohayon'
+, 'Action-packed sequels'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+30952  -- Batman & Robin
+, 207991  -- Matrix Revolutions
+, 7
+, 'Ido Ohayon'
+, 'Superheroes and simulated realities'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+30952  -- Batman & Robin
+, 256632  -- Pirates of the Caribbean: The Curse of the Black Pearl
+, 7
+, 'Ido Ohayon'
+, 'Adventure blockbusters with iconic heroes'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(29770  -- Heat
+, 29769  -- The Fan
+, 7
+, 'Ido Ohayon'
+, 'Intense psychological thrillers with strong performances'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(159665  -- Inglorious Bastards
+, 176712  -- Kill Bill 2
+, 7
+, 'Ido Ohayon'
+, 'Both are Quentin Tarantino movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(159665  -- Inglorious Bastards
+, 267038  -- Pulp Fiction
+, 7
+, 'Ido Ohayon'
+, 'Both are Quentin Tarantino movies'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(7341  -- Aerosmith: Big Ones You Can Look at
+, 31887  -- Beat of the Live Drum, The
+, 7
+, 'Ido Ohayon'
+, 'Music-focused films and performances worth exploring'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(7341  -- Aerosmith: Big Ones You Can Look at
+, 34077  -- Benjamin Button
+, 7
+, 'Ido Ohayon'
+, 'Music-focused films and performances worth exploring'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(7341  -- Aerosmith: Big Ones You Can Look at
+, 78183  -- Dangerous: The Short Films
+, 7
+, 'Ido Ohayon'
+, 'Music-focused films and performances worth exploring'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(159665  -- Inglorious Bastards
+, 276217  -- Reservoir Dogs
+, 7
+, 'Ido Ohayon'
+, 'Both are Quentin Tarantino movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(
+30952  -- Batman & Robin
+, 297838  -- Shawshank Redemption, The
+, 7
+, 'Ido Ohayon'
+, 'Classics of 90s cinema'
+, NULL
+);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Less favorable movie recommendations
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(308057  -- Something Evil
+, 259819  -- Polsk krev
+, 5
+, 'Ido Ohayon'
+, 'Related topics but different approach'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(335357  -- Tomorrow''s Youth
+, 136278  -- Guy Walks Into a Bar, A
+, 4
+, 'Ido Ohayon'
+, 'Some overlapping elements'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(237260  -- Nr syrenerna blomma
+, 19176  -- Appointment, The
+, 5
+, 'Ido Ohayon'
+, 'Partial genre overlap'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(404456  -- Schlupp vom grnen Stern
+, 278797  -- Risen Soul of Jim Grant, The
+, 5
+, 'Ido Ohayon'
+, 'Some shared themes'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(98956  -- Electroclash
+, 5667  -- Achter de dijk met miek muts
+, 5
+, 'Ido Ohayon'
+, 'Some overlapping elements'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(259308  -- Policewoman, The
+, 324064  -- Taller de la vida
+, 5
+, 'Ido Ohayon'
+, 'Different decade but similar mood'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(365613  -- Wilder Westerwald
+, 354383  -- Vila de Olho, A
+, 5
+, 'Ido Ohayon'
+, 'Different decade but similar mood'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(204483  -- Mann stürzt ab, Ein
+, 88034  -- Divided Trail: A Native American Odyssey, The
+, 5
+, 'Ido Ohayon'
+, 'Loosely related atmosphere'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(326043  -- Tauromaquias
+, 11655  -- All-American Girl, The
+, 4
+, 'Ido Ohayon'
+, 'Partial genre overlap'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(103810  -- Esposa último modelo
+, 370324  -- Yakko no Takohei: Otomo wa tsuyoi ne
+, 4
+, 'Ido Ohayon'
+, 'Minor thematic similarities'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(178476  -- Klara
+, 375328  -- Zivljenje po vzorcu
+, 4
+, 'Ido Ohayon'
+, 'Different decade but similar mood'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(201677  -- Making of "Gorky Park", The
+, 54712  -- Capturing the Friedmans
+, 5
+, 'Ido Ohayon'
+, 'Loosely related atmosphere'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(341165  -- Trójka hultajska
+, 213100  -- Midnight Caller
+, 5
+, 'Ido Ohayon'
+, 'Different decade but similar mood'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(23525  -- Attenti al buffone
+, 326537  -- Teatro e a Música de Valdemar de Oliveira, O
+, 5
+, 'Ido Ohayon'
+, 'Loosely related atmosphere'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(330280  -- Thicker Than Water
+, 105333  -- Everywoman''s Husband
+, 4
+, 'Ido Ohayon'
+, 'Loosely related atmosphere'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(370558  -- Yankee Doodle Duke
+, 286751  -- Sampark
+, 5
+, 'Ido Ohayon'
+, 'Slight narrative resemblance'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(333143  -- Tim Watcher
+, 84588  -- Deutschlandlied
+, 5
+, 'Ido Ohayon'
+, 'Minor thematic similarities'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(311524  -- Split Second
+, 201438  -- Make or Break
+, 4
+, 'Ido Ohayon'
+, 'Some overlapping elements'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(61562  -- Child in Judgment, A
+, 383157  -- Cadenas de angustia
+, 5
+, 'Ido Ohayon'
+, 'Some overlapping elements'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(295592  -- Sex and Fame: The Mary Millington Story
+, 315243  -- Stoned
+, 5
+, 'Ido Ohayon'
+, 'Different genre but same era'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(87008  -- Dig Your Grave Friend... Sabata's Coming
+, 279977  -- Roamin' Holiday
+, 4
+, 'Ido Ohayon'
+, 'Some shared themes'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(211237  -- Moonshine
+, 15166  -- Angkor: Land of Gods
+, 5
+, 'Ido Ohayon'
+, 'Partial genre overlap'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(285100  -- Russian Ark
+, 113905  -- Faraway, So Close!
+, 5
+, 'Ido Ohayon'
+, 'Slight narrative resemblance'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(352051  -- Unfit Mother
+, 268119  -- Red Badge of Courage, The
+, 5
+, 'Ido Ohayon'
+, 'Minor thematic similarities'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(190405  -- M
+, 318188  -- Surf Party
+, 4
+, 'Ido Ohayon'
+, 'Loosely related atmosphere'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(325983  -- Tatort - Haie vor Helgoland
+, 156130  -- Genghis Khan
+, 4
+, 'Ido Ohayon'
+, 'Different decade but similar mood'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(173215  -- Kan Zeh Lo Sham
+, 172723  -- Kalinga Mardanam
+, 5
+, 'Ido Ohayon'
+, 'Some overlapping elements'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(243684  -- One Man's War
+, 12213  -- Algiers
+, 5
+, 'Ido Ohayon'
+, 'Related topics but different approach'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(363459  -- Where There's a Will
+, 186867  -- Lebedinoye ozero
+, 4
+, 'Ido Ohayon'
+, 'Some shared themes'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(153283  -- Hustling for Health
+, 379067  -- "ABC Showcase"
+, 5
+, 'Ido Ohayon'
+, 'Slight narrative resemblance'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(164294  -- Jaali Note
+, 285535  -- Saher, al-
+, 5
+, 'Ido Ohayon'
+, 'Loosely related atmosphere'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(127634  -- Gigolette
+, 346191  -- Under Western Skies
+, 5
+, 'Ido Ohayon'
+, 'Minor thematic similarities'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(227970  -- Nasreshtno dvizhenie
+, 193961  -- Long Knife, The
+, 4
+, 'Ido Ohayon'
+, 'Partial genre overlap'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(149118  -- Honneur et patrie
+, 330506  -- Third Degree, The
+, 4
+, 'Ido Ohayon'
+, 'Some overlapping elements'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1100  -- 14 Million Dreams
+, 5086  -- Abrahams Gold
+, 5
+, 'Ido Ohayon'
+, 'Different genre but same era'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(17486  -- Anna
+, 18277  -- Antigone
+, 5
+, 'Ido Ohayon'
+, 'Loosely related atmosphere'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(154486  -- I Met a Murderer
+, 154274  -- I Hope...
+, 5
+, 'Ido Ohayon'
+, 'Related topics but different approach'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(190932 -- Limbo
+, 190677  -- Like a Lady
+, 4
+, 'Ido Ohayon'
+, 'Some shared themes'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(299974  -- Shotgun Wedding
+, 161544  -- Intoxicating
+, 4
+, 'Ido Ohayon'
+, 'Released close in time, but very different in style'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(345696  -- Unbroken
+, 326384  -- Tea with Tiffany
+, 5
+, 'Ido Ohayon'
+, 'Some overlapping elements'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(278577  -- Rio de Jano
+, 321814  -- Symetria
+, 5
+, 'Ido Ohayon'
+, 'Loosely related atmosphere'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(105148  -- Every Day's a Holiday
+, 201677  -- Making of "Gorky Park", The
+, 4
+, 'Ido Ohayon'
+, 'Minor thematic similarities'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(148875  -- Honey Baby
+, 230662  -- New Guy
+, 5
+, 'Ido Ohayon'
+, 'Some overlapping elements'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(139655 -- Harry Potter and the Prisoner of Azkaban
+, 233914  -- No Regrets
+, 4
+, 'Ido Ohayon'
+, 'Loosely related atmosphere'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(300230 -- Shrek 2
+, 173215  -- Kan Zeh Lo Sham
+, 5
+, 'Ido Ohayon'
+, 'Different decade but similar mood'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(104360  -- Eternity
+, 241620  -- One of Five
+, 5
+, 'Ido Ohayon'
+, 'Some shared themes'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(230662  -- New Guy
+, 267546  -- Purple Gas
+, 5
+, 'Ido Ohayon'
+, 'Different genre but same era'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(151562  -- How to Draw a Bunny
+, 89125  -- Dog
+, 5
+, 'Ido Ohayon'
+, 'Loosely related atmosphere'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(148875  -- Honey Baby
+, 333176  -- Time & Again
+, 4
+, 'Ido Ohayon'
+, 'Minor thematic similarities'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(213786  -- Milan
+, 158516  -- In This World
+, 4
+, 'Ido Ohayon'
+, 'Partial genre overlap'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(185628  -- Last Samurai, The
+, 184808  -- Lara
+, 4
+, 'Ido Ohayon'
+, 'Some shared themes but different'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(185628  -- Last Samurai, The
+, 109447  -- Fast Film
+, 5
+, 'Ido Ohayon'
+, 'Different genre but same era'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(185628  -- Last Samurai, The
+, 232991  -- Ninja Pays Half My Rent, A
+, 5
+, 'Ido Ohayon'
+, 'Some overlapping elements'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(242976  -- Optimistic
+, 11595  -- All Water Has a Perfect Memory
+, 5
+, 'Ido Ohayon'
+, 'Loosely related atmosphere'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(248426  -- Paradisco
+, 72628  -- Cravan vs. Cravan
+, 5
+, 'Ido Ohayon'
+, 'Some shared themes'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(330322  -- Thief, The
+, 220079  -- Motherly Love
+, 5
+, 'Ido Ohayon'
+, 'Partial genre overlap'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(264084 -- Prince Solitaire
+, 363633  -- Whirlpool, The
+, 4
+, 'Ido Ohayon'
+, 'Both highly acclaimed films with distinct styles and storytelling approaches'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(264084 -- Prince Solitaire
+, 24259  -- Aura
+, 5
+, 'Ido Ohayon'
+, 'Loosely related atmosphere'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(218776  -- Moonlight by the Sea
+, 24259  -- Aura
+, 5
+, 'Ido Ohayon'
+, 'Both highly acclaimed films with distinct styles and storytelling approaches'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+( 24259  -- Aura
+, 363633  -- Whirlpool, The
+, 5
+, 'Ido Ohayon'
+, 'Some shared themes'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(56282  -- Cashback
+, 163571  -- It's Just Coffee
+, 4
+, 'Ido Ohayon'
+, 'Partial genre overlap'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(278797  -- Risen Soul of Jim Grant, The
+, 163571  -- It's Just Coffee
+, 5
+, 'Ido Ohayon'
+, 'Loosely related atmosphere'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(157499  -- In America
+,163571  -- It's Just Coffee
+, 4
+, 'Ido Ohayon'
+, 'Similar genre, yet vastly different in tone and direction.'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(285535  -- Schemers
+, 326043  -- Tauromaquias
+, 5
+, 'Ido Ohayon'
+, 'Slight narrative resemblance'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(286751  -- Sampark
+, 34497  -- Beasts of No Nation
+, 5
+, 'Ido Ohayon'
+, 'Minor thematic similarities'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(34497  -- Beasts of No Nation
+, 155460 -- Ich war 19
+, 4
+, 'Ido Ohayon'
+, 'Different decade but similar mood'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(286751  -- Sampark
+, 326043  -- Tauromaquias
+, 4
+, 'Ido Ohayon'
+, 'Some overlapping elements'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(108938  -- Far From China
+, 265843  -- Prowler, The
+, 5
+, 'Ido Ohayon'
+, 'Partial genre overlap'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(308057  -- Something Evil
+, 286751  -- Sampark
+, 5
+, 'Ido Ohayon'
+, 'Different genre but same era'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(34497  -- Beasts of No Nation
+, 326043  -- Tauromaquias
+, 5
+, 'Ido Ohayon'
+, 'Some shared themes'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(285535  -- Schemers
+, 34497  -- Beasts of No Nation
+, 4
+, 'Ido Ohayon'
+, 'Some overlapping elements'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(265843  -- Prowler, The
+, 326043  -- Tauromaquias
+, 4
+, 'Ido Ohayon'
+, 'Minor thematic similarities'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(286751  -- Sampark
+, 370324  -- Yakko no Takohei: Otomo wa tsuyoi ne
+, 5
+, 'Ido Ohayon'
+, 'Loosely related atmosphere'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(254987-- Pianista, El
+, 254986 -- Pianist, The
+, 5
+, 'Ido Ohayon'
+, 'Stylistically similar, but different in tone and intent'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(278797  -- Risen Soul of Jim Grant, The
+, 285535  -- Schemers
+, 4
+, 'Ido Ohayon'
+, 'Partial genre overlap'
+, NULL
+);
+
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+( 256894 -- Pits
+, 255409  -- Pie-Eyed
+, 5
+, 'Ido Ohayon'
+, 'Different decade but similar mood'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(308057  -- Something Evil
+, 278797  -- Risen Soul of Jim Grant, The
+, 5
+, 'Ido Ohayon'
+, 'Some overlapping elements'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(286751  -- Sampark
+, 18277 -- Antigone
+, 5
+, 'Ido Ohayon'
+, 'Minor thematic similarities'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(109093 -- Fargo
+, 285535  -- Schemers
+, 4
+, 'Ido Ohayon'
+, 'Loosely related atmosphere'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(34497  -- Beasts of No Nation
+, 278797  -- Risen Soul of Jim Grant, The
+, 5
+, 'Ido Ohayon'
+, 'Some overlapping elements'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(43151 -- Bolivia
+, 278797  -- Risen Soul of Jim Grant, The
+, 5
+, 'Ido Ohayon'
+, 'Similar genre but released many decades apart'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(289109 -- Saving Private Ryan
+, 53086 -- Campanadas a medianoche
+, 4
+, 'Ido Ohayon'
+, ' Both are war films, yet they differ greatly in structure and thematic depth'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(286751  -- Sampark
+, 278797  -- Risen Soul of Jim Grant, The
+, 5
+, 'Ido Ohayon'
+, 'Some shared themes'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(308057  -- Something Evil
+, 34497  -- Beasts of No Nation
+, 5
+, 'Ido Ohayon'
+, 'Different genre but same era'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(308057  -- Something Evil
+, 326043  -- Tauromaquias
+, 5
+, 'Ido Ohayon'
+, 'Slight narrative resemblance'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(275792  -- Rent-a-Person
+,270250  -- Rabbit Fire
+, 4
+, 'Ido Ohayon'
+, ' Both are exceptionally short in length, but share no thematic or stylistic similarities'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(34497  -- Beasts of No Nation
+, 265843  -- Prowler, The
+, 4
+, 'Ido Ohayon'
+, 'Partial genre overlap'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(265843  -- Prowler, The
+, 285535  -- Schemers
+, 5
+, 'Ido Ohayon'
+, 'Some overlapping elements'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(265843  -- Prowler, The
+, 286751  -- Sampark
+, 5
+, 'Ido Ohayon'
+, 'Different decade but similar mood'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(21384  -- Arvottomat
+, 286751  -- Sampark
+, 5
+, 'Ido Ohayon'
+, 'Loosely related atmosphere'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(286751  -- Sampark
+, 108938  -- Far From China
+, 5
+, 'Ido Ohayon'
+, 'Some overlapping elements'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(44058  -- Boot Polish
+, 34497  -- Beasts of No Nation
+, 4
+, 'Ido Ohayon'
+, 'Some shared themes'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(289109 -- Saving Private Ryan
+, 265843  -- Prowler, The
+, 5
+, 'Ido Ohayon'
+, ' Both are war-themed, yet fundamentally different in style and message'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(256655-- Piravi
+, 34497  -- Beasts of No Nation
+, 5
+, 'Ido Ohayon'
+, 'Loosely related atmosphere'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(19501  -- Ar daidardo
+, 326043  -- Tauromaquias
+, 4
+, 'Ido Ohayon'
+, 'Different decade but similar mood'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(278797  -- Risen Soul of Jim Grant, The
+, 265843  -- Prowler, The
+, 5
+, 'Ido Ohayon'
+, 'Some overlapping elements'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(140552  -- Hay hombres que respiran luz
+, 152570  -- Human Shield, The
+, 5
+, 'Ido Ohayon'
+, 'Some overlapping elements'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(187103  -- Leg Ends 2
+, 164687  -- Jacqui''s Dilemma
+, 5
+, 'Ido Ohayon'
+, 'Slight narrative resemblance'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(349299  -- V myortvoj petle
+, 293349  -- Segreto del successo, Il
+, 5
+, 'Ido Ohayon'
+, 'Related topics but different approach'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(183466  -- Lado oscuro del corazn 2, El
+, 117822  -- Forlovelse
+, 4
+, 'Ido Ohayon'
+, 'Minor thematic similarities'
+, NULL
+);
+
+

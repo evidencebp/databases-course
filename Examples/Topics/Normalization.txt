@@ -1,0 +1,392 @@
+# We will start with non normalization table, point at problems and fix them by adding normalization
+
+# Starting
+DROP TABLE IF EXISTS customers;
+
+CREATE TABLE customers (
+  id int,
+  name varchar(100),
+  address varchar(100),
+  city_status int,
+  orders varchar(100),
+  categories varchar(100),
+  Pythagorean_theorem varchar(100),
+  PRIMARY KEY (id)
+);
+
+insert into customers values(1, 'Gidi', 'Dizengoff 99, Tel-Aviv', 9, '1,2,3', '"VIP"', 'a^2 + b^2 = c^2');
+insert into customers values(2, 'Atzmon Anat', 'Dizengoff 99/1, Tel Aviv', 9, '4', '"VIP", "New"', 'a^2 + b^2 = c^2');
+insert into customers values(3, 'Meir Suissa', 'Dizengoff, Tel Aviv-Yaffo', 9, '', '"New"', 'a^2 + b^2 = c^2');
+insert into customers values(4, 'Gali Atari', 'Dizengoff 99, Tel Aviv-Yaffo', 9, '', '"new"', 'a^2 + b^2 = c^2');
+insert into customers values(5, 'Pluto', 'Kibbutz Megiddo', 10, '5, 6', '"VIP"', 'a^2 + b^2 = c^2');
+
+
+select * from customers;
+
+# With all respect to the Pythagorean theorem, it has nothing to do with our customers so we drop it.
+# Seems so obvious.
+# Nobody will do it in real life, right?
+# You will be surprised...
+
+
+# With only related information
+DROP TABLE IF EXISTS customers;
+
+CREATE TABLE customers (
+  id int,
+  name varchar(100),
+  address varchar(100),
+  city_status int,
+  orders varchar(100),
+  categories varchar(100),
+  PRIMARY KEY (id)
+);
+
+insert into customers values(1, 'Gidi', 'Dizengoff 99, Tel-Aviv', 9, '1,2,3', '"VIP"');
+insert into customers values(2, 'Atzmon Anat', 'Dizengoff 99/1, Tel Aviv', 9, '4', '"VIP", "New"');
+insert into customers values(3, 'Meir Suissa', 'Dizengoff, Tel Aviv-Yaffo', 9, '', '"New"');
+insert into customers values(4, 'Gali Atari', 'Dizengoff 99, Tel Aviv Yaffo', 9, '', '"new"');
+insert into customers values(5, 'Pluto', 'Kibbutz Megiddo', 10, '5, 6', '"VIP"');
+
+ 
+select * from customers;
+
+# Name is a complex attribute, lets split it into first and last names.
+# Note that:
+# 1. We should add Gov to Gidi
+# 2. Anat Atzmon’s name was written in a different order than the others.
+# 3. Pluto, the famous dog, do not have a last name, not fitting well in this structure
+
+DROP TABLE IF EXISTS customers;
+
+CREATE TABLE customers (
+  id int,
+  first_name varchar(100),
+  last_name varchar(100),
+  address varchar(100),
+  city_status int,
+  orders varchar(100),
+  categories varchar(100),
+  PRIMARY KEY (id)
+);
+
+insert into customers values(1, 'Gidi', 'Gov', 'Dizengoff 99, Tel-Aviv', 9, '1,2,3', '"VIP"');
+insert into customers values(2, 'Anat', 'Atzmon', 'Dizengoff 99/1, Tel Aviv', 9, '4', '"VIP", "New"');
+insert into customers values(3, 'Meir', 'Suissa', 'Dizengoff, Tel Aviv-Yaffo', 9, '', '"New"');
+insert into customers values(4, 'Gali', 'Atari', 'Dizengoff 99, Tel Aviv Yaffo', 9, '', '"new"');
+insert into customers values(5, 'Pluto', '', 'Kibbutz Megiddo', 10, '5, 6', '"VIP"');
+
+ 
+select * from customers;
+
+# Address is a complex attribute, let's split it into street, house number and city.
+# Note that:
+# 1. We should guess Anat's house number, and lose her apartment number
+# 2. We don't have Meir's house number
+# 3. There are no streets in a Kibbutz
+
+DROP TABLE IF EXISTS customers;
+
+CREATE TABLE customers (
+  id int,
+  first_name varchar(100),
+  last_name varchar(100),
+  street varchar(100),
+  house_number int,
+  city varchar(100),
+  city_status int,
+  orders varchar(100),
+  categories varchar(100),
+  PRIMARY KEY (id)
+);
+
+insert into customers values(1, 'Gidi', 'Gov', 'Dizengoff', 99, 'Tel-Aviv', 9, '1,2,3', '"VIP"');
+insert into customers values(2, 'Anat', 'Atzmon', 'Dizengoff', 99, 'Tel Aviv', 9, '4', '"VIP", "New"');
+insert into customers values(3, 'Meir', 'Suissa', 'Dizengoff', null, 'Tel Aviv-Yaffo', 9, '', '"New"');
+insert into customers values(4, 'Gali', 'Atari', 'Dizengoff',99,  'Tel Aviv Yaffo', 9, '', '"new"');
+insert into customers values(5, 'Pluto', '', null, null, 'Kibbutz Megiddo', 10, '5, 6', '"VIP"');
+
+ 
+select * from customers;
+
+# Note that Tel Aviv is written in many different ways, not representing being the same city.
+# Yes, that happens way too often in the real world, mainly with unstructured input.
+# Also, a city status is a function of the city, not of the customer.
+# We therefore create a table for the cities, with their status.
+# The customer table will use the city key.
+# There is one to many relation between a city and customers.
+
+
+
+DROP TABLE IF EXISTS cities;
+
+CREATE TABLE cities (
+  id int,
+  name varchar(100),
+  status int, # In cities table, the name status is more suitable than city_status
+  PRIMARY KEY (id)
+);
+
+insert into cities values(1 ,'Kibbutz Megiddo', 10);
+insert into cities values(2, 'Tel-Aviv', 9);
+
+ 
+select * from cities;
+
+DROP TABLE IF EXISTS customers;
+
+CREATE TABLE customers (
+  id int,
+  first_name varchar(100),
+  last_name varchar(100),
+  street varchar(100),
+  house_number int,
+  city_id int,
+  orders varchar(100),
+  categories varchar(100),
+  PRIMARY KEY (id),
+  FOREIGN KEY (city_id) REFERENCES cities(id) # Now people cannot live in non-existing cities
+);
+
+insert into customers values(1, 'Gidi', 'Gov', 'Dizengoff', 99, 2, '1,2,3', '"VIP"');
+insert into customers values(2, 'Anat', 'Atzmon', 'Dizengoff', 99, 2, '4', '"VIP", "New"');
+insert into customers values(3, 'Meir', 'Suissa', 'Dizengoff', null, 2, '', '"New"');
+insert into customers values(4, 'Gali', 'Atari', 'Dizengoff',99,  2, '', '"new"');
+insert into customers values(5, 'Pluto', '', null, null, 1, '5, 6', '"VIP"');
+
+ 
+select * from customers;
+
+ 
+select * 
+from customers
+join cities
+on city_id = cities.id;
+
+# There is a many to many relation between customer and category.
+# in the current representation
+# 1. it is hard to enforce specific categories (note the 'new' of Gali, not like the other 'New')
+# 2. it is hard to look up categories
+# It is hard to add attribute to categories
+# We will add categories table
+
+
+
+DROP TABLE IF EXISTS customers; # Should be dropped before cities due to the foreign key
+DROP TABLE IF EXISTS cities;
+
+CREATE TABLE cities (
+  id int,
+  name varchar(100),
+  status int, # In cities table, the name status is more suitable than city_status
+  PRIMARY KEY (id)
+);
+
+insert into cities values(1 ,'Kibbutz Megiddo', 10);
+insert into cities values(2, 'Tel-Aviv', 9);
+
+ 
+select * from cities;
+
+
+
+DROP TABLE IF EXISTS categories;
+
+CREATE TABLE categories (
+  id int,
+  name varchar(100),
+  importance int, 
+  PRIMARY KEY (id),
+  constraint Check_importnace CHECK (importance>=1 and importance <= 10)
+);
+
+insert into categories values(1 ,'VIP', 10);
+insert into categories values(2, 'New', 8);
+
+ 
+select * from categories;
+
+
+DROP TABLE IF EXISTS customers;
+
+CREATE TABLE customers (
+  id int,
+  first_name varchar(100),
+  last_name varchar(100),
+  street varchar(100),
+  house_number int,
+  city_id int,
+  orders varchar(100),
+  PRIMARY KEY (id),
+  FOREIGN KEY (city_id) REFERENCES cities(id) # Now people cannot live in non-existing cities
+);
+
+insert into customers values(1, 'Gidi', 'Gov', 'Dizengoff', 99, 2, '1,2,3');
+insert into customers values(2, 'Anat', 'Atzmon', 'Dizengoff', 99, 2, '4');
+insert into customers values(3, 'Meir', 'Suissa', 'Dizengoff', null, 2, '');
+insert into customers values(4, 'Gali', 'Atari', 'Dizengoff',99,  2, '');
+insert into customers values(5, 'Pluto', '', null, null, 1, '5, 6');
+
+ 
+select * from customers;
+
+
+DROP TABLE IF EXISTS customers_categories;
+
+CREATE TABLE customers_categories (
+  customer_id int,
+  category_id int,
+  PRIMARY KEY (customer_id, category_id),
+  FOREIGN KEY (customer_id) REFERENCES customers(id),
+  FOREIGN KEY (category_id) REFERENCES categories(id)
+);
+ 
+insert into customers_categories values(1, 1);
+insert into customers_categories values(2, 1);
+insert into customers_categories values(2, 2);
+insert into customers_categories values(3, 2);
+insert into customers_categories values(4, 2);
+insert into customers_categories values(5, 1);
+
+select *
+from
+customers_categories as cc
+join
+customers as cst
+on
+cc.customer_id = cst.id
+join
+categories as cat
+on
+cc.category_id = cat.id
+;
+
+# Customer has a one to many relation with orders.
+# Each customer can have many orders but an order might belong to a single customer.
+# Let's create a table for them too.
+
+# Clean up - most remove referencing table before the referenced table
+DROP TABLE IF EXISTS orders;
+DROP TABLE IF EXISTS customers_categories;
+DROP TABLE IF EXISTS customers; # Should be dropped before cities due to the foreign key
+DROP TABLE IF EXISTS cities;
+
+CREATE TABLE cities (
+  id int,
+  name varchar(100),
+  status int, # In cities table, the name status is more suitable than city_status
+  PRIMARY KEY (id)
+);
+
+insert into cities values(1 ,'Kibbutz Megiddo', 10);
+insert into cities values(2, 'Tel-Aviv', 9);
+
+ 
+select * from cities;
+
+
+
+DROP TABLE IF EXISTS categories;
+
+CREATE TABLE categories (
+  id int,
+  name varchar(100),
+  importance int, 
+  PRIMARY KEY (id),
+  constraint Check_importnace CHECK (importance>=1 and importance <= 10)
+);
+
+insert into categories values(1 ,'VIP', 10);
+insert into categories values(2, 'New', 8);
+
+ 
+select * from categories;
+
+
+DROP TABLE IF EXISTS customers;
+
+CREATE TABLE customers (
+  id int,
+  first_name varchar(100),
+  last_name varchar(100),
+  street varchar(100),
+  house_number int,
+  city_id int,
+  PRIMARY KEY (id),
+  FOREIGN KEY (city_id) REFERENCES cities(id) # Now people cannot live in non-existing cities
+);
+
+insert into customers values(1, 'Gidi', 'Gov', 'Dizengoff', 99, 2);
+insert into customers values(2, 'Anat', 'Atzmon', 'Dizengoff', 99, 2);
+insert into customers values(3, 'Meir', 'Suissa', 'Dizengoff', null, 2);
+insert into customers values(4, 'Gali', 'Atari', 'Dizengoff',99,  2);
+insert into customers values(5, 'Pluto', '', null, null, 1);
+
+ 
+select * from customers;
+
+
+DROP TABLE IF EXISTS customers_categories;
+
+CREATE TABLE customers_categories (
+  customer_id int,
+  category_id int,
+  PRIMARY KEY (customer_id, category_id),
+  FOREIGN KEY (customer_id) REFERENCES customers(id),
+  FOREIGN KEY (category_id) REFERENCES categories(id)
+);
+ 
+insert into customers_categories values(1, 1);
+insert into customers_categories values(2, 1);
+insert into customers_categories values(2, 2);
+insert into customers_categories values(3, 2);
+insert into customers_categories values(4, 2);
+insert into customers_categories values(5, 1);
+
+select *
+from
+customers_categories as cc
+join
+customers as cst
+on
+cc.customer_id = cst.id
+join
+categories as cat
+on
+cc.category_id = cat.id
+;
+
+
+DROP TABLE IF EXISTS orders;
+
+CREATE TABLE orders (
+  id int, # The order id
+  customer_id int,
+  purchase_date date DEFAULT (CURRENT_DATE),
+  branch varchar(100), # One can add a table for branches
+  PRIMARY KEY (id),
+  FOREIGN KEY (customer_id) REFERENCES customers(id)
+);
+ 
+
+insert into orders(id, customer_id, branch) values(1, 1, 'Dizengoff, Tel Aviv');
+insert into orders(id, customer_id, branch) values(2, 1, 'Dizengoff, Tel Aviv');
+insert into orders(id, customer_id, branch) values(3, 1, 'Dizengoff, Tel Aviv');
+insert into orders(id, customer_id, branch) values(4, 2, 'Dizengoff, Tel Aviv');
+insert into orders(id, customer_id, branch) values(5, 5, 'Kibbutz Megiddo');
+insert into orders(id, customer_id, branch) values(6, 5, 'Jerusalem');
+
+
+
+select *
+from
+orders as o
+join
+customers as cst
+on
+o.customer_id = cst.id
+;
+
+# Note that order’s items do not appear here.
+# How should you represent them?
+

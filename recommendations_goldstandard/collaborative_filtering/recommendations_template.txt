@@ -1,0 +1,780 @@
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (379290, null, 'YOUR NAME', null, null);  # 379290 Adventures of Batman, The 1969
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (379327, null, 'YOUR NAME', null, null);  # 379327 Adventures of Robin Hood, The 1955
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (379331, null, 'YOUR NAME', null, null);  # 379331 Adventures of Sherlock Holmes, The 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (379931, null, 'YOUR NAME', null, null);  # 379931 Amazing Stories 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (381392, null, 'YOUR NAME', null, null);  # 381392 Batman Beyond 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (382208, null, 'YOUR NAME', null, null);  # 382208 Blansky's Beauties 1977
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (383395, null, 'YOUR NAME', null, null);  # 383395 Captain America 1966
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (390691, null, 'YOUR NAME', null, null);  # 390691 Growing Pains 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (391006, null, 'YOUR NAME', null, null);  # 391006 Happy Days 1974
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (391453, null, 'YOUR NAME', null, null);  # 391453 Herndon 1983
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (393012, null, 'YOUR NAME', null, null);  # 393012 Iron Man 1966
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (395271, null, 'YOUR NAME', null, null);  # 395271 Laverne & Shirley 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (397121, null, 'YOUR NAME', null, null);  # 397121 Matrix 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (397250, null, 'YOUR NAME', null, null);  # 397250 Me and the Chimp 1972
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (398232, null, 'YOUR NAME', null, null);  # 398232 Mork & Mindy 1978
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (398571, null, 'YOUR NAME', null, null);  # 398571 Murphy Brown 1988
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (399427, null, 'YOUR NAME', null, null);  # 399427 Night Gallery 1970
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (400612, null, 'YOUR NAME', null, null);  # 400612 Owen Marshall: Counselor at Law 1971
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (400853, null, 'YOUR NAME', null, null);  # 400853 Parenthood 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (405119, null, 'YOUR NAME', null, null);  # 405119 Sherlock Holmes 1951
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (406158, null, 'YOUR NAME', null, null);  # 406158 Spider-Man 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (406411, null, 'YOUR NAME', null, null);  # 406411 Star Wars: Clone Wars 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (406759, null, 'YOUR NAME', null, null);  # 406759 Strokes of Genius 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (2, null, 'YOUR NAME', null, null);  # 2 $ 1971
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (12, null, 'YOUR NAME', null, null);  # 12 $20,000 Carat, The 1913
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (15, null, 'YOUR NAME', null, null);  # 15 $30 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (18, null, 'YOUR NAME', null, null);  # 18 $40,000 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (20, null, 'YOUR NAME', null, null);  # 20 $5,000,000 Counterfeiting Plot, The 1914
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (33, null, 'YOUR NAME', null, null);  # 33 $windle 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (37, null, 'YOUR NAME', null, null);  # 37 '24-25' ne vozvrashchayetsya 1968
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (47, null, 'YOUR NAME', null, null);  # 47 '88 Dodge Aries 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (51, null, 'YOUR NAME', null, null);  # 51 'A' 1965
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (52, null, 'YOUR NAME', null, null);  # 52 'A' gai waak 1983
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (53, null, 'YOUR NAME', null, null);  # 53 'A' gai waak juk jaap 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (74, null, 'YOUR NAME', null, null);  # 74 'C' Word, The 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (81, null, 'YOUR NAME', null, null);  # 81 'Columbia' and 'Shamrock II': Jockeying and Starting 1901
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (82, null, 'YOUR NAME', null, null);  # 82 'Columbia' and 'Shamrock II': Start of Second Race 1901
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (83, null, 'YOUR NAME', null, null);  # 83 'Columbia' and 'Shamrock II': Starting in the Third Race 1901
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (84, null, 'YOUR NAME', null, null);  # 84 'Columbia' and 'Shamrock II': Turning the Outer Stake Boat 1901
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (100, null, 'YOUR NAME', null, null);  # 100 'E' 1981
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (108, null, 'YOUR NAME', null, null);  # 108 'G' Men 1935
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (121, null, 'YOUR NAME', null, null);  # 121 'High Sign', The 1921
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (152, null, 'YOUR NAME', null, null);  # 152 'M' Word 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (153, null, 'YOUR NAME', null, null);  # 153 'Mad' Boy, I'll Blow Your Blues Away. Be Mine 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (154, null, 'YOUR NAME', null, null);  # 154 'Make-Up' Thief, The 1899
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (167, null, 'YOUR NAME', null, null);  # 167 'Minagoroshi no uta' yori kenj-yo saraba! 1960
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (168, null, 'YOUR NAME', null, null);  # 168 'Ming wang xing' xing dong 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (178, null, 'YOUR NAME', null, null);  # 178 'N Sync: 'Ntimate Holiday Special 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (179, null, 'YOUR NAME', null, null);  # 179 'N Sync: Live From Madison Square Garden 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (180, null, 'YOUR NAME', null, null);  # 180 'N Sync: Making the Tour 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (181, null, 'YOUR NAME', null, null);  # 181 'N Sync: No Strings Attached 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (182, null, 'YOUR NAME', null, null);  # 182 'N Sync: PopOdyssey Live 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (183, null, 'YOUR NAME', null, null);  # 183 'N Sync: The Atlantis Concert 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (184, null, 'YOUR NAME', null, null);  # 184 'Ne gnstige Gelegenheit 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (244, null, 'YOUR NAME', null, null);  # 244 'Sloboda' - Kula 1971
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (253, null, 'YOUR NAME', null, null);  # 253 't Is wreed in de wereld 1954
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (254, null, 'YOUR NAME', null, null);  # 254 't Was een April 1935
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (263, null, 'YOUR NAME', null, null);  # 263 'Til There Was You 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (275, null, 'YOUR NAME', null, null);  # 275 'Tong tatlong tatay kong pakitong-kitong 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (315, null, 'YOUR NAME', null, null);  # 315 (Now) 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (316, null, 'YOUR NAME', null, null);  # 316 (Ohne Titel) 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (318, null, 'YOUR NAME', null, null);  # 318 (Past Present Future) 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (321, null, 'YOUR NAME', null, null);  # 321 (Stories from) 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (322, null, 'YOUR NAME', null, null);  # 322 (T) 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (323, null, 'YOUR NAME', null, null);  # 323 (Un) 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (330, null, 'YOUR NAME', null, null);  # 330 +1 -1 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (338, null, 'YOUR NAME', null, null);  # 338 ...A Valparaso 1962
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (365, null, 'YOUR NAME', null, null);  # 365 ...borgnes sont rois, Les 1974
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (370, null, 'YOUR NAME', null, null);  # 370 ...continuavano a chiamarlo Trinit 1972
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (387, null, 'YOUR NAME', null, null);  # 387 ...e la vita continua 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (411, null, 'YOUR NAME', null, null);  # 411 ...It Is Nice to Be Privileged 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (413, null, 'YOUR NAME', null, null);  # 413 ...Ja teeb trikke 1978
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (450, null, 'YOUR NAME', null, null);  # 450 ...tick...tick...tick... 1970
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (494, null, 'YOUR NAME', null, null);  # 494 ...Y los sueos pasan 1939
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (499, null, 'YOUR NAME', null, null);  # 499 ...ya no puede caminar. 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (517, null, 'YOUR NAME', null, null);  # 517 .hack//Quarantine 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (523, null, 'YOUR NAME', null, null);  # 523 0-600-Amor ya 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (576, null, 'YOUR NAME', null, null);  # 576 1 s a semmi 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (589, null, 'YOUR NAME', null, null);  # 589 1-2-3 Go! 1941
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (599, null, 'YOUR NAME', null, null);  # 599 1. maj 1960 1960
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (618, null, 'YOUR NAME', null, null);  # 618 10 from Your Show of Shows 1973
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (628, null, 'YOUR NAME', null, null);  # 628 10 minuta 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (632, null, 'YOUR NAME', null, null);  # 632 10 Minuten zwischen Hamburg und Salzburg 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (641, null, 'YOUR NAME', null, null);  # 641 10 Seconds 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (644, null, 'YOUR NAME', null, null);  # 644 10 Things I Hate About You 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (660, null, 'YOUR NAME', null, null);  # 660 10,000 Kids and a Cop 1948
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (661, null, 'YOUR NAME', null, null);  # 661 10,000 Maniacs Time Capsule 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (671, null, 'YOUR NAME', null, null);  # 671 10/65: Selbstverstmmelung 1965
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (672, null, 'YOUR NAME', null, null);  # 672 100 aos de perdn 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (673, null, 'YOUR NAME', null, null);  # 673 100 Bullets 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (674, null, 'YOUR NAME', null, null);  # 674 100 Cameras: Capturing Lars Von Trier's Vision 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (675, null, 'YOUR NAME', null, null);  # 675 100 Days 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (676, null, 'YOUR NAME', null, null);  # 676 100 Days 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (690, null, 'YOUR NAME', null, null);  # 690 100 Greatest TV Characters, The 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (720, null, 'YOUR NAME', null, null);  # 720 100 Worst Pop Records 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (724, null, 'YOUR NAME', null, null);  # 724 100 Years of Horror 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (725, null, 'YOUR NAME', null, null);  # 725 100 Years of Horror: Freaks 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (726, null, 'YOUR NAME', null, null);  # 726 100 Years of Horror: Giants and Dinosaurs 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (727, null, 'YOUR NAME', null, null);  # 727 100 Years of Horror: Maniacs 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (728, null, 'YOUR NAME', null, null);  # 728 100 Years of Horror: Scream Queens 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (729, null, 'YOUR NAME', null, null);  # 729 100 Years of Horror: Sorcerers 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (731, null, 'YOUR NAME', null, null);  # 731 100 Years of Horror: The Count and Company 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (735, null, 'YOUR NAME', null, null);  # 735 100 Years of Horror: The Monster Makers 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (798, null, 'YOUR NAME', null, null);  # 798 100% Service 1931
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (818, null, 'YOUR NAME', null, null);  # 818 1000 Marys 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (829, null, 'YOUR NAME', null, null);  # 829 10000th Day, The 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (832, null, 'YOUR NAME', null, null);  # 832 1001 crtez 1960
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (837, null, 'YOUR NAME', null, null);  # 837 1001 Nights 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (846, null, 'YOUR NAME', null, null);  # 846 101 Biggest Celebrity Oops 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (849, null, 'YOUR NAME', null, null);  # 849 101 Dalmatians II: Patch's London Adventure 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (850, null, 'YOUR NAME', null, null);  # 850 101 Dalmatians Sing Along 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (870, null, 'YOUR NAME', null, null);  # 870 101 Reykjavk 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (878, null, 'YOUR NAME', null, null);  # 878 102 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (886, null, 'YOUR NAME', null, null);  # 886 105 % alibi 1959
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (895, null, 'YOUR NAME', null, null);  # 895 10:30 Check-Out 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (923, null, 'YOUR NAME', null, null);  # 923 11-22-63: The Day the Nation Cried 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (952, null, 'YOUR NAME', null, null);  # 952 11:00 AM 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (957, null, 'YOUR NAME', null, null);  # 957 11th & Congress 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (966, null, 'YOUR NAME', null, null);  # 966 12 (2003/II) 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (985, null, 'YOUR NAME', null, null);  # 985 12 Mdchen und 1 Mann 1959
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (997, null, 'YOUR NAME', null, null);  # 997 12 Uhr mittags kommt der Bo 1968
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (1018, null, 'YOUR NAME', null, null);  # 1018 12:01 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (1024, null, 'YOUR NAME', null, null);  # 1024 13 (1999/I) 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (1027, null, 'YOUR NAME', null, null);  # 1027 13 dni 1964
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (1029, null, 'YOUR NAME', null, null);  # 1029 13 Erotic Ghosts 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (1038, null, 'YOUR NAME', null, null);  # 1038 13 Going On 30 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (1046, null, 'YOUR NAME', null, null);  # 1046 13 Moons 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (1100, null, 'YOUR NAME', null, null);  # 1100 14 Million Dreams 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (1121, null, 'YOUR NAME', null, null);  # 1121 1492: Conquest of Paradise 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (1390, null, 'YOUR NAME', null, null);  # 1390 1941 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (2057, null, 'YOUR NAME', null, null);  # 2057 2wks, 1yr 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (2352, null, 'YOUR NAME', null, null);  # 2352 36K 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (2656, null, 'YOUR NAME', null, null);  # 2656 5 Card Stud 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (2986, null, 'YOUR NAME', null, null);  # 2986 7 jin gong 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (3055, null, 'YOUR NAME', null, null);  # 3055 76th Annual Academy Awards, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (3261, null, 'YOUR NAME', null, null);  # 3261 97 goo waak jai jin mo bat sing 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (3634, null, 'YOUR NAME', null, null);  # 3634 A&E Biography: Captain Bligh - Mutiny on the Bounty 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (4948, null, 'YOUR NAME', null, null);  # 4948 Able's House Is Green, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (5496, null, 'YOUR NAME', null, null);  # 5496 Accordon 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (5889, null, 'YOUR NAME', null, null);  # 5889 Act Your Age 1939
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (7341, null, 'YOUR NAME', null, null);  # 7341 Aerosmith: Big Ones You Can Look at 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (7842, null, 'YOUR NAME', null, null);  # 7842 After Hours 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (8183, null, 'YOUR NAME', null, null);  # 8183 Age of Innocence, The 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (8820, null, 'YOUR NAME', null, null);  # 8820 Ai-Fak 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (8880, null, 'YOUR NAME', null, null);  # 8880 Aiglon, L' 1931
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (9813, null, 'YOUR NAME', null, null);  # 9813 Aladdin in Nasira's Revenge 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10702, null, 'YOUR NAME', null, null);  # 10702 Alice Doesn't Live Here Anymore 1974
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10945, null, 'YOUR NAME', null, null);  # 10945 Alien 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10830, null, 'YOUR NAME', null, null);  # 10830 Alien 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10920, null, 'YOUR NAME', null, null);  # 10920 Aliens 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (11147, null, 'YOUR NAME', null, null);  # 11147 All American Hero 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (11286, null, 'YOUR NAME', null, null);  # 11286 All In 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (11507, null, 'YOUR NAME', null, null);  # 11507 All the Invisible Children 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (12744, null, 'YOUR NAME', null, null);  # 12744 Always 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (13343, null, 'YOUR NAME', null, null);  # 13343 Amazing Adventures of Spider-Man, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (13395, null, 'YOUR NAME', null, null);  # 13395 Amazing Stories: Book Four 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (13396, null, 'YOUR NAME', null, null);  # 13396 Amazing Stories: Book One 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (13444, null, 'YOUR NAME', null, null);  # 13444 Amazones 2000 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (13547, null, 'YOUR NAME', null, null);  # 13547 Amblin' 1968
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (14132, null, 'YOUR NAME', null, null);  # 14132 American Pie 2 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (14157, null, 'YOUR NAME', null, null);  # 14157 American Reunion, An 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (14477, null, 'YOUR NAME', null, null);  # 14477 Amistad 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (15187, null, 'YOUR NAME', null, null);  # 15187 Amsterdamned 1988
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (16730, null, 'YOUR NAME', null, null);  # 16730 Angel on My Shoulder 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (17370, null, 'YOUR NAME', null, null);  # 17370 Anjangarh (1948/II) 1948
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (17812, null, 'YOUR NAME', null, null);  # 17812 Anno Domini 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (19433, null, 'YOUR NAME', null, null);  # 19433 Aquarium, L' 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (20253, null, 'YOUR NAME', null, null);  # 20253 Arizona Dream 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (20446, null, 'YOUR NAME', null, null);  # 20446 Armenian Archbishop, Rome 1898
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (20713, null, 'YOUR NAME', null, null);  # 20713 Arregui, la noticia del da 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (21213, null, 'YOUR NAME', null, null);  # 21213 Artificial Intelligence: AI 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (21454, null, 'YOUR NAME', null, null);  # 21454 As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (22093, null, 'YOUR NAME', null, null);  # 22093 Asla Navra Nakoga Bai 1977
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (22651, null, 'YOUR NAME', null, null);  # 22651 Astronaut's Wife, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (24235, null, 'YOUR NAME', null, null);  # 24235 Aunt Tiger 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (24259, null, 'YOUR NAME', null, null);  # 24259 Aura 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (24339, null, 'YOUR NAME', null, null);  # 24339 Aus der Waldbhne Berlin - Italienische Nacht/Italian Night 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (25192, null, 'YOUR NAME', null, null);  # 25192 Aviator, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (25729, null, 'YOUR NAME', null, null);  # 25729 Azrail benim 1968
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (25943, null, 'YOUR NAME', null, null);  # 25943 Baan sau chuk dak hin dui 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (28085, null, 'YOUR NAME', null, null);  # 28085 Bakit may kahapon pa? 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (28092, null, 'YOUR NAME', null, null);  # 28092 Bakom jalusin 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (28631, null, 'YOUR NAME', null, null);  # 28631 Balloon 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (29760, null, 'YOUR NAME', null, null);  # 29760 Barbie Riding Club 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (29768, null, 'YOUR NAME', null, null);  # 29768 Barbier de Sville, Le 1904
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (29771, null, 'YOUR NAME', null, null);  # 29771 Barbier de Sville, Le 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (29772, null, 'YOUR NAME', null, null);  # 29772 Barbier von Sevilla, Der 1972
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (29773, null, 'YOUR NAME', null, null);  # 29773 Barbier, Le (2001/I) 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30686, null, 'YOUR NAME', null, null);  # 30686 Basketball Diaries, The 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30955, null, 'YOUR NAME', null, null);  # 30955 Batman 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30951, null, 'YOUR NAME', null, null);  # 30951 Batman & Mr. Freeze: SubZero 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30952, null, 'YOUR NAME', null, null);  # 30952 Batman & Robin 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30953, null, 'YOUR NAME', null, null);  # 30953 Batman & Robin 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30957, null, 'YOUR NAME', null, null);  # 30957 Batman and Robin 1949
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30959, null, 'YOUR NAME', null, null);  # 30959 Batman Begins 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30961, null, 'YOUR NAME', null, null);  # 30961 Batman Beyond: Return of the Joker (2000/I) 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30962, null, 'YOUR NAME', null, null);  # 30962 Batman Beyond: The Movie 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30965, null, 'YOUR NAME', null, null);  # 30965 Batman Forever 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30967, null, 'YOUR NAME', null, null);  # 30967 Batman Returns 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30968, null, 'YOUR NAME', null, null);  # 30968 Batman Returns (1992/II) 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30970, null, 'YOUR NAME', null, null);  # 30970 Batman/Superman Movie, The 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30972, null, 'YOUR NAME', null, null);  # 30972 Batman: Dark Justice 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30974, null, 'YOUR NAME', null, null);  # 30974 Batman: Dead End 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30975, null, 'YOUR NAME', null, null);  # 30975 Batman: Gotham Racer 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30976, null, 'YOUR NAME', null, null);  # 30976 Batman: Mask of the Phantasm 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30977, null, 'YOUR NAME', null, null);  # 30977 Batman: Mystery of the Batwoman 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30978, null, 'YOUR NAME', null, null);  # 30978 Batman: Rise of Sin Tzu 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (31256, null, 'YOUR NAME', null, null);  # 31256 Battle Squad 1961
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (31715, null, 'YOUR NAME', null, null);  # 31715 Beaches 1988
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (31887, null, 'YOUR NAME', null, null);  # 31887 Beat of the Live Drum, The 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (32180, null, 'YOUR NAME', null, null);  # 32180 Beauty and the Beast 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (32707, null, 'YOUR NAME', null, null);  # 32707 Before Night Falls 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (33109, null, 'YOUR NAME', null, null);  # 33109 Bei Ewald 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (33492, null, 'YOUR NAME', null, null);  # 33492 Bella Martha 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (33965, null, 'YOUR NAME', null, null);  # 33965 Bendita seas 1948
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (34077, null, 'YOUR NAME', null, null);  # 34077 Benjamin Button 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (34104, null, 'YOUR NAME', null, null);  # 34104 Benny & Joon 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (34304, null, 'YOUR NAME', null, null);  # 34304 Berlin Babylon 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (34306, null, 'YOUR NAME', null, null);  # 34306 Berlin Berlin 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (36426, null, 'YOUR NAME', null, null);  # 36426 Bian cheng 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (37304, null, 'YOUR NAME', null, null);  # 37304 Big Shave, The 1967
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (38743, null, 'YOUR NAME', null, null);  # 38743 Birthmark, The 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (39551, null, 'YOUR NAME', null, null);  # 39551 Black Hawk Down 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (39829, null, 'YOUR NAME', null, null);  # 39829 Black Rain 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (40199, null, 'YOUR NAME', null, null);  # 40199 Blade Runner 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (41518, null, 'YOUR NAME', null, null);  # 41518 Blow 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (41537, null, 'YOUR NAME', null, null);  # 41537 Blow Job 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (44238, null, 'YOUR NAME', null, null);  # 44238 Bordello of Blood 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (45312, null, 'YOUR NAME', null, null);  # 45312 Boxcar Bertha 1972
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (45377, null, 'YOUR NAME', null, null);  # 45377 Boy 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (45476, null, 'YOUR NAME', null, null);  # 45476 Boy on a Bicycle 1965
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (46167, null, 'YOUR NAME', null, null);  # 46167 Brave, The 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (46169, null, 'YOUR NAME', null, null);  # 46169 Braveheart 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (46190, null, 'YOUR NAME', null, null);  # 46190 Bravo Profiles: Johnny Depp 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (46531, null, 'YOUR NAME', null, null);  # 46531 Breathing Lessons: The Life and Work of Mark O'Brien 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (46878, null, 'YOUR NAME', null, null);  # 46878 Bridget Jones: The Edge of Reason 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (47130, null, 'YOUR NAME', null, null);  # 47130 Bringing Out the Dead 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (47456, null, 'YOUR NAME', null, null);  # 47456 Broken Coin, The 1915
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (47757, null, 'YOUR NAME', null, null);  # 47757 Bronk 1975
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (49854, null, 'YOUR NAME', null, null);  # 49854 Buried Secret of M. Night Shyamalan, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (50012, null, 'YOUR NAME', null, null);  # 50012 Burning the Grump 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (51413, null, 'YOUR NAME', null, null);  # 51413 C'est le vent 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (53921, null, 'YOUR NAME', null, null);  # 53921 Cannes Man 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (54209, null, 'YOUR NAME', null, null);  # 54209 Cape Fear 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (54879, null, 'YOUR NAME', null, null);  # 54879 Card Sharks (2001/II) 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (56282, null, 'YOUR NAME', null, null);  # 56282 Cashback 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (56304, null, 'YOUR NAME', null, null);  # 56304 Casino 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (56871, null, 'YOUR NAME', null, null);  # 56871 Catch Me If You Can 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (57894, null, 'YOUR NAME', null, null);  # 57894 Cent et une nuits de Simon Cinma, Les 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (58078, null, 'YOUR NAME', null, null);  # 58078 Cerebral Print: File #0604 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (58084, null, 'YOUR NAME', null, null);  # 58084 Cerebrium 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (58160, null, 'YOUR NAME', null, null);  # 58160 Certain Fury 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (59578, null, 'YOUR NAME', null, null);  # 59578 Charlie and the Chocolate Factory 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (59656, null, 'YOUR NAME', null, null);  # 59656 Charlie the Ox 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (60408, null, 'YOUR NAME', null, null);  # 60408 Chek 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (61751, null, 'YOUR NAME', null, null);  # 61751 Children of Men, The 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (61812, null, 'YOUR NAME', null, null);  # 61812 Children of the Struggle 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (62460, null, 'YOUR NAME', null, null);  # 62460 Chocolat 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (63125, null, 'YOUR NAME', null, null);  # 63125 Christmas Tree and a Wedding, A 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (64187, null, 'YOUR NAME', null, null);  # 64187 Cinema16 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (64230, null, 'YOUR NAME', null, null);  # 64230 Cinquantenaire du deuxime sexe, 1949-1999 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (65522, null, 'YOUR NAME', null, null);  # 65522 Clearing, The 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (65602, null, 'YOUR NAME', null, null);  # 65602 Click Three Times 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (65621, null, 'YOUR NAME', null, null);  # 65621 Cliff Hanger 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (65762, null, 'YOUR NAME', null, null);  # 65762 Clockwork Maury, A 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (65811, null, 'YOUR NAME', null, null);  # 65811 Close Encounters of the Third Kind 1977
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (66194, null, 'YOUR NAME', null, null);  # 66194 Clueless 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (67388, null, 'YOUR NAME', null, null);  # 67388 Color of Money, The 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (67395, null, 'YOUR NAME', null, null);  # 67395 Color Purple, The 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (67592, null, 'YOUR NAME', null, null);  # 67592 Columbo: Murder by the Book 1971
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (68065, null, 'YOUR NAME', null, null);  # 68065 Comfort Blanket 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (69469, null, 'YOUR NAME', null, null);  # 69469 Confidences trop intimes 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (69812, null, 'YOUR NAME', null, null);  # 69812 Conspiracy Theory 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (70507, null, 'YOUR NAME', null, null);  # 70507 Copi, je t'aime 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (70959, null, 'YOUR NAME', null, null);  # 70959 Corpse Bride, The 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (70960, null, 'YOUR NAME', null, null);  # 70960 Corpse Came C.O.D., The 1947
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (73574, null, 'YOUR NAME', null, null);  # 73574 Critters 3 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (74133, null, 'YOUR NAME', null, null);  # 74133 Crutch 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (74259, null, 'YOUR NAME', null, null);  # 74259 Cry-Baby 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (75646, null, 'YOUR NAME', null, null);  # 75646 Custodial Code, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (76231, null, 'YOUR NAME', null, null);  # 76231 D.I.Y. or Die: How to Survive as an Independent Artist 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (78183, null, 'YOUR NAME', null, null);  # 78183 Dangerous: The Short Films 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (78702, null, 'YOUR NAME', null, null);  # 78702 Dari Jemapoh ke Manchestee 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (78877, null, 'YOUR NAME', null, null);  # 78877 Dark Mist, The 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (79593, null, 'YOUR NAME', null, null);  # 79593 David Nelson Live 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (79678, null, 'YOUR NAME', null, null);  # 79678 Dawn of the Friend 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (79845, null, 'YOUR NAME', null, null);  # 79845 Day of the Evil Gun 1968
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (80969, null, 'YOUR NAME', null, null);  # 80969 Dear God 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (82868, null, 'YOUR NAME', null, null);  # 82868 Denk ich an Deutschland - Wir haben vergessen zurckzukehren 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (83470, null, 'YOUR NAME', null, null);  # 83470 Descent 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (85117, null, 'YOUR NAME', null, null);  # 85117 Devils Are Dreaming 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (85524, null, 'YOUR NAME', null, null);  # 85524 Dia  Nosso, O 1941
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (85871, null, 'YOUR NAME', null, null);  # 85871 Diamonds Are Forever 1971
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (86263, null, 'YOUR NAME', null, null);  # 86263 Die Another Day 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (86399, null, 'YOUR NAME', null, null);  # 86399 Dieses Jahr in Czernowitz 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (86807, null, 'YOUR NAME', null, null);  # 86807 Dimensia Minds Trilogy: The Reds 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (89441, null, 'YOUR NAME', null, null);  # 89441 Doki-Doki 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (89823, null, 'YOUR NAME', null, null);  # 89823 Domaine, Le 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (90837, null, 'YOUR NAME', null, null);  # 90837 Doodlebug 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (92323, null, 'YOUR NAME', null, null);  # 92323 Dozen Kliks, A 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (92406, null, 'YOUR NAME', null, null);  # 92406 Dr. Babasaheb Ambedkar 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (92573, null, 'YOUR NAME', null, null);  # 92573 Dr. No 1962
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (96193, null, 'YOUR NAME', null, null);  # 96193 Drive de l'Atlantic, La 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (93829, null, 'YOUR NAME', null, null);  # 93829 Driving Fish 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (96239, null, 'YOUR NAME', null, null);  # 96239 Dtachez vos ceintures 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (94741, null, 'YOUR NAME', null, null);  # 94741 Duel (1971/I) 1971
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (96593, null, 'YOUR NAME', null, null);  # 96593 E.T. the Extra-Terrestrial 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (96681, null, 'YOUR NAME', null, null);  # 96681 Earl's Your Uncle 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (97360, null, 'YOUR NAME', null, null);  # 97360 Ed Wood 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (97727, null, 'YOUR NAME', null, null);  # 97727 Edward Scissorhands 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (98681, null, 'YOUR NAME', null, null);  # 98681 El Mariachi: 10 Years Later 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (99633, null, 'YOUR NAME', null, null);  # 99633 Elysium 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (99875, null, 'YOUR NAME', null, null);  # 99875 Emigranti (2002/I) 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (100130, null, 'YOUR NAME', null, null);  # 100130 Empire of the Sun 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (100241, null, 'YOUR NAME', null, null);  # 100241 En attendant la cigogne 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (101687, null, 'YOUR NAME', null, null);  # 101687 Enter Achilles 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (102108, null, 'YOUR NAME', null, null);  # 102108 Epic at Sea: The Making of 'Pirates of the Caribbean: The Curse of the Black Pearl', An 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (102311, null, 'YOUR NAME', null, null);  # 102311 Era outra vez 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (103334, null, 'YOUR NAME', null, null);  # 103334 Escape to Nowhere 1961
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (103755, null, 'YOUR NAME', null, null);  # 103755 Espera, La 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (104266, null, 'YOUR NAME', null, null);  # 104266 Etat 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (104484, null, 'YOUR NAME', null, null);  # 104484 Eu Adam 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (105587, null, 'YOUR NAME', null, null);  # 105587 Examen 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (105697, null, 'YOUR NAME', null, null);  # 105697 Exec, The 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (105851, null, 'YOUR NAME', null, null);  # 105851 Exit to Eden 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (109421, null, 'YOUR NAME', null, null);  # 109421 Fast and the Furious, The 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (110509, null, 'YOUR NAME', null, null);  # 110509 Feel Neil 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (111963, null, 'YOUR NAME', null, null);  # 111963 Fidelio 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (112290, null, 'YOUR NAME', null, null);  # 112290 Fight Club 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (113459, null, 'YOUR NAME', null, null);  # 113459 Find Me Guilty 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (113506, null, 'YOUR NAME', null, null);  # 113506 Finding Neverland 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (113547, null, 'YOUR NAME', null, null);  # 113547 Fine Line Between Cute and Creepy, The 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (113814, null, 'YOUR NAME', null, null);  # 113814 Fire Inside, The 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (113931, null, 'YOUR NAME', null, null);  # 113931 Firelight 1964
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (114955, null, 'YOUR NAME', null, null);  # 114955 Flamingo Kid, The 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (116358, null, 'YOUR NAME', null, null);  # 116358 Focus 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (116556, null, 'YOUR NAME', null, null);  # 116556 Following 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (116829, null, 'YOUR NAME', null, null);  # 116829 Foot Shooting Party, The 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (117314, null, 'YOUR NAME', null, null);  # 117314 For Your Eyes Only 1981
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (117582, null, 'YOUR NAME', null, null);  # 117582 Foreigners out! Schlingensiefs Container 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (118367, null, 'YOUR NAME', null, null);  # 118367 Four Rooms 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (118980, null, 'YOUR NAME', null, null);  # 118980 Frankie and Johnny 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (119344, null, 'YOUR NAME', null, null);  # 119344 Freaks Uncensored! 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (120506, null, 'YOUR NAME', null, null);  # 120506 From Hell 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (120574, null, 'YOUR NAME', null, null);  # 120574 From Russia with Love 1963
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (120722, null, 'YOUR NAME', null, null);  # 120722 Fronterz 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (121552, null, 'YOUR NAME', null, null);  # 121552 Full Moon Rising 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (121852, null, 'YOUR NAME', null, null);  # 121852 Funny Thing Happened at the Quick Mart, A 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (121912, null, 'YOUR NAME', null, null);  # 121912 Fur Coats and Pants 1921
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (122277, null, 'YOUR NAME', null, null);  # 122277 Fyrsti aprl 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (123371, null, 'YOUR NAME', null, null);  # 123371 Game Day 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (123435, null, 'YOUR NAME', null, null);  # 123435 Game, The 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (123849, null, 'YOUR NAME', null, null);  # 123849 Gangs of New York 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (126144, null, 'YOUR NAME', null, null);  # 126144 Gerald L'Ecuyer: A Filmmaker's Journey 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (126792, null, 'YOUR NAME', null, null);  # 126792 Geudeulmanui sesang 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (129042, null, 'YOUR NAME', null, null);  # 129042 Giuseppe Verdi: Messa da Requiem 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (129185, null, 'YOUR NAME', null, null);  # 129185 Gladiator 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (129887, null, 'YOUR NAME', null, null);  # 129887 Goal Club 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (130945, null, 'YOUR NAME', null, null);  # 130945 GoldenEye 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (130953, null, 'YOUR NAME', null, null);  # 130953 Goldfinger 1964
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (131780, null, 'YOUR NAME', null, null);  # 131780 Goodfellas 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (131885, null, 'YOUR NAME', null, null);  # 131885 Goonies, The 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (133608, null, 'YOUR NAME', null, null);  # 133608 Great Gabble, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (134675, null, 'YOUR NAME', null, null);  # 134675 Grounds for Marriage 1951
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (134676, null, 'YOUR NAME', null, null);  # 134676 Grounds for Murder 1930
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (134677, null, 'YOUR NAME', null, null);  # 134677 Groundspeed - Ein Film ber das Hin und Her 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (134680, null, 'YOUR NAME', null, null);  # 134680 Group 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (137709, null, 'YOUR NAME', null, null);  # 137709 Halo 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (137958, null, 'YOUR NAME', null, null);  # 137958 Hammer and Cycle 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (138142, null, 'YOUR NAME', null, null);  # 138142 Hand of Fate 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139650, null, 'YOUR NAME', null, null);  # 139650 Harry Potter and the Chamber of Secrets 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139651, null, 'YOUR NAME', null, null);  # 139651 Harry Potter and the Chamber of Secrets (2002/II) 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139652, null, 'YOUR NAME', null, null);  # 139652 Harry Potter and the Goblet of Fire 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139653, null, 'YOUR NAME', null, null);  # 139653 Harry Potter and the Half-Blood Prince 2008
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139654, null, 'YOUR NAME', null, null);  # 139654 Harry Potter and the Order of the Phoenix 2007
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139655, null, 'YOUR NAME', null, null);  # 139655 Harry Potter and the Prisoner of Azkaban 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139657, null, 'YOUR NAME', null, null);  # 139657 Harry Potter and the Sorcerer's Stone 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (141779, null, 'YOUR NAME', null, null);  # 141779 Hector Berlioz: Te Deum 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (142491, null, 'YOUR NAME', null, null);  # 142491 Hellboy 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (142492, null, 'YOUR NAME', null, null);  # 142492 Hellboy 2 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (142881, null, 'YOUR NAME', null, null);  # 142881 Henry and Marvin 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (143582, null, 'YOUR NAME', null, null);  # 143582 Here Comes Dr. Tran 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (146415, null, 'YOUR NAME', null, null);  # 146415 Histoire(s) 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (146758, null, 'YOUR NAME', null, null);  # 146758 Hit the Highway, Honey 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (146943, null, 'YOUR NAME', null, null);  # 146943 Hitting Zero 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (147936, null, 'YOUR NAME', null, null);  # 147936 Holocaust szemei, A 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (148614, null, 'YOUR NAME', null, null);  # 148614 Hommage  Rossini 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (149287, null, 'YOUR NAME', null, null);  # 149287 Hook 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (151616, null, 'YOUR NAME', null, null);  # 151616 How to Lose a Guy in 10 Days 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (152856, null, 'YOUR NAME', null, null);  # 152856 Hungry 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (153301, null, 'YOUR NAME', null, null);  # 153301 Huttyn 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (154847, null, 'YOUR NAME', null, null);  # 154847 I'd Rather Be in Philadelphia 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (155201, null, 'YOUR NAME', null, null);  # 155201 Icarus Descending 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (155814, null, 'YOUR NAME', null, null);  # 155814 If 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (157132, null, 'YOUR NAME', null, null);  # 157132 Imperfect Solution: A Tale of the Re-Animator, An 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (157702, null, 'YOUR NAME', null, null);  # 157702 In Good Conscience: Sister Jeannine Gramick's Journey of Faith 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (158508, null, 'YOUR NAME', null, null);  # 158508 In Their Absence 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (158999, null, 'YOUR NAME', null, null);  # 158999 Independence Day 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159167, null, 'YOUR NAME', null, null);  # 159167 Indiana Jones 4 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159172, null, 'YOUR NAME', null, null);  # 159172 Indiana Jones and the Last Crusade 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159175, null, 'YOUR NAME', null, null);  # 159175 Indiana Jones and the Temple of Doom 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159665, null, 'YOUR NAME', null, null);  # 159665 Inglorious Bastards 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (160250, null, 'YOUR NAME', null, null);  # 160250 Inseguito 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (160375, null, 'YOUR NAME', null, null);  # 160375 Inside Moves 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (160524, null, 'YOUR NAME', null, null);  # 160524 Insomnia 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (161705, null, 'YOUR NAME', null, null);  # 161705 Inuyasha - Tenka hadou no ken 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (162380, null, 'YOUR NAME', null, null);  # 162380 Iron Man 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (163430, null, 'YOUR NAME', null, null);  # 163430 It's a Cruel World 1918
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (163571, null, 'YOUR NAME', null, null);  # 163571 It's Just Coffee 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (164572, null, 'YOUR NAME', null, null);  # 164572 Jackie Brown 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (165961, null, 'YOUR NAME', null, null);  # 165961 Jaws 1975
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (166459, null, 'YOUR NAME', null, null);  # 166459 Jeena Yahan 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (168725, null, 'YOUR NAME', null, null);  # 168725 Johnny Ostrich and His American Songbag 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (168745, null, 'YOUR NAME', null, null);  # 168745 Johnny the Amazing Firetruck 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (168854, null, 'YOUR NAME', null, null);  # 168854 Joker 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (170598, null, 'YOUR NAME', null, null);  # 170598 Junction 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (170721, null, 'YOUR NAME', null, null);  # 170721 Jungle Book 2, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (170875, null, 'YOUR NAME', null, null);  # 170875 Junk Drawer 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (171305, null, 'YOUR NAME', null, null);  # 171305 Just Weeds 1945
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (173215, null, 'YOUR NAME', null, null);  # 173215 Kan Zeh Lo Sham 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (174953, null, 'YOUR NAME', null, null);  # 174953 Kaze no tani no Naushika 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (175872, null, 'YOUR NAME', null, null);  # 175872 Khachaturian 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (175873, null, 'YOUR NAME', null, null);  # 175873 Khachaturian Piano Concerto 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (175875, null, 'YOUR NAME', null, null);  # 175875 Khadaini abi 1951
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (175879, null, 'YOUR NAME', null, null);  # 175879 Khadgam 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (175880, null, 'YOUR NAME', null, null);  # 175880 Khadra wa Sindibad el khebli 1952
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (175881, null, 'YOUR NAME', null, null);  # 175881 Khadzhi murat 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (175883, null, 'YOUR NAME', null, null);  # 175883 Khagher 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176711, null, 'YOUR NAME', null, null);  # 176711 Kill Bill: Vol. 1 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176712, null, 'YOUR NAME', null, null);  # 176712 Kill Bill: Vol. 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176749, null, 'YOUR NAME', null, null);  # 176749 Kill the Messenger 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176923, null, 'YOUR NAME', null, null);  # 176923 Killing Babies 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (177369, null, 'YOUR NAME', null, null);  # 177369 King of Comedy, The 1983
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (178994, null, 'YOUR NAME', null, null);  # 178994 Knockaround Guys 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (179177, null, 'YOUR NAME', null, null);  # 179177 Kobi V'Mali 1978
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (181766, null, 'YOUR NAME', null, null);  # 181766 Kundun 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (181924, null, 'YOUR NAME', null, null);  # 181924 Kunwara Baap 1942
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (183370, null, 'YOUR NAME', null, null);  # 183370 Ladies in Lavender 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (183837, null, 'YOUR NAME', null, null);  # 183837 Lady Warriors 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (183873, null, 'YOUR NAME', null, null);  # 183873 Ladyhawke 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (185161, null, 'YOUR NAME', null, null);  # 185161 Last Conversation 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (185176, null, 'YOUR NAME', null, null);  # 185176 Last Dance 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (185306, null, 'YOUR NAME', null, null);  # 185306 Last Gun, The 1959
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (185628, null, 'YOUR NAME', null, null);  # 185628 Last Samurai, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (185704, null, 'YOUR NAME', null, null);  # 185704 Last Temptation of Christ, The 1988
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (185957, null, 'YOUR NAME', null, null);  # 185957 Latitude Zero 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (186732, null, 'YOUR NAME', null, null);  # 186732 Learning to Swim 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (187492, null, 'YOUR NAME', null, null);  # 187492 Legkisebb film a legnagyobb magyarrl, avagy ha nincs kz nincs csoki 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188427, null, 'YOUR NAME', null, null);  # 188427 Let's Rock Again! 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188507, null, 'YOUR NAME', null, null);  # 188507 Lethal Weapon 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188509, null, 'YOUR NAME', null, null);  # 188509 Lethal Weapon 2 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188510, null, 'YOUR NAME', null, null);  # 188510 Lethal Weapon 3 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188511, null, 'YOUR NAME', null, null);  # 188511 Lethal Weapon 4 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (189403, null, 'YOUR NAME', null, null);  # 189403 Licence to Kill 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (190677, null, 'YOUR NAME', null, null);  # 190677 Like a Lady 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (190869, null, 'YOUR NAME', null, null);  # 190869 Lilo & Stitch 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (192514, null, 'YOUR NAME', null, null);  # 192514 Live and Let Die 1973
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (192702, null, 'YOUR NAME', null, null);  # 192702 Living Daylights, The 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (192850, null, 'YOUR NAME', null, null);  # 192850 Lizzie 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194313, null, 'YOUR NAME', null, null);  # 194313 Looking Out 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194492, null, 'YOUR NAME', null, null);  # 194492 Lord of the Rings 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194495, null, 'YOUR NAME', null, null);  # 194495 Lord of the Rings: Return of the King, The (2003/II) 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194496, null, 'YOUR NAME', null, null);  # 194496 Lord of the Rings: The Battle for Middle-Earth, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194497, null, 'YOUR NAME', null, null);  # 194497 Lord of the Rings: The Fellowship of the Ring, The 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194498, null, 'YOUR NAME', null, null);  # 194498 Lord of the Rings: The Fellowship of the Ring, The 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194499, null, 'YOUR NAME', null, null);  # 194499 Lord of the Rings: The Quest Fulfilled, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194500, null, 'YOUR NAME', null, null);  # 194500 Lord of the Rings: The Return of the King, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194501, null, 'YOUR NAME', null, null);  # 194501 Lord of the Rings: The Third Age 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194502, null, 'YOUR NAME', null, null);  # 194502 Lord of the Rings: The Two Towers, The 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194503, null, 'YOUR NAME', null, null);  # 194503 Lord of the Rings: The Two Towers, The (2002/II) 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194504, null, 'YOUR NAME', null, null);  # 194504 Lord of the Rings: The War of the Ring, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (195081, null, 'YOUR NAME', null, null);  # 195081 Lottery, The 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (378373, null, 'YOUR NAME', null, null);  # 378373 ltima llamada, La (1996/I) 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (196711, null, 'YOUR NAME', null, null);  # 196711 Lucas Tanner 1974
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (197030, null, 'YOUR NAME', null, null);  # 197030 Lucky Three an Elliott Smith Portrait 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (197927, null, 'YOUR NAME', null, null);  # 197927 Lux aeterna - Claudio Abbado bei den Proben von Verdis Missa da Requiem 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (198835, null, 'YOUR NAME', null, null);  # 198835 Macabre Pair of Shorts 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (199529, null, 'YOUR NAME', null, null);  # 199529 Made Incorrect 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (199763, null, 'YOUR NAME', null, null);  # 199763 Madonna: The Immaculate Collection 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (199764, null, 'YOUR NAME', null, null);  # 199764 Madonna: The Video Collection 93:99 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (200340, null, 'YOUR NAME', null, null);  # 200340 Magical Time Traveling Thugtastic Jug, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (200521, null, 'YOUR NAME', null, null);  # 200521 Magnolia 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (200864, null, 'YOUR NAME', null, null);  # 200864 Maid in Manhattan 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (203481, null, 'YOUR NAME', null, null);  # 203481 Man Who Could Cheat Death, The 1959
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (203649, null, 'YOUR NAME', null, null);  # 203649 Man with the Golden Gun, The 1974
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (205782, null, 'YOUR NAME', null, null);  # 205782 Marienthal: State of Emergency 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (207645, null, 'YOUR NAME', null, null);  # 207645 Matanza 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (208245, null, 'YOUR NAME', null, null);  # 208245 Maverick 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (209158, null, 'YOUR NAME', null, null);  # 209158 Mean Streets 1973
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (209659, null, 'YOUR NAME', null, null);  # 209659 Meet the People 1941
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (210511, null, 'YOUR NAME', null, null);  # 210511 Memento 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (210615, null, 'YOUR NAME', null, null);  # 210615 Memories of Famous Hollywood Comedians 1952
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (210739, null, 'YOUR NAME', null, null);  # 210739 Men in Black 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (211757, null, 'YOUR NAME', null, null);  # 211757 Message From Moonbase Alpha 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (212104, null, 'YOUR NAME', null, null);  # 212104 Metropolitan 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (213772, null, 'YOUR NAME', null, null);  # 213772 Milagro of Boyle Heights, The 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (214259, null, 'YOUR NAME', null, null);  # 214259 Milton Is a Shitbag 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (214632, null, 'YOUR NAME', null, null);  # 214632 Minha Vida em Suas Mos 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (214755, null, 'YOUR NAME', null, null);  # 214755 Minority Report 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215708, null, 'YOUR NAME', null, null);  # 215708 Missed Call 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215875, null, 'YOUR NAME', null, null);  # 215875 Mission: Impossible 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215876, null, 'YOUR NAME', null, null);  # 215876 Mission: Impossible 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215877, null, 'YOUR NAME', null, null);  # 215877 Mission: Impossible 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215878, null, 'YOUR NAME', null, null);  # 215878 Mission: Impossible - Operation Surma 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215879, null, 'YOUR NAME', null, null);  # 215879 Mission: Impossible II 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215880, null, 'YOUR NAME', null, null);  # 215880 Mission: Impossible III 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215881, null, 'YOUR NAME', null, null);  # 215881 Mission: Improbable 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (225735, null, 'YOUR NAME', null, null);  # 225735 Mnchen - Geheimnisse einer Stadt 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (218174, null, 'YOUR NAME', null, null);  # 218174 Monkey's Paw, The 1938
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (218219, null, 'YOUR NAME', null, null);  # 218219 Mononoke-hime 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (218776, null, 'YOUR NAME', null, null);  # 218776 Moonlight by the Sea 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (218808, null, 'YOUR NAME', null, null);  # 218808 Moonraker 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (219762, null, 'YOUR NAME', null, null);  # 219762 Most Boring Woman in the World, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (220245, null, 'YOUR NAME', null, null);  # 220245 Mou mian bi 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (220276, null, 'YOUR NAME', null, null);  # 220276 Moulin Rouge! 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (220641, null, 'YOUR NAME', null, null);  # 220641 Moving Illustrations of Machines 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (220805, null, 'YOUR NAME', null, null);  # 220805 Mr. and Mrs. Smith 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (223486, null, 'YOUR NAME', null, null);  # 223486 Mutterlied 1938
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (223499, null, 'YOUR NAME', null, null);  # 223499 Mutual Admiration Society 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (224827, null, 'YOUR NAME', null, null);  # 224827 Mystic Hour, The 1917
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (226964, null, 'YOUR NAME', null, null);  # 226964 Naked Laura 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (227377, null, 'YOUR NAME', null, null);  # 227377 Nandi 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (230568, null, 'YOUR NAME', null, null);  # 230568 New Clear Farm 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (230947, null, 'YOUR NAME', null, null);  # 230947 New York Stories 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (230963, null, 'YOUR NAME', null, null);  # 230963 New York, New York 1977
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (231053, null, 'YOUR NAME', null, null);  # 231053 News of the Day 1952
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (231917, null, 'YOUR NAME', null, null);  # 231917 Night Gallery 1969
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (231994, null, 'YOUR NAME', null, null);  # 231994 Night Light 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (232019, null, 'YOUR NAME', null, null);  # 232019 Night of a Thousand Screams 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (233058, null, 'YOUR NAME', null, null);  # 233058 Ninth Gate, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (234123, null, 'YOUR NAME', null, null);  # 234123 Noah's Arc 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (235615, null, 'YOUR NAME', null, null);  # 235615 Nothing in Common 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (236116, null, 'YOUR NAME', null, null);  # 236116 Now You Don't Know What to Think 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (237030, null, 'YOUR NAME', null, null);  # 237030 NY, the Lost Civilization 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (238072, null, 'YOUR NAME', null, null);  # 238072 Ocean's Eleven 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (238073, null, 'YOUR NAME', null, null);  # 238073 Ocean's Twelve 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (238658, null, 'YOUR NAME', null, null);  # 238658 Offering, The 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (239387, null, 'YOUR NAME', null, null);  # 239387 Okkadu 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (240327, null, 'YOUR NAME', null, null);  # 240327 Omen, The 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (240521, null, 'YOUR NAME', null, null);  # 240521 On Her Majesty's Secret Service 1969
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (241311, null, 'YOUR NAME', null, null);  # 241311 One Dog Day 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (241620, null, 'YOUR NAME', null, null);  # 241620 One of Five 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (242530, null, 'YOUR NAME', null, null);  # 242530 Open Season 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (242702, null, 'YOUR NAME', null, null);  # 242702 Operation 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (243587, null, 'YOUR NAME', null, null);  # 243587 Original Schtick 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (244421, null, 'YOUR NAME', null, null);  # 244421 Other Sister, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (244851, null, 'YOUR NAME', null, null);  # 244851 Our House: A Very Real Documentary About Kids of Gay & Lesbian Parents 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (245009, null, 'YOUR NAME', null, null);  # 245009 Out Done 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (245183, null, 'YOUR NAME', null, null);  # 245183 Out of the Rain 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (245699, null, 'YOUR NAME', null, null);  # 245699 Overboard 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (247301, null, 'YOUR NAME', null, null);  # 247301 Pamplemousse 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (247579, null, 'YOUR NAME', null, null);  # 247579 Panic Room 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (247849, null, 'YOUR NAME', null, null);  # 247849 Pantalones 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (248090, null, 'YOUR NAME', null, null);  # 248090 Paper Clips 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (251234, null, 'YOUR NAME', null, null);  # 251234 Payback 1988
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (251690, null, 'YOUR NAME', null, null);  # 251690 Pederastia 96 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (251718, null, 'YOUR NAME', null, null);  # 251718 Pedro Diabo Ama Rosa Meia-Noite 1969
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (253010, null, 'YOUR NAME', null, null);  # 253010 Perfect World, A 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (254128, null, 'YOUR NAME', null, null);  # 254128 Petite morte, La 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (254662, null, 'YOUR NAME', null, null);  # 254662 Philbert (Three's a Crowd) 1963
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (255337, null, 'YOUR NAME', null, null);  # 255337 Picture People No. 10: Hollywood at Home 1942
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256627, null, 'YOUR NAME', null, null);  # 256627 Pirates of Silicon Valley 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256631, null, 'YOUR NAME', null, null);  # 256631 Pirates of the Caribbean 2 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256632, null, 'YOUR NAME', null, null);  # 256632 Pirates of the Caribbean: The Curse of the Black Pearl 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256839, null, 'YOUR NAME', null, null);  # 256839 Pitch Black 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (257744, null, 'YOUR NAME', null, null);  # 257744 Playing by Heart 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (258132, null, 'YOUR NAME', null, null);  # 258132 Plenilunio 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (258874, null, 'YOUR NAME', null, null);  # 258874 Point Five 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (258948, null, 'YOUR NAME', null, null);  # 258948 Poison Ivy 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (259529, null, 'YOUR NAME', null, null);  # 259529 Polizeiruf 110 - Die Spur des 13. Apostels 1983
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (259826, null, 'YOUR NAME', null, null);  # 259826 Poltergeist 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (261504, null, 'YOUR NAME', null, null);  # 261504 Postal Branco, O 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (261532, null, 'YOUR NAME', null, null);  # 261532 Postcards from the Future: The Chuck Palahniuk Documentary 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (263076, null, 'YOUR NAME', null, null);  # 263076 Prescription for Murder 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (263360, null, 'YOUR NAME', null, null);  # 263360 Pretty Woman 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (263403, null, 'YOUR NAME', null, null);  # 263403 Prezident i yego vnuchka 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (263443, null, 'YOUR NAME', null, null);  # 263443 Price for Peace 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (264084, null, 'YOUR NAME', null, null);  # 264084 Prince Solitaire 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (264157, null, 'YOUR NAME', null, null);  # 264157 Princess Diaries 2: Royal Engagement, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (264363, null, 'YOUR NAME', null, null);  # 264363 Pripyat 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (266446, null, 'YOUR NAME', null, null);  # 266446 Prncipe, O 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (265104, null, 'YOUR NAME', null, null);  # 265104 Problem Girls 1953
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (265273, null, 'YOUR NAME', null, null);  # 265273 Prodigy, The 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (267038, null, 'YOUR NAME', null, null);  # 267038 Pulp Fiction 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (267066, null, 'YOUR NAME', null, null);  # 267066 Pulso, O 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (268034, null, 'YOUR NAME', null, null);  # 268034 Puzzle, The 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (269149, null, 'YOUR NAME', null, null);  # 269149 Quatre instituteurs 1961
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (270134, null, 'YOUR NAME', null, null);  # 270134 R.I.P., Rest in Pieces 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (270628, null, 'YOUR NAME', null, null);  # 270628 Radio Flyer 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (270971, null, 'YOUR NAME', null, null);  # 270971 Raging Bull 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (271095, null, 'YOUR NAME', null, null);  # 271095 Raiders of the Lost Ark 1981
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (271199, null, 'YOUR NAME', null, null);  # 271199 Rain, Drizzle, and Fog 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (271344, null, 'YOUR NAME', null, null);  # 271344 Raising Helen 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (272877, null, 'YOUR NAME', null, null);  # 272877 Raven, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (273164, null, 'YOUR NAME', null, null);  # 273164 Re-Membering Jack 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (274677, null, 'YOUR NAME', null, null);  # 274677 Reflections of a Life 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (276217, null, 'YOUR NAME', null, null);  # 276217 Reservoir Dogs 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (277448, null, 'YOUR NAME', null, null);  # 277448 Rhapsody in Blue 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (277589, null, 'YOUR NAME', null, null);  # 277589 Ribelli per caso 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (277703, null, 'YOUR NAME', null, null);  # 277703 Richard Roe 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (277853, null, 'YOUR NAME', null, null);  # 277853 Ride 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (277923, null, 'YOUR NAME', null, null);  # 277923 Ride, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (277945, null, 'YOUR NAME', null, null);  # 277945 Rider Pride 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (279594, null, 'YOUR NAME', null, null);  # 279594 Robbers 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (279751, null, 'YOUR NAME', null, null);  # 279751 Robin Hood, Jr. 1923
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280270, null, 'YOUR NAME', null, null);  # 280270 Rocky 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280281, null, 'YOUR NAME', null, null);  # 280281 Rocky II 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280282, null, 'YOUR NAME', null, null);  # 280282 Rocky III 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280284, null, 'YOUR NAME', null, null);  # 280284 Rocky IV 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280305, null, 'YOUR NAME', null, null);  # 280305 Rocky V 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280306, null, 'YOUR NAME', null, null);  # 280306 Rocky VI 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (282161, null, 'YOUR NAME', null, null);  # 282161 Rot und blau 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (283196, null, 'YOUR NAME', null, null);  # 283196 Rules, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (283410, null, 'YOUR NAME', null, null);  # 283410 Runaway Bride 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (286243, null, 'YOUR NAME', null, null);  # 286243 Salt and Pepper 1968
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (287501, null, 'YOUR NAME', null, null);  # 287501 Sanhedrin 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (288107, null, 'YOUR NAME', null, null);  # 288107 Sarah T. - Portrait of a Teenage Alcoholic 1975
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (288493, null, 'YOUR NAME', null, null);  # 288493 Satanic Rites of Dracula, The 1974
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (288904, null, 'YOUR NAME', null, null);  # 288904 Savage (1973/I) 1973
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (289109, null, 'YOUR NAME', null, null);  # 289109 Saving Private Ryan 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (289646, null, 'YOUR NAME', null, null);  # 289646 Scarmour 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (289842, null, 'YOUR NAME', null, null);  # 289842 Schalkse ruiters 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (290070, null, 'YOUR NAME', null, null);  # 290070 Schindler's List 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (290924, null, 'YOUR NAME', null, null);  # 290924 Scomparsa 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (291323, null, 'YOUR NAME', null, null);  # 291323 Screen Snapshots No. 8: Looking Back 1946
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (291355, null, 'YOUR NAME', null, null);  # 291355 Screen Snapshots: Hollywood Grows Up 1954
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (291389, null, 'YOUR NAME', null, null);  # 291389 Screen Snapshots: Motion Picture Mothers, Inc. 1949
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (291436, null, 'YOUR NAME', null, null);  # 291436 Screw 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (291495, null, 'YOUR NAME', null, null);  # 291495 Scrooged 1988
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (291698, null, 'YOUR NAME', null, null);  # 291698 Se7en 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (292434, null, 'YOUR NAME', null, null);  # 292434 Secret Journal of Benny Travis, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (292671, null, 'YOUR NAME', null, null);  # 292671 Secret Window 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (294142, null, 'YOUR NAME', null, null);  # 294142 Senior Year 1974
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (295261, null, 'YOUR NAME', null, null);  # 295261 Sevda heit Liebe 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (296755, null, 'YOUR NAME', null, null);  # 296755 Shadow in the Streets, A 1975
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (297032, null, 'YOUR NAME', null, null);  # 297032 Shaheed-E-Mohabbat 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (297838, null, 'YOUR NAME', null, null);  # 297838 Shawshank Redemption, The 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (298884, null, 'YOUR NAME', null, null);  # 298884 Shimotsuma monogatari 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (299533, null, 'YOUR NAME', null, null);  # 299533 Shoe Store, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300096, null, 'YOUR NAME', null, null);  # 300096 Show Me Your Tattoo 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300229, null, 'YOUR NAME', null, null);  # 300229 Shrek 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300230, null, 'YOUR NAME', null, null);  # 300230 Shrek 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300233, null, 'YOUR NAME', null, null);  # 300233 Shrek 4-D 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300509, null, 'YOUR NAME', null, null);  # 300509 Shusse taikoki 1938
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300534, null, 'YOUR NAME', null, null);  # 300534 Shut-Eye 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300680, null, 'YOUR NAME', null, null);  # 300680 Si me levanto y no ests me sacar los ojos 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300762, null, 'YOUR NAME', null, null);  # 300762 Si' Laraby 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (301059, null, 'YOUR NAME', null, null);  # 301059 Sieg, Der 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (301924, null, 'YOUR NAME', null, null);  # 301924 Silver Bells 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (302296, null, 'YOUR NAME', null, null);  # 302296 Simulacra 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (304862, null, 'YOUR NAME', null, null);  # 304862 Sleepy Hollow 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (305079, null, 'YOUR NAME', null, null);  # 305079 Slipstream 1967
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (306032, null, 'YOUR NAME', null, null);  # 306032 Snatch. 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (308025, null, 'YOUR NAME', null, null);  # 308025 Someone to Watch Over Me 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (308057, null, 'YOUR NAME', null, null);  # 308057 Something Evil 1972
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (310168, null, 'YOUR NAME', null, null);  # 310168 Space Station 3D 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (310759, null, 'YOUR NAME', null, null);  # 310759 Speed Limit 1926
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311036, null, 'YOUR NAME', null, null);  # 311036 Spider-Man 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311037, null, 'YOUR NAME', null, null);  # 311037 Spider-Man 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311038, null, 'YOUR NAME', null, null);  # 311038 Spider-Man 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311040, null, 'YOUR NAME', null, null);  # 311040 Spider-Man 3 2007
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311428, null, 'YOUR NAME', null, null);  # 311428 Splash 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311604, null, 'YOUR NAME', null, null);  # 311604 SpongeBob SquarePants: Legend of the Lost Spatula 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311606, null, 'YOUR NAME', null, null);  # 311606 SpongeBob SquarePants: Revenge of the Flying Dutchman 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311607, null, 'YOUR NAME', null, null);  # 311607 SpongeBob SquarePants: SuperSponge 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312150, null, 'YOUR NAME', null, null);  # 312150 Spy Kids 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312151, null, 'YOUR NAME', null, null);  # 312151 Spy Kids 2: Island of Lost Dreams 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312152, null, 'YOUR NAME', null, null);  # 312152 Spy Kids 3-D: Game Over 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312170, null, 'YOUR NAME', null, null);  # 312170 Spy Who Loved Me, The 1977
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312473, null, 'YOUR NAME', null, null);  # 312473 Sretno dijete 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312678, null, 'YOUR NAME', null, null);  # 312678 Staccato Purr of the Exhaust 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313160, null, 'YOUR NAME', null, null);  # 313160 Stanley Kubrick: A Life in Pictures 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313294, null, 'YOUR NAME', null, null);  # 313294 Star Dreamer, The 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313464, null, 'YOUR NAME', null, null);  # 313464 Star Wars Rogue Leader: Rogue Squadron 2 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313474, null, 'YOUR NAME', null, null);  # 313474 Star Wars: Episode I - The Phantom Menace 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313475, null, 'YOUR NAME', null, null);  # 313475 Star Wars: Episode I - The Phantom Menace (1999/II) 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313476, null, 'YOUR NAME', null, null);  # 313476 Star Wars: Episode II - Attack of the Clones 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313477, null, 'YOUR NAME', null, null);  # 313477 Star Wars: Episode III - Revenge of the Sith 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313478, null, 'YOUR NAME', null, null);  # 313478 Star Wars: Episode V - The Empire Strikes Back 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313479, null, 'YOUR NAME', null, null);  # 313479 Star Wars: Episode VI - Return of the Jedi 1983
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313485, null, 'YOUR NAME', null, null);  # 313485 Star Wars: Jedi Knight - Jedi Academy 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313486, null, 'YOUR NAME', null, null);  # 313486 Star Wars: Jedi Knight - Mysteries of the Sith 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313487, null, 'YOUR NAME', null, null);  # 313487 Star Wars: Jedi Knight II - Jedi Outcast 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313488, null, 'YOUR NAME', null, null);  # 313488 Star Wars: Jedi Starfighter 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313489, null, 'YOUR NAME', null, null);  # 313489 Star Wars: Knights of the Old Republic 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313493, null, 'YOUR NAME', null, null);  # 313493 Star Wars: Racer Revenge 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313498, null, 'YOUR NAME', null, null);  # 313498 Star Wars: Rogue Squadron 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313503, null, 'YOUR NAME', null, null);  # 313503 Star Wars: The Clone Wars 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313504, null, 'YOUR NAME', null, null);  # 313504 Star Wars: The Empire Strikes Back 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313506, null, 'YOUR NAME', null, null);  # 313506 Star Wars: X-Wing 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313508, null, 'YOUR NAME', null, null);  # 313508 Star Wars: X-Wing vs. TIE Fighter 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (314618, null, 'YOUR NAME', null, null);  # 314618 Steven Spielberg's Director's Chair 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (316511, null, 'YOUR NAME', null, null);  # 316511 Stray Glance, A 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (318388, null, 'YOUR NAME', null, null);  # 318388 Sugarland Express, The 1974
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (319027, null, 'YOUR NAME', null, null);  # 319027 Sunday Morning 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (319404, null, 'YOUR NAME', null, null);  # 319404 Super Jesus 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (319602, null, 'YOUR NAME', null, null);  # 319602 Superman 1978
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (319613, null, 'YOUR NAME', null, null);  # 319613 Superman II 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (319710, null, 'YOUR NAME', null, null);  # 319710 Superstition 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (320303, null, 'YOUR NAME', null, null);  # 320303 Suspension of Disbelief 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (320669, null, 'YOUR NAME', null, null);  # 320669 Sveto mesto 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (321797, null, 'YOUR NAME', null, null);  # 321797 Sylvia, rimembri ancora? 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (322934, null, 'YOUR NAME', null, null);  # 322934 Tag der Befreiung, Der 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (323509, null, 'YOUR NAME', null, null);  # 323509 Taken for a Ride 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (324576, null, 'YOUR NAME', null, null);  # 324576 TankUp.US 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (325277, null, 'YOUR NAME', null, null);  # 325277 Taste the Sweat! 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (325286, null, 'YOUR NAME', null, null);  # 325286 Tasty 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (326155, null, 'YOUR NAME', null, null);  # 326155 Taxi Driver 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (326384, null, 'YOUR NAME', null, null);  # 326384 Tea with Tiffany 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (328272, null, 'YOUR NAME', null, null);  # 328272 Terminal, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (328666, null, 'YOUR NAME', null, null);  # 328666 Terry Tate, Office Linebacker 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (328681, null, 'YOUR NAME', null, null);  # 328681 Terugkeek, De 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (329880, null, 'YOUR NAME', null, null);  # 329880 Then There Were None 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (330670, null, 'YOUR NAME', null, null);  # 330670 This Boy's Life 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (332209, null, 'YOUR NAME', null, null);  # 332209 Thrse: The Story of Saint Thrse of Lisieux 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (332065, null, 'YOUR NAME', null, null);  # 332065 Thunderball 1965
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (332760, null, 'YOUR NAME', null, null);  # 332760 Tiger (1997/II) 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (333398, null, 'YOUR NAME', null, null);  # 333398 Timekeeper, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (333856, null, 'YOUR NAME', null, null);  # 333856 Titanic 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (333849, null, 'YOUR NAME', null, null);  # 333849 Titanic 1915
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (343548, null, 'YOUR NAME', null, null);  # 343548 Tlvision nous encule, La 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (343738, null, 'YOUR NAME', null, null);  # 343738 Tneis da Realidade, Os 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (334747, null, 'YOUR NAME', null, null);  # 334747 Together & Alone 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (335266, null, 'YOUR NAME', null, null);  # 335266 Tomer Ve-Hasrutim 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (335336, null, 'YOUR NAME', null, null);  # 335336 Tomorrow Never Dies 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (335337, null, 'YOUR NAME', null, null);  # 335337 Tomorrow Never Dies 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (335353, null, 'YOUR NAME', null, null);  # 335353 Tomorrow's Memoir 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (335592, null, 'YOUR NAME', null, null);  # 335592 Too Good to Be True (1997/I) 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (335835, null, 'YOUR NAME', null, null);  # 335835 Top Gun 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (336445, null, 'YOUR NAME', null, null);  # 336445 Total Eclipse 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (336446, null, 'YOUR NAME', null, null);  # 336446 Total Eclipse (1995/II) 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (336482, null, 'YOUR NAME', null, null);  # 336482 Totally Gayer 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (336555, null, 'YOUR NAME', null, null);  # 336555 Toto leto doma 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (337166, null, 'YOUR NAME', null, null);  # 337166 Toy Story 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (338478, null, 'YOUR NAME', null, null);  # 338478 Travail 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (378025, null, 'YOUR NAME', null, null);  # 378025 tre avec 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (340271, null, 'YOUR NAME', null, null);  # 340271 Trollywood 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (340652, null, 'YOUR NAME', null, null);  # 340652 Troy 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (342512, null, 'YOUR NAME', null, null);  # 342512 Twilight Zone: The Movie 1983
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (342797, null, 'YOUR NAME', null, null);  # 342797 Two Days with Juliet 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (345483, null, 'YOUR NAME', null, null);  # 345483 Un soir de pluie 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (346916, null, 'YOUR NAME', null, null);  # 346916 Unfinished Journey, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (347834, null, 'YOUR NAME', null, null);  # 347834 Unterwegs in die nchste Dimension 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (349375, null, 'YOUR NAME', null, null);  # 349375 V zru krlovsk lsky 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (350176, null, 'YOUR NAME', null, null);  # 350176 Vampire Brides 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (350187, null, 'YOUR NAME', null, null);  # 350187 Vampire Hookers 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (350189, null, 'YOUR NAME', null, null);  # 350189 Vampire Hunter D 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (350424, null, 'YOUR NAME', null, null);  # 350424 Vanilla Sky 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (351705, null, 'YOUR NAME', null, null);  # 351705 Vengeance 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (352855, null, 'YOUR NAME', null, null);  # 352855 Vestido, O 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (353772, null, 'YOUR NAME', null, null);  # 353772 Vidhaata 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (353792, null, 'YOUR NAME', null, null);  # 353792 Vidrar vel til loftrsa 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (354178, null, 'YOUR NAME', null, null);  # 354178 View to a Kill, A 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (355356, null, 'YOUR NAME', null, null);  # 355356 Visionary, The 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (359297, null, 'YOUR NAME', null, null);  # 359297 War of the Worlds 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (359333, null, 'YOUR NAME', null, null);  # 359333 War Symphonies - Sjostakovitsj 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (359507, null, 'YOUR NAME', null, null);  # 359507 Warpath 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (359744, null, 'YOUR NAME', null, null);  # 359744 Washington Interns Gone Bad 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (360667, null, 'YOUR NAME', null, null);  # 360667 Wedding Advice: Speak Now or Forever Hold Your Peace 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (361580, null, 'YOUR NAME', null, null);  # 361580 Wesland 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (361986, null, 'YOUR NAME', null, null);  # 361986 Wette, Die 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (362473, null, 'YOUR NAME', null, null);  # 362473 What's a Nice Girl Like You Doing in a Place Like This? 1963
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (363117, null, 'YOUR NAME', null, null);  # 363117 When the Kids Are Away 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (363633, null, 'YOUR NAME', null, null);  # 363633 Whirlpool, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (363902, null, 'YOUR NAME', null, null);  # 363902 White Like Me 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (366967, null, 'YOUR NAME', null, null);  # 366967 Without You (1999/I) 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (368418, null, 'YOUR NAME', null, null);  # 368418 World Is Not Enough, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (368419, null, 'YOUR NAME', null, null);  # 368419 World Is Not Enough, The 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (368865, null, 'YOUR NAME', null, null);  # 368865 Wrestling with Shadows 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (370017, null, 'YOUR NAME', null, null);  # 370017 XXX 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (371305, null, 'YOUR NAME', null, null);  # 371305 Yes and 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (372233, null, 'YOUR NAME', null, null);  # 372233 You Only Live Twice 1967
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (372252, null, 'YOUR NAME', null, null);  # 372252 You Saw Me Up There 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (372525, null, 'YOUR NAME', null, null);  # 372525 Young Doctors in Love 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (372733, null, 'YOUR NAME', null, null);  # 372733 Young Sherlock Holmes 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (374517, null, 'YOUR NAME', null, null);  # 374517 Zenith 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (374567, null, 'YOUR NAME', null, null);  # 374567 Zero 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (375055, null, 'YOUR NAME', null, null);  # 375055 Ziel:gerichtet 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (375288, null, 'YOUR NAME', null, null);  # 375288 Ziti hui mie 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (375745, null, 'YOUR NAME', null, null);  # 375745 Zonad 2003

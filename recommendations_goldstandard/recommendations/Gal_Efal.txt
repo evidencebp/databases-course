@@ -26,13 +26,32 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(13343  -- Amazing Adventures of Spider-Man, The (1999)
+(13343  -- Amazing Adventures of Spider-Man The (1999)
 , 311037  -- Spider-Man (2002)
 , 7
 , 'Gal Efal'
 , 'Recommended the blockbuster Spider-Man 2002'
 , NULL
 );
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+( 118367-- 	Four Rooms
+,  164572  -- Jackie Brown
+, 8
+, 'Gal Efal'
+, 'SAME DIERCTOR'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+( 267038 -- 	Pulp Fiction
+, 276217   -- Reservoir Dogs
+, 8
+, 'Gal Efal'
+, 'SAME DIERCTOR'
+, NULL
+);
+
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (406154  -- Spider-Man Unlimited (1999)
@@ -156,7 +175,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 97727  -- Edward Scissorhands
 , 9
 , 'Gal Efal'
-, 'Two Tim Burton-directed films showcasing Depp\'s eccentric characters'
+, 'Two Tim Burton-directed films showcasing Depps eccentric characters'
 , NULL
 );
 
@@ -254,7 +273,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 311607  -- SpongeBob SquarePants: SuperSponge
 , 8
 , 'Gal Efal'
-, 'Sequential game titles continuing SpongeBob's quirky style'
+, 'Sequential game titles continuing SpongeBobs quirky style'
 , NULL
 );
 
@@ -291,13 +310,13 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 'Gal Efal'
 , 'Jump from first movie to action-packed finale'
 , NULL
-
+);
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (402385  -- Psychiatrist
 , 185306  -- Last Gun, The
 , 9
 , 'Gal Efal'
-, 'Chronological Spielberg recommendation: from ''Psychiatrist'' to ''Last Gun, The'''
+, 'Chronological Spielberg recommendation from Psychiatrist to Last Gun, The'
 , NULL
 );
 
@@ -306,7 +325,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 31256  -- Battle Squad
 , 9
 , 'Gal Efal'
-, 'Chronological Spielberg recommendation: from ''Last Gun, The'' to ''Battle Squad'''
+, 'Chronological Spielberg recommendation from Last Gun, The to Battle Squad'
 , NULL
 );
 
@@ -315,7 +334,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 103334  -- Escape to Nowhere
 , 9
 , 'Gal Efal'
-, 'Chronological Spielberg recommendation: from ''Battle Squad'' to ''Escape to Nowhere'''
+, 'Chronological Spielberg recommendation from Battle Squad to Escape to Nowhere'
 , NULL
 );
 
@@ -324,7 +343,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 113931  -- Firelight
 , 9
 , 'Gal Efal'
-, 'Chronological Spielberg recommendation: from ''Escape to Nowhere'' to ''Firelight'''
+, 'Chronological Spielberg recommendation from Escape to Nowhere to Firelight'
 , NULL
 );
 
@@ -333,7 +352,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 305079  -- Slipstream
 , 9
 , 'Gal Efal'
-, 'Chronological Spielberg recommendation: from ''Firelight'' to ''Slipstream'''
+, 'Chronological Spielberg recommendation from Firelight to Slipstream'
 , NULL
 );
 
@@ -467,7 +486,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 175880  -- Forrest Gump
 , 8
 , 'Gal Efal'
-, 'Biopics led by Hanks’ iconic acting — true heroes portrayed with depth'
+, 'Biopics led by Hanks iconic acting — true heroes portrayed with depth'
 , NULL
 );
 
@@ -516,15 +535,15 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , NULL);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(390691  -- Growing Pains""
-, 400853  -- Parenthood""
+(390691  -- Growing Pains
+, 400853  -- Parenthood
 , 8
 , 'Gal Efal'
 , 'Both feature Leonardo DiCaprio and were released within a close timeframe'
 , NULL);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(400853  -- Parenthood""
+(400853  -- Parenthood
 , 73574  -- Critters 3
 , 8
 , 'Gal Efal'
@@ -641,7 +660,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 134680  -- Casino
 , 9
 , 'Gal Efal'
-, 'Goodfellas → Casino'
+, 'Classic mafia films about power, crime, and downfall'
 , NULL);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
@@ -649,7 +668,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 134677  -- Goodfellas
 , 8
 , 'Gal Efal'
-, 'The Godfather: Part II → Goodfellas'
+, 'Classic mafia films about power, crime, and downfall'
 , NULL);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
@@ -657,7 +676,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 134675  -- The Godfather
 , 9
 , 'Gal Efal'
-, 'The Godfather: Part II → The Godfather'
+,'Classic mafia films about power, crime, and downfall'
 , NULL);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
@@ -665,7 +684,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 134676  -- The Godfather: Part III
 , 8
 , 'Gal Efal'
-, 'The Godfather: Part II → The Godfather: Part III'
+, 'Classic mafia films about power, crime, and downfall'
 , NULL);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
@@ -673,7 +692,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 134676  -- The Godfather: Part III
 , 8
 , 'Gal Efal'
-, 'The Godfather → The Godfather: Part III'
+,'Classic mafia films about power, crime, and downfall'
 , NULL);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
@@ -681,7 +700,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 134677  -- Goodfellas
 , 7
 , 'Gal Efal'
-, 'Scarface → Goodfellas'
+, 'Classic mafia films about power, crime, and downfall'
 , NULL);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
@@ -689,7 +708,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 134680  -- Casino
 , 8
 , 'Gal Efal'
-, 'Heat → Casino'
+,'Classic mafia films about power, crime, and downfall'
 , NULL);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
@@ -697,7 +716,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 134677  -- Goodfellas
 , 7
 , 'Gal Efal'
-, 'Heat → Goodfellas'
+,'Classic mafia films about power, crime, and downfall'
 , NULL);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
@@ -705,7 +724,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 134676  -- The Godfather: Part III
 , 7
 , 'Gal Efal'
-, 'Casino → The Godfather: Part III'
+,'Classic mafia films about power, crime, and downfall'
 , NULL);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
@@ -713,7 +732,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 126792  -- The Godfather: Part II
 , 9
 , 'Gal Efal'
-, 'Goodfellas → The Godfather: Part II'
+,'Classic mafia films about power, crime, and downfall'
 , NULL);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
@@ -794,25 +813,26 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(29771  -- The Deer Hunter
-, 29764  -- Cape Fear
+(29771  -- Barbier de Sville Le
+, 381188   --  Ballyskillen Opera House The
 , 8, 'Gal Efal', 'Transition from war trauma to psychological suspense', NULL);
 
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(29764  -- Cape Fear
-, 29773  -- Meet the Parents
+(29773  --  Barbier Le (2001/I)
+,33093   -- Behold the Man!
 , 7, 'Gal Efal', 'Unique shift showing De Niro’s comedic talent', NULL);
 
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(29773  -- Meet the Parents
-, 29774  -- Meet the Fockers
+(29773  -- Barbier Le (2001/I)
+, 29774  -- Barbiere di Rio Il
+
 , 7, 'Gal Efal', 'Direct sequel, recommended to continue the story', NULL);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (311037  -- Spider-Man (2002)
-, 13392  -- Amazing Spider-Man, The (1977)
+, 13392  -- Amazing Spider-Man The (1977)
 , 3
 , 'Gal Efal'
 , 'Less relevant: 2002 movie recommending the 1977 version'
@@ -829,7 +849,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 );
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(13343  -- Amazing Adventures of Spider-Man, The (1999)
+(13343  -- Amazing Adventures of Spider-Man The (1999)
 , 406157  -- Spider-Man (1994)
 , 2
 , 'Gal Efal'
@@ -896,7 +916,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 59578  -- Charlie and the Chocolate Factory
 , 4
 , 'Gal Efal'
-, 'From slow occult mystery to children''s fantasy musical'
+, 'From slow occult mystery to childrens fantasy musical'
 , NULL
 );
 
@@ -995,7 +1015,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 351705  -- Vengeance
 , 4
 , 'Gal Efal'
-, 'Poor recommendation: large time gap: from ''Psychiatrist'' to ''Vengeance'''
+, 'Poor recommendation: large time gap from Psychiatrist to Vengeance'
 , NULL
 );
 
@@ -1004,7 +1024,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 159167  -- Indiana Jones 4
 , 4
 , 'Gal Efal'
-, 'Poor recommendation: large time gap: from ''Last Gun, The'' to ''Indiana Jones 4'''
+, 'Poor recommendation: large time gap from Last Gun, The to Indiana Jones 4'
 , NULL
 );
 
@@ -1013,7 +1033,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 359297  -- War of the Worlds
 , 4
 , 'Gal Efal'
-, 'Poor recommendation: large time gap: from ''Battle Squad'' to ''War of the Worlds'''
+, 'Poor recommendation: large time gap from Battle Squad to War of the Worlds'
 , NULL
 );
 
@@ -1022,7 +1042,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 328272  -- Terminal, The
 , 4
 , 'Gal Efal'
-, 'Poor recommendation: large time gap: from ''Escape to Nowhere'' to ''Terminal, The'''
+, 'Poor recommendation: large time gap from Escape to Nowhere to Terminal, The'
 , NULL
 );
 
@@ -1031,7 +1051,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 214755  -- Minority Report
 , 4
 , 'Gal Efal'
-, 'Poor recommendation: large time gap: from ''Firelight'' to ''Minority Report'''
+, 'Poor recommendation: large time gap from Firelight to Minority Report'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
@@ -1119,128 +1139,128 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(79697 -- Dawn, The,
-33059 -- Behind the Seams,
-4,
-'Gal Efal',
-'Genre clash: romantic comedy vs. horror',
+(79697 -- Dawn The
+,33059 -- Behind the Seams
+,4
+,'Gal Efal'
+,'Genre clash: romantic comedy vs. horror',
 NULL);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(5149 -- Absence of Light, The,
-296763 -- Shadow Man: 2econd Coming,
-4,
-'Gal Efal',
-'Genre clash: romantic comedy vs. horror',
+(5149 -- Absence of Light The
+,296763 -- Shadow Man: 2econd Coming
+,4
+,'Gal Efal'
+,'Genre clash: romantic comedy vs. horror',
 NULL);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(275273 -- Relaciones carnales,
-367344 -- Wolfsbane,
-4,
-'Gal Efal',
-'Genre clash: romantic comedy vs. horror',
-NULL);
+(275273 -- Relaciones carnales
+,367344 -- Wolfsbane
+,4
+,'Gal Efal'
+,'Genre clash: romantic comedy vs. horror'
+,NULL);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(306609 -- Soal hati,
-68001 -- Comedy Hell,
-4,
-'Gal Efal',
-'Genre clash: romantic comedy vs. horror',
-NULL);
+(306609 -- Soal hati
+,68001 -- Comedy Hell
+,4
+,'Gal Efal'
+,'Genre clash: romantic comedy vs. horror'
+,NULL);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(164352 -- Jack & Ella,
-140078 -- Haunted,
-4,
-'Gal Efal',
-'Genre clash: romantic comedy vs. horror',
-NULL);
+(164352 -- Jack & Ella
+,140078 -- Haunted
+,4
+,'Gal Efal'
+,'Genre clash: romantic comedy vs. horror'
+,NULL);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(88177 -- Divorce, Le,
-352912 -- Vettam,
-4,
-'Gal Efal',
-'Genre clash: romantic comedy vs. horror',
-NULL);
+(88177 -- Divorce Le
+,352912 -- Vettam
+,4
+,'Gal Efal'
+,'Genre clash: romantic comedy vs. horror'
+,NULL);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(362081 -- What a Girl Wants,
-82886 -- Dennis,
-4,
-'Gal Efal',
-'Genre clash: romantic comedy vs. horror',
-NULL);
+(362081 -- What a Girl Wants
+,82886 -- Dennis
+,4
+,'Gal Efal'
+,'Genre clash: romantic comedy vs. horror'
+,NULL);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(144481 -- Hi-Yah!,
-291682 -- Se souvenir des belles choses,
-4,
-'Gal Efal',
-'Genre clash: romantic comedy vs. horror',
-NULL);
+(144481 -- Hi-Yah!
+,291682 -- Se souvenir des belles choses
+,4
+,'Gal Efal'
+,'Genre clash: romantic comedy vs. horror'
+,NULL);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(21002 -- Art of Love,
-378522 -- tek do Budna,
-4,
-'Gal Efal',
-'Genre clash: romantic comedy vs. horror',
-NULL);
+(21002 -- Art of Love
+,378522 -- tek do Budna
+,4
+,'Gal Efal'
+,'Genre clash: romantic comedy vs. horror'
+,NULL);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(174155 -- Karmina 2,
-117819 -- Forkerte navne,
-4,
-'Gal Efal',
-'Genre clash: romantic comedy vs. horror',
-NULL);
+(174155 -- Karmina 2
+,117819 -- Forkerte navne
+,4
+,'Gal Efal'
+,'Genre clash: romantic comedy vs. horror'
+,NULL);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(354548 -- Village, The,
-318919 -- Sun jaat si mui,
-4,
-'Gal Efal',
-'Genre clash: romantic comedy vs. horror',
-NULL);
+(354548 -- Village The
+,318919 -- Sun jaat si mui
+,4
+,'Gal Efal'
+,'Genre clash: romantic comedy vs. horror'
+,NULL);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(33940 -- Bend It Like Beckham,
-284793 -- Sabaa warakat kotshina,
-4,
-'Gal Efal',
-'Genre clash: romantic comedy vs. horror',
-NULL);
+(33940 -- Bend It Like Beckham
+,284793 -- Sabaa warakat kotshina
+,4
+,'Gal Efal'
+,'Genre clash: romantic comedy vs. horror'
+,NULL);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(171105 -- Just Desserts,
-158986 -- Indefinitely,
-4,
-'Gal Efal',
-'Genre clash: romantic comedy vs. horror',
-NULL);
+(171105 -- Just Desserts
+,158986 -- Indefinitely
+,4
+,'Gal Efal'
+,'Genre clash: romantic comedy vs. horror'
+,NULL);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(134800 -- Groe Liebe wider Willen,
-300844 -- Sicily, 2km,
-4,
-'Gal Efal',
-'Genre clash: romantic comedy vs. horror',
-NULL);
+(134800 -- Groe Liebe wider Willen
+,300844 -- Sicily 2km
+,4
+,'Gal Efal'
+,'Genre clash: romantic comedy vs. horror'
+,NULL);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(213253 -- Midnight Sun,
-136275 -- Guy Next Door, The,
-4,
-'Gal Efal',
-'Genre clash: romantic comedy vs. horror',
-NULL);
+(213253 -- Midnight Sun
+,136275 -- Guy Next Door The
+,4
+,'Gal Efal'
+,'Genre clash: romantic comedy vs. horror'
+,NULL);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (45334 -- Boxer Shorts
-, 112055 -- Fierecilla del puerto, La
+, 112055 -- Fierecilla del puerto La
 , 4
 , 'Gal Efal'
 , 'Comedy movies from different eras with limited connection'
@@ -1256,7 +1276,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (322674 -- Ta soeur
-, 294089 -- Sendung der Lysistrata, Die
+, 294089 -- Sendung der Lysistrata Die
 , 4
 , 'Gal Efal'
 , 'Comedy movies from different eras with limited connection'
@@ -1271,7 +1291,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , NULL);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(364134 -- Whizzard of Ow, The
+(364134 -- Whizzard of Ow The
 , 84820 -- Devichya vesna
 , 4
 , 'Gal Efal'
@@ -1280,7 +1300,7 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (121661 -- American Pie Presents: The Book of Love
-, 204993 -- Nad rzeką, której nie ma
+, 204993 -- Nad rzeką której nie ma
 , 4
 , 'Gal Efal'
 , 'Comedy movies from different eras with limited connection'
@@ -1320,15 +1340,15 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (1038 -- 13 Going On 30
-, 183495 -- '15'
+, 118 -- Halloween Unmasked 200
 , 4
 , 'Gal Efal'
-, 'Different genres: light fantasy romance vs. gritty documentary'
+, 'Different genres'
 , NULL);
 
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (139648 -- 13 Erotic Ghosts
-, 183500 -- 'Catch Me If You Can': Behind the Camera
+, 183500 -- Catch Me If You Can: Behind the Camera
 , 3
 , 'Gal Efal'
 , 'Fantasy erotic vs. behind-the-scenes documentary — weak match'
@@ -1593,32 +1613,42 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 336553  -- Magnolia
 , 2, 'Gal Efal', 'Critically acclaimed but far from the intensity of espionage', NULL);
 
--- Raging Bull → Meet the Fockers
+
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (29760  -- Raging Bull
 , 29774  -- Meet the Fockers
 , 4, 'Gal Efal', 'Very different genres – intense drama vs. light comedy', NULL);
 
--- The Deer Hunter → The Fan
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (29771  -- The Deer Hunter
 , 29769  -- The Fan
 , 3, 'Gal Efal', 'Both thrillers, but very different in tone and depth', NULL);
 
--- Taxi Driver → Meet the Parents
+
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (29768  -- Taxi Driver
 , 29773  -- Meet the Parents
 , 2, 'Gal Efal', 'Iconic serious role vs. goofy family comedy – weak match', NULL);
 
--- Cape Fear → The Fan
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(29764  -- Cape Fear
-, 29769  -- The Fan
-, 4, 'Gal Efal', 'Both thrillers, but very uneven in quality and tension', NULL);
 
--- Goodfellas → Meet the Fockers
+#INSERT INTO imdb_ijs.movies_recommendations VALUES 
+#(29764  -- Cape Fear
+#, 263 -- Til There Was You
+#, 4, 'Gal Efal', 'Different genres', NULL);
+
+
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (29766  -- Goodfellas
 , 29774  -- Meet the Fockers
 , 3, 'Gal Efal', 'Mismatch in genre and tone – mafia epic vs. slapstick comedy', NULL);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+( 72012 -- Courting Courtney
+, 267038  --  Pulp Fiction
+, 3, 'Gal Efal', 'Mismatch in tone and storytelling style', NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+( 176711 -- Kill Bill: Vol. 1
+, 55004 --  Carga mortal
+, 3, 'Gal Efal', 'Different production quality and audience expectations', NULL);

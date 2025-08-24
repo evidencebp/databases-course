@@ -1,3 +1,4 @@
+
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (214755  -- Minority Report
 , 259826  -- Poltergeist
@@ -333,6 +334,96 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 'Amir Nagar'
 , 'same genre, directed by Marshall'
 , NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  177369,  -- King of Comedy, The
+  9,
+  'Amir Nagar',
+  'Same director and Shared genre(s): Drama'
+ , NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  181766,  -- Kundun
+  9,
+  'Amir Nagar',
+  'Same director and Shared genre(s): Drama'
+  , NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  185704,  -- Last Temptation of Christ, The
+  9,
+  'Amir Nagar',
+  'Same director and Shared genre(s): Drama'
+  ,NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  209158,  -- Mean Streets
+  9,
+  'Amir Nagar',
+  'Same director and Shared genre(s): Drama'
+  ,NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  230947,  -- New York Stories
+  9,
+  'Amir Nagar',
+  'Same director and Shared genre(s): Drama'
+ , NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  230963,  -- New York, New York
+  9,
+  'Amir Nagar',
+  'Same director and Shared genre(s): Drama'
+  ,NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  270971,  -- Raging Bull
+  9,
+  'Amir Nagar',
+  'Same director and Shared genre(s): Drama',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  326155,  -- Taxi Driver
+  9,
+  'Amir Nagar',
+  'Same director and Shared genre(s): Drama',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  362473,  -- What's a Nice Girl Like You Doing in a Place Like This?
+  9,
+  'Amir Nagar',
+  'Same director and Shared genre(s): Drama',
+  NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (31715  -- Beaches
@@ -1519,35 +1610,11 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(59578  -- Charlie and the Chocolate Factory
-, 256631  -- Pirates of the Caribbean 2: Dead Man's Chest
-, 9
-, 'Amir Nagar'
-, 'Johnny Depp, different genres'
-, NULL
-);
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(256631  -- Pirates of the Caribbean 2: Dead Man's Chest
-, 70959  -- Corpse Bride, The
-, 9
-, 'Amir Nagar'
-, 'Johnny Depp, different genres'
-, NULL
-);
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (70959  -- Corpse Bride, The
 , 256631  -- Pirates of the Caribbean 2: Dead Man's Chest
 , 9
 , 'Amir Nagar'
 , 'Johnny Depp, different genres'
-, NULL
-);
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(90837  -- Doodlebug
-, 160524  -- Insomnia
-, 8
-, 'Amir Nagar'
-, 'different genres, directed by Nolan'
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
@@ -1575,30 +1642,6 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(256632  -- Pirates of the Caribbean: The Curse of the Black Pearl
-, 70959  -- Corpse Bride, The
-, 9
-, 'Amir Nagar'
-, 'Johnny Depp – different genres'
-, NULL
-);
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(70959  -- Corpse Bride, The
-, 256632  -- Pirates of the Caribbean: The Curse of the Black Pearl
-, 9
-, 'Amir Nagar'
-, 'Johnny Depp – different genres'
-, NULL
-);
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(256631  -- Pirates of the Caribbean 2: Dead Man's Chest
-, 59578  -- Charlie and the Chocolate Factory
-, 9
-, 'Amir Nagar'
-, 'Johnny Depp, different genres'
-, NULL
-);
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (59578  -- Charlie and the Chocolate Factory
 , 256631  -- Pirates of the Caribbean 2: Dead Man's Chest
 , 9
@@ -1615,40 +1658,8 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , NULL
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(70959  -- Corpse Bride, The
-, 256631  -- Pirates of the Caribbean 2: Dead Man's Chest
-, 9
-, 'Amir Nagar'
-, 'Johnny Depp, different genres'
-, NULL
-);
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (90837  -- Doodlebug
 , 160524  -- Insomnia
-, 8
-, 'Amir Nagar'
-, 'different genres, directed by Nolan'
-, NULL
-);
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(90837  -- Doodlebug
-, 210511  -- Memento
-, 8
-, 'Amir Nagar'
-, 'different genres, directed by Nolan'
-, NULL
-);
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(105697  -- Exec, The
-, 30959  -- Batman Begins
-, 8
-, 'Amir Nagar'
-, 'different genres, directed by Nolan'
-, NULL
-);
-INSERT INTO imdb_ijs.movies_recommendations VALUES 
-(105697  -- Exec, The
-, 64187  -- Cinema16
 , 8
 , 'Amir Nagar'
 , 'different genres, directed by Nolan'
@@ -1659,22 +1670,30 @@ INSERT INTO imdb_ijs.movies_recommendations VALUES
 , 306032  -- Snatch
 , 8
 , 'Amir Nagar'
-, 'Both star Brad Pitt'
-, 'Fans of Brad Pitt often enjoy other films he appears in'
+, 'Both star Brad Pitt',
+null
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (112290  -- Fight Club
 , 238072  -- Ocean's Eleven
 , 8
 , 'Amir Nagar'
-, 'Both star Brad Pitt'
-, 'Fans of Brad Pitt often enjoy other films he appears in'
+, 'Both star Brad Pitt',
+null
 );
 INSERT INTO imdb_ijs.movies_recommendations VALUES 
 (112290  -- Fight Club
 , 340652  -- Troy
 , 8
 , 'Amir Nagar'
-, 'Both star Brad Pitt'
-, 'Fans of Brad Pitt often enjoy other films he appears in'
+, 'Both star Brad Pitt',
+null
 );
+
+
+
+
+
+
+
+

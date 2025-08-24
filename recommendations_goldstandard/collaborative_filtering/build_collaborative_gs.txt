@@ -1,0 +1,138 @@
+use imdb_ijs;
+
+drop table if exists personal_movies_ranking;
+
+create table personal_movies_ranking
+(movie_id int
+, recommendation int not null
+, suggested_by varchar(255) not null
+, justification varchar(255) not null
+, comment varchar(255)
+, PRIMARY KEY (movie_id,  suggested_by)
+, CONSTRAINT CHK_personal_recommendation CHECK (recommendation >=1 AND 10 >= recommendation)
+, CONSTRAINT CHK_personal_justification CHECK (length(justification) >=10)
+, FOREIGN KEY (movie_id) REFERENCES movies(Id)
+);
+
+# Recommendation semantics
+# 10 I love this movie, will be happy to see it any time
+# 8 I loved it, might see more
+# 7 I loved it at time
+# 6 Good move, fit my taste
+# 5 ok movie
+# 4 I don't like
+# 2 No way
+# 1 Gun threat will be needed
+
+
+# build candidates insert queries
+
+select
+concat("insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values"
+, " (", cast(m.id as char),  ", null, 'YOUR NAME', null, null); "
+, " # " ,cast(m.id as char), " ", m.name, " ", cast(m.year as char)
+) as query
+from
+(
+select movie_id
+from
+(
+select base_movie_id as movie_id, recommendation from imdb_ijs.movies_recommendations
+union all
+select recommended_movie_id as movie_id, recommendation from imdb_ijs.movies_recommendations
+) as inSql
+where recommendation > 6
+group by movie_id
+having count(*) > 1
+union
+select id from movies as m where year > 1995 and m.rank > 9.2
+) as candidates
+join
+movies as m
+on
+candidates.movie_id = m.id
+order by m.name
+;
+
+# People that like this movie, also liked those movies
+select
+bmovie.name
+, rmovie.name
+, suggested_by_num
+from
+(
+select base.movie_id as base_movie_id
+, recommended.movie_id as recommended_movie_id
+, count(*) as suggested_by_num
+from
+personal_movies_ranking as base
+join
+personal_movies_ranking as recommended
+on
+base.suggested_by = recommended.suggested_by
+where
+base.movie_id != recommended.movie_id
+and
+base.recommendation > 7 # To consider value
+and
+recommended.recommendation > 7
+group by
+base.movie_id
+, recommended.movie_id
+having count(*) >= 1 # Should increase
+) as matching
+join
+movies as bmovie
+on 
+matching.base_movie_id = bmovie.id
+join
+movies as rmovie
+on 
+matching.recommended_movie_id = rmovie.id
+order by bmovie.name, suggested_by_num desc
+;
+
+
+# Personal recommendation - Take a person liked movies and give the collaborative recommendations
+select
+taste_suggested_by
+, rmovie.name
+, avg(avg_rec) as avg_rec
+, sum(recommendations) as recommendations
+from
+(
+select  taste.suggested_by as taste_suggested_by
+, taste.movie_id as base_movie_id
+, rec.recommended_movie_id as recommended_movie_id
+, avg(rec.recommendation) as avg_rec
+, count(*) as recommendations
+from
+personal_movies_ranking as taste
+join
+movies_recommendations_agg as rec
+on 
+taste.movie_id = rec.base_movie_id
+where
+taste.recommendation > 6
+and
+rec.recommendation > 6 
+group by
+taste.suggested_by
+, taste.movie_id
+, rec.recommended_movie_id
+) as matching
+join
+movies as rmovie
+on 
+matching.recommended_movie_id = rmovie.id
+left join
+personal_movies_ranking as already_known
+on
+matching.recommended_movie_id = already_known.movie_id
+where
+already_known.movie_id is null
+group by
+taste_suggested_by
+, rmovie.name
+order by avg_rec desc, rmovie.name
+;

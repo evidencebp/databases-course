@@ -1,0 +1,99 @@
+# In this example we will find the directors that never directed Marilyn Monroe
+# We will break the implementation into small steps, composing the solution from them.
+
+use imdb_ijs;
+
+# Find Marilyn
+select * 
+from actors
+where first_name = 'Marilyn' 
+and last_name = 'Monroe'
+;
+
+
+# Movies that Marilyn palyed in
+
+select movie_id # We will need only the movie id so we select only it
+from 
+actors as marilyn # We choose a functional alias, hinting the table usage
+join
+roles as r
+on
+r.actor_id = marilyn.id
+where
+marilyn.first_name = 'Marilyn' 
+and marilyn.last_name = 'Monroe'
+;
+
+# Directors of Marilyn's movies
+# We will needall the other directors
+select md.director_id
+from 
+actors as marilyn
+join 
+roles as r
+on
+marilyn.id = r.actor_id 
+join 
+movies_directors as md
+on 
+r.movie_id = md.movie_id
+where 
+marilyn.first_name = 'Marilyn'
+and
+marilyn.last_name = 'Monroe'
+;
+
+# Never directed Marilyn - a naturel yet NOT WORKING VERSION
+select d.* # Selecting only director columns
+from 
+actors as marilyn
+join 
+roles as r
+on
+marilyn.id = r.actor_id 
+join 
+movies_directors as md
+on 
+r.movie_id = md.movie_id
+right join # Though symmetry it is better to use left join as usual
+directors as d
+on
+md.director_id = d.id
+where 
+marilyn.first_name = 'Marilyn' # If we find Marilyn, it is not possible not to find the director
+and
+marilyn.last_name = 'Monroe'
+and
+md.director_id is null # Confilcts if Marilyn, we will get zero records
+;
+
+
+# In order to get the query we will use a subquery for Marilyn's directors
+# We will also put directors first and use left join
+select d.* # Selecting only director columns
+from 
+directors as d
+left join
+(select md.director_id
+from
+actors as marilyn
+join 
+roles as r
+on
+marilyn.id = r.actor_id 
+join 
+movies_directors as md
+on 
+r.movie_id = md.movie_id
+where 
+marilyn.first_name = 'Marilyn' # Now found in the ineer querry, not part of the joins
+and
+marilyn.last_name = 'Monroe'
+) as marilyn_directors
+on
+d.id = marilyn_directors.director_id
+where
+marilyn_directors.director_id is null
+;
+

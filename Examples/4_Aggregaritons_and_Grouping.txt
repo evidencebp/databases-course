@@ -24,6 +24,18 @@ group by year
 order by year
 ;
 
+select
+if(m.rank >= 7,1,0) as high_rank # grouping by a function
+, count(*) as cnt
+, count(distinct name) as movies_names
+, avg(m.rank) as rank_avg
+, avg(year) 
+from
+imdb_ijs.movies as m
+group by high_rank
+order by high_rank
+;
+
 
 
 # Actors by ranking
@@ -98,7 +110,8 @@ group by movies
 order by movies
 ; 
 
-# Movies per actor distribution, with zero movies
+# Movies per actor distribution, with zero movies 
+# Structured version, components are independent
 select movies
 , count(*) as actors
 from (
@@ -124,6 +137,26 @@ group by movies
 order by movies
 ; 
 
+# Movies per actor distribution, with zero movies 
+# Simpler version, left join is inside
+select movies
+, count(*) as actors
+from (
+select
+actor_id
+, count(distinct movie_id) as movies
+from
+imdb_ijs.actors as a
+left join
+imdb_ijs.roles as r
+on
+a.id = r.actor_id
+group by 
+actor_id
+) as movies_per_actor
+group by movies
+order by movies
+; 
 
 # Movies pairs with at least 3 common actors
 DROP TABLE IF EXISTS imdb_ijs.movie_pairs_by_actors; # Drop is important for reruns

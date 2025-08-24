@@ -1,0 +1,260 @@
+use imdb_ijs;
+
+##Q2
+
+drop table if exists gs_common_director; 
+create table gs_common_director as
+(SELECT 
+md1.movie_id AS movie_id_source,
+md2.movie_id AS movie_id_target,
+'director' AS reason
+FROM 
+gs_movies_directors as md1
+JOIN
+gs_movies_directors as md2
+ON 
+md1.director_id = md2.director_id
+WHERE 
+md1.movie_id != md2.movie_id
+GROUP BY
+md1.movie_id, md2.movie_id, reason);
+
+
+
+drop table if exists gs_common_actor; 
+create table gs_common_actor as
+(SELECT DISTINCT
+r1.movie_id AS movie_id_source,
+r2.movie_id AS movie_id_target,
+'actor' AS reason
+FROM 
+gs_roles as r1
+JOIN 
+gs_roles as r2
+ON 
+r1.actor_id = r2.actor_id
+WHERE 
+r1.movie_id != r2.movie_id
+GROUP BY
+r1.movie_id, r2.movie_id, reason);
+
+
+drop table if exists gs_common_genre; 
+create table gs_common_genre as
+(SELECT 
+mg1.movie_id AS movie_id_source,
+mg2.movie_id AS movie_id_target,
+'genre' AS reason
+FROM 
+gs_movies_genres mg1
+JOIN
+gs_movies_genres mg2
+ON 
+mg1.genre = mg2.genre
+WHERE 
+mg1.movie_id != mg2.movie_id
+GROUP BY
+mg1.movie_id, mg2.movie_id, reason);
+
+
+drop table if exists gs_common_role; 
+create table gs_common_role as
+(SELECT 
+r1.movie_id AS movie_id_source,
+r2.movie_id AS movie_id_target,
+'role' AS reason
+FROM 
+gs_roles as r1
+JOIN 
+gs_roles as r2
+ON 
+r1.role = r2.role
+WHERE 
+r1.movie_id != r2.movie_id
+GROUP BY
+r1.movie_id, r2.movie_id, reason);
+
+
+drop table if exists gs_close_years; 
+create table gs_close_years as
+(SELECT 
+m1.id AS movie_id_source,
+m2.id AS movie_id_target,
+'year' AS reason
+FROM
+gs_movies m1
+JOIN 
+gs_movies m2
+ON
+ABS(m1.year - m2.year) <= 3 
+WHERE 
+m1.id != m2.id
+GROUP BY
+m1.id, m2.id, reason);
+
+
+drop table if exists personal_movies_ranking;
+
+create table personal_movies_ranking
+(movie_id int, 
+recommendation int not null, 
+suggested_by varchar(255) not null,
+justification varchar(255) not null, 
+comment varchar(255), 
+PRIMARY KEY (movie_id,  suggested_by), 
+CONSTRAINT CHK_personal_recommendation CHECK (recommendation >=1 AND 10 >= recommendation),
+ CONSTRAINT CHK_personal_justification CHECK (length(justification) >=10), 
+FOREIGN KEY (movie_id) REFERENCES movies(Id)
+);
+
+
+drop table if exists gs_high_rating; 
+
+create table gs_high_rating as
+(SELECT 
+l1.movie_id AS movie_id_source,
+l2.movie_id AS movie_id_target,
+'Collaborative Filtering - Like' AS reason
+FROM 
+(SELECT 
+ suggested_by,
+ movie_id
+ FROM
+ personal_movies_ranking
+ WHERE
+ recommendation >= 6) as l1
+JOIN 
+(SELECT 
+ suggested_by ,
+ movie_id
+ FROM
+ personal_movies_ranking
+ WHERE
+ recommendation >= 6) as l2
+ON 
+l1.suggested_by  = l2.suggested_by 
+WHERE
+l1.movie_id != l2.movie_id);
+
+
+
+drop table if exists gs_same_person; 
+
+create table gs_same_person as
+(SELECT 
+l1.movie_id AS movie_id_source,
+l2.movie_id AS movie_id_target,
+'Collaborative Filtering - same person' AS reason
+FROM 
+(SELECT 
+ suggested_by,
+ movie_id
+ FROM
+ personal_movies_ranking) as l1
+JOIN 
+(SELECT 
+ suggested_by ,
+ movie_id
+ FROM
+ personal_movies_ranking) as l2
+ON 
+l1.suggested_by  = l2.suggested_by 
+WHERE
+l1.movie_id != l2.movie_id);
+
+
+##Q3
+drop table if exists high_recall_recommendations; 
+
+CREATE table high_recall_recommendations
+(
+movie_id_source INT,
+movie_id_target INT,
+reason varchar(50),
+PRIMARY KEY (movie_id_source,movie_id_target,reason)
+);
+
+insert into high_recall_recommendations
+select *
+from
+gs_common_director;
+
+insert into high_recall_recommendations
+select *
+from
+gs_common_actor;
+
+insert into high_recall_recommendations
+select *
+from
+gs_common_genre ;
+
+insert into high_recall_recommendations
+select *
+from
+gs_common_role ;
+
+insert into high_recall_recommendations
+select *
+from
+gs_close_years ;
+
+insert into high_recall_recommendations
+select *
+from
+gs_high_rating ;
+
+insert into high_recall_recommendations
+select *
+from
+gs_same_person ;
+
+
+
+##Q4
+
+select gs.*
+from
+movies_recommendations as gs
+left join
+high_recall_recommendations as high_recall_model
+on
+gs.base_movie_id = high_recall_model.movie_id_source 
+and
+gs.recommended_movie_id = high_recall_model.movie_id_target 
+where
+gs.recommendation <=5 # negative recommendations
+and
+high_recall_model.movie_id_source is null; # No model recommended on them
+
+
+
+##Q5
+SELECT 
+suggested_by,
+COUNT(*) AS count_null_records
+FROM
+(select gs.*
+from
+movies_recommendations as gs
+left join
+high_recall_recommendations as high_recall_model
+on
+gs.base_movie_id = high_recall_model.movie_id_source 
+and
+gs.recommended_movie_id = high_recall_model.movie_id_target 
+where
+gs.recommendation <=5 
+and
+high_recall_model.movie_id_source is null) as null_records
+group by 
+suggested_by
+having
+count_null_records >= 20
+ORDER BY 
+count_null_records DESC;
+
+
+
+
+

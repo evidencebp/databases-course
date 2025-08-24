@@ -1,1519 +1,2499 @@
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  2394,  -- Prince of Egypt, The (1998)
-  69469,  -- Garfield's Pet Force (2009)
-  9,
-  'Jonathan Maderer',
-  'Critically praised for visual style and narrative innovation',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  79702,  -- Scott Pilgrim vs. the World (2010)
-  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
-  10,
-  'Jonathan Maderer',
-  'Critically praised for visual style and narrative innovation',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  26133,  -- Charlie Brown Christmas, A (1965)
-  69469,  -- Garfield's Pet Force (2009)
-  10,
-  'Jonathan Maderer',
-  'Excellent pairing for fans of genre-bending Animation cinema',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  523,  -- Ruby in Paradise (1993)
-  5889,  -- Cruel Romance, A (Zhestokij Romans) (1984)
+  408,  -- ...ing (2003)
+  446,  -- ...Sometimes in April (2004)
   8,
   'Jonathan Maderer',
-  'Shared genre(s): Drama and explore similar emotional arcs',
+  'They deliver a similar emotional impact and depth.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  127114,  -- The End of the Tour (2015)
-  5889,  -- Cruel Romance, A (Zhestokij Romans) (1984)
-  9,
+  643,  -- 10 Tage, ein ganzes Leben (2004)
+  123,  -- 'Hol zsarnoksg van' (Egy br visszaemlkezsei) (1989)
+  10,
   'Jonathan Maderer',
-  'Excellent pairing for fans of genre-bending Drama cinema',
+  'Fans of strong character development will enjoy both films.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  133716,  -- Bootleggers (1961)
-  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
-  9,
-  'Jonathan Maderer',
-  'Both films feature protagonists on a journey of self-discovery',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  7811,  -- Babylon 5: The River of Souls (1998)
-  5889,  -- Cruel Romance, A (Zhestokij Romans) (1984)
-  9,
-  'Jonathan Maderer',
-  'Both deal with moral ambiguity and complex character development',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  26965,  -- Boxer, The (1997)
-  3634,  -- Seven Days in May (1964)
+  731,  -- 100 Years of Horror: The Count and Company (1996)
+  8,  -- $10,000 Under a Pillow (1921)
   8,
   'Jonathan Maderer',
-  'Each film provides a unique but complementary take on the thriller genre',
+  'Fans of strong character development will enjoy both films.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  3675,  -- White Christmas (1954)
-  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
-  10,
-  'Jonathan Maderer',
-  'Audiences who loved 'White Christmas (1954)' will likely appreciate the tone of 'Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)'',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  127096,  -- Project Almanac (2015)
-  3634,  -- Seven Days in May (1964)
-  8,
-  'Jonathan Maderer',
-  'Critically praised for visual style and narrative innovation',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  77688,  -- Three Men and a Cradle (3 hommes et un couffin) (1985)
-  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
-  10,
-  'Jonathan Maderer',
-  'Shared genre(s): Comedy and explore similar emotional arcs',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  1458,  -- Touch (1997)
-  5889,  -- Cruel Romance, A (Zhestokij Romans) (1984)
-  10,
-  'Jonathan Maderer',
-  'Critically praised for visual style and narrative innovation',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  88129,  -- Drive (2011)
-  3634,  -- Seven Days in May (1964)
-  8,
-  'Jonathan Maderer',
-  'Each film provides a unique but complementary take on the thriller genre',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  1260,  -- M (1931)
-  3634,  -- Seven Days in May (1964)
-  10,
-  'Jonathan Maderer',
-  'Shared genre(s): Thriller and explore similar emotional arcs',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  3060,  -- Commitments, The (1991)
-  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
+  6,  -- $1,000,000 Duck (1971)
+  223,  -- 'Round Midnight (1986)
   9,
   'Jonathan Maderer',
-  'Critically praised for visual style and narrative innovation',
+  'Fans of strong character development will enjoy both films.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  2351,  -- Nights of Cabiria (Notti di Cabiria, Le) (1957)
-  5889,  -- Cruel Romance, A (Zhestokij Romans) (1984)
-  10,
-  'Jonathan Maderer',
-  'Both films feature protagonists on a journey of self-discovery',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  72395,  -- Precious (2009)
-  5889,  -- Cruel Romance, A (Zhestokij Romans) (1984)
+  498,  -- ...y tenemos sabor (1967)
+  254,  -- 't Was een April (1935)
   8,
   'Jonathan Maderer',
-  'Both films feature protagonists on a journey of self-discovery',
+  'Fans of strong character development will enjoy both films.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  3089,  -- Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948)
-  5889,  -- Cruel Romance, A (Zhestokij Romans) (1984)
+  28,  -- $500 Reward, The (1911)
+  939,  -- 1126 (1995)
+  9,
+  'Jonathan Maderer',
+  'Fans of strong character development will enjoy both films.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  600,  -- 1. maj 1961 godine u Sarajevu (1961)
+  982,  -- 12 meseci zime (1983)
   8,
   'Jonathan Maderer',
-  'Critically praised for visual style and narrative innovation',
+  'Both movies explore similar social themes and dilemmas.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  2398,  -- Miracle on 34th Street (1947)
-  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
+  923,  -- 11-22-63: The Day the Nation Cried (1989)
+  20,  -- $5,000,000 Counterfeiting Plot, The (1914)
+  9,
+  'Jonathan Maderer',
+  'Fans of strong character development will enjoy both films.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  96,  -- 'Den vide verden's billedbog nr. 1 (1938)
+  153,  -- 'Mad' Boy, I'll Blow Your Blues Away. Be Mine (1997)
   10,
   'Jonathan Maderer',
-  'Excellent pairing for fans of genre-bending Comedy cinema',
+  'A combination of compelling soundtracks and memorable characters.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  130052,  -- Clown (2014)
-  5889,  -- Cruel Romance, A (Zhestokij Romans) (1984)
+  108,  -- 'G' Men (1935)
+  188,  -- 'Neath the Arizona Skies (1934)
   8,
   'Jonathan Maderer',
-  ''Clown (2014)' and 'Cruel Romance, A (Zhestokij Romans) (1984)' are cornerstones of modern drama cinema',
+  'The narrative twists in both movies make them a great pair.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  73501,  -- Pekka ja Pätkä Suezilla (1958)
-  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
-  9,
-  'Jonathan Maderer',
-  'Shared genre(s): Comedy and explore similar emotional arcs',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  8730,  -- To End All Wars (2001)
-  5889,  -- Cruel Romance, A (Zhestokij Romans) (1984)
-  9,
-  'Jonathan Maderer',
-  'Shared genre(s): Drama and explore similar emotional arcs',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  4458,  -- Africa: The Serengeti (1994)
-  152711,  -- Who Killed Chea Vichea? (2010)
-  10,
-  'Jonathan Maderer',
-  'Excellent pairing for fans of genre-bending Documentary cinema',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  40815,  -- Harry Potter and the Goblet of Fire (2005)
-  3634,  -- Seven Days in May (1964)
-  9,
-  'Jonathan Maderer',
-  'Both deal with moral ambiguity and complex character development',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  2967,  -- Bad Seed, The (1956)
-  3634,  -- Seven Days in May (1964)
-  10,
-  'Jonathan Maderer',
-  'Masterclass in storytelling with overlapping themes of redemption',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  116799,  -- Inherent Vice (2014)
-  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
-  10,
-  'Jonathan Maderer',
-  'Both films feature protagonists on a journey of self-discovery',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  106,  -- Nobody Loves Me (Keiner liebt mich) (1994)
-  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
-  10,
-  'Jonathan Maderer',
-  'Both films feature protagonists on a journey of self-discovery',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  5876,  -- Quiet American, The (2002)
-  3634,  -- Seven Days in May (1964)
-  10,
-  'Jonathan Maderer',
-  'Audiences who loved 'Quiet American, The (2002)' will likely appreciate the tone of 'Seven Days in May (1964)'',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  6291,  -- Lilya 4-Ever (Lilja 4-ever) (2002)
-  5889,  -- Cruel Romance, A (Zhestokij Romans) (1984)
-  10,
-  'Jonathan Maderer',
-  'Masterclass in storytelling with overlapping themes of redemption',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  8601,  -- Zero de conduite (Zero for Conduct) (Zéro de conduite: Jeunes diables au collège) (1933)
-  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
+  589,  -- 1-2-3 Go! (1941)
+  967,  -- 12 1/2 Inches (1996)
   8,
   'Jonathan Maderer',
-  'Masterclass in storytelling with overlapping themes of redemption',
+  'Both movies explore similar social themes and dilemmas.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  1167,  -- Dear God (1996)
-  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
+  1055,  -- 13-13, El (1943)
+  489,  -- ...Y el cielo fue tomado por asalto (1973)
   10,
   'Jonathan Maderer',
-  'Masterclass in storytelling with overlapping themes of redemption',
+  'The narrative twists in both movies make them a great pair.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  162350,  -- The Magnificent Seven (2016)
-  81834,  -- Harry Potter and the Deathly Hallows: Part 1 (2010)
+  368,  -- ...but the clouds... (1977)
+  59,  -- 'Arry and 'Arriet's Evening Out (1909)
+  8,
+  'Jonathan Maderer',
+  'The narrative twists in both movies make them a great pair.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  142,  -- 'King' and 'Queen,' the Great High Diving Horses (1899)
+  996,  -- 12 Tiny Christmas Tales (2001)
+  8,
+  'Jonathan Maderer',
+  'Fans of strong character development will enjoy both films.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  534,  -- 008: Operazione ritmo (1965)
+  443,  -- ...sol y lluvia (2001)
+  9,
+  'Jonathan Maderer',
+  'Both are considered classics in their genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  985,  -- 12 Mdchen und 1 Mann (1959)
+  674,  -- 100 Cameras: Capturing Lars Von Trier's Vision (2000)
   10,
   'Jonathan Maderer',
-  'Both films feature protagonists on a journey of self-discovery',
+  'They have overlapping fan bases due to similar tone and pacing.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  128736,  -- I'm Here (2010)
-  5889,  -- Cruel Romance, A (Zhestokij Romans) (1984)
+  253,  -- 't Is wreed in de wereld (1954)
+  234,  -- 'Shamrock' and 'Columbia' (1899)
+  8,
+  'Jonathan Maderer',
+  'Fans of strong character development will enjoy both films.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  104,  -- 'Etruria' (1899)
+  710,  -- 100 Most Irresistible Women (2003)
+  9,
+  'Jonathan Maderer',
+  'Both are considered classics in their genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  992,  -- 12 Rounds (2000)
+  361,  -- ...Because She Disobeyed (1935)
+  9,
+  'Jonathan Maderer',
+  'They deliver a similar emotional impact and depth.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  370,  -- ...continuavano a chiamarlo Trinit (1972)
+  119,  -- 'Havana', The (1899)
+  9,
+  'Jonathan Maderer',
+  'They share a distinct visual style and atmosphere.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1071,  -- 13th Annual Tony Awards, The (1959)
+  912,  -- 11 juni 1990 (1991)
+  8,
+  'Jonathan Maderer',
+  'They have overlapping fan bases due to similar tone and pacing.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  850,  -- 101 Dalmatians Sing Along (1996)
+  935,  -- 111 Gramercy Park (2003)
+  8,
+  'Jonathan Maderer',
+  'Fans of strong character development will enjoy both films.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  102,  -- 'Elf' Jukebox (2004)
+  576,  -- 1 s a semmi (2004)
   10,
   'Jonathan Maderer',
-  'Shared genre(s): Drama and explore similar emotional arcs',
+  'Both are acclaimed for their unique storytelling approach.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  2150,  -- Gods Must Be Crazy, The (1980)
-  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
-  9,
-  'Jonathan Maderer',
-  ''Gods Must Be Crazy, The (1980)' and 'Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)' are cornerstones of modern comedy cinema',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  134041,  -- Afonya (1975)
-  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
+  253,  -- 't Is wreed in de wereld (1954)
+  275,  -- 'Tong tatlong tatay kong pakitong-kitong (1998)
   8,
   'Jonathan Maderer',
-  'Masterclass in storytelling with overlapping themes of redemption',
+  'Both explore philosophical questions about life and identity.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  5615,  -- Invincible (2001)
-  5889,  -- Cruel Romance, A (Zhestokij Romans) (1984)
-  8,
-  'Jonathan Maderer',
-  'Audiences who loved 'Invincible (2001)' will likely appreciate the tone of 'Cruel Romance, A (Zhestokij Romans) (1984)'',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  167790,  -- The Good Boy (2016)
-  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
-  9,
-  'Jonathan Maderer',
-  'Both deal with moral ambiguity and complex character development',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  4772,  -- Dinner Rush (2000)
-  5889,  -- Cruel Romance, A (Zhestokij Romans) (1984)
-  9,
-  'Jonathan Maderer',
-  'Both films feature protagonists on a journey of self-discovery',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  3235,  -- Where the Buffalo Roam (1980)
-  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
-  8,
-  'Jonathan Maderer',
-  'Shared genre(s): Comedy and explore similar emotional arcs',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  2843,  -- Black Cat, White Cat (Crna macka, beli macor) (1998)
-  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
+  685,  -- 100 Greatest Kids TV Shows, The (2001)
+  397,  -- ...erst wenn (1987)
   10,
   'Jonathan Maderer',
-  'Critically praised for visual style and narrative innovation',
+  'They have overlapping fan bases due to similar tone and pacing.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  95761,  -- Killer Joe (2011)
-  3634,  -- Seven Days in May (1964)
-  9,
-  'Jonathan Maderer',
-  'Masterclass in storytelling with overlapping themes of redemption',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  5292,  -- Slap Shot (1977)
-  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
-  9,
-  'Jonathan Maderer',
-  'Audiences who loved 'Slap Shot (1977)' will likely appreciate the tone of 'Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)'',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  910,  -- Some Like It Hot (1959)
-  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
-  9,
-  'Jonathan Maderer',
-  'Both deal with moral ambiguity and complex character development',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  90531,  -- Shame (2011)
-  5889,  -- Cruel Romance, A (Zhestokij Romans) (1984)
-  9,
-  'Jonathan Maderer',
-  'Shared genre(s): Drama and explore similar emotional arcs',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  1350,  -- Omen, The (1976)
-  3634,  -- Seven Days in May (1964)
+  343,  -- ...aka Southern Exposure (1999)
+  392,  -- ...E si salv solo l'aretino Pietro con una mano avanti e l'altra dietro (1972)
   10,
   'Jonathan Maderer',
-  'Excellent pairing for fans of genre-bending Thriller cinema',
+  'They have overlapping fan bases due to similar tone and pacing.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  1196,  -- Star Wars: Episode V - The Empire Strikes Back (1980)
-  81834,  -- Harry Potter and the Deathly Hallows: Part 1 (2010)
-  8,
-  'Jonathan Maderer',
-  'Audiences who loved 'Star Wars: Episode V - The Empire Strikes Back (1980)' will likely appreciate the tone of 'Harry Potter and the Deathly Hallows: Part 1 (2010)'',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  33779,  -- Eddie Izzard: Dress to Kill (1999)
-  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
-  8,
-  'Jonathan Maderer',
-  'Critically praised for visual style and narrative innovation',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  147376,  -- Doctor Who: A Christmas Carol (2010)
-  68358,  -- Star Trek (2009)
-  8,
-  'Jonathan Maderer',
-  'Excellent pairing for fans of genre-bending Sci-Fi cinema',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  119153,  -- Bill Burr: You People Are All the Same (2012)
-  60408,  -- Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)
-  8,
-  'Jonathan Maderer',
-  'Masterclass in storytelling with overlapping themes of redemption',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  5365,  -- Lady and the Duke, The (Anglaise et le duc, L') (2001)
-  5889,  -- Cruel Romance, A (Zhestokij Romans) (1984)
+  808,  -- 1000 Caloriot (2001)
+  1093,  -- 13th, It Was On a Friday, The (1989)
   9,
   'Jonathan Maderer',
-  ''Lady and the Duke, The (Anglaise et le duc, L') (2001)' and 'Cruel Romance, A (Zhestokij Romans) (1984)' are cornerstones of modern romance, drama cinema',
+  'Both are considered classics in their genre.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  4152,  -- Vatel (2000)
-  5889,  -- Cruel Romance, A (Zhestokij Romans) (1984)
+  940,  -- 112th & Central: Through the Eyes of the Children (1992)
+  641,  -- 10 Seconds (1998)
   9,
   'Jonathan Maderer',
-  'Both deal with moral ambiguity and complex character development',
+  'The narrative twists in both movies make them a great pair.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  2925,  -- Conformist, The (Conformista, Il) (1970)
-  5889,  -- Cruel Romance, A (Zhestokij Romans) (1984)
+  409,  -- ...Is It the Design on the Wrapper? (1997)
+  832,  -- 1001 crtez (1960)
   10,
   'Jonathan Maderer',
-  'Shared genre(s): Drama and explore similar emotional arcs',
+  'The narrative twists in both movies make them a great pair.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  37386,  -- Aeon Flux (2005)
-  89030,  -- Fright Night (2011)
-  4,
+  248,  -- 'Sugar Chile' Robinson, Billie Holiday, Count Basie and His Sextet (1951)
+  759,  -- 100% Blowjobs 17 (2003)
+  9,
   'Jonathan Maderer',
-  ''Aeon Flux (2005)' fans might be curious about the contrasting world of 'Fright Night (2011)'',
+  'A combination of compelling soundtracks and memorable characters.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  2394,  -- Prince of Egypt, The (1998)
-  89030,  -- Fright Night (2011)
+  305,  -- (A) (2002)
+  1027,  -- 13 dni (1964)
+  10,
+  'Jonathan Maderer',
+  'They deliver a similar emotional impact and depth.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  167,  -- 'Minagoroshi no uta' yori kenj-yo saraba! (1960)
+  484,  -- ...viele Grsse, Rank (2002)
+  9,
+  'Jonathan Maderer',
+  'They have overlapping fan bases due to similar tone and pacing.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  158,  -- 'Master Harold'... and the Boys (1985)
+  314,  -- (In) (1991)
+  10,
+  'Jonathan Maderer',
+  'Both movies explore similar social themes and dilemmas.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  650,  -- 10 Years of Heartbeat (2002)
+  812,  -- 1000 Dollar Belohnung (1923)
+  8,
+  'Jonathan Maderer',
+  'They share a distinct visual style and atmosphere.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  153,  -- 'Mad' Boy, I'll Blow Your Blues Away. Be Mine (1997)
+  258,  -- 'Tempo' (1980)
+  9,
+  'Jonathan Maderer',
+  'They deliver a similar emotional impact and depth.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1022,  -- 12th Annual American Music Awards, The (1985)
+  494,  -- ...Y los sueos pasan (1939)
+  9,
+  'Jonathan Maderer',
+  'Both explore philosophical questions about life and identity.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  52,  -- 'A' gai waak (1983)
+  238,  -- 'Shamrock' and 'Columbia' Yacht Race: 1st Race, No. 2 (1899)
+  9,
+  'Jonathan Maderer',
+  'A combination of compelling soundtracks and memorable characters.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  428,  -- ...Or Forever Hold Your Peace (2000)
+  672,  -- 100 aos de perdn (1998)
+  8,
+  'Jonathan Maderer',
+  'They have overlapping fan bases due to similar tone and pacing.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  960,  -- 11th Hour (1997)
+  88,  -- 'Columbia' Winning the Cup (1901/I) (1901)
+  8,
+  'Jonathan Maderer',
+  'Both explore philosophical questions about life and identity.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  896,  -- 10:30 P.M. Summer (1966)
+  647,  -- 10 vistas de los lugares ms poticos y concurridos de Orizaba (1905)
+  10,
+  'Jonathan Maderer',
+  'Both explore philosophical questions about life and identity.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  843,  -- 100th Telecast: Pavarotti Plus! Live from Lincoln Center, The (1991)
+  466,  -- ...und fhre uns nicht in Versuchung (1917)
+  9,
+  'Jonathan Maderer',
+  'Both explore philosophical questions about life and identity.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  37,  -- '24-25' ne vozvrashchayetsya (1968)
+  404,  -- ...I drugie offitsialnye litsa (1976)
+  10,
+  'Jonathan Maderer',
+  'They have overlapping fan bases due to similar tone and pacing.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  511,  -- .hack//Liminality Vol. 1: In the Case of Mai Minase (2003)
+  16,  -- $30,000 (1920)
+  8,
+  'Jonathan Maderer',
+  'Both are acclaimed for their unique storytelling approach.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  706,  -- 100 meter fri (1993)
+  518,  -- 0 beon agashi (1981)
+  10,
+  'Jonathan Maderer',
+  'Fans of strong character development will enjoy both films.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  74,  -- 'C' Word, The (1993)
+  1027,  -- 13 dni (1964)
+  9,
+  'Jonathan Maderer',
+  'They have overlapping fan bases due to similar tone and pacing.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1085,  -- 13th Infantry, U.S. Army: Scaling Walls in Retreat, Governors Island (1897)
+  226,  -- 'Sagamore', The (1899)
+  10,
+  'Jonathan Maderer',
+  'Both explore philosophical questions about life and identity.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  783,  -- 100% Helmig (2001)
+  1015,  -- 125 Rooms of Comfort (1974)
+  8,
+  'Jonathan Maderer',
+  'A combination of compelling soundtracks and memorable characters.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  613,  -- 10 Days in a Nudist Camp (1952)
+  225,  -- 'S Wonderful, 'S Marvelous, 'S Gershwin (1972)
+  10,
+  'Jonathan Maderer',
+  'Both movies explore similar social themes and dilemmas.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1097,  -- 14 Carrot Rabbit (1952)
+  494,  -- ...Y los sueos pasan (1939)
+  9,
+  'Jonathan Maderer',
+  'They deliver a similar emotional impact and depth.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  957,  -- 11th & Congress (2000)
+  217,  -- 'Revenue' and the Girl, The (1911)
+  8,
+  'Jonathan Maderer',
+  'They share a distinct visual style and atmosphere.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1021,  -- 12inui hasuksaeng (1979)
+  661,  -- 10,000 Maniacs Time Capsule (1990)
+  10,
+  'Jonathan Maderer',
+  'They share a distinct visual style and atmosphere.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  274,  -- 'Tis Tough to Be Tender (1918)
+  809,  -- 1000 Convicts and a Woman (1971)
+  8,
+  'Jonathan Maderer',
+  'A combination of compelling soundtracks and memorable characters.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  275,  -- 'Tong tatlong tatay kong pakitong-kitong (1998)
+  227,  -- 'Sagasta', Admiral Dewey's Pet Pig (1899)
+  9,
+  'Jonathan Maderer',
+  'Both are acclaimed for their unique storytelling approach.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  632,  -- 10 Minuten zwischen Hamburg und Salzburg (2004)
+  172,  -- 'Moving' Picture, A (1899)
+  10,
+  'Jonathan Maderer',
+  'Both are considered classics in their genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  273,  -- 'Tis the Season to Be Smurfy (1984)
+  53,  -- 'A' gai waak juk jaap (1987)
+  8,
+  'Jonathan Maderer',
+  'They have overlapping fan bases due to similar tone and pacing.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  233,  -- 'Shamrock' After Carrying Away Topsail (1899)
+  1028,  -- 13 East Street (1952)
+  9,
+  'Jonathan Maderer',
+  'They deliver a similar emotional impact and depth.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  127,  -- 'If Only' Jim (1920)
+  661,  -- 10,000 Maniacs Time Capsule (1990)
+  10,
+  'Jonathan Maderer',
+  'A combination of compelling soundtracks and memorable characters.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  430,  -- ...Po prozvishchu 'Zver' (1990)
+  875,  -- 101-vy kilometer (2001)
+  9,
+  'Jonathan Maderer',
+  'Both are considered classics in their genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  413,  -- ...Ja teeb trikke (1978)
+  720,  -- 100 Worst Pop Records (2004)
+  9,
+  'Jonathan Maderer',
+  'Both are considered classics in their genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  517,  -- .hack//Quarantine (2003)
+  475,  -- ...und pltzlich wird es dunkel in meinem Leben (2001)
+  8,
+  'Jonathan Maderer',
+  'Both movies explore similar social themes and dilemmas.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1046,  -- 13 Moons (2002)
+  1018,  -- 12:01 (1993)
+  9,
+  'Jonathan Maderer',
+  'Both are acclaimed for their unique storytelling approach.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  895,  -- 10:30 Check-Out (2002)
+  109,  -- 'Gator and the Pickaninny, The (1900)
+  8,
+  'Jonathan Maderer',
+  'Both are considered classics in their genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  293,  -- 'Weird Al' Yankovic: (There's No) (1996)
+  224,  -- 'Round the World in 80 Days (1914)
+  8,
+  'Jonathan Maderer',
+  'They share a distinct visual style and atmosphere.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  445,  -- ...som havets nakna vind (1968)
+  282,  -- 'Twas the Night Before Christmas (1974)
+  9,
+  'Jonathan Maderer',
+  'Both are acclaimed for their unique storytelling approach.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  46,  -- '70s: The Decade That Changed Television, The (2000)
+  53,  -- 'A' gai waak juk jaap (1987)
+  10,
+  'Jonathan Maderer',
+  'Both movies explore similar social themes and dilemmas.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  289,  -- 'Way Down South (1898)
+  720,  -- 100 Worst Pop Records (2004)
+  8,
+  'Jonathan Maderer',
+  'A combination of compelling soundtracks and memorable characters.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  129,  -- 'Imperial Limited.' Canadian Pacific R.R. (1899)
+  784,  -- 100% Interracial (2003)
+  10,
+  'Jonathan Maderer',
+  'A combination of compelling soundtracks and memorable characters.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  318,  -- (Past Present Future) (2004)
+  572,  -- 1 na 1 (2002)
+  8,
+  'Jonathan Maderer',
+  'Fans of strong character development will enjoy both films.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  161,  -- 'Metal Gear Solid 2: Sons of Liberty' - Making of the Hollywood Game (2002)
+  576,  -- 1 s a semmi (2004)
+  9,
+  'Jonathan Maderer',
+  'Fans of strong character development will enjoy both films.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  153,  -- 'Mad' Boy, I'll Blow Your Blues Away. Be Mine (1997)
+  961,  -- 11th Hour (2004)
+  9,
+  'Jonathan Maderer',
+  'They share a distinct visual style and atmosphere.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  263,  -- 'Til There Was You (1997)
+  870,  -- 101 Reykjavk (2000)
+  10,
+  'Jonathan Maderer',
+  'They deliver a similar emotional impact and depth.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  519,  -- 0 shi (1972)
+  947,  -- 117 (1999)
+  10,
+  'Jonathan Maderer',
+  'Both explore philosophical questions about life and identity.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  160,  -- 'Merci la vie' (1991)
+  1029,  -- 13 Erotic Ghosts (2002)
+  8,
+  'Jonathan Maderer',
+  'They deliver a similar emotional impact and depth.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  651,  -- 10 r der rystede verden (1991)
+  263,  -- 'Til There Was You (1997)
+  10,
+  'Jonathan Maderer',
+  'The narrative twists in both movies make them a great pair.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  450,  -- ...tick...tick...tick... (1970)
+  152,  -- 'M' Word (1996)
+  8,
+  'Jonathan Maderer',
+  'A combination of compelling soundtracks and memorable characters.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  52,  -- 'A' gai waak (1983)
+  284,  -- 'Twixt Red Man and White (1910)
+  9,
+  'Jonathan Maderer',
+  'Both explore philosophical questions about life and identity.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  657,  -- 10,000 Cigarettes (2004)
+  878,  -- 102 (2001)
+  8,
+  'Jonathan Maderer',
+  'They have overlapping fan bases due to similar tone and pacing.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  152,  -- 'M' Word (1996)
+  1083,  -- 13th Infantry, U.S. Army: Marching and Counter Marching (Band and Troops) (1897)
+  9,
+  'Jonathan Maderer',
+  'They deliver a similar emotional impact and depth.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1043,  -- 13 Men and a Gun (1938)
+  818,  -- 1000 Marys (2001)
+  9,
+  'Jonathan Maderer',
+  'They deliver a similar emotional impact and depth.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  976,  -- 12 Days of Terror (2004)
+  85,  -- 'Columbia' Close to the Wind (1899)
+  10,
+  'Jonathan Maderer',
+  'The narrative twists in both movies make them a great pair.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  925,  -- 110 All Star Cumshots 1 (1999)
+  118,  -- 'Halloween' Unmasked 2000 (1999)
+  10,
+  'Jonathan Maderer',
+  'A combination of compelling soundtracks and memorable characters.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  666,  -- 10-Yard Fight (1983)
+  1018,  -- 12:01 (1993)
+  9,
+  'Jonathan Maderer',
+  'They deliver a similar emotional impact and depth.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  802,  -- 100%, the Art of Conversation (1996)
+  387,  -- ...e la vita continua (1984)
+  10,
+  'Jonathan Maderer',
+  'They share a distinct visual style and atmosphere.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  630,  -- 10 Minute Run!!!, The (2001)
+  818,  -- 1000 Marys (2001)
+  10,
+  'Jonathan Maderer',
+  'Both are considered classics in their genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  517,  -- .hack//Quarantine (2003)
+  79,  -- 'Columbia' and 'Defender' Rounding Stake-Boat (1899)
+  9,
+  'Jonathan Maderer',
+  'Fans of strong character development will enjoy both films.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  183,  -- 'N Sync: The Atlantis Concert (2001)
+  187,  -- 'Neath Canadian Skies (1946)
+  8,
+  'Jonathan Maderer',
+  'They have overlapping fan bases due to similar tone and pacing.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  452,  -- ...To Skin a Cat (2004)
+  244,  -- 'Sloboda' - Kula (1971)
+  8,
+  'Jonathan Maderer',
+  'Both are considered classics in their genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  246,  -- 'St. Paul' Outward Bound, The (1900)
+  387,  -- ...e la vita continua (1984)
+  9,
+  'Jonathan Maderer',
+  'Both explore philosophical questions about life and identity.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1090,  -- 13th Regiment Pennsylvania Volunteers (1898)
+  479,  -- ...und wer kt mich? (1956)
+  8,
+  'Jonathan Maderer',
+  'They have overlapping fan bases due to similar tone and pacing.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  985,  -- 12 Mdchen und 1 Mann (1959)
+  54,  -- 'Abbot' and 'Cresceus' Race, The (1901)
+  8,
+  'Jonathan Maderer',
+  'Both explore philosophical questions about life and identity.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  447,  -- ...sonst erblindet die Seele (1994)
+  62,  -- 'Babicky dobjejte presne!' (1983)
+  9,
+  'Jonathan Maderer',
+  'Fans of strong character development will enjoy both films.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  78,  -- 'Columbia' (1899)
+  615,  -- 10 del Texas, I (1961)
+  10,
+  'Jonathan Maderer',
+  'The narrative twists in both movies make them a great pair.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  166,  -- 'Midst Woodland Shadows (1914)
+  1011,  -- 1220 (1983)
+  10,
+  'Jonathan Maderer',
+  'Fans of strong character development will enjoy both films.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  266,  -- 'Till the Garden Grows (1996)
+  832,  -- 1001 crtez (1960)
+  10,
+  'Jonathan Maderer',
+  'The narrative twists in both movies make them a great pair.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  658,  -- 10,000 Delusions (1999)
+  367,  -- ...But I Was a Girl: The Story of Frieda Belinfante (1999)
+  9,
+  'Jonathan Maderer',
+  'They have overlapping fan bases due to similar tone and pacing.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  385,  -- ...E il terzo giorno arriv il corvo (1973)
+  886,  -- 105 % alibi (1959)
+  9,
+  'Jonathan Maderer',
+  'Both explore philosophical questions about life and identity.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  983,  -- 12 mesyatsev (1956)
+  402,  -- ...heute abend bei mir (1934)
+  9,
+  'Jonathan Maderer',
+  'The narrative twists in both movies make them a great pair.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  47,  -- '88 Dodge Aries (2002)
+  556,  -- 1 2 3 (2003)
+  8,
+  'Jonathan Maderer',
+  'Fans of strong character development will enjoy both films.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  835,  -- 1001 marguerites, Les (1986)
+  522,  -- 0-18 or A Message from the Sky (1914)
+  9,
+  'Jonathan Maderer',
+  'Both are considered classics in their genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  562,  -- 1 Fijo (2003)
+  870,  -- 101 Reykjavk (2000)
+  9,
+  'Jonathan Maderer',
+  'Both explore philosophical questions about life and identity.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  400,  -- ...First Do No Harm (1997)
+  383,  -- ...E di Saul e dei sicari sulle vie di Damasco (1973)
+  5,
+  'Jonathan Maderer',
+  'Both are considered classics in their genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  272,  -- 'Tis the Bull (1923)
+  902,  -- 10th Penn'a Volunteers (1899)
   6,
   'Jonathan Maderer',
-  ''Fright Night (2011)' riffs on genre tropes that 'Prince of Egypt, The (1998)' helped define',
+  'A combination of compelling soundtracks and memorable characters.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  79702,  -- Scott Pilgrim vs. the World (2010)
-  89030,  -- Fright Night (2011)
-  2,
+  428,  -- ...Or Forever Hold Your Peace (2000)
+  611,  -- 10 Beers in 10 Minutes (1999)
+  4,
   'Jonathan Maderer',
-  'While 'Scott Pilgrim vs. the World (2010)' is a slow-burning drama, 'Fright Night (2011)' takes a comedic detour',
+  'Fans of strong character development will enjoy both films.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  32589,  -- Beauty Shop (2005)
-  89030,  -- Fright Night (2011)
-  2,
+  551,  -- 091 Polica al habla (1960)
+  701,  -- 100 kilos de plomo (2002)
+  7,
   'Jonathan Maderer',
-  ''Beauty Shop (2005)' is a cult hit, 'Fright Night (2011)' is more of a genre experiment',
+  'Both explore philosophical questions about life and identity.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  26133,  -- Charlie Brown Christmas, A (1965)
-  89030,  -- Fright Night (2011)
+  167,  -- 'Minagoroshi no uta' yori kenj-yo saraba! (1960)
+  386,  -- ...e la donna cre l'uomo (1964)
+  4,
+  'Jonathan Maderer',
+  'They have overlapping fan bases due to similar tone and pacing.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1033,  -- 13 French Street (2005)
+  151,  -- 'M' comme Mathieu (1973)
+  4,
+  'Jonathan Maderer',
+  'They deliver a similar emotional impact and depth.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  331,  -- -30- (1959)
+  571,  -- 1 mei ballade (1962)
   3,
   'Jonathan Maderer',
-  ''Charlie Brown Christmas, A (1965)' fans might be curious about the contrasting world of 'Fright Night (2011)'',
+  'Both movies explore similar social themes and dilemmas.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  35957,  -- Red Eye (2005)
-  89030,  -- Fright Night (2011)
+  342,  -- ...aber Jonny! (1973)
+  957,  -- 11th & Congress (2000)
   7,
   'Jonathan Maderer',
-  'Different eras, tones, and audiences — yet an interesting double feature',
+  'The narrative twists in both movies make them a great pair.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  523,  -- Ruby in Paradise (1993)
-  89030,  -- Fright Night (2011)
+  31,  -- $pent (2000)
+  827,  -- 10000 malchikov (1961)
   7,
   'Jonathan Maderer',
-  ''Fright Night (2011)' riffs on genre tropes that 'Ruby in Paradise (1993)' helped define',
+  'They have overlapping fan bases due to similar tone and pacing.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  127114,  -- The End of the Tour (2015)
-  89030,  -- Fright Night (2011)
+  677,  -- 100 Days in the Jungle (2002)
+  58,  -- 'Arriet's Baby (1913)
+  7,
+  'Jonathan Maderer',
+  'They deliver a similar emotional impact and depth.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  584,  -- 1,500,000 of Us (1959)
+  989,  -- 12 pasos (2000)
   5,
   'Jonathan Maderer',
-  'Shared cast member, but vastly different tone and execution',
+  'Fans of strong character development will enjoy both films.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  133716,  -- Bootleggers (1961)
-  89030,  -- Fright Night (2011)
+  745,  -- 100% Amateur 44 (1998)
+  895,  -- 10:30 Check-Out (2002)
   7,
   'Jonathan Maderer',
-  'Different eras, tones, and audiences — yet an interesting double feature',
+  'The narrative twists in both movies make them a great pair.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  7811,  -- Babylon 5: The River of Souls (1998)
-  89030,  -- Fright Night (2011)
-  4,
-  'Jonathan Maderer',
-  ''Fright Night (2011)' riffs on genre tropes that 'Babylon 5: The River of Souls (1998)' helped define',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  2322,  -- Soldier (1998)
-  89030,  -- Fright Night (2011)
-  8,
-  'Jonathan Maderer',
-  'Shared cast member, but vastly different tone and execution',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  26965,  -- Boxer, The (1997)
-  89030,  -- Fright Night (2011)
+  1003,  -- 120 decibels (1987)
+  984,  -- 12 Mile Road (2003)
   7,
   'Jonathan Maderer',
-  ''Boxer, The (1997)' is a cult hit, 'Fright Night (2011)' is more of a genre experiment',
+  'A combination of compelling soundtracks and memorable characters.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  3675,  -- White Christmas (1954)
-  89030,  -- Fright Night (2011)
-  4,
-  'Jonathan Maderer',
-  'Shared cast member, but vastly different tone and execution',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  127096,  -- Project Almanac (2015)
-  89030,  -- Fright Night (2011)
+  714,  -- 100 Proof (1997)
+  516,  -- .hack//Outbreak (2002)
   5,
   'Jonathan Maderer',
-  'While 'Project Almanac (2015)' is a slow-burning drama, 'Fright Night (2011)' takes a comedic detour',
+  'Both explore philosophical questions about life and identity.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  77688,  -- Three Men and a Cradle (3 hommes et un couffin) (1985)
-  89030,  -- Fright Night (2011)
-  2,
+  941,  -- 112th Dream, The (2001)
+  134,  -- 'Itch (1989)
+  6,
   'Jonathan Maderer',
-  'Different eras, tones, and audiences — yet an interesting double feature',
+  'A combination of compelling soundtracks and memorable characters.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  53993,  -- Evan Almighty (2007)
-  89030,  -- Fright Night (2011)
-  8,
+  653,  -- 10% nadeje (1976)
+  198,  -- 'O re (1989)
+  5,
   'Jonathan Maderer',
-  'Different eras, tones, and audiences — yet an interesting double feature',
+  'The narrative twists in both movies make them a great pair.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  1458,  -- Touch (1997)
-  89030,  -- Fright Night (2011)
-  8,
+  590,  -- 1-2-3 Magic (1990)
+  850,  -- 101 Dalmatians Sing Along (1996)
+  4,
   'Jonathan Maderer',
-  'Different eras, tones, and audiences — yet an interesting double feature',
+  'A combination of compelling soundtracks and memorable characters.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  88129,  -- Drive (2011)
-  89030,  -- Fright Night (2011)
+  892,  -- 1080: Avalanche (2003)
+  477,  -- ...und sowas nennt sich Show (1971)
+  4,
+  'Jonathan Maderer',
+  'They deliver a similar emotional impact and depth.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  345,  -- ...Almost (1990)
+  960,  -- 11th Hour (1997)
+  5,
+  'Jonathan Maderer',
+  'Both are acclaimed for their unique storytelling approach.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1032,  -- 13 Floors (1991)
+  807,  -- 1000 Boomerangs (1994)
+  5,
+  'Jonathan Maderer',
+  'The narrative twists in both movies make them a great pair.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  883,  -- 103 Degrees (1993)
+  347,  -- ...An Incredible Simulation (2000)
+  5,
+  'Jonathan Maderer',
+  'They deliver a similar emotional impact and depth.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  922,  -- 11* mandamiento, El (2000)
+  1088,  -- 13th Man, The (1937)
   3,
   'Jonathan Maderer',
-  ''Drive (2011)' is a cult hit, 'Fright Night (2011)' is more of a genre experiment',
+  'Both are acclaimed for their unique storytelling approach.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  881,  -- First Kid (1996)
-  89030,  -- Fright Night (2011)
-  6,
-  'Jonathan Maderer',
-  ''First Kid (1996)' built a legacy, while 'Fright Night (2011)' struggled to find its audience',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  1260,  -- M (1931)
-  89030,  -- Fright Night (2011)
-  8,
-  'Jonathan Maderer',
-  'While 'M (1931)' is a slow-burning drama, 'Fright Night (2011)' takes a comedic detour',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  3060,  -- Commitments, The (1991)
-  89030,  -- Fright Night (2011)
-  6,
-  'Jonathan Maderer',
-  ''Commitments, The (1991)' built a legacy, while 'Fright Night (2011)' struggled to find its audience',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  2142,  -- American Tail: Fievel Goes West, An (1991)
-  89030,  -- Fright Night (2011)
-  6,
-  'Jonathan Maderer',
-  ''American Tail: Fievel Goes West, An (1991)' is a cult hit, 'Fright Night (2011)' is more of a genre experiment',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  2351,  -- Nights of Cabiria (Notti di Cabiria, Le) (1957)
-  89030,  -- Fright Night (2011)
-  5,
-  'Jonathan Maderer',
-  ''Nights of Cabiria (Notti di Cabiria, Le) (1957)' built a legacy, while 'Fright Night (2011)' struggled to find its audience',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  6217,  -- Safety of Objects, The (2001)
-  89030,  -- Fright Night (2011)
-  2,
-  'Jonathan Maderer',
-  'Shared cast member, but vastly different tone and execution',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  72395,  -- Precious (2009)
-  89030,  -- Fright Night (2011)
-  5,
-  'Jonathan Maderer',
-  ''Precious (2009)' is a cult hit, 'Fright Night (2011)' is more of a genre experiment',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  8481,  -- Northwest Passage (1940)
-  89030,  -- Fright Night (2011)
-  2,
-  'Jonathan Maderer',
-  'A mismatch in tone, but fans of offbeat cinema might enjoy both',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  79057,  -- Predators (2010)
-  89030,  -- Fright Night (2011)
-  5,
-  'Jonathan Maderer',
-  'Similar themes approached from entirely opposite genres',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  3089,  -- Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948)
-  89030,  -- Fright Night (2011)
-  6,
-  'Jonathan Maderer',
-  'Similar themes approached from entirely opposite genres',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  2398,  -- Miracle on 34th Street (1947)
-  89030,  -- Fright Night (2011)
-  5,
-  'Jonathan Maderer',
-  'A mismatch in tone, but fans of offbeat cinema might enjoy both',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  8870,  -- Forgotten, The (2004)
-  89030,  -- Fright Night (2011)
+  673,  -- 100 Bullets (2004)
+  254,  -- 't Was een April (1935)
   7,
   'Jonathan Maderer',
-  ''Forgotten, The (2004)' fans might be curious about the contrasting world of 'Fright Night (2011)'',
+  'Fans of strong character development will enjoy both films.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  171695,  -- Robin Williams: Live on Broadway (2002)
-  89030,  -- Fright Night (2011)
-  7,
-  'Jonathan Maderer',
-  ''Robin Williams: Live on Broadway (2002)' built a legacy, while 'Fright Night (2011)' struggled to find its audience',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  130052,  -- Clown (2014)
-  89030,  -- Fright Night (2011)
-  8,
-  'Jonathan Maderer',
-  ''Clown (2014)' is a cult hit, 'Fright Night (2011)' is more of a genre experiment',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  95839,  -- Christmas Carol, A (1999)
-  89030,  -- Fright Night (2011)
-  7,
-  'Jonathan Maderer',
-  ''Fright Night (2011)' riffs on genre tropes that 'Christmas Carol, A (1999)' helped define',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  4447,  -- Legally Blonde (2001)
-  89030,  -- Fright Night (2011)
-  5,
-  'Jonathan Maderer',
-  'Similar themes approached from entirely opposite genres',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  73501,  -- Pekka ja Pätkä Suezilla (1958)
-  89030,  -- Fright Night (2011)
-  7,
-  'Jonathan Maderer',
-  'While 'Pekka ja Pätkä Suezilla (1958)' is a slow-burning drama, 'Fright Night (2011)' takes a comedic detour',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  111921,  -- The Fault in Our Stars (2014)
-  89030,  -- Fright Night (2011)
+  371,  -- ...dann hau ich eben ab (1995)
+  47,  -- '88 Dodge Aries (2002)
   4,
   'Jonathan Maderer',
-  ''The Fault in Our Stars (2014)' built a legacy, while 'Fright Night (2011)' struggled to find its audience',
+  'They deliver a similar emotional impact and depth.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  8730,  -- To End All Wars (2001)
-  89030,  -- Fright Night (2011)
-  8,
+  88,  -- 'Columbia' Winning the Cup (1901/I) (1901)
+  1025,  -- 13 Bourbon St. (1997)
+  5,
   'Jonathan Maderer',
-  'Shared cast member, but vastly different tone and execution',
+  'They have overlapping fan bases due to similar tone and pacing.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  4276,  -- Lost in America (1985)
-  89030,  -- Fright Night (2011)
+  14,  -- $2500 Bride, The (1912)
+  1066,  -- 1300cc (2001)
   4,
   'Jonathan Maderer',
-  'A mismatch in tone, but fans of offbeat cinema might enjoy both',
+  'Fans of strong character development will enjoy both films.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  50354,  -- The Return of Don Camillo (1953)
-  89030,  -- Fright Night (2011)
-  6,
-  'Jonathan Maderer',
-  'Shared cast member, but vastly different tone and execution',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  73431,  -- Maiden Heist, The (2009)
-  89030,  -- Fright Night (2011)
+  803,  -- 100,000 (2001)
+  501,  -- ...zu Stein. (1992)
   4,
   'Jonathan Maderer',
-  'Different eras, tones, and audiences — yet an interesting double feature',
+  'They deliver a similar emotional impact and depth.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  4458,  -- Africa: The Serengeti (1994)
-  89030,  -- Fright Night (2011)
-  2,
+  34,  -- & frres (2000)
+  997,  -- 12 Uhr mittags kommt der Bo (1968)
+  7,
   'Jonathan Maderer',
-  ''Africa: The Serengeti (1994)' built a legacy, while 'Fright Night (2011)' struggled to find its audience',
+  'Fans of strong character development will enjoy both films.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  40815,  -- Harry Potter and the Goblet of Fire (2005)
-  89030,  -- Fright Night (2011)
+  906,  -- 11 (1980)
+  922,  -- 11* mandamiento, El (2000)
   3,
   'Jonathan Maderer',
-  ''Harry Potter and the Goblet of Fire (2005)' is a cult hit, 'Fright Night (2011)' is more of a genre experiment',
+  'Both explore philosophical questions about life and identity.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  2967,  -- Bad Seed, The (1956)
-  89030,  -- Fright Night (2011)
-  3,
-  'Jonathan Maderer',
-  'Different eras, tones, and audiences — yet an interesting double feature',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  165947,  -- The True Memoirs of an International Assassin (2016)
-  89030,  -- Fright Night (2011)
-  6,
-  'Jonathan Maderer',
-  ''Fright Night (2011)' riffs on genre tropes that 'The True Memoirs of an International Assassin (2016)' helped define',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  116799,  -- Inherent Vice (2014)
-  89030,  -- Fright Night (2011)
-  2,
-  'Jonathan Maderer',
-  'A mismatch in tone, but fans of offbeat cinema might enjoy both',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  106,  -- Nobody Loves Me (Keiner liebt mich) (1994)
-  89030,  -- Fright Night (2011)
-  5,
-  'Jonathan Maderer',
-  'Similar themes approached from entirely opposite genres',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  2882,  -- Jakob the Liar (1999)
-  89030,  -- Fright Night (2011)
-  4,
-  'Jonathan Maderer',
-  'Shared cast member, but vastly different tone and execution',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  5876,  -- Quiet American, The (2002)
-  89030,  -- Fright Night (2011)
-  5,
-  'Jonathan Maderer',
-  'A mismatch in tone, but fans of offbeat cinema might enjoy both',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  4042,  -- Alamo, The (1960)
-  89030,  -- Fright Night (2011)
-  3,
-  'Jonathan Maderer',
-  ''Alamo, The (1960)' built a legacy, while 'Fright Night (2011)' struggled to find its audience',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  6291,  -- Lilya 4-Ever (Lilja 4-ever) (2002)
-  89030,  -- Fright Night (2011)
-  2,
-  'Jonathan Maderer',
-  ''Lilya 4-Ever (Lilja 4-ever) (2002)' built a legacy, while 'Fright Night (2011)' struggled to find its audience',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  8601,  -- Zero de conduite (Zero for Conduct) (Zéro de conduite: Jeunes diables au collège) (1933)
-  89030,  -- Fright Night (2011)
-  4,
-  'Jonathan Maderer',
-  ''Zero de conduite (Zero for Conduct) (Zéro de conduite: Jeunes diables au collège) (1933)' is a cult hit, 'Fright Night (2011)' is more of a genre experiment',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  1167,  -- Dear God (1996)
-  89030,  -- Fright Night (2011)
-  4,
-  'Jonathan Maderer',
-  ''Dear God (1996)' fans might be curious about the contrasting world of 'Fright Night (2011)'',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  162350,  -- The Magnificent Seven (2016)
-  89030,  -- Fright Night (2011)
-  8,
-  'Jonathan Maderer',
-  ''The Magnificent Seven (2016)' is a cult hit, 'Fright Night (2011)' is more of a genre experiment',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  1973,  -- Freddy's Dead: The Final Nightmare (Nightmare on Elm Street Part 6: Freddy's Dead, A) (1991)
-  89030,  -- Fright Night (2011)
+  997,  -- 12 Uhr mittags kommt der Bo (1968)
+  968,  -- 12 and Holding (2005)
   7,
   'Jonathan Maderer',
-  'Shared cast member, but vastly different tone and execution',
+  'They have overlapping fan bases due to similar tone and pacing.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  128736,  -- I'm Here (2010)
-  89030,  -- Fright Night (2011)
+  541,  -- 02:06 - Anatomija bola (2000)
+  1025,  -- 13 Bourbon St. (1997)
+  4,
+  'Jonathan Maderer',
+  'They deliver a similar emotional impact and depth.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  365,  -- ...borgnes sont rois, Les (1974)
+  599,  -- 1. maj 1960 (1960)
   7,
   'Jonathan Maderer',
-  'A mismatch in tone, but fans of offbeat cinema might enjoy both',
+  'A combination of compelling soundtracks and memorable characters.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  1876,  -- Deep Impact (1998)
-  89030,  -- Fright Night (2011)
-  6,
-  'Jonathan Maderer',
-  'Similar themes approached from entirely opposite genres',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  2150,  -- Gods Must Be Crazy, The (1980)
-  89030,  -- Fright Night (2011)
-  6,
-  'Jonathan Maderer',
-  'A mismatch in tone, but fans of offbeat cinema might enjoy both',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  134041,  -- Afonya (1975)
-  89030,  -- Fright Night (2011)
-  4,
-  'Jonathan Maderer',
-  'A mismatch in tone, but fans of offbeat cinema might enjoy both',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  5615,  -- Invincible (2001)
-  89030,  -- Fright Night (2011)
-  2,
-  'Jonathan Maderer',
-  ''Invincible (2001)' fans might be curious about the contrasting world of 'Fright Night (2011)'',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  7624,  -- School Ties (1992)
-  89030,  -- Fright Night (2011)
-  2,
-  'Jonathan Maderer',
-  ''School Ties (1992)' is a cult hit, 'Fright Night (2011)' is more of a genre experiment',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  167790,  -- The Good Boy (2016)
-  89030,  -- Fright Night (2011)
+  601,  -- 1/2 8 (1995)
+  784,  -- 100% Interracial (2003)
   3,
   'Jonathan Maderer',
-  ''The Good Boy (2016)' fans might be curious about the contrasting world of 'Fright Night (2011)'',
+  'A combination of compelling soundtracks and memorable characters.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  4772,  -- Dinner Rush (2000)
-  89030,  -- Fright Night (2011)
+  832,  -- 1001 crtez (1960)
+  959,  -- 11th Annual People's Choice Awards, The (1985)
   4,
   'Jonathan Maderer',
-  ''Fright Night (2011)' riffs on genre tropes that 'Dinner Rush (2000)' helped define',
+  'Both movies explore similar social themes and dilemmas.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  4962,  -- Texas Rangers (2001)
-  89030,  -- Fright Night (2011)
-  2,
-  'Jonathan Maderer',
-  ''Fright Night (2011)' riffs on genre tropes that 'Texas Rangers (2001)' helped define',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  33145,  -- Lot Like Love, A (2005)
-  89030,  -- Fright Night (2011)
-  8,
-  'Jonathan Maderer',
-  ''Lot Like Love, A (2005)' fans might be curious about the contrasting world of 'Fright Night (2011)'',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  106062,  -- Jackass Presents: Bad Grandpa (2013)
-  89030,  -- Fright Night (2011)
-  5,
-  'Jonathan Maderer',
-  'Similar themes approached from entirely opposite genres',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  3898,  -- Bait (2000)
-  89030,  -- Fright Night (2011)
-  2,
-  'Jonathan Maderer',
-  'Different eras, tones, and audiences — yet an interesting double feature',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  38583,  -- Wraith, The (1986)
-  89030,  -- Fright Night (2011)
-  5,
-  'Jonathan Maderer',
-  ''Wraith, The (1986)' fans might be curious about the contrasting world of 'Fright Night (2011)'',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  2328,  -- Vampires (1998)
-  89030,  -- Fright Night (2011)
+  427,  -- ...och halva kungariket (1998)
+  678,  -- 100 de lei (1973)
   6,
   'Jonathan Maderer',
-  'While 'Vampires (1998)' is a slow-burning drama, 'Fright Night (2011)' takes a comedic detour',
+  'The narrative twists in both movies make them a great pair.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  1826,  -- Barney's Great Adventure (1998)
-  89030,  -- Fright Night (2011)
-  4,
-  'Jonathan Maderer',
-  'While 'Barney's Great Adventure (1998)' is a slow-burning drama, 'Fright Night (2011)' takes a comedic detour',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  3235,  -- Where the Buffalo Roam (1980)
-  89030,  -- Fright Night (2011)
-  5,
-  'Jonathan Maderer',
-  'Shared cast member, but vastly different tone and execution',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  737,  -- Barb Wire (1996)
-  89030,  -- Fright Night (2011)
-  4,
-  'Jonathan Maderer',
-  ''Barb Wire (1996)' built a legacy, while 'Fright Night (2011)' struggled to find its audience',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  2843,  -- Black Cat, White Cat (Crna macka, beli macor) (1998)
-  89030,  -- Fright Night (2011)
-  2,
-  'Jonathan Maderer',
-  ''Black Cat, White Cat (Crna macka, beli macor) (1998)' built a legacy, while 'Fright Night (2011)' struggled to find its audience',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  95761,  -- Killer Joe (2011)
-  89030,  -- Fright Night (2011)
-  5,
-  'Jonathan Maderer',
-  'A mismatch in tone, but fans of offbeat cinema might enjoy both',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  366,  -- Wes Craven's New Nightmare (Nightmare on Elm Street Part 7: Freddy's Finale, A) (1994)
-  89030,  -- Fright Night (2011)
-  6,
-  'Jonathan Maderer',
-  'While 'Wes Craven's New Nightmare (Nightmare on Elm Street Part 7: Freddy's Finale, A) (1994)' is a slow-burning drama, 'Fright Night (2011)' takes a comedic detour',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  27618,  -- Sound of Thunder, A (2005)
-  89030,  -- Fright Night (2011)
-  5,
-  'Jonathan Maderer',
-  'While 'Sound of Thunder, A (2005)' is a slow-burning drama, 'Fright Night (2011)' takes a comedic detour',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  2354,  -- Rugrats Movie, The (1998)
-  89030,  -- Fright Night (2011)
+  408,  -- ...ing (2003)
+  825,  -- 1000 Worte deutsch (1930)
   3,
   'Jonathan Maderer',
-  'Shared cast member, but vastly different tone and execution',
+  'They deliver a similar emotional impact and depth.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  31123,  -- Ruby & Quentin (Tais-toi!) (2003)
-  89030,  -- Fright Night (2011)
+  364,  -- ...bis Montagmorgen (1991)
+  1094,  -- 13wolui yeonjeong (1982)
+  4,
+  'Jonathan Maderer',
+  'The narrative twists in both movies make them a great pair.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  814,  -- 1000 Feet (2000)
+  404,  -- ...I drugie offitsialnye litsa (1976)
+  3,
+  'Jonathan Maderer',
+  'They have overlapping fan bases due to similar tone and pacing.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  653,  -- 10% nadeje (1976)
+  1016,  -- 125 rue Montmartre (1959)
+  6,
+  'Jonathan Maderer',
+  'They have overlapping fan bases due to similar tone and pacing.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  580,  -- 1,000 Dollars a Minute (1935)
+  544,  -- 06 (1994)
+  6,
+  'Jonathan Maderer',
+  'A combination of compelling soundtracks and memorable characters.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  270,  -- 'Tis Spring (1933)
+  576,  -- 1 s a semmi (2004)
   7,
   'Jonathan Maderer',
-  ''Fright Night (2011)' riffs on genre tropes that 'Ruby & Quentin (Tais-toi!) (2003)' helped define',
+  'They share a distinct visual style and atmosphere.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  5292,  -- Slap Shot (1977)
-  89030,  -- Fright Night (2011)
-  5,
-  'Jonathan Maderer',
-  ''Slap Shot (1977)' fans might be curious about the contrasting world of 'Fright Night (2011)'',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  27124,  -- Bleeder (1999)
-  89030,  -- Fright Night (2011)
-  5,
-  'Jonathan Maderer',
-  'Similar themes approached from entirely opposite genres',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  910,  -- Some Like It Hot (1959)
-  89030,  -- Fright Night (2011)
-  2,
-  'Jonathan Maderer',
-  'While 'Some Like It Hot (1959)' is a slow-burning drama, 'Fright Night (2011)' takes a comedic detour',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  87876,  -- Cars 2 (2011)
-  89030,  -- Fright Night (2011)
+  553,  -- 1 (2004)
+  90,  -- 'Corsair', The (1899)
   3,
   'Jonathan Maderer',
-  ''Cars 2 (2011)' is a cult hit, 'Fright Night (2011)' is more of a genre experiment',
+  'Both are acclaimed for their unique storytelling approach.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  90531,  -- Shame (2011)
-  89030,  -- Fright Night (2011)
-  4,
+  980,  -- 12 Hot Women (2003)
+  724,  -- 100 Years of Horror (1996)
+  6,
   'Jonathan Maderer',
-  'Different eras, tones, and audiences — yet an interesting double feature',
+  'A combination of compelling soundtracks and memorable characters.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  4310,  -- Pearl Harbor (2001)
-  89030,  -- Fright Night (2011)
-  4,
-  'Jonathan Maderer',
-  'Similar themes approached from entirely opposite genres',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  1350,  -- Omen, The (1976)
-  89030,  -- Fright Night (2011)
-  2,
-  'Jonathan Maderer',
-  ''Fright Night (2011)' riffs on genre tropes that 'Omen, The (1976)' helped define',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  1590,  -- Event Horizon (1997)
-  89030,  -- Fright Night (2011)
-  4,
-  'Jonathan Maderer',
-  ''Event Horizon (1997)' built a legacy, while 'Fright Night (2011)' struggled to find its audience',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  1196,  -- Star Wars: Episode V - The Empire Strikes Back (1980)
-  89030,  -- Fright Night (2011)
-  8,
-  'Jonathan Maderer',
-  'A mismatch in tone, but fans of offbeat cinema might enjoy both',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  33779,  -- Eddie Izzard: Dress to Kill (1999)
-  89030,  -- Fright Night (2011)
-  2,
-  'Jonathan Maderer',
-  'A mismatch in tone, but fans of offbeat cinema might enjoy both',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  147376,  -- Doctor Who: A Christmas Carol (2010)
-  89030,  -- Fright Night (2011)
+  1006,  -- 120 Tage von Bottrop, Die (1997)
+  1048,  -- 13 Rue Madeleine (1947)
   5,
   'Jonathan Maderer',
-  'Shared cast member, but vastly different tone and execution',
+  'They deliver a similar emotional impact and depth.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  92,  -- Mary Reilly (1996)
-  89030,  -- Fright Night (2011)
-  2,
-  'Jonathan Maderer',
-  'Similar themes approached from entirely opposite genres',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  119153,  -- Bill Burr: You People Are All the Same (2012)
-  89030,  -- Fright Night (2011)
-  2,
-  'Jonathan Maderer',
-  'A mismatch in tone, but fans of offbeat cinema might enjoy both',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  5454,  -- Mo' Money (1992)
-  89030,  -- Fright Night (2011)
-  4,
-  'Jonathan Maderer',
-  ''Mo' Money (1992)' is a cult hit, 'Fright Night (2011)' is more of a genre experiment',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  166461,  -- Moana (2016)
-  89030,  -- Fright Night (2011)
-  2,
-  'Jonathan Maderer',
-  'While 'Moana (2016)' is a slow-burning drama, 'Fright Night (2011)' takes a comedic detour',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  3770,  -- Dreamscape (1984)
-  89030,  -- Fright Night (2011)
-  5,
-  'Jonathan Maderer',
-  ''Dreamscape (1984)' is a cult hit, 'Fright Night (2011)' is more of a genre experiment',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  205,  -- Unstrung Heroes (1995)
-  89030,  -- Fright Night (2011)
-  5,
-  'Jonathan Maderer',
-  ''Fright Night (2011)' riffs on genre tropes that 'Unstrung Heroes (1995)' helped define',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  5365,  -- Lady and the Duke, The (Anglaise et le duc, L') (2001)
-  89030,  -- Fright Night (2011)
+  605,  -- 1/57: Versuch mit synthetischem Ton (Test) (1957)
+  755,  -- 100% Blowjobs 13 (2003)
   7,
   'Jonathan Maderer',
-  'A mismatch in tone, but fans of offbeat cinema might enjoy both',
+  'Both movies explore similar social themes and dilemmas.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  4152,  -- Vatel (2000)
-  89030,  -- Fright Night (2011)
+  698,  -- 100 Jahre Mattscheibe (1997)
+  706,  -- 100 meter fri (1993)
+  3,
+  'Jonathan Maderer',
+  'Both are acclaimed for their unique storytelling approach.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  380,  -- ...e alla fine lo chiamarono Jerusalem l'implacabile (1972)
+  1013,  -- 1249 km (1989)
   4,
   'Jonathan Maderer',
-  ''Vatel (2000)' fans might be curious about the contrasting world of 'Fright Night (2011)'',
+  'Both are considered classics in their genre.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  171759,  -- The Beguiled (2017)
-  89030,  -- Fright Night (2011)
-  8,
+  171,  -- 'Moonlight Mile': A Journey to Screen (2003)
+  700,  -- 100 Kilos (2001)
+  6,
   'Jonathan Maderer',
-  ''The Beguiled (2017)' built a legacy, while 'Fright Night (2011)' struggled to find its audience',
+  'Both are considered classics in their genre.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  2925,  -- Conformist, The (Conformista, Il) (1970)
-  89030,  -- Fright Night (2011)
-  2,
-  'Jonathan Maderer',
-  'Similar themes approached from entirely opposite genres',
-  NULL
-);
-
-INSERT INTO imdb_ijs.movies_recommendations
-VALUES (
-  4678,  -- UHF (1989)
-  89030,  -- Fright Night (2011)
+  381,  -- ...e continuavano a mettere lo diavolo ne lo inferno (1973)
+  621,  -- 10 Magnificent Blondes (2003)
   5,
   'Jonathan Maderer',
-  'Similar themes approached from entirely opposite genres',
+  'Both explore philosophical questions about life and identity.',
   NULL
 );
 
 INSERT INTO imdb_ijs.movies_recommendations
 VALUES (
-  2668,  -- Swamp Thing (1982)
-  89030,  -- Fright Night (2011)
+  403,  -- ...hogy szaladnak a fk! (1967)
+  834,  -- 1001 films (1989)
+  5,
+  'Jonathan Maderer',
+  'They deliver a similar emotional impact and depth.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  910,  -- 11 Harrowhouse (1974)
+  134,  -- 'Itch (1989)
+  6,
+  'Jonathan Maderer',
+  'Both movies explore similar social themes and dilemmas.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1073,  -- 13th Floor, The (1988)
+  501,  -- ...zu Stein. (1992)
+  6,
+  'Jonathan Maderer',
+  'Both are considered classics in their genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  913,  -- 11 Minutes Ago (2005)
+  1083,  -- 13th Infantry, U.S. Army: Marching and Counter Marching (Band and Troops) (1897)
+  3,
+  'Jonathan Maderer',
+  'Both are considered classics in their genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  107,  -- 'Fraid Cat (1914)
+  1006,  -- 120 Tage von Bottrop, Die (1997)
+  3,
+  'Jonathan Maderer',
+  'Both explore philosophical questions about life and identity.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  271,  -- 'Tis the Ball (1934)
+  838,  -- 1001 Posies do Amor, As (1979)
+  6,
+  'Jonathan Maderer',
+  'The narrative twists in both movies make them a great pair.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1069,  -- 13ta godenitsa na printsa (1987)
+  1086,  -- 13th Infantry, U.S. Army: Scaling Walls with Wounded and Dying, Governors Island (1897)
+  3,
+  'Jonathan Maderer',
+  'Fans of strong character development will enjoy both films.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  461,  -- ...und du, mein Schatz, bleibst hier (1961)
+  265,  -- 'Till Human Voices Wake Us and We Drown (1996)
+  7,
+  'Jonathan Maderer',
+  'They share a distinct visual style and atmosphere.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  807,  -- 1000 Boomerangs (1994)
+  326,  -- * FDR (1982)
+  7,
+  'Jonathan Maderer',
+  'The narrative twists in both movies make them a great pair.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  411,  -- ...It Is Nice to Be Privileged (1976)
+  559,  -- 1 CAG Story, The (1977)
+  7,
+  'Jonathan Maderer',
+  'They share a distinct visual style and atmosphere.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  900,  -- 10th Annual Screen Actors Guild Awards (2004)
+  922,  -- 11* mandamiento, El (2000)
+  6,
+  'Jonathan Maderer',
+  'Fans of strong character development will enjoy both films.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  680,  -- 100 Doors (2003)
+  307,  -- (Blooper) (1991)
+  7,
+  'Jonathan Maderer',
+  'They have overlapping fan bases due to similar tone and pacing.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  595,  -- 1-Ichi (2003)
+  1070,  -- 13th Annual American Music Awards, The (1986)
+  3,
+  'Jonathan Maderer',
+  'They deliver a similar emotional impact and depth.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  204,  -- 'Panaderos', Los (1992)
+  554,  -- 1 + 1 = 1.5 (1969)
+  3,
+  'Jonathan Maderer',
+  'The narrative twists in both movies make them a great pair.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  886,  -- 105 % alibi (1959)
+  662,  -- 10-13 - nur Lgen vielleicht (1992)
+  7,
+  'Jonathan Maderer',
+  'The narrative twists in both movies make them a great pair.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  699,  -- 100 kelloa (1998)
+  640,  -- 10 seconden (2001)
+  3,
+  'Jonathan Maderer',
+  'They deliver a similar emotional impact and depth.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  905,  -- 10th U.S. Infantry, 2nd Battalion Leaving Cars (1898)
+  485,  -- ...weil die Musik die Seele fllt (2001)
+  6,
+  'Jonathan Maderer',
+  'They share a distinct visual style and atmosphere.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  179,  -- 'N Sync: Live From Madison Square Garden (2000)
+  363,  -- ...beschloss ich Politiker zu werden (1985)
+  3,
+  'Jonathan Maderer',
+  'A combination of compelling soundtracks and memorable characters.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  430,  -- ...Po prozvishchu 'Zver' (1990)
+  838,  -- 1001 Posies do Amor, As (1979)
+  3,
+  'Jonathan Maderer',
+  'Both movies explore similar social themes and dilemmas.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  71,  -- 'Broadway Melody of 1940' (1940)
+  744,  -- 100% Amateur 23 (1996)
+  5,
+  'Jonathan Maderer',
+  'They deliver a similar emotional impact and depth.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8,  -- $10,000 Under a Pillow (1921)
+  941,  -- 112th Dream, The (2001)
+  5,
+  'Jonathan Maderer',
+  'Both movies explore similar social themes and dilemmas.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1022,  -- 12th Annual American Music Awards, The (1985)
+  87,  -- 'Columbia' Winning the Cup (1899)
   4,
   'Jonathan Maderer',
-  'While 'Swamp Thing (1982)' is a slow-burning drama, 'Fright Night (2011)' takes a comedic detour',
+  'Both are acclaimed for their unique storytelling approach.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  322,  -- (T) (2004)
+  985,  -- 12 Mdchen und 1 Mann (1959)
+  4,
+  'Jonathan Maderer',
+  'Both are considered classics in their genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  456,  -- ...und Deine Liebe auch (1962)
+  1079,  -- 13th Infantry, U.S. Army: Blanket Court Martial, Governors Island (1897)
+  6,
+  'Jonathan Maderer',
+  'They deliver a similar emotional impact and depth.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  254,  -- 't Was een April (1935)
+  703,  -- 100 Lat W Kinie (1995)
+  7,
+  'Jonathan Maderer',
+  'They share a distinct visual style and atmosphere.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1022,  -- 12th Annual American Music Awards, The (1985)
+  667,  -- 10. Mai, Der (1957)
+  5,
+  'Jonathan Maderer',
+  'Both are considered classics in their genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  499,  -- ...ya no puede caminar. (2001)
+  293,  -- 'Weird Al' Yankovic: (There's No) (1996)
+  3,
+  'Jonathan Maderer',
+  'Fans of strong character development will enjoy both films.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1085,  -- 13th Infantry, U.S. Army: Scaling Walls in Retreat, Governors Island (1897)
+  472,  -- ...und nichts als die Wahrheit (1958)
+  5,
+  'Jonathan Maderer',
+  'Both movies explore similar social themes and dilemmas.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  375,  -- ...die begrndete Sorge der Indianer um ihre Frauen und Kinder whrend der Schlacht (2003)
+  199,  -- 'O' de amor (1995)
+  6,
+  'Jonathan Maderer',
+  'They have overlapping fan bases due to similar tone and pacing.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  443,  -- ...sol y lluvia (2001)
+  284,  -- 'Twixt Red Man and White (1910)
+  5,
+  'Jonathan Maderer',
+  'Both movies explore similar social themes and dilemmas.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  350,  -- ...And Millions Die! (1973)
+  440,  -- ...Se non avessi l'amore (1991)
+  6,
+  'Jonathan Maderer',
+  'The narrative twists in both movies make them a great pair.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  80,  -- 'Columbia' and 'Shamrock II' Finishing Second Race (1901)
+  685,  -- 100 Greatest Kids TV Shows, The (2001)
+  5,
+  'Jonathan Maderer',
+  'A combination of compelling soundtracks and memorable characters.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  493,  -- ...Y la noche se hizo arcoiris (1978)
+  226,  -- 'Sagamore', The (1899)
+  6,
+  'Jonathan Maderer',
+  'Fans of strong character development will enjoy both films.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  904,  -- 10th U.S. Infantry Disembarking From Cars (1898)
+  236,  -- 'Shamrock' and 'Columbia' Rounding the Outer Stake Boat (1899)
+  4,
+  'Jonathan Maderer',
+  'Both are acclaimed for their unique storytelling approach.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  615,  -- 10 del Texas, I (1961)
+  371,  -- ...dann hau ich eben ab (1995)
+  5,
+  'Jonathan Maderer',
+  'Both explore philosophical questions about life and identity.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  886,  -- 105 % alibi (1959)
+  1029,  -- 13 Erotic Ghosts (2002)
+  7,
+  'Jonathan Maderer',
+  'The narrative twists in both movies make them a great pair.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  405,  -- ...I vsya lyubov' (1989)
+  693,  -- 100 Greatest Videos (2003)
+  5,
+  'Jonathan Maderer',
+  'Both explore philosophical questions about life and identity.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  171,  -- 'Moonlight Mile': A Journey to Screen (2003)
+  846,  -- 101 Biggest Celebrity Oops (2004)
+  3,
+  'Jonathan Maderer',
+  'Both movies explore similar social themes and dilemmas.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1035,  -- 13 Gantry Row (1998)
+  845,  -- 101 (1989)
+  7,
+  'Jonathan Maderer',
+  'They deliver a similar emotional impact and depth.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  552,  -- 0shiui hotel (1983)
+  819,  -- 1000 Meilen fr die Liebe (2001)
+  3,
+  'Jonathan Maderer',
+  'The narrative twists in both movies make them a great pair.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  135,  -- 'Jarabe' Dance, Streets of Mexico, Pan-American Exposition (1901)
+  1042,  -- 13 Lead Soldiers (1948)
+  3,
+  'Jonathan Maderer',
+  'A combination of compelling soundtracks and memorable characters.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  979,  -- 12 horas (2001)
+  919,  -- 11 Uhr 59 (2000)
+  5,
+  'Jonathan Maderer',
+  'Both are acclaimed for their unique storytelling approach.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  503,  -- ... la campagne (1995)
+  754,  -- 100% Blowjobs 12 (2003)
+  7,
+  'Jonathan Maderer',
+  'Both are acclaimed for their unique storytelling approach.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  304,  -- (A) (1968)
+  811,  -- 1000 DM (2004)
+  4,
+  'Jonathan Maderer',
+  'Both explore philosophical questions about life and identity.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  152,  -- 'M' Word (1996)
+  362,  -- ...Belpaese, Il (1977)
+  5,
+  'Jonathan Maderer',
+  'The narrative twists in both movies make them a great pair.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1062,  -- 13.000, El (1920)
+  681,  -- 100 dragspel och en flicka (1946)
+  5,
+  'Jonathan Maderer',
+  'Both explore philosophical questions about life and identity.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  325,  -- () (1999)
+  1057,  -- 13. jul (1982)
+  5,
+  'Jonathan Maderer',
+  'Both explore philosophical questions about life and identity.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  663,  -- 10-7 for Life (1995)
+  986,  -- 12 nyangjali insaeng (1963)
+  7,
+  'Jonathan Maderer',
+  'Both are acclaimed for their unique storytelling approach.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  567,  -- 1 Maj 1949 (1949)
+  811,  -- 1000 DM (2004)
+  5,
+  'Jonathan Maderer',
+  'Both are considered classics in their genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  144,  -- 'Kultura' (1985)
+  831,  -- 1001 Arabian Nights (1959)
+  3,
+  'Jonathan Maderer',
+  'Both are acclaimed for their unique storytelling approach.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  909,  -- 11 de septiembre de 1973. El ltimo combate de Salvador Allende (1998)
+  728,  -- 100 Years of Horror: Scream Queens (1996)
+  7,
+  'Jonathan Maderer',
+  'Both are acclaimed for their unique storytelling approach.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  38,  -- '38 (1987)
+  842,  -- 1003. Nacht, Die (1993)
+  2,
+  'Jonathan Maderer',
+  'A combination of compelling soundtracks and memorable characters.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  672,  -- 100 aos de perdn (1998)
+  737,  -- 100 Years of Horror: Witchcraft and Demons (1996)
+  4,
+  'Jonathan Maderer',
+  'A combination of compelling soundtracks and memorable characters.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  273,  -- 'Tis the Season to Be Smurfy (1984)
+  322,  -- (T) (2004)
+  5,
+  'Jonathan Maderer',
+  'They deliver a similar emotional impact and depth.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  815,  -- 1000 godina Pazina (1983)
+  304,  -- (A) (1968)
+  5,
+  'Jonathan Maderer',
+  'Both movies explore similar social themes and dilemmas.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  763,  -- 100% Blowjobs 20 (2003)
+  487,  -- ...Y al tercer ao, resucit (1981)
+  2,
+  'Jonathan Maderer',
+  'They share a distinct visual style and atmosphere.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  492,  -- ...Y la mujer hizo al hombre (1974)
+  520,  -- 0 texvertices (2000)
+  4,
+  'Jonathan Maderer',
+  'The narrative twists in both movies make them a great pair.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  607,  -- 10 + 2: El gran secreto (2001)
+  1016,  -- 125 rue Montmartre (1959)
+  4,
+  'Jonathan Maderer',
+  'The narrative twists in both movies make them a great pair.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  186,  -- 'Neath Brooklyn Bridge (1942)
+  205,  -- 'Panther', The (1898)
+  2,
+  'Jonathan Maderer',
+  'The narrative twists in both movies make them a great pair.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  284,  -- 'Twixt Red Man and White (1910)
+  622,  -- 10 Magnificent Killers (1977)
+  3,
+  'Jonathan Maderer',
+  'Both are acclaimed for their unique storytelling approach.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  154,  -- 'Make-Up' Thief, The (1899)
+  156,  -- 'Manos' the Hands of Fate (1966)
+  5,
+  'Jonathan Maderer',
+  'They have overlapping fan bases due to similar tone and pacing.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  326,  -- * FDR (1982)
+  565,  -- 1 Is for Gun (1998)
+  5,
+  'Jonathan Maderer',
+  'A combination of compelling soundtracks and memorable characters.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  196,  -- 'Non', ou A V Glria de Mandar (1990)
+  1054,  -- 13 West Street (1962)
+  4,
+  'Jonathan Maderer',
+  'Fans of strong character development will enjoy both films.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  659,  -- 10,000 Dollars (1915)
+  41,  -- '49-'17 (1917)
+  2,
+  'Jonathan Maderer',
+  'Both movies explore similar social themes and dilemmas.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  614,  -- 10 Days, 10 Years (2003)
+  952,  -- 11:00 AM (1999)
+  3,
+  'Jonathan Maderer',
+  'Both explore philosophical questions about life and identity.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  976,  -- 12 Days of Terror (2004)
+  693,  -- 100 Greatest Videos (2003)
+  3,
+  'Jonathan Maderer',
+  'Both explore philosophical questions about life and identity.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  394,  -- ...e venne il tempo di uccidere (1968)
+  3,  -- $1,000 Reward (1913)
+  3,
+  'Jonathan Maderer',
+  'Fans of strong character development will enjoy both films.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  936,  -- 111-es, A (1920)
+  134,  -- 'Itch (1989)
+  5,
+  'Jonathan Maderer',
+  'The narrative twists in both movies make them a great pair.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1083,  -- 13th Infantry, U.S. Army: Marching and Counter Marching (Band and Troops) (1897)
+  409,  -- ...Is It the Design on the Wrapper? (1997)
+  3,
+  'Jonathan Maderer',
+  'The narrative twists in both movies make them a great pair.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  514,  -- .hack//Liminality Vol. 4: Trismegistus (2004)
+  524,  -- 00 Schneider - Jagd auf Nihil Baxter (1994)
+  5,
+  'Jonathan Maderer',
+  'They deliver a similar emotional impact and depth.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  795,  -- 100% NYC: Tribeca Film Festival (2003)
+  135,  -- 'Jarabe' Dance, Streets of Mexico, Pan-American Exposition (1901)
+  5,
+  'Jonathan Maderer',
+  'Both movies explore similar social themes and dilemmas.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  617,  -- 10 dni neplateni (1972)
+  263,  -- 'Til There Was You (1997)
+  3,
+  'Jonathan Maderer',
+  'Both are acclaimed for their unique storytelling approach.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  636,  -- 10 pesen o Moskve (1997)
+  83,  -- 'Columbia' and 'Shamrock II': Starting in the Third Race (1901)
+  5,
+  'Jonathan Maderer',
+  'The narrative twists in both movies make them a great pair.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1005,  -- 120 Navipovih godina (1968)
+  941,  -- 112th Dream, The (2001)
+  5,
+  'Jonathan Maderer',
+  'Fans of strong character development will enjoy both films.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  700,  -- 100 Kilos (2001)
+  25,  -- $50,000 Jewel Theft, The (1915)
+  2,
+  'Jonathan Maderer',
+  'Both movies explore similar social themes and dilemmas.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  253,  -- 't Is wreed in de wereld (1954)
+  313,  -- (Haru) (1996)
+  5,
+  'Jonathan Maderer',
+  'The narrative twists in both movies make them a great pair.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  215,  -- 'Real Indian' (1996)
+  497,  -- ...Y pasa la comparsa (1937)
+  3,
+  'Jonathan Maderer',
+  'Fans of strong character development will enjoy both films.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1084,  -- 13th Infantry, U.S. Army: Musical Drill, Governors Island (1897)
+  726,  -- 100 Years of Horror: Giants and Dinosaurs (1996)
+  3,
+  'Jonathan Maderer',
+  'Both explore philosophical questions about life and identity.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  137,  -- 'Je vous salue, Marie' (1985)
+  790,  -- 100% Masturbations 1 (2003)
+  3,
+  'Jonathan Maderer',
+  'Fans of strong character development will enjoy both films.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  737,  -- 100 Years of Horror: Witchcraft and Demons (1996)
+  546,  -- 07 con el 2 delante (Agente: Jaime Bonet) (1966)
+  3,
+  'Jonathan Maderer',
+  'Both movies explore similar social themes and dilemmas.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  840,  -- 1002 (1992)
+  172,  -- 'Moving' Picture, A (1899)
+  5,
+  'Jonathan Maderer',
+  'They share a distinct visual style and atmosphere.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  812,  -- 1000 Dollar Belohnung (1923)
+  190,  -- 'Neath Western Skies (1929)
+  2,
+  'Jonathan Maderer',
+  'Both explore philosophical questions about life and identity.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  306,  -- (ab) (1995)
+  1071,  -- 13th Annual Tony Awards, The (1959)
+  4,
+  'Jonathan Maderer',
+  'Both movies explore similar social themes and dilemmas.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  909,  -- 11 de septiembre de 1973. El ltimo combate de Salvador Allende (1998)
+  1060,  -- 13. Tag, Der (1991)
+  3,
+  'Jonathan Maderer',
+  'The narrative twists in both movies make them a great pair.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1066,  -- 1300cc (2001)
+  299,  -- 'Where Did You Go?' 'Out.' 'What Did You Do?' 'Nothing.' (1960)
+  2,
+  'Jonathan Maderer',
+  'They deliver a similar emotional impact and depth.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  585,  -- 1,99 - Um Supermercado Que Vende Palavras (2003)
+  1021,  -- 12inui hasuksaeng (1979)
+  5,
+  'Jonathan Maderer',
+  'Fans of strong character development will enjoy both films.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  38,  -- '38 (1987)
+  1024,  -- 13 (1999/I) (1999)
+  2,
+  'Jonathan Maderer',
+  'Fans of strong character development will enjoy both films.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  894,  -- 10:18 (1995)
+  964,  -- 11th Victim (1979)
+  5,
+  'Jonathan Maderer',
+  'Both are considered classics in their genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  804,  -- 100,000 Cobbers (1942)
+  474,  -- ...und oben wohnen die Engel (1998)
+  3,
+  'Jonathan Maderer',
+  'Both are considered classics in their genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  733,  -- 100 Years of Horror: The Evil Unseeable (1996)
+  694,  -- 100 Greatest Women of Rock & Roll (1999)
+  5,
+  'Jonathan Maderer',
+  'Both are considered classics in their genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  472,  -- ...und nichts als die Wahrheit (1958)
+  479,  -- ...und wer kt mich? (1956)
+  2,
+  'Jonathan Maderer',
+  'Both are acclaimed for their unique storytelling approach.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  431,  -- ...Quando Troveja (1999)
+  892,  -- 1080: Avalanche (2003)
+  2,
+  'Jonathan Maderer',
+  'The narrative twists in both movies make them a great pair.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  59,  -- 'Arry and 'Arriet's Evening Out (1909)
+  1033,  -- 13 French Street (2005)
+  2,
+  'Jonathan Maderer',
+  'They have overlapping fan bases due to similar tone and pacing.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1073,  -- 13th Floor, The (1988)
+  901,  -- 10th Kingdom: The Making of an Epic, The (2000)
+  3,
+  'Jonathan Maderer',
+  'Both are considered classics in their genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  278,  -- 'Twas Henry's Fault (1919)
+  724,  -- 100 Years of Horror (1996)
+  4,
+  'Jonathan Maderer',
+  'The narrative twists in both movies make them a great pair.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  149,  -- 'Lorenzo', The (1898/I) (1898)
+  884,  -- 103 Megacycles (1984)
+  3,
+  'Jonathan Maderer',
+  'Fans of strong character development will enjoy both films.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  306,  -- (ab) (1995)
+  868,  -- 101 Reasons Why the 90s Rocked (2004)
+  2,
+  'Jonathan Maderer',
+  'The narrative twists in both movies make them a great pair.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  10,  -- $100,000 Pyramid, The (2001)
+  549,  -- 08/15 - In der Heimat (1955)
+  2,
+  'Jonathan Maderer',
+  'They have overlapping fan bases due to similar tone and pacing.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  702,  -- 100 Kilos de Reyna, Los (1998)
+  840,  -- 1002 (1992)
+  2,
+  'Jonathan Maderer',
+  'Both are acclaimed for their unique storytelling approach.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  736,  -- 100 Years of Horror: The Walking Dead (1996)
+  969,  -- 12 Angry Men (1957)
+  2,
+  'Jonathan Maderer',
+  'A combination of compelling soundtracks and memorable characters.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  657,  -- 10,000 Cigarettes (2004)
+  750,  -- 100% bio (2003)
+  3,
+  'Jonathan Maderer',
+  'The narrative twists in both movies make them a great pair.',
   NULL
 );

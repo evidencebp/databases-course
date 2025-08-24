@@ -1,0 +1,169 @@
+# People in themselves roles
+select 
+*
+from 
+actors as a
+join
+roles as r
+on
+a.id = r.actor_id
+where
+(role = "Himself" OR role = "Herself")
+;
+
+# Gender mismatch
+# Even weak duplication are opportunities to mismatch
+select 
+*
+from 
+actors as a
+join
+roles as r
+on
+a.id = r.actor_id
+where
+(role = "Himself" and gender = 'F')
+OR 
+(role = "Herself" and gender = 'M')
+;
+
+# People playing themselves by the number of such roles
+# The leading person is surprsing yet sensible once knowing.
+# Thank you for finding out, Achiad!
+# Note that this is not a mistake in the data 
+# However, how can it influence role based movie recommendations
+select 
+a.id
+, max(first_name) as first_name # ID is a PK and therefore there is just one name
+								# For simplicity we can aggregate by the PK only and get the unique properties
+								# using min/max
+, max(last_name) as last_name
+, count(*) as roles
+from 
+actors as a
+join
+roles as r
+on
+a.id = r.actor_id
+where
+(role = "Himself" OR role = "Herself")
+group by
+a.id
+order by roles desc
+;
+
+
+# This person's movies 
+# Note that most of them are after WWII - is it necessarily a data quality problem?
+# Also note that this query returns more records. How come?
+select 
+m.*
+from
+roles as r
+join 
+movies as m
+on
+r.movie_id = m.id
+where
+actor_id = 209799
+order by year desc
+;
+
+# The American and Russian equivalents.
+# For some reason, the British were not found.
+# Note the years, some strange names, and different roles
+select first_name
+, last_name
+, role
+, year
+, name
+from actors as a
+join
+roles as r
+on
+a.id = r.actor_id
+join
+movies as m
+on
+r.movie_id = m.id
+where
+a.id in (451067, '406686')
+order by
+a.id, role, name
+;
+
+# Self roles number distribution
+# How will the distribution influence role based recommendations?
+# Consider the number of 1 roles, the difference in the number of roles
+# How can you differ between the self roles and solve the problem?
+select 
+roles
+, count(*) as actors
+from
+(
+select 
+a.id
+, count(*) as roles
+from 
+actors as a
+join
+roles as r
+on
+a.id = r.actor_id
+where
+(role = "Himself" OR role = "Herself")
+group by
+a.id
+) as inSql
+group by
+roles
+order by
+roles
+;
+
+# People that never played themselves (at least in a movie)
+# The full way
+SELECT *
+FROM imdb_ijs.actors as ac
+left JOIN
+(
+select *
+from
+imdb_ijs.roles as ro
+where
+(role = "Himself" OR role = "Herself")
+) as himself_roles
+ON
+ac.id = himself_roles.actor_id
+WHERE
+himself_roles.movie_id is null
+;
+
+# People that never played themselves (at least in a movie)
+# A shortcut
+SELECT *
+FROM imdb_ijs.actors as ac
+left JOIN
+imdb_ijs.roles as ro
+ON
+ac.id = ro.actor_id
+and
+(role = "Himself" OR role = "Herself")
+WHERE
+ro.movie_id is null
+;
+
+# People that never played themselves (at least in a movie)
+#  common not working method.
+# Why does it fail? consider the match condition and filter condition
+SELECT *
+FROM imdb_ijs.actors as ac
+left JOIN
+imdb_ijs.roles as ro
+ON
+ac.id = ro.actor_id
+WHERE
+ro.movie_id is null
+and
+(role = "Himself" OR role = "Herself")
+;

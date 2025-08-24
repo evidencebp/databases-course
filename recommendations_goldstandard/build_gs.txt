@@ -1,27 +1,33 @@
-drop table if exists imdb_ijs.movies_recommendations;
+use imdb_ijs;
 
-create table imdb_ijs.movies_recommendations
+drop table if exists movies_recommendations;
+
+create table movies_recommendations
 (base_movie_id int
 , recommended_movie_id int
 , recommendation int 
 , suggested_by varchar(255)
-, justification varchar(255)
+, justification varchar(255) not null
 , comment varchar(255)
+, PRIMARY KEY (base_movie_id, recommended_movie_id, suggested_by)
+, CONSTRAINT CHK_recommendation CHECK (recommendation >=1 AND 10 >= recommendation)
+, FOREIGN KEY (base_movie_id) REFERENCES movies(Id)
+, FOREIGN KEY (recommended_movie_id) REFERENCES movies(Id)
 );
 
 # into bond_classification.csv
 Select distinct movie_id, name
 from 
-imdb_ijs.roles as r
+roles as r
 join
-imdb_ijs.movies as m
+movies as m
 on
 r.movie_id = m.id
 where
 role = 'James Bond'
 ;
 
-insert into imdb_ijs.movies_recommendations
+insert into movies_recommendations
 with
 real_bond as (select 130945 as movie_id
 union select 335337
@@ -54,7 +60,7 @@ b.movie_id != r.movie_id
 ;
 
 
-insert into imdb_ijs.movies_recommendations
+insert into movies_recommendations
 with
 real_bond as (select 130945 as movie_id
 union select 335337
@@ -111,9 +117,23 @@ where
 b.movie_id != r.movie_id
 ;
 
-drop table if exists imdb_ijs.movies_recommendations_agg;
+# Recommendation by person
+select 
+suggested_by
+, count(*) as recommendations
+, sum(if(recommendation>5,1,0)) as positive_recommendations
+, sum(if(recommendation<=5,1,0))  as negative_recommendations
+, sum(if(recommendation>5,1,0)) >= 100 and sum(if(recommendation<=5,1,0)) >=100 as completed
+from
+movies_recommendations
+group by 
+suggested_by
+order by completed desc, suggested_by
+;
 
-create table imdb_ijs.movies_recommendations_agg
+drop table if exists movies_recommendations_agg;
+
+create table movies_recommendations_agg
 as
 select
 base_movie_id 
@@ -123,7 +143,7 @@ base_movie_id
 , count(distinct suggested_by) as suggested_by_num
 , count(distinct justification) as justifications_num
 from
-imdb_ijs.movies_recommendations
+movies_recommendations
 group by
 base_movie_id 
 , recommended_movie_id 

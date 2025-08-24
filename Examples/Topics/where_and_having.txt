@@ -1,0 +1,66 @@
+# As a simple recommendation
+# Where should be used to filter raw records
+# Having should be used after grouping (and possible use of where), based on aggregation functions.
+
+# As you can see below, more uses are possible.
+# PLEASE IGNORE AND AVOID THEM.
+
+
+# Where - Regular filtering of raw records
+select *
+from 
+imdb_ijs.movies
+where year = 1990
+;
+
+
+# Having - regular filtering of raw records works BUT BETTER NOT BE USED
+select *
+from 
+imdb_ijs.movies
+having year = 1990
+;
+
+
+# Having - filtering by an aggregation function
+select year
+, count(*) as cnt
+from 
+imdb_ijs.movies
+group by year
+having count(*) > 100 
+;
+
+
+# Having - filtering by an aggregation function AND RAW COLUMN - PLEASE DO NOT DO IT
+select year
+, count(*) as cnt
+from 
+imdb_ijs.movies
+group by year
+having count(*) > 100 and year = 1990
+;
+
+
+# FAIL - where cannot do filtering by an aggregation function
+select year
+, count(*) as cnt
+from 
+imdb_ijs.movies
+where count(*) > 100
+group by year
+;
+
+# Where - By using a subquery, the subquery aggregations are the raw records of the outer query
+select *
+from
+(
+select year
+, count(*) as cnt
+from 
+imdb_ijs.movies
+group by year ) as inSql
+where cnt > 100
+;
+
+

@@ -1,0 +1,1687 @@
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(47757  -- Bronk
+, 69812  -- Conspiracy Theory
+, 8
+, 'Maya Graff'
+, 'same director'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(69812  -- Conspiracy Theory
+, 131885  -- Goonies The'
+, 8
+, 'Maya Graff'
+,   'same director'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(131885  -- Goonies
+, 160375  -- The 'Inside Moves'
+, 8
+, 'Maya Graff'
+,   'same director'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(160375  -- Inside Moves
+, 183873  -- Ladyhawke
+, 8
+, 'Maya Graff'
+, 'same director'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(183873  -- Ladyhawke
+, 188507  -- Lethal Weapon
+, 8
+, 'Maya Graff'
+, 'same director'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(188507  -- Lethal Weapon
+, 188509  -- Lethal Weapon 2
+, 7
+, 'Maya Graff'
+, 'same director'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(188509  -- Lethal Weapon 2
+, 188510  -- Lethal Weapon 3
+, 7
+, 'Maya Graff'
+, 'same director'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(188510  -- Lethal Weapon 3
+, 188511  -- Lethal Weapon 4
+, 7
+, 'Maya Graff'
+, 'same director'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(188511  -- Lethal Weapon 4
+, 196711  -- Lucas Tanner
+, 8
+, 'Maya Graff'
+, 'same director'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(196711  -- Lucas Tanner
+, 208245  -- Maverick
+, 7
+, 'Maya Graff'
+, 'same director'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(208245  -- Maverick
+, 240327  -- Omen The'
+, 7
+, 'Maya Graff'
+, 'same director'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(240327  -- Omen
+, 254662  -- The 'Philbert (Three''s a Crowd)'
+, 7
+, 'Maya Graff'
+, 'same director'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(254662  -- Philbert (Three''s a Crowd)
+, 270628  -- Radio Flyer
+, 8
+, 'Maya Graff'
+, 'same director'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(270628  -- Radio Flyer
+, 286243  -- Salt and Pepper
+, 8
+, 'Maya Graff'
+, 'same director'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(286243  -- Salt and Pepper
+, 288107  -- Sarah T. - Portrait of a Teenage Alcoholic
+, 7
+, 'Maya Graff'
+, 'same director'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(288107  -- Sarah T. - Portrait of a Teenage Alcoholic
+, 291495  -- Scrooged
+, 7
+, 'Maya Graff'
+, 'same director'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(291495  -- Scrooged
+, 294142  -- Senior Year
+, 7
+, 'Maya Graff'
+, 'same director'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(294142  -- Senior Year
+, 296755  -- Shadow in the Streets A'
+, 7
+, 'Maya Graff'
+, 'same director'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(296755  -- Shadow in the Streets
+, 319602  -- A 'Superman'
+, 7
+, 'Maya Graff'
+, 'same director'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(319602  -- Superman
+, 319613  -- Superman II
+, 7
+, 'Maya Graff'
+, 'same director'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(319613  -- Superman II
+, 47757  -- Bronk
+, 7
+, 'Maya Graff'
+, 'same director'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(311036  -- Spider-Man
+, 313478  -- Star Wars: Episode V - The Empire Strikes Back
+, 8
+, 'Maya Graff'
+, '3 same genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(312152  -- Spy Kids 3-D: Game Over
+, 319619  -- Superman Returns
+, 8
+, 'Maya Graff'
+, '3 same genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313507  -- Star Wars: X-Wing Alliance
+, 319625  -- Superman: The Last Son of Krypton
+, 9
+, 'Maya Graff'
+, '3 same genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(311048  -- Spider-Man: The Movie Game
+, 313474  -- Star Wars: Episode I - The Phantom Menace
+, 8
+, 'Maya Graff'
+, '3 same genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(319601  -- Superman
+, 311036  -- Spider-Man
+, 9
+, 'Maya Graff'
+, '3 same genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(11578  -- Careful
+, 3079  -- He Might Hear You 'A Foreign Affair'
+, 9
+, 'Maya Graff'
+, '3 same genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(117992  -- Joey
+, 13916  -- Cast Away
+, 8
+, 'Maya Graff'
+, '3 same genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(185501  -- Mr. Magoo
+, 98240  -- Edge of the City
+, 9
+, 'Maya Graff'
+, '3 same genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(29674  -- Blind Faith
+, 3423  -- Battleground
+, 9
+, 'Maya Graff'
+, '3 same genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(67430  -- Dead Man''s Curve
+, 16212  -- Blood Out
+, 8
+, 'Maya Graff'
+, '3 same genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(261712  -- Shootfighter II
+, 18909  -- Carpool
+, 8
+, 'Maya Graff'
+, '3 same genres'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2317  -- Alleluia
+, 303509  -- The Unknown Known
+, 9
+, 'Maya Graff'
+, '3 same genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(256127  -- Poolhall Junkies
+, 1799  -- 2176
+, 8
+, 'Maya Graff'
+, '3 same genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(140171  -- Go
+, 11858  -- Capone
+, 8
+, 'Maya Graff'
+, '3 same genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(3725  -- Birdman of Alcatraz
+, 283024  -- Ruby
+, 9
+, 'Maya Graff'
+, '3 same genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(322226  -- Summer Children
+, 220438  -- The 'Nightwatch'
+, 9
+, 'Maya Graff'
+, '3 same genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(22110  -- Charlie Chan in Danger
+, 64743  -- Dangerous Summer A'
+, 8
+, 'Maya Graff'
+, '3 same genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(43677  -- Claudine
+, 126176  -- Gay Purr-ee
+, 8
+, 'Maya Graff'
+, '3 same genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(9417  -- Breakfast of Champions
+, 78257  -- Dororo
+, 9
+, 'Maya Graff'
+, '3 same genres'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(205786  -- Puffball
+, 157882  -- Holy Mountain The'
+, 8
+, 'Maya Graff'
+, '3 same genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(217201  -- Quest for Camelot
+, 143936  -- Hairspray
+, 9
+, 'Maya Graff'
+, '3 same genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(140040  -- Go Henry
+, 31943  -- Go! 'Chicago 10'
+, 8
+, 'Maya Graff'
+, '3 same genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(7977  -- Boys Don''t Cry
+, 310474  -- Starship Troopers 3: Marauder
+, 8
+, 'Maya Graff'
+, '3 same genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(221581  -- Ring 0: Birthdays
+, 218782  -- Night on Earth
+, 9
+, 'Maya Graff'
+, '3 same genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(211196  -- Priest
+, 102038  -- The 'Eyes of Laura Mars'
+, 8
+, 'Maya Graff'
+, '3 same genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(160408  -- Into the Sun
+, 271648  -- Rock The'
+, 9
+, 'Maya Graff'
+, '3 same genres'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(195142  -- Paradise Alley
+, 61481  -- David Copperfield
+, 8
+, 'Maya Graff'
+, '3 same genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(4419  -- Big Deal on Madonna Street
+, 279374  -- Romeo Must Die
+, 9
+, 'Maya Graff'
+, '3 same genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(48325  -- Congo
+, 312152  -- Spy Kids 3-D: Game Over
+, 8
+, 'Maya Graff'
+, '3 same genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(240618  -- Of Mice and Men
+, 44345  -- Bigfoot
+, 9
+, 'Maya Graff'
+, '3 same genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(100114  -- Everything Is Illuminated
+, 322394  -- Swimfan
+, 8
+, 'Maya Graff'
+, '3 same genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(145454  -- Hidalgo
+, 155570  -- His Girl Friday
+, 8
+, 'Maya Graff'
+, '3 same genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(70959  -- Corpse Bride
+, 59578  -- The 'Charlie and the Chocolate Factory'
+, 9
+, 'Maya Graff'
+, 'same 2 actors'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(3055  -- 76th Annual Academy Awards
+, 120506  -- The 'From Hell'
+, 8
+, 'Maya Graff'
+, 'same actor'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(97360  -- Ed Wood
+, 313799  -- Stars of Star Wars: Interviews From the Cast The'
+, 8
+, 'Maya Graff'
+, 'same actor'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(53921  -- Cannes Man
+, 304864  -- Sleepy Hollow: Behind the Legend
+, 7
+, 'Maya Graff'
+, 'same actor'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(152941  -- Hunter Goes to Hollywood
+, 46190  -- Bravo Profiles: Johnny Depp
+, 8
+, 'Maya Graff'
+, 'same actor'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(157521  -- In Bad Taste
+, 241143  -- Once Upon a Time in Mexico
+, 7
+, 'Maya Graff'
+, 'same actor'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(80432  -- Dead Man Walking: The Making of Dead Man
+, 102108  -- Epic at Sea: The Making of ''Pirates of the Caribbean: The Curse of the Black Pearl An'
+, 8
+, 'Maya Graff'
+, 'same actor'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(256632  -- Pirates of the Caribbean: The Curse of the Black Pearl
+, 74259  -- Cry-Baby
+, 7
+, 'Maya Graff'
+, 'same actor'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(98681  -- El Mariachi: 10 Years Later
+, 340184  -- Trois petites filles
+, 7
+, 'Maya Graff'
+, 'same actor'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(404721  -- Secrets of Superstar Fitness
+, 119437  -- Freddy''s Dead: The Final Nightmare
+, 8
+, 'Maya Graff'
+, 'same actor'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(37057  -- Big Fish
+, 183722  -- Lady Jane
+, 7
+, 'Maya Graff'
+, 'same actor'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(211500  -- Merlin (1998/II)
+, 137923  -- Hamlet (1990/I)
+, 8
+, 'Maya Graff'
+, 'same actor'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(56449  -- Capturing Mary
+, 181543  -- Hollywood Greats: Richard Burton
+, 8
+, 'Maya Graff'
+, 'same actor'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(55471  -- Carnivale
+, 308787  -- Soccer Shootout: Women''s Football
+, 7
+, 'Maya Graff'
+, 'same actor'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(248614  -- Narrated by Helena Bonham Carter: Football
+, 192705  -- Margaret''s Museum
+, 7
+, 'Maya Graff'
+, 'same actor'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(6775  -- Advanced Warriors
+, 304006  -- Skin Walker
+, 7
+, 'Maya Graff'
+, 'same role'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(115888  -- Flow
+, 350186  -- Vampire Holocaust
+, 8
+, 'Maya Graff'
+, 'same role'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(78829  -- Dark Fiction
+, 350212  -- Vampire Time Travelers
+, 7
+, 'Maya Graff'
+, 'same role'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(156860  -- Imagination
+, 105779  -- Exhumed
+, 7
+, 'Maya Graff'
+, 'same role'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(174154  -- Karmina
+, 350216  -- Vampyres
+, 8
+, 'Maya Graff'
+, 'same role'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(99766  -- Embrace of the Vampire
+, 350176  -- Vampire Brides
+, 7
+, 'Maya Graff'
+, 'same role'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(234499  -- Nocturnu
+, 350211  -- Vampire Survivor
+, 7
+, 'Maya Graff'
+, 'same role'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(350187  -- Vampire Junction
+, 170243  -- Jugular Wine: A Vampire Odyssey
+, 7
+, 'Maya Graff'
+, 'same role'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(161108  -- Interview with the Vampire: The Vampire Chronicles
+, 44238  -- Bordello of Blood
+, 8
+, 'Maya Graff'
+, 'same role'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(373384  -- Ygen kaisha
+, 350215  -- Vampyr
+, 7
+, 'Maya Graff'
+, 'same role'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(350185  -- Vampire Hunter
+, 350213  -- Vampire Trailer Park
+, 8
+, 'Maya Graff'
+, 'same role'
+, NULL
+);
+
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(44238  -- Bordello of Blood
+, 350176  -- Vampire Brides
+, 8
+, 'Maya Graff'
+, 'same role'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(350187  -- Vampire Junction
+, 350217  -- Vamps
+, 7
+, 'Maya Graff'
+, 'same role'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(350183  -- Vampire at Midnight
+, 350184  -- Vampire Cop
+, 8
+, 'Maya Graff'
+, 'same role'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(350218  -- Vampires Anonymous
+, 350220  -- Vlad
+, 7
+, 'Maya Graff'
+, 'same role'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(350209  -- Vampire Sisters 2: Bats in the Belly
+, 350221  -- Young Dracula
+, 7
+, 'Maya Graff'
+, 'same role'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(350188  -- Vampire Host
+, 350223  -- Vampire Island
+, 7
+, 'Maya Graff'
+, 'same role'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(350189  -- Vampire in Brooklyn
+, 350224  -- Vampire''s Kiss
+, 8
+, 'Maya Graff'
+, 'same role'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(350192  -- Vampire Killers
+, 350225  -- Vampire You Love
+, 7
+, 'Maya Graff'
+, 'same role'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(350206  -- Vampire Runner
+, 350226  -- Vampires: Los Muertos
+, 8
+, 'Maya Graff'
+, 'same role'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(17106  -- Ani Umlal Achshav
+, 225270  -- Mnner vom K3 - Dreckiges Geld Die'
+, 3
+, 'Maya Graff'
+,'different genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(176742  -- Kill Squad
+, 267253  -- Punk The'
+, 2
+, 'Maya Graff'
+,'different genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(24212  -- Aunt Fannie
+, 219536  -- Mortal Kombat 4
+, 3
+, 'Maya Graff'
+, 'different genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(27191  -- Bad Company
+, 201856  -- Making of a Supermodel The'
+, 2
+, 'Maya Graff'
+,'different genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(140835  -- He Pulled the Wrong Tooth
+, 344892  -- Uma Visita  Fbric...Carlos da Costa Frescata
+, 2
+, 'Maya Graff'
+, 'different genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(187862  -- Leo the Late Bloomer
+, 298340  -- Shen Jing Dao yu Fei Tian Mao
+, 3
+, 'Maya Graff'
+, 'different genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(200128  -- Magic Carpet
+, 296961  -- The 'Shadows on the Snow'
+, '3'
+, 'Maya Graff'
+,'different genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(158109  -- In the Best of Families: Marriage
+, 340863  -- Pride & Madness 'True Whispers'
+, 3
+, 'Maya Graff'
+,'different genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(136500  -- Gyojang seonsaeng sanggyeonggi
+, 311706  -- Sport Slants (1934/II)
+, 2
+, 'Maya Graff'
+, 'different genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(202785  -- Mammamia (1998/I)
+, 272459  -- Ras-le-bol sous les ponts de Paris
+, 2
+, 'Maya Graff'
+, 'different genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(248983  -- Paris at Midnight
+, 315530  -- Storm Over Lisbon
+, 3
+, 'Maya Graff'
+, 'different genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(76853  -- Dai zi hong lang
+, 191955  -- Little Liar The'
+, 3
+, 'Maya Graff'
+,'different genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(146867  -- Hitler
+, 330770  -- Schinder und wir 'Who''s Afraid of Mother Goose?'
+, 2
+, 'Maya Graff'
+,'different genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(33594  -- Belle of Bettwys-y-Coed
+, 298208  -- The 'Sheepish Wolf 'The'
+, 2
+, 'Maya Graff'
+,'different genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(87341  -- Dirty Harry
+, 286160  -- Salmo del viento
+, 3
+, 'Maya Graff'
+, 'different genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(183242  -- Lacenaire
+, 231757  -- Night
+, 3
+, 'Maya Graff'
+, 'different genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(94020  -- Drowning Pool
+, 99628  -- The 'Ely and Nepomuk'
+, 2
+, 'Maya Graff'
+, 'different genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(247157  -- Na Palma da Mão
+, 313862  -- Sunday A Story'
+, 2
+, 'Maya Graff'
+, 'different genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(155007  -- Hongri Shi Qi
+, 289449  -- Sen to Chihiro in Kamikakushi
+, 3
+, 'Maya Graff'
+, 'different genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(131312  -- Gearhart''s Ghost
+, 328646  -- Thorns of Grief The'
+, 2
+, 'Maya Graff'
+, 'different genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(121528  -- Full Frontal
+, 48932  -- Buffy''s Nude Camera Party
+, 2
+, 'Maya Graff'
+, 'different genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(200953  -- Man Who Cried for God
+, 341999  -- The 'Unclaimed Territory'
+, 3
+, 'Maya Graff'
+, 'different genres'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(297898  -- Shadow Child
+, 343067  -- Two Hearts in Wax Time
+, 2
+, 'Maya Graff'
+, 'different genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(167295  -- Jian xi xiong
+, 299636  -- Stop That Cab
+, 3
+, 'Maya Graff'
+, 'different genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(336548  -- The Toymaker
+, 31204  -- Atlas Shrugged: Part II
+, 2
+, 'Maya Graff'
+, 'different genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(198835  -- Macabre Pair of Shorts
+, 167049  -- Jesus Christ Vampire Hunter
+, 3
+, 'Maya Graff'
+, 'different genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(80724  -- Dance of Moths
+, 34354  -- Blood Wedding
+, 2
+, 'Maya Graff'
+, 'different genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(6264  -- Addicted to Murder
+, 241058  -- Once in a Blue Moon
+, 3
+, 'Maya Graff'
+, 'different genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(105774  -- Evil Lives
+, 350180  -- Vampire Cheerleaders
+, 2
+, 'Maya Graff'
+, 'different genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(214386  -- Mina Seward
+, 342675  -- Twisted Tales
+, 2
+, 'Maya Graff'
+, 'different genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(54984  -- Caress of the Vampire 2
+, 350214  -- Vampire Vixens from Venus
+, 3
+, 'Maya Graff'
+, 'different genres'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(350210  -- Vampire Sisters
+, 350219  -- Velvet Vampire
+, 2
+, 'Maya Graff'
+, 'different genres'
+, NULL
+);
+
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(317938  -- Suburban Swingers 2
+, 313889  -- Staryj znakomyj
+, 1
+, 'Maya Graff'
+, 'same number of roles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(236995  -- Nutt House
+, 223773  -- The 'My Brother''s Keeper'
+, 1
+, 'Maya Graff'
+, 'same number of roles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(329456  -- That Lucky Touch
+, 17751  -- Annie
+, 1
+, 'Maya Graff'
+, 'same number of roles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(184022  -- Laila Majnu
+, 286925  -- San Fernando Valley
+, 2
+, 'Maya Graff'
+, 'same number of roles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(128261  -- Girl in a Swing
+, 265473  -- The 'Profile for Murder'
+, 2
+, 'Maya Graff'
+, 'same number of roles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(130211  -- Godzina pasowej rózy
+, 142897  -- Henry IV Part I'
+, 2
+, 'Maya Graff'
+, 'same number of roles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(350641  -- Variety
+, 66633  -- Code of the Outlaw
+, 1
+, 'Maya Graff'
+, 'same number of roles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(364996  -- Wien-Film
+, 343712  -- Tsen frn Stormyrtorpet
+, 1
+, 'Maya Graff'
+, 'same number of roles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(221215  -- Mrs Caldicot''s Cabbage War
+, 403668  -- Roman o Londonu
+, 2
+, 'Maya Graff'
+, 'same number of roles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(146425  -- Histoires de voyous: L''Élgant
+, 241857  -- One Woman''s Courage
+, 1
+, 'Maya Graff'
+, 'same number of roles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(292451  -- Secret Life of an American Wife
+, 138774  -- The 'Happy Endings (1983/I)'
+, 1
+, 'Maya Graff'
+, 'same number of roles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(250745  -- Patriot
+, 149918  -- The (1998/I) 'Hossz alkony'
+, 1
+, 'Maya Graff'
+, 'same number of roles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(233815  -- My Son
+, 180083  -- the Hero 'Johnny Nobody'
+, 2
+, 'Maya Graff'
+, 'same number of roles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(230561  -- Mnin duyuru
+, 199449  -- King Solomon''s Mines (1985)
+, 2
+, 'Maya Graff'
+, 'same number of roles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(175342  -- Kanamarayathu
+, 340614  -- Tombstone Canyon
+, 1
+, 'Maya Graff'
+, 'same number of roles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(200631  -- Madame Louise
+, 342500  -- Twisted Pair
+, 2
+, 'Maya Graff'
+, 'same number of roles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(279630  -- Rider on the Rain
+, 343414  -- Triumph of the Will
+, 1
+, 'Maya Graff'
+, 'same number of roles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(151547  -- Honeymoon Hotel
+, 253650  -- Phantom of the Paradise
+, 2
+, 'Maya Graff'
+, 'same number of roles'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(169947  -- It''s Always Fair Weather
+, 281688  -- Road to Rio
+, 1
+, 'Maya Graff'
+, 'same number of roles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(348923  -- Ubalda
+, 183956  -- All Naked and Warm 'Lady Ice'
+, 2
+, 'Maya Graff'
+, 'same number of roles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(292177  -- Second Time Lucky
+, 346214  -- Uuno Turhapuro – This Is My Life
+, 1
+, 'Maya Graff'
+, 'same number of roles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(226471  -- Mud and Sand
+, 310245  -- Snowbound (1948)
+, 1
+, 'Maya Graff'
+, 'same number of roles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(322242  -- Swamp Water
+, 265503  -- Profile Two
+, 1
+, 'Maya Graff'
+, 'same number of roles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(198073  -- Ma Barker''s Killer Brood
+, 353024  -- Voglio la testa di Garcia
+, 2
+, 'Maya Graff'
+, 'same number of roles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(322487  -- Swingers Massacre
+, 259849  -- Powers of Ten
+, 1
+, 'Maya Graff'
+, 'same number of roles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(339280  -- Tom Mihaut''s Dream
+, 112228  -- Gettysburg (1993)
+, 2
+, 'Maya Graff'
+, 'same number of roles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(152006  -- Honeymoon Machine
+, 270969  -- The 'Raiders of the Seven Seas'
+, 2
+, 'Maya Graff'
+, 'same number of roles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(142748  -- Heavenly Body
+, 210030  -- The 'Night Stalker 'The (1972)'
+, 1
+, 'Maya Graff'
+, 'same number of roles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(331956  -- Three Men in the Snow
+, 188566  -- Life of Jimmy Dolittle The'
+, 1
+, 'Maya Graff'
+, 'same number of roles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(346002  -- Two Lost Worlds
+, 176403  -- Ibrahim Labyad
+, 2
+, 'Maya Graff'
+, 'same number of roles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(310682  -- Something to Live For
+, 245321  -- Shepherd of the Hills The'
+, 1
+, 'Maya Graff'
+, 'same number of roles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(211684  -- Pond and the Stream
+, 265443  -- The 'Professor Bewilderment'
+, 1
+, 'Maya Graff'
+, 'same number of roles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(142104  -- Hearts in Bondage
+, 274864  -- River''s Edge The (1957)'
+, 2
+, 'Maya Graff'
+, 'same number of roles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(311649  -- Space Rage
+, 353498  -- Voodoo Island
+, 1
+, 'Maya Graff'
+, 'same number of roles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(128598  -- Girl Next Door (1953)
+, 334887  -- The 'Terror Street'
+, 2
+, 'Maya Graff'
+, 'same number of roles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(386588  -- "Doctor Who: Scream of the Shalka"
+, 172919  -- Kama Sutra Tantra and Tao: The World''s Most Erotic Sex'
+, 3
+, 'Maya Graff'
+,'Same actor first name'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(254478  -- Phantom Horseman
+, 390177  -- The '"Glory Days"'
+, 2
+, 'Maya Graff'
+,'Same actor first name'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(334766  -- Together We Live
+, 233815  -- My Son the Hero'
+, 3
+, 'Maya Graff'
+,'Same actor first name'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(194939  -- Lost Portrait
+, 283546  -- The 'Running Mates'
+, 3
+, 'Maya Graff'
+,'Same actor first name'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31991  -- Beau Bandit
+, 80477  -- Dead Heat
+, 2
+, 'Maya Graff'
+, 'Same actor first name'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(142897  -- Henry IV
+, 221215  -- Part I 'Mrs Caldicot''s Cabbage War'
+, 3
+, 'Maya Graff'
+,'Same actor first name'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(130211  -- Godzina pasowej rózy
+, 335277  -- Tommy
+, 2
+, 'Maya Graff'
+, 'Same actor first name'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(292451  -- Secret Life of an American Wife
+, 172919  -- The 'Kama Sutra 'Tantra and Tao: The World''s Most Erotic Sex'
+, 3
+, 'Maya Graff'
+,'Same actor first name'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(176388  -- Kid Who Loved Christmas
+, 392966  -- The '"Just William"'
+, 2
+, 'Maya Graff'
+,'Same actor first name'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(333442  -- Timestalkers
+, 103326  -- Escape Through Time
+, 2
+, 'Maya Graff'
+, 'Same actor first name'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(336641  -- Variety
+, 232995  -- Mud and Sand
+, 3
+, 'Maya Graff'
+, 'Same actor first name'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(335277  -- Tommy
+, 152006  -- Honeymoon Machine The'
+, 2
+, 'Maya Graff'
+,'Same actor first name'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(103326  -- Escape Through Time
+, 390177  -- "Glory Days"
+, 2
+, 'Maya Graff'
+, 'Same actor first name'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(219783  -- Most Outrageous Game Show Moments
+, 176388  -- The 'Kid Who Loved Christmas 'The'
+, 3
+, 'Maya Graff'
+,'Same actor first name'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(233815  -- My Son
+, 254478  -- the Hero 'Phantom Horseman 'The'
+, 2
+, 'Maya Graff'
+,'Same actor first name'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(172919  -- Kama Sutra
+, 194939  -- Tantra and Tao: The World''s Most Erotic Sex 'Lost Portrait 'The'
+, 3
+, 'Maya Graff'
+,'Same actor first name'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(283546  -- Running Mates
+, 334766  -- Together We Live
+, 2
+, 'Maya Graff'
+, 'Same actor first name'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(390177  -- "Glory Days"
+, 176388  -- Kid Who Loved Christmas The'
+, 3
+, 'Maya Graff'
+, 'Same actor first name'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(80477  -- Dead Heat
+, 219783  -- Most Outrageous Game Show Moments The'
+, 2
+, 'Maya Graff'
+, 'Same actor first name'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(234582  -- Killing Time
+, 333442  -- Timestalkers
+, 3
+, 'Maya Graff'
+, 'Same actor first name'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(232995  -- Mud and Sand
+, 292451  -- Secret Life of an American Wife The'
+, 3
+, 'Maya Graff'
+, 'Same actor first name'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(152006  -- Honeymoon Machine
+, 176388  -- The 'Kid Who Loved Christmas 'The'
+, 2
+, 'Maya Graff'
+, 'Same actor first name'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(390177  -- "Glory Days"
+, 292451  -- Secret Life of an American Wife The'
+, 3
+, 'Maya Graff'
+, 'Same actor first name'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(142897  -- Henry IV
+, 333442  -- Part I 'Timestalkers'
+, 2
+, 'Maya Graff'
+, 'Same actor first name'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(176388  -- Kid Who Loved Christmas
+, 254478  -- The 'Phantom Horseman 'The'
+, 2
+, 'Maya Graff'
+, 'Same actor first name'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(335277  -- Tommy
+, 219783  -- Most Outrageous Game Show Moments The'
+, 3
+, 'Maya Graff'
+, 'Same actor first name'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(194939  -- Lost Portrait
+, 233815  -- The 'My Son 'the Hero'
+, 3
+, 'Maya Graff'
+, 'Same actor first name'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(254478  -- Phantom Horseman
+, 80477  -- The 'Dead Heat'
+, 2
+, 'Maya Graff'
+, 'Same actor first name'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(219783  -- Most Outrageous Game Show Moments
+, 103326  -- The 'Escape Through Time'
+, 3
+, 'Maya Graff'
+, 'Same actor first name'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(130211  -- Godzina pasowej rózy
+, 336641  -- Variety
+, 2
+, 'Maya Graff'
+, 'Same actor first name'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(142897  -- Henry IV
+, 292451  -- Part I 'Secret Life of an American Wife 'The'
+, 2
+, 'Maya Graff'
+, 'Same actor first name'
+, NULL
+);
