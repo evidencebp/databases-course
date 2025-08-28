@@ -27,7 +27,7 @@
 7. [GeeksForGeeks data analyst](https://www.geeksforgeeks.org/sql-questions-for-data-analyst-interview/)
 8. [Reddit](https://www.reddit.com/r/SQL/comments/y2up02/typical_sql_interview_questions_for_data_analysts/)
 9. [LeetCode](https://leetcode.com/studyplan/top-sql-50/)
-10. [5 SQL Questions 90% of Candidates Can’t Answer (But You Should)][https://levelup.gitconnected.com/5-sql-questions-90-of-candidates-cant-answer-but-you-should-803a3f5fa870]
+10. [5 SQL Questions 90% of Candidates Can’t Answer (But You Should)](https://levelup.gitconnected.com/5-sql-questions-90-of-candidates-cant-answer-but-you-should-803a3f5fa870)
 
 # MySql use by code
 1. [MySql with python example](https://dev.mysql.com/doc/connector-python/en/connector-python-example-cursor-select.html)
