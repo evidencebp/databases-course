@@ -31,6 +31,7 @@
 10. [5 SQL Questions 90% of Candidates Can’t Answer (But You Should)](https://levelup.gitconnected.com/5-sql-questions-90-of-candidates-cant-answer-but-you-should-803a3f5fa870)
 11. [Data lemur](https://datalemur.com/)
 12. [Strata scratch](https://www.stratascratch.com/blog/categories/sql/)
+13. [Hackerrank](https://www.hackerrank.com/domains/sql)
 
 # MySql use by code
 1. [MySql with python example](https://dev.mysql.com/doc/connector-python/en/connector-python-example-cursor-select.html)
