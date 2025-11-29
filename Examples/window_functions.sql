@@ -90,7 +90,49 @@ actor_id
 WINDOW w AS (ORDER BY actor_roles desc, actor_id)
 ;
 
+# A distribution of actor_roles
+select
+ actor_roles,
+ cume_dist() over w as cumulative_probabilty ,
+ percent_rank() over w as percentile
+from (select
+actor_id
+, count(*) as actor_roles
+from
+roles
+group by
+actor_id
+) as inSQl
+window w as (order by actor_roles desc, actor_id);
 
+# more handy distribution
+select
+actor_roles
+, max(cumulative_probabilty) as cumulative_probabilty
+, max(percentile) as percentile
+from
+(
+select
+ actor_roles,
+ cume_dist() over w as cumulative_probabilty ,
+ percent_rank() over w as percentile
+from (select
+actor_id
+, count(*) as actor_roles
+from
+roles
+group by
+actor_id
+) as inSQl
+window w as (order by actor_roles desc, actor_id)
+) as dist
+group by
+actor_roles
+order by
+actor_roles desc
+;
+
+	  
 # Director over time
 select
 year
