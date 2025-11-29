@@ -86,10 +86,8 @@ from
 roles
 group by
 actor_id
-order by 
-actor_roles desc, actor_id
 ) as inSql
-WINDOW w AS (ORDER BY actor_roles desc)
+WINDOW w AS (ORDER BY actor_roles desc, actor_id)
 ;
 
 
