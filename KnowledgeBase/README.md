@@ -32,6 +32,8 @@
 11. [Data lemur](https://datalemur.com/)
 12. [Strata scratch](https://www.stratascratch.com/blog/categories/sql/)
 13. [Hackerrank](https://www.hackerrank.com/domains/sql)
+14. [SQL practice](https://www.sqlpractice.in/) - online practie, nice uses of window function
+
 
 # MySql use by code
 1. [MySql with python example](https://dev.mysql.com/doc/connector-python/en/connector-python-example-cursor-select.html)
