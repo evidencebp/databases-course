@@ -35,6 +35,10 @@
 14. [SQL practice](https://www.sqlpractice.in/) - online practie, nice uses of window function
 
 
+# Sql games
+1. [SQL Murder Mystery](https://mystery.knightlab.com/)
+2. [SQL Habit Quest: The Bank Job](https://www.sqlhabit.com/quests/the-bank-job)
+
 # MySql use by code
 1. [MySql with python example](https://dev.mysql.com/doc/connector-python/en/connector-python-example-cursor-select.html)
 2. [MySql with R example](https://jagg19.github.io/2019/05/mysql-r/)
