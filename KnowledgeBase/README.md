@@ -12,11 +12,13 @@
 4. [GeekForGeek](https://www.geeksforgeeks.org/sql-tutorial/) - syntax oriented
 5. [SQLBOLT](https://sqlbolt.com/) - Movies and Syntax oriented
 
-   # Courses
+# Courses
+   
 1. [MIT very different oriented databases course](https://ocw.mit.edu/courses/6-830-database-systems-fall-2010)
 2. [IBM introduction to SQL (edx)](https://www.edx.org/learn/sql/ibm-introduction-to-sql)
 3. [Harvard introduction to databases with SQL](https://www.edx.org/learn/sql/harvard-university-cs50-s-introduction-to-databases-with-sql)
 4. [Learn Databases and SQL from Harvard University](https://www.freecodecamp.org/news/learn-databases-and-sql-from-harvard-university/)
+5. [Grokking Relational Database Design](https://github.com/StructuredCS/grokking-relational-database-design)
    
 # SQL questions representing market expectations
 1. [GeeksForGeeks database interview questions](https://www.geeksforgeeks.org/database-interview-questions/)
