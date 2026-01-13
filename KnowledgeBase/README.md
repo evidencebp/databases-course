@@ -35,6 +35,7 @@
 12. [Strata scratch](https://www.stratascratch.com/blog/categories/sql/)
 13. [Hackerrank](https://www.hackerrank.com/domains/sql)
 14. [SQL practice](https://www.sqlpractice.in/) - online practie, nice uses of window function
+15. [Practice window functions](https://www.practicewindowfunctions.com/)
 
 
 # Sql games
