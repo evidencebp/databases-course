@@ -1,7 +1,9 @@
-# Just strings
-DROP TABLE IF EXISTS imdb_ijs.tmp_movies;
+use imdb_ijs;
 
-CREATE TABLE imdb_ijs.tmp_movies (
+# Just strings
+DROP TABLE IF EXISTS tmp_movies;
+
+CREATE TABLE tmp_movies (
   `id` varchar(100),
   `name` varchar(100),
   `year` varchar(100),
@@ -9,41 +11,41 @@ CREATE TABLE imdb_ijs.tmp_movies (
 );
 
 # Table allows "semantic" date reference
-insert into imdb_ijs.tmp_movies values(1, 'Superman', 'BaShana Habaa', 10);
+insert into tmp_movies values(1, 'Superman', 'BaShana Habaa', 10);
 
 
 # Choose proper data types
-DROP TABLE IF EXISTS imdb_ijs.tmp_movies;
+DROP TABLE IF EXISTS tmp_movies;
 
-CREATE TABLE imdb_ijs.tmp_movies (
+CREATE TABLE tmp_movies (
   `id` int,
   `name` varchar(100),
   `year` int,
   `rank` float
 );
 
-insert into imdb_ijs.tmp_movies values(1, 'Superman', 'BaShana Habaa', 10); # Fails now
-insert into imdb_ijs.tmp_movies values(Null, 'Superman', 2000, 10); # Yet can add a movie without id, forbidding key usage
+insert into tmp_movies values(1, 'Superman', 'BaShana Habaa', 10); # Fails now
+insert into tmp_movies values(Null, 'Superman', 2000, 10); # Yet can add a movie without id, forbidding key usage
 
 
 # Null constraint
-DROP TABLE IF EXISTS imdb_ijs.tmp_movies;
+DROP TABLE IF EXISTS tmp_movies;
 
-CREATE TABLE imdb_ijs.tmp_movies (
+CREATE TABLE tmp_movies (
   `id` int NOT NULL,
   `name` varchar(100) NOT NULL,
   `year` int,
   `rank` float
 );
 
-insert into imdb_ijs.tmp_movies values(Null, 'Superman', 2000, 10); # Fails now
-insert into imdb_ijs.tmp_movies values(1, 'Superman', -300, 10); # We can add very old movies
+insert into tmp_movies values(Null, 'Superman', 2000, 10); # Fails now
+insert into tmp_movies values(1, 'Superman', -300, 10); # We can add very old movies
 
 
 # Year constraint
-DROP TABLE IF EXISTS imdb_ijs.tmp_movies;
+DROP TABLE IF EXISTS tmp_movies;
 
-CREATE TABLE imdb_ijs.tmp_movies (
+CREATE TABLE tmp_movies (
   `id` int NOT NULL,
   `name` varchar(100) NOT NULL,
   `year` int,
@@ -51,14 +53,14 @@ CREATE TABLE imdb_ijs.tmp_movies (
   CHECK (year>=1900)
 );
 
-insert into imdb_ijs.tmp_movies values(1, 'Superman', -300, 10); # Fails now
+insert into tmp_movies values(1, 'Superman', -300, 10); # Fails now
 
 
 
 # Rank null as default
-DROP TABLE IF EXISTS imdb_ijs.tmp_movies;
+DROP TABLE IF EXISTS tmp_movies;
 
-CREATE TABLE imdb_ijs.tmp_movies (
+CREATE TABLE tmp_movies (
   `id` int NOT NULL,
   `name` varchar(100) NOT NULL,
   `year` int,
@@ -66,14 +68,14 @@ CREATE TABLE imdb_ijs.tmp_movies (
   CHECK (year>=1900)
 );
 
-insert into imdb_ijs.tmp_movies(id, name, year) values(1, 'Superman', 2000); # If rank is not provided, default will be used
-insert into imdb_ijs.tmp_movies(id, name, year) values(1, 'Superman', 2000); # But you can add it twice and more
+insert into tmp_movies(id, name, year) values(1, 'Superman', 2000); # If rank is not provided, default will be used
+insert into tmp_movies(id, name, year) values(1, 'Superman', 2000); # But you can add it twice and more
 
 
 # Primary key
-DROP TABLE IF EXISTS imdb_ijs.tmp_movies;
+DROP TABLE IF EXISTS tmp_movies;
 
-CREATE TABLE imdb_ijs.tmp_movies (
+CREATE TABLE tmp_movies (
   `id` int NOT NULL,
   `name` varchar(100) NOT NULL,
   `year` int,
@@ -82,15 +84,15 @@ CREATE TABLE imdb_ijs.tmp_movies (
   PRIMARY KEY (`id`)
 );
 
-insert into imdb_ijs.tmp_movies(id, name, year) values(1, 'Superman', 2000); # Added
-insert into imdb_ijs.tmp_movies(id, name, year) values(1, 'Superman', 2000); # Fails
+insert into tmp_movies(id, name, year) values(1, 'Superman', 2000); # Added
+insert into tmp_movies(id, name, year) values(1, 'Superman', 2000); # Fails
 
 
 
 # Key on name
-DROP TABLE IF EXISTS imdb_ijs.tmp_movies;
+DROP TABLE IF EXISTS tmp_movies;
 
-CREATE TABLE imdb_ijs.tmp_movies (
+CREATE TABLE tmp_movies (
   `id` int NOT NULL,
   `name` varchar(100) NOT NULL,
   `year` int,
@@ -102,9 +104,9 @@ CREATE TABLE imdb_ijs.tmp_movies (
 
 
 # IJS structure - notice difference from our examples
-DROP TABLE IF EXISTS imdb_ijs.tmp_movies;
+DROP TABLE IF EXISTS tmp_movies;
 
-CREATE TABLE imdb_ijs.tmp_movies (
+CREATE TABLE tmp_movies (
   `id` int(11) NOT NULL DEFAULT 0,
   `name` varchar(100) DEFAULT NULL,
   `year` int(11) DEFAULT NULL,
@@ -116,9 +118,9 @@ CREATE TABLE imdb_ijs.tmp_movies (
 
 
 # Director column
-DROP TABLE IF EXISTS imdb_ijs.tmp_movies;
+DROP TABLE IF EXISTS tmp_movies;
 
-CREATE TABLE imdb_ijs.tmp_movies (
+CREATE TABLE tmp_movies (
   `id` int NOT NULL,
   `name` varchar(100) NOT NULL,
   `year` int,
@@ -129,13 +131,13 @@ CREATE TABLE imdb_ijs.tmp_movies (
   KEY `movies_index` (`name`)
 );
 
-insert into imdb_ijs.tmp_movies values(1, 'Superman', 2000, null, -100); # There is no director with id -100
+insert into tmp_movies values(1, 'Superman', 2000, null, -100); # There is no director with id -100
 
 
 # Director foreign key
-DROP TABLE IF EXISTS imdb_ijs.tmp_movies;
+DROP TABLE IF EXISTS tmp_movies;
 
-CREATE TABLE imdb_ijs.tmp_movies (
+CREATE TABLE tmp_movies (
   `id` int NOT NULL,
   `name` varchar(100) NOT NULL,
   `year` int,
@@ -147,14 +149,14 @@ CREATE TABLE imdb_ijs.tmp_movies (
   FOREIGN KEY (director) REFERENCES directors(id)
 );
 
-insert into imdb_ijs.tmp_movies values(1, 'Superman', 2000, null, -100); # Fails now
+insert into tmp_movies values(1, 'Superman', 2000, null, -100); # Fails now
 
 
 # Multiple directors
 # losing foreign key and type, data extraction is messy
-DROP TABLE IF EXISTS imdb_ijs.tmp_movies;
+DROP TABLE IF EXISTS tmp_movies;
 
-CREATE TABLE imdb_ijs.tmp_movies (
+CREATE TABLE tmp_movies (
   `id` int NOT NULL,
   `name` varchar(100) NOT NULL,
   `year` int,
@@ -165,16 +167,16 @@ CREATE TABLE imdb_ijs.tmp_movies (
   KEY `movies_index` (`name`)
 );
 
-insert into imdb_ijs.tmp_movies values(1, 'Superman', 2000, null, "1"); 
-insert into imdb_ijs.tmp_movies values(2, 'Superman', 2000, null, "1, 2"); 
-insert into imdb_ijs.tmp_movies values(3, 'Superman', 2000, null, "11, 2"); 
+insert into tmp_movies values(1, 'Superman', 2000, null, "1"); 
+insert into tmp_movies values(2, 'Superman', 2000, null, "1, 2"); 
+insert into tmp_movies values(3, 'Superman', 2000, null, "11, 2"); 
 
 
 
 # Representing multiple directors per movie
 
-DROP TABLE IF EXISTS imdb_ijs.tmp_movies_directors;
-CREATE TABLE imdb_ijs.tmp_movies_directors (
+DROP TABLE IF EXISTS tmp_movies_directors;
+CREATE TABLE tmp_movies_directors (
   `director_id` int NOT NULL,
   `movie_id` int NOT NULL,
   PRIMARY KEY (`director_id`,`movie_id`),
@@ -186,7 +188,7 @@ CREATE TABLE imdb_ijs.tmp_movies_directors (
 
 
 # Clean up
-DROP TABLE IF EXISTS imdb_ijs.tmp_movies;
-DROP TABLE IF EXISTS imdb_ijs.tmp_movies_directors;
+DROP TABLE IF EXISTS tmp_movies;
+DROP TABLE IF EXISTS tmp_movies_directors;
 
 
