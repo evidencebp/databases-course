@@ -182,8 +182,8 @@ CREATE TABLE tmp_movies_directors (
   PRIMARY KEY (`director_id`,`movie_id`),
   KEY `movies_directors_director_id` (`director_id`),
   KEY `movies_directors_movie_id` (`movie_id`),
-  CONSTRAINT `movies_directors_ibfk_1` FOREIGN KEY (`director_id`) REFERENCES `directors` (`id`) ON DELETE CASCADE ON UPDATE CASCADE,
-  CONSTRAINT `movies_directors_ibfk_2` FOREIGN KEY (`movie_id`) REFERENCES `movies` (`id`) ON DELETE CASCADE ON UPDATE CASCADE
+  CONSTRAINT `md_ibfk_1` FOREIGN KEY (`director_id`) REFERENCES `directors` (`id`) ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT `md_ibfk_2` FOREIGN KEY (`movie_id`) REFERENCES `movies` (`id`) ON DELETE CASCADE ON UPDATE CASCADE
 );
 
 
