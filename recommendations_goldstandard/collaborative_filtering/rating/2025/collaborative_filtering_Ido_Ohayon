@@ -1,0 +1,805 @@
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (379290, 8, 'Ido Ohayon', 'The Adventures of Batman is a nostalgic, colorful, and fun watch for classic Batman fans.', null); 
+ # 379290 Adventures of Batman, The (1969)
+ 
+ insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (7842, 7, 'Ido Ohayon', 'After Hours is a quirky and unpredictable dark comedy.', null); 
+# 7842 After Hours (1985)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (405119, 9, 'Ido Ohayon', 'Sherlock Holmes (1951) is a clever and timeless mystery.', null); 
+# 405119 Sherlock Holmes (1951)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (406411, 9, 'Ido Ohayon', 'A brilliant and highly sought-after series.', null); 
+# 406411 Star Wars: Clone Wars (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (10945, 8, 'Ido Ohayon', 'A tense and iconic sci-fi horror experience.', null); 
+# 10945 Alien (1992)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (112290, 8, 'Ido Ohayon', 'Brad Pitt is an outstanding actor.', null); 
+# 112290 Fight Club (1999)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (728, 4, 'Ido Ohayon', 'Repetitive, less engaging than earlier episodes.', null); 
+# 728 100 Years of Horror: Scream Queens (1996)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (729, 4, 'Ido Ohayon', 'Felt repetitive, not much new.', null); 
+# 729 100 Years of Horror: Sorcerers (1996)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (731, 7, 'Ido Ohayon', 'Classic horror icons led by the Count.', null); 
+# 731 100 Years of Horror: The Count and Company (1996)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (726, 7, 'Ido Ohayon', 'Fun horror with giants and dinosaurs.', null); 
+# 726 100 Years of Horror: Giants and Dinosaurs (1996)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (735, 5, 'Ido Ohayon', 'Didn’t connect, felt like earlier episodes.', null); 
+# 735 100 Years of Horror: The Monster Makers (1996)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (30952, 8, 'Ido Ohayon', 'Colorful comic-style Batman action.', null); 
+# 30952 Batman & Robin (1997)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (30953, 8, 'Ido Ohayon', 'Entertaining comic-style Batman adventure.', null); 
+# 30953 Batman & Robin (1998)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (30974, 7, 'Ido Ohayon', 'Short but intense Batman fan film.', null); 
+# 30974 Batman: Dead End (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (30975, 5, 'Ido Ohayon', 'One of the weaker Batman films.', null); 
+# 30975 Batman: Gotham Racer (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (30976, 9, 'Ido Ohayon', 'Excellent animated Batman mystery adventure.', null); 
+# 30976 Batman: Mask of the Phantasm (1993)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (30977, 8, 'Ido Ohayon', 'Engaging animated Batman detective story.', null); 
+# 30977 Batman: Mystery of the Batwoman (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (34077, 9, 'Ido Ohayon', 'Legendary film starring Brad Pitt.', null); 
+# 34077 Benjamin Button (2006)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (139650, 8, 'Ido Ohayon', 'Exciting magical mystery with great pacing.', null); 
+# 139650 Harry Potter and the Chamber of Secrets (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (139651, 8, 'Ido Ohayon', 'Fun continuation of a magical adventure.', null); 
+# 139651 Harry Potter and the Chamber of Secrets (2002/II) (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (139652, 9, 'Ido Ohayon', 'Thrilling tournament with dark twists.', null); 
+# 139652 Harry Potter and the Goblet of Fire (2005)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (139653, 10, 'Ido Ohayon', 'Emotional depth with intense drama.', null); 
+# 139653 Harry Potter and the Half-Blood Prince (2008)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (139654, 8, 'Ido Ohayon', 'Strong action and rising tension.', null); 
+# 139654 Harry Potter and the Order of the Phoenix (2007)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (139655, 10, 'Ido Ohayon', 'Creative time-bending magical story.', null); 
+# 139655 Harry Potter and the Prisoner of Azkaban (2004)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (139657, 10, 'Ido Ohayon', 'Another very successful addition to the collection.', null); 
+# 139657 Harry Potter and the Sorcerer's Stone (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (159167, 6, 'Ido Ohayon', 'Good but repetitive, less strong than the previous.', null); 
+# 159167 Indiana Jones 4 (2006)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (159172, 9, 'Ido Ohayon', 'Legendary adventure starring Harrison Ford.', null); 
+# 159172 Indiana Jones and the Last Crusade (1989)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (159175, 8, 'Ido Ohayon', 'Legendary adventure starring Harrison Ford.', null); 
+# 159175 Indiana Jones and the Temple of Doom (1984)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (162380, 9, 'Ido Ohayon', 'An iconic and timeless superhero film.', null); 
+# 162380 Iron Man (2005)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (176711, 10, 'Ido Ohayon', 'Tarantino’s stylish action with unforgettable sword fights', null); 
+# 176711 Kill Bill: Vol. 1 (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (127237, 8, 'Ido Ohayon', 'Witty coming-of-age story with unique style.', null);
+# 127237 Ghost World (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (190869, 8, 'Ido Ohayon', 'Great kids movie with a lovely story.', null); 
+# 190869 Lilo & Stitch (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (194495, 10, 'Ido Ohayon', 'Amazing fantasy movie with great battles.', null); 
+# 194495 Lord of the Rings: Return of the King, The (2003/II) (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (194496, 8, 'Ido Ohayon', 'Successful but less of a blockbuster than earlier ones.', null); 
+# 194496 Lord of the Rings: The Battle for Middle-Earth, The (2004)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (194497, 10, 'Ido Ohayon', 'Great start to the fantasy series.', null); 
+# 194497 Lord of the Rings: The Fellowship of the Ring, The (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (194498, 9, 'Ido Ohayon', 'Nice version of the Fellowship story.', null); 
+# 194498 Lord of the Rings: The Fellowship of the Ring, The (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (194499, 8, 'Ido Ohayon', 'Cool documentary about the trilogy.', null); 
+# 194499 Lord of the Rings: The Quest Fulfilled, The (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (194500, 10, 'Ido Ohayon', 'Fantastic ending to the series.', null); 
+# 194500 Lord of the Rings: The Return of the King, The (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (208245, 8, 'Ido Ohayon', 'Western comedy full of poker schemes and tricks.', null); 
+# 208245 Maverick (1994)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (215878, 8, 'Ido Ohayon', 'Great spy series starring Tom Cruise.', null); 
+# 215878 Mission: Impossible - Operation Surma (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (215879, 8, 'Ido Ohayon', 'Great spy series starring Tom Cruise.', null); 
+# 215879 Mission: Impossible II (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (215880, 9, 'Ido Ohayon', 'One of the best entries in the collection.', null); 
+# 215880 Mission: Impossible III (2006)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (263360, 9, 'Ido Ohayon', 'Romantic classic with great chemistry.', null); 
+# 263360 Pretty Woman (1990)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (280282, 8, 'Ido Ohayon', 'Great boxing drama starring Sylvester Stallone.', null); 
+# 280282 Rocky III (1982)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (280284, 9, 'Ido Ohayon', 'Inspirational boxing story with iconic moments.', null); 
+# 280284 Rocky IV (1985)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (280305, 7, 'Ido Ohayon', 'Emotional but less impactful than earlier films.', null); 
+# 280305 Rocky V (1990)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (280306, 8, 'Ido Ohayon', 'Classic sports drama with heart and grit.', null); 
+# 280306 Rocky VI (1986)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (287501, 5, 'Ido Ohayon', 'Dark comedy that leaves its message unclear.', null); 
+-- 287501 Sanhedrin (2004)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (300229, 9, 'Ido Ohayon', 'Unforgettable childhood classic animated film.', null); 
+# 300229 Shrek (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (300230, 9, 'Ido Ohayon', 'Unforgettable childhood classic animated film.', null); 
+# 300230 Shrek 2 (2004)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (300233, 8, 'Ido Ohayon', 'Unforgettable childhood classic animated film.', null); 
+# 300233 Shrek 4-D (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (311037, 8, 'Ido Ohayon', 'Spider-Man swings into action in style.', null); 
+# 311037 Spider-Man (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (311038, 10, 'Ido Ohayon', 'Spider-Man faces his greatest challenge yet.', null); 
+# 311038 Spider-Man 2 (2004)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (311040, 6, 'Ido Ohayon', 'Good but feels recycled from earlier films.', null); 
+# 311040 Spider-Man 3 (2007)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (297838, 10, 'Ido Ohayon', 'An inspiring and unforgettable masterpiece.', null); 
+# 297838 Shawshank Redemption, The (1994)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (311604, 7, 'Ido Ohayon', 'Iconic childhood game from the series.', null); 
+# 311604 SpongeBob SquarePants: Legend of the Lost Spatula (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (311606, 6, 'Ido Ohayon', 'Funny childhood film but too similar to the previous one.', null); 
+# 311606 SpongeBob SquarePants: Revenge of the Flying Dutchman (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (311607, 7, 'Ido Ohayon', 'Beloved childhood game from the series.', null); 
+# 311607 SpongeBob SquarePants: SuperSponge (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (313464, 8, 'Ido Ohayon', 'Unforgettable and exciting sci-fi series.', null); 
+# 313464 Star Wars Rogue Leader: Rogue Squadron 2 (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (313474, 8, 'Ido Ohayon', 'Unforgettable and exciting sci-fi series.', null); 
+# 313474 Star Wars: Episode I - The Phantom Menace (1999)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (313476, 8, 'Ido Ohayon', 'Unforgettable and exciting sci-fi series.', null); 
+# 313476 Star Wars: Episode II - Attack of the Clones (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (313477, 9, 'Ido Ohayon', 'Unforgettable and exciting sci-fi series.', null); 
+# 313477 Star Wars: Episode III - Revenge of the Sith (2005)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (313487, 8, 'Ido Ohayon', 'Exciting Star Wars adventure with great gameplay.', null); 
+# 313487 Star Wars: Jedi Knight II - Jedi Outcast (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (313488, 6, 'Ido Ohayon', 'Less successful sequel but still interesting.', null); 
+# 313488 Star Wars: Jedi Starfighter (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (313489, 9, 'Ido Ohayon', 'Epic and immersive Star Wars RPG.', null); 
+# 313489 Star Wars: Knights of the Old Republic (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (313493, 7, 'Ido Ohayon', 'Sequel not as strong but still fun.', null); 
+# 313493 Star Wars: Racer Revenge (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (319404, 7, 'Ido Ohayon', 'An interesting film about Christianity.', null); 
+# 319404 Super Jesus (1999)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (333398, 7, 'Ido Ohayon', 'Intriguing story with a unique concept.', null); 
+# 333398 Timekeeper, The (2004)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (333856, 10, 'Ido Ohayon', 'Epic romance and disaster masterpiece.', null); 
+# 333856 Titanic (1997)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (335835, 9, 'Ido Ohayon', 'Classic action film with iconic flying scenes.', null); 
+# 335835 Top Gun (1986)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (337166, 9, 'Ido Ohayon', 'Iconic and groundbreaking kids movie.', null); 
+# 337166 Toy Story (1995)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (340652, 10, 'Ido Ohayon', 'Interesting film about Greek history.', null); 
+# 340652 Troy (2004)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (342797, 6, 'Ido Ohayon', 'Charming romantic story with heartfelt moments.', null); 
+# 342797 Two Days with Juliet (2004)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (363117, 7, 'Ido Ohayon', 'Lighthearted and fun family comedy.', null); 
+# 363117 When the Kids Are Away (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (363633, 9, 'Ido Ohayon', 'Engaging drama with intriguing twists.', null); 
+# 363633 Whirlpool, The (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (374567, 6, 'Ido Ohayon', 'Fun indie film with a cool idea.', null); 
+# 374567 Zero (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (100130, 6, 'Ido Ohayon', 'Powerful war drama with great performances, but the ending disappoints.', null); 
+# 100130 Empire of the Sun (1987)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (256632, 8, 'Ido Ohayon', 'Fun and adventurous pirate fantasy film.', null); 
+# 256632 Pirates of the Caribbean: The Curse of the Black Pearl (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (207989, 7, 'Ido Ohayon', 'Good sequel but feels a bit recycled.', null); 
+# 207989 Matrix Reloaded (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (238073, 9, 'Ido Ohayon', 'Awesome heist movie starring Brad Pitt.', null); 
+# 238073 Ocean's Twelve (2004)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (220805, 7, 'Ido Ohayon', 'Action-packed comedy starring Brad Pitt.', null); 
+# 220805 Mr. and Mrs. Smith (2005)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (176712, 6, 'Ido Ohayon', 'Classic Tarantino film but less successful.', null); 
+# 176712 Kill Bill 2 (2004)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (159665, 8, 'Ido Ohayon', 'Epic war film by Quentin Tarantino.', null); 
+# 159665 Inglorious Bastards (2006)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (43151, 6, 'Ido Ohayon', 'Interesting film set in Bolivia, somewhat heavy and deep.', null); 
+# 43151 Bolivia (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (114150, 5, 'Ido Ohayon', 'Romantic drama that feels a bit too summery.', null); 
+# 114150 First Kiss (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (117380, 7, 'Ido Ohayon', 'Intriguing drama with a romantic twist.', null); 
+# 117380 Forbidden Fruit (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (132281, 6, 'Ido Ohayon', 'Comedy that is funny at certain moments.', null); 
+# 132281 Goulash (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (137708, 5, 'Ido Ohayon', 'Less successful attempt compared to the excellent gaming series.', null); 
+# 137708 Halo (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (161544, 6, 'Ido Ohayon', 'Stylish drama with an intense storyline.', null); 
+# 161544 Intoxicating (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (167043, 7, 'Ido Ohayon', 'Interesting film about Christianity.', null); 
+# 167043 Jesus (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (177310, 8, 'Ido Ohayon', 'Inspiring documentary about overcoming challenges.', null); 
+# 177310 King Gimp (1999)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (185386, 8, 'Ido Ohayon', 'An inspiring and motivational film.', null); 
+# 185386 Last Man Running (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (185660, 8, 'Ido Ohayon', 'Action-packed film with thrilling moments.', null); 
+# 185660 Last Stand (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (186732, 6, 'Ido Ohayon', 'Powerful yet perhaps too short and unclear.', null); 
+# 186732 Learning to Swim (1999)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (190525, 5, 'Ido Ohayon', 'Poignant drama with a somber tone.', null); 
+# 190525 Lighthouse Hill (2004)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (191798, 7, 'Ido Ohayon', 'Engaging drama with rich cultural themes.', null); 
+# 191798 Little England II (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (195837, 8, 'Ido Ohayon', 'Romantic drama with heartfelt storytelling.', null); 
+# 195837 Love Life (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (197481, 5, 'Ido Ohayon', 'Musical drama that feels dull and lacks a clear point.', null); 
+# 197481 Lunar Girl (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (232019, 5, 'Ido Ohayon', 'Unsuccessful horror film that isn’t scary at all.', null); 
+# 232019 Night of a Thousand Screams (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (233565, 7, 'Ido Ohayon', 'Funny and lighthearted documentary.', null); 
+# 233565 No Dumb Questions (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (234839, 5, 'Ido Ohayon', 'Short surreal film with a weak storyline.', null); 
+# 234839 Noodle Soup (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (235303, 6, 'Ido Ohayon', 'Interesting Spanish-language film.', null); 
+# 235303 Nosotros (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (238242, 9, 'Ido Ohayon', 'Haunting noir with poetic visuals and moral tension.', null); 
+# 238242 Odd Man Out (1998)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (241729, 8, 'Ido Ohayon', 'Interesting film with a unique military story.', null); 
+# 241729 One Soldier (1999)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (248090, 9, 'Ido Ohayon', 'Inspiring documentary about Holocaust remembrance.', null); 
+# 248090 Paper Clips (2004)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (254291, 5, 'Ido Ohayon', 'Dark comedy that I didn’t really connect with.', null); 
+# 254291 Petunia (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (256964, 8, 'Ido Ohayon', 'Goofy superhero comedy with pizza-powered hero.', null); 
+# 256964 Pizza Man (2004)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (265273, 8, 'Ido Ohayon', 'Creepy horror with intense atmosphere and strong child actor.', null); 
+# 265273 The Prodigy (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (275211, 9, 'Ido Ohayon', 'Surreal, darkly comic short that redefines animation.', null); 
+# 275211 Rejected (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (279594, 7, 'Ido Ohayon', 'Intriguing short with mysterious tone.', null); 
+# 279594 Robbers (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (291760, 8, 'Ido Ohayon', 'Fascinating prehistoric ocean creatures filmed vividly.', null); 
+# 291760 Sea Monsters (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (310198, 8, 'Ido Ohayon', 'Unique space adventure with an alien friend.', null); 
+# 310198 Spaceman (1998)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (312303, 4, 'Ido Ohayon', 'Short film that feels pointless and lacks a clear payoff.', null); 
+# 312303 Squash (short film) (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (323400, 6, 'Ido Ohayon', 'Well-meaning children’s film with preachy tone.', null); 
+# 323400 Take It Easy (1999)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (131237, 5, 'Ido Ohayon', 'Unusual German short film with no dialogue.', null); 
+# 131237 Gone Underground (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (135978, 8, 'Ido Ohayon', 'Powerful documentary about soldiers in Iraq.', null);
+# 135978 Gunner Palace (2004)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (361591, 5, 'Ido Ohayon', 'Political film with misleading statements.', null); 
+# 361591 West Bank Brooklyn (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (364220, 7, 'Ido Ohayon', 'Light, quirky comedy with a murder twist.', null); 
+# 364220 Who Killed Johnny Love? (1998)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (365652, 7, 'Ido Ohayon', 'Moody coming-of-age drama with poetic visuals.', null); 
+# 365652 Wildflowers (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (80797, 5, 'Ido Ohayon', 'Short horror film that feels unclear.', null); 
+# 80797 Deadly Love (1992)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (109093, 9, 'Ido Ohayon', 'Darkly funny crime story with unforgettable characters.', null); 
+# 109093 Fargo (1996)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (117874, 10, 'Ido Ohayon', 'Heartwarming life story with iconic moments.', null); 
+# 117874 Forrest Gump (1994)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (129954, 10, 'Ido Ohayon', 'Epic crime saga with unforgettable performances.', null); 
+# 129954 God Father (1991)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (157695, 7, 'Ido Ohayon', 'Light satire with a playful religious twist.', null); 
+# 157695 In God We Trust (1996)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (179008, 9, 'Ido Ohayon', 'Touching buddy road trip with humor and heart.', null); 
+# 179008 Knocking On Heaven's Door (1994)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (194343, 4, 'Ido Ohayon', 'Short film with a storyline that doesn’t really progress.', null); 
+# 194343 Looosers! (1995)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (202432, 7, 'Ido Ohayon', 'Charming tragicomedy about love and awkward fate.', null); 
+# 202432 Malka Lev Adom (1996)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (256968, 7, 'Ido Ohayon', 'Everyday pizza-shop chaos with a humorous twist.', null); 
+# 256968 Pizza Runners (1996)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (274868, 8, 'Ido Ohayon', 'Vibrant reggae documentary with legendary performances.', null); 
+# 274868 The Reggae Movie (1995)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (284860, 8, 'Ido Ohayon', 'Quiet yet powerful drama about loss and resilience.', null); 
+# 284860 Sabine (1993)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (287209, 9, 'Ido Ohayon', 'Chilling stop-motion short with haunting visuals.', null); 
+# 287209 Sandman (1992)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (346164, 8, 'Ido Ohayon', 'Charming drama about finding independence abroad.', null); 
+# 346164 Under the Sun (1992)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (349909, 8, 'Ido Ohayon', 'Funny, inventive tale of brothers staging Wagner at home.', null); 
+# 349909 Valhalla (1992)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (375797, 7, 'Ido Ohayon', 'A beautiful movie about animals.', null); 
+# 375797 Zoo (1993)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (207645, 6, 'Ido Ohayon', 'Spanish crime drama with a complex storyline.', null); 
+# 207645 Matanza (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (7811, 6, 'Ido Ohayon', 'Short drama about accountability in relationships.', null); 
+# 7811 After April (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (7833, 8, 'Ido Ohayon', 'Heartfelt drama about responsibility and family.', null); 
+# 7833 After Freedom (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (126060, 8, 'Ido Ohayon', 'Indie drama about childhood and secrets.', null);
+# 126060 George Washington (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (11281, 8, 'Ido Ohayon', 'Sweet kids scheme to reunite their divorced parents.', null); 
+# 11281 All I Want for Christmas (1991)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (18113, 9, 'Ido Ohayon', 'Cool short animation with a nature message.', null); 
+# 18113 Antagonia (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (18129, 8, 'Ido Ohayon', 'Visually stunning IMAX doc exploring life in Antarctica.', null); 
+# 18129 Antarctica (1991)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (32122, 8, 'Ido Ohayon', 'Witty British comedy with quirky characters.', null);
+# 32122 Beautiful People (1999)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (32726, 9, 'Ido Ohayon', 'Poetic exploration of love and war.', null);
+# 32726 Before the Rain (1994)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (33004, 8, 'Ido Ohayon', 'Emotional sibling drama with powerful performances.', null);
+# 33004 Behind the Red Door (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (33777, 7, 'Ido Ohayon', 'Surreal corporate satire with quirky animation.', null);
+# 33777 Below the Belt (2004)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (35264, 7, 'Ido Ohayon', 'Fun and light romantic comedy.', null);
+# 35264 Better Than Sex (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (37033, 8, 'Ido Ohayon', 'Sweet and charming small-town love story.', null);
+# 37033 Big Eden (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (37995, 9, 'Ido Ohayon', 'Inspiring story about following your dreams.', null);
+# 37995 Billy Elliot (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (43423, 7, 'Ido Ohayon', 'Lighthearted adventure with charming characters.', null);
+# 43423 Bon voyage (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (46251, 8, 'Ido Ohayon', 'Moving story about workers’ rights and hope.', null);
+# 46251 Bread and Roses (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (56046, 8, 'Ido Ohayon', 'Classic romance with unforgettable moments.', null);
+# 56046 Casablanca (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (61156, 7, 'Ido Ohayon', 'Energetic musical with great songs and dance.', null);
+# 61156 Chicago (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (64869, 7, 'Ido Ohayon', 'Thoughtful drama about community struggles.', null);
+# 64869 City of Hope (1991)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (65555, 9, 'Ido Ohayon', 'Epic historical drama with strong performances.', null);
+# 65555 Cleopatra (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (80502, 8, 'Ido Ohayon', 'Dark and poetic Western with unique style.', null);
+# 80502 Dead Man (1995)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (319027, 7, 'Ido Ohayon', 'Calm and reflective indie film.', null);
+# 319027 Sunday Morning (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (314618, 9, 'Ido Ohayon', 'Great film by a top director.', null);
+# 314618 Steven Spielberg's Director's Chair (1996)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (289109, 10, 'Ido Ohayon', 'Timeless war movie about friendship and courage.', null);
+# 289109 Saving Private Ryan (1998)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (247579, 9, 'Ido Ohayon', 'Thrilling home invasion with tense moments.', null);
+# 247579 Panic Room (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (238072, 10, 'Ido Ohayon', 'Smart heist movie about gambling and tricks.', null);
+# 238072 Ocean's Eleven (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (188510, 8, 'Ido Ohayon', 'Exciting action with funny partners.', null);
+# 188510 Lethal Weapon 3 (1992)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (188511, 7, 'Ido Ohayon', 'More action and fun with the team.', null);
+# 188511 Lethal Weapon 4 (1998)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (92695, 8, 'Ido Ohayon', 'Interesting and artistic take on Dracula.', null);
+# 92695 Dracula: Pages from a Virgin's Diary (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (92746, 7, 'Ido Ohayon', 'Fun sci-fi kids movie with iconic characters.', null);
+# 92746 Dragon Ball Z 13: Ryken bakuhatsu!! Gok ga yaraneba dare ga yaru (1995)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (92757, 7, 'Ido Ohayon', 'Classic kids sci-fi action with iconic heroes.', null);
+# 92757 Dragon Ball Z 9: Ginga girigiri!! Butchigiri no sugoi yatsu (1993)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (92879, 6, 'Ido Ohayon', 'Action-packed fantasy with dragons and adventure.', null);
+# 92879 Dragonstrike (1993)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (255271, 7, 'Ido Ohayon', 'Simple romantic drama with heartfelt moments.', null);
+# 255271 Picnic (1996)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (250928, 8, 'Ido Ohayon', 'Intriguing documentary about Beatles mystery.', null);
+# 250928 Paul Is Dead (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (176923, 8, 'Ido Ohayon', 'Intense drama with heavy social themes.', null);
+# 176923 Killing Babies (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (163571, 7, 'Ido Ohayon', 'Lighthearted comedy about life and chance.', null);
+# 163571 It's Just Coffee (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (249073, 6, 'Ido Ohayon', ' documentary about women in Paris, yet odd.', null);
+# 249073 Paris Was a Woman (1995)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (160524, 8, 'Ido Ohayon', 'Tense thriller set in endless daylight.', null);
+-- 160524 Insomnia (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (244432, 7, 'Ido Ohayon', 'Romantic drama with mysterious undertones.', null);
+# 244432 Other Voices (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (239713, 5, 'Ido Ohayon', 'Comedy with rather shallow humor.', null); 
+# 239713 Old Man Dogs (1997)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (235541, 10, 'Ido Ohayon', 'Heartfelt romantic drama about lasting love.', null);
+# 235541 The Notebook (2004)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (234147, 8, 'Ido Ohayon', 'Israeli drama exploring complex social issues.', null);
+# 234147 Nobel (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (233914, 9, 'Ido Ohayon', 'Emotional drama about love and sacrifice.', null);
+# 233914 No Regrets (2004)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (228919, 9, 'Ido Ohayon', 'Serious documentary on Nazi history.', null);
+# 228919 The Nazi (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (228917, 8, 'Ido Ohayon', 'Powerful drama about love in dark times.', null);
+# 228917 The Nazi Officer's Wife (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (222112, 9, 'Ido Ohayon', 'Classic animated adventure with a brave heroine.', null);
+# 222112 Mulan (1998)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (209715, 5, 'Ido Ohayon', 'Documentary focused on music that I couldn’t really connect with.', null); 
+# 209715 Meeting People Is Easy (1999)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (207106, 6, 'Ido Ohayon', 'Light and easy Israeli comedy.', null);
+# 207106 Mashehu Totali (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (205835, 8, 'Ido Ohayon', 'Interesting documentary about Marilyn Monroe’s end.', null);
+# 205835 Marilyn Monroe: Life After Death (1994)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (203344, 8, 'Ido Ohayon', 'Intense action thriller with strong emotions.', null);
+# 203344 Man on Fire (2004)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (195806, 7, 'Ido Ohayon', 'Sweet and touching romantic drama.', null);
+# 195806 Love Letter (1995)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (195141, 8, 'Ido Ohayon', 'Interesting documentary about jazz music legend.', null);
+# 195141 Louis Armstrong: Satchmo (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (194087, 7, 'Ido Ohayon', 'Classic martial arts action with Shaolin monks.', null);
+# 194087 Long zai Shaolin (1996)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (192252, 8, 'Ido Ohayon', 'Thoughtful drama exploring African heritage.', null);
+# 192252 Little Senegal (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) 
+values (186105, 6, 'Ido Ohayon', 'South African family drama with a storyline that moves too slowly.', null); 
+# 186105 Laundry (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (185570, 8, 'Ido Ohayon', 'Moving story about refugees and survival.', null);
+# 185570 Last Resort (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (184808, 8, 'Ido Ohayon', 'Emotional drama about family and music.', null);
+# 184808 Lara (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (176807, 7, 'Ido Ohayon', 'Romantic comedy about love and disability.', null);
+# 176807 Killer Diller (2004)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (167324, 8, 'Ido Ohayon', 'Gripping political thriller about JFK assassination.', null);
+# 167324 JFK (1991)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (159824, 8, 'Ido Ohayon', 'Powerful drama about fight for justice.', null);
+# 159824 Injustice (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (159133, 8, 'Ido Ohayon', 'Warm drama about friendship and new beginnings.', null);
+# 159133 Indian Summer (2001)	
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (155213, 9, 'Ido Ohayon', 'Funny animated adventure with lovable prehistoric friends.', null);
+# 155213 Ice Age (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (154791, 7, 'Ido Ohayon', 'Light romantic story about love and relationships.', null);
+# 154791 I Was Made to Love Her (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (149467, 8, 'Ido Ohayon', 'Emotional drama about struggle and hope.', null);
+# 149467 Hopeless (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (142331, 7, 'Ido Ohayon', 'Tense drama with high-stakes helicopter action.', null);
+# 142331 Helicopter (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (139540, 9, 'Ido Ohayon', 'Hilarious stoner comedy with wild adventures.', null);
+# 139540 Harold & Kumar Go to White Castle (2004)
+
+
+
+
+
+

@@ -1,0 +1,491 @@
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (379290, 7, 'gal_efal', 'Classic retro Batman animation, nostalgic charm', null);  # 379290 Adventures of Batman, The 1969
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (379327, 7, 'gal_efal', 'Classic adventure movie, heroic legend of Robin Hood', null);  # 379327 Adventures of Robin Hood, The 1955
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (379331, 8, 'gal_efal', 'Iconic detective story with strong performances', null);  # 379331 Adventures of Sherlock Holmes, The 1984
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (381392, 5, 'gal_efal', 'Not as good as the original Batman series', null);  # 381392 Batman Beyond 1999
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (397121, 9, 'gal_efal', 'Classic sci-fi action movie', null);  # 397121 Matrix 1993
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (406158, 8, 'gal_efal', 'Comic action, Spider-Man classic', null);  # 406158 Spider-Man 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (406411, 6, 'gal_efal', 'Decent Star Wars action, but less impressive', null);  # 406411 Star Wars: Clone Wars 2003
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (263, 8, 'gal_efal', 'Nice romantic comedy', null);  # 263 'Til There Was You 1997
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (644, 9, 'gal_efal', 'Nice teen romance, entertaining and funny', null);  # 644 10 Things I Hate About You 1999
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (849, 6, 'gal_efal', 'Disney animation sequel, not as good as the original', null);  # 849 101 Dalmatians II: Patch's London Adventure 2003
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (850, 5, 'gal_efal', 'Personally did not enjoy this sing-along version', null);  # 850 101 Dalmatians Sing Along 1996
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (1038, 9, 'gal_efal', 'Nice romantic comedy', null);  # 1038 13 Going On 30 2004
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (1046, 4, 'gal_efal', 'Average film, weak story', null);  # 1046 13 Moons 2002
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (1100, 4, 'gal_efal', 'Did not really enjoy this documentary, less engaging for me', null);  # 1100 14 Million Dreams 2003
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (11286, 5, 'gal_efal', 'Average drama', null);  # 11286 All In 2005
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (11507, 6, 'gal_efal', 'Drama anthology, socially conscious but heavy', null);  # 11507 All the Invisible Children 2006
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (13343, 6, 'gal_efal', 'Did not really like it, more theme park attraction than movie', null);  # 13343 Amazing Adventures of Spider-Man, The 1999
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (14132, 8, 'gal_efal', 'Funny teen comedy sequel', null);  # 14132 American Pie 2 2001
+
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (25192, 8, 'gal_efal', 'Biographical drama with Leonardo DiCaprio', null);  # 25192 Aviator, The 2004
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (29760, 5, 'gal_efal', 'Average Barbie animation, not my taste', null);  # 29760 Barbie Riding Club 1998
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30955, 8, 'gal_efal', 'Classic Batman movie', null);  # 30955 Batman 1989
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30951, 7, 'gal_efal', 'Comic action, nice Batman animation', null);  # 30951 Batman & Mr. Freeze: SubZero 1998
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30952, 6, 'gal_efal', 'Weak Batman movie', null);  # 30952 Batman & Robin 1997
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (304773, 9, 'gal_efal', 'Classic Disney animation', null);  # 304773 Sleeping Beauty
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30957, 4, 'gal_efal', 'Old Batman serial, outdated style', null);  # 30957 Batman and Robin 1949
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30959, 10, 'gal_efal', 'Christopher Nolan Batman reboot, very impressive', null);  # 30959 Batman Begins 2005
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30961, 8, 'gal_efal', 'nice comic action', null);  # 30961 Batman Beyond: Return of the Joker (2000/I) 2000
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30962, 7, 'gal_efal', 'Comic action, Batman in a new generation', null);  # 30962 Batman Beyond: The Movie 1999
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30965, 6, 'gal_efal', 'Comic action, less impressive Batman movie', null);  # 30965 Batman Forever 1995
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30967, 8, 'gal_efal', 'Batman sequel, very entertaining', null);  # 30967 Batman Returns 1992
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (206881, 9, 'gal_efal', 'Classic Disney musical, very charming', null);  #206881 Mary Poppins
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30970, 7, 'gal_efal', 'Batman and Superman animation, nice action', null);  # 30970 Batman/Superman Movie, The 1998 
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30972, 5, 'gal_efal', 'Batman animation, less known and not impressive', null);  # 30972 Batman: Dark Justice 2004
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30974, 4, 'gal_efal', 'Did not really like it, very short and weak', null);  # 30974 Batman: Dead End 2003
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (81205, 5, 'gal_efal', 'weak Batman story', null);  #81205 Death of Batman, The
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30976, 9, 'gal_efal', 'One of the best Batman animated films', null);  # 30976 Batman: Mask of the Phantasm 1993
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30977, 7, 'gal_efal', 'Comic action, Batwoman story', null);  # 30977 Batman: Mystery of the Batwoman 2003
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (253920, 8, 'gal_efal', 'Live action Peter Pan, magical adventure', null);  # 253920 Peter Pan
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (31256, 5, 'gal_efal', 'Less known war film, average quality', null);  # 31256 Battle Squad 1961
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (32178, 9, 'gal_efal', 'Classic Disney animation, very charming', null);  #32178 Beauty and the Beast
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (32707, 8, 'gal_efal', 'Impressive biopic, emotional story', null);  # 32707 Before Night Falls 2000
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (46878, 7, 'gal_efal', 'Romantic comedy sequel, less impressive than the first', null);  # 46878 Bridget Jones: The Edge of Reason 2004
+
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (56871, 9, 'gal_efal', 'Classical sophisticated drama, entertaining and smart', null);  # 56871 Catch Me If You Can 2002
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (59578, 7, 'gal_efal', 'entertaining but weaker than original', null);  # 59578 Charlie and the Chocolate Factory 2005
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (61751, 8, 'gal_efal', 'Sophisticated sci-fi movie, strong story', null);  # 61751 Children of Men, The 2005
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (63125, 5, 'gal_efal', 'Small indie drama, personally not my taste', null);  # 63125 Christmas Tree and a Wedding, A 2000
+
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (66194, 10, 'gal_efal', '90s teen movie, iconic and funny', null);  # 66194 Clueless 1995
+
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (70959, 7, 'gal_efal', 'Gothic animation, unique atmosphere', null);  # 70959 Corpse Bride, The 2005
+
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (85871, 8, 'gal_efal', '007 movie, vintage Bond style', null);  # 85871 Diamonds Are Forever 1971
+
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (97360, 8, 'gal_efal', 'Interesting biopic, strong performances', null);  # 97360 Ed Wood 1994
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (97727, 9, 'gal_efal', 'Dark romantic fairy tale, very unique', null);  # 97727 Edward Scissorhands 1990
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (46877, 8, 'gal_efal', 'Funny and sweet romantic comedy', null);  #46877 Bridget Jones Diary
+
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (102108, 4, 'gal_efal', 'Behind the scenes documentary not interesting', null);  # 102108 Epic at Sea: The Making of 'Pirates of the Caribbean: The Curse of the Black Pearl', An 2003
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (109421, 7, 'gal_efal', 'classic action film, start of a franchise', null);  # 109421 Fast and the Furious, The 2001
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (113459, 6, 'gal_efal', 'Courtroom drama Unusual Vin Diesel role', null);  # 113459 Find Me Guilty 2005
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (113506, 7, 'gal_efal', 'Emotional drama, story behind Peter Pan', null);  # 113506 Finding Neverland 2004
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159172, 8, 'gal_efal', 'Indiana Jones adventure, very entertaining', null);  #159172 Indiana Jones and the Last Crusade
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139650, 9, 'gal_efal', 'Harry Potter fantasy sequel, very entertaining', null);  # 139650 Harry Potter and the Chamber of Secrets 2002
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (362808, 9, 'gal_efal', 'Classic romantic comedy', null);  #362808 When Harry Met Sally
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139652, 9, 'gal_efal', 'Harry Potter fantasy sequel, very entertaining', null);  # 139652 Harry Potter and the Goblet of Fire 2005
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139653, 9, 'gal_efal', 'Harry Potter fantasy sequel, very entertaining', null);  # 139653 Harry Potter and the Half-Blood Prince 2008
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139654, 9, 'gal_efal', 'Fifth Harry Potter movie, very impressive', null);  # 139654 Harry Potter and the Order of the Phoenix 2007
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139655, 9, 'gal_efal', 'Magical fantasy, very entertaining', null);  # 139655 Harry Potter and the Prisoner of Azkaban 2004
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139657, 9, 'gal_efal', 'First Harry Potter movie, magical beginning', null);  # 139657 Harry Potter and the Sorcerer's Stone 2001
+
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (149287, 7, 'gal_efal', 'Colorful Peter Pan adaptation', null);  # 149287 Hook 1991
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (151616, 9, 'gal_efal', 'Romantic comedy, Kate Hudson and Matthew McConaughey', null);  # 151616 How to Lose a Guy in 10 Days 2003
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159167, 5, 'gal_efal', 'Weaker Indiana Jones movie', null);  # 159167 Indiana Jones 4 2006
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (170723, 8, 'gal_efal', 'Legendary Disney movie, family favorite', null);  #170723 Jungle Book The
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159175, 7, 'gal_efal', 'Indiana Jones adventure, darker sequel', null);  # 159175 Indiana Jones and the Temple of Doom 1984
+
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (162380, 8, 'gal_efal', 'Marvel superhero movie,very entertaining', null);  # 162380 Iron Man 2005
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (168725, 3, 'gal_efal', 'Less known film, weak and not my taste', null);  # 168725 Johnny Ostrich and His American Songbag 2002
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (168854, 4, 'gal_efal', 'Less known film, personally not impressive', null);  # 168854 Joker 2000
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (170721, 6, 'gal_efal', 'Disney sequel, not as good as the original', null);  # 170721 Jungle Book 2, The 2003
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176711, 9, 'gal_efal', 'Stylish action movie, very impressive', null);  # 176711 Kill Bill: Vol. 1 2003
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176712, 9, 'gal_efal', 'Stylish action sequel, very impressive', null);  # 176712 Kill Bill: Vol. 2 2004
+
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (185176, 4, 'gal_efal', 'Serious theme, less entertaining for me', null);  # 185176 Last Dance 2002
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188427, 6, 'gal_efal', 'Music documentary, Joe Strummer and The Clash', null);  # 188427 Let's Rock Again! 2004
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (190869, 9, 'gal_efal', 'Classic Disney film, Lilo and Stitch adventure', null);  # 190869 Lilo & Stitch 2002
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (199255, 9, 'gal_efal', 'Family animation very funny', null);  #199255 Madagascar
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10741, 8, 'gal_efal', 'Timeless story with iconic characters', null);  #10741 Alice in Wonderland
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (325098, 8, 'gal_efal', 'Disney animated adventure in the jungle', null);  #325098 Tarzan
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194497, 9, 'gal_efal', 'Epic fantasy, beginning of Lord of the Rings trilogy', null);  # 194497 Lord of the Rings: The Fellowship of the Ring, The 2001
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (191246, 9, 'gal_efal', 'Emotional, fun, and timeless family film', null);  #191246 Lion King The
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194499, 4, 'gal_efal', 'Behind the scenes documentary', null);  # 194499 Lord of the Rings: The Quest Fulfilled, The 2003
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194500, 10, 'gal_efal', 'Epic fantasy, Oscar-winning Lord of the Rings finale', null);  # 194500 Lord of the Rings: The Return of the King, The 2003
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (191244, 7, 'gal_efal', 'Family-friendly, less impactful than original', null);  #191244 Lion King II Simbas Pride The
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194502, 9, 'gal_efal', 'Epic fantasy, second Lord of the Rings movie', null);  # 194502 Lord of the Rings: The Two Towers, The 2002
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (258509, 7, 'gal_efal', 'Disney animated romance, historical setting', null);  #258509 Pocahontas
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (222112, 8, 'gal_efal', 'Disney animation, brave heroine in ancient China', null);  #222112 Mulan
+
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (200864, 7, 'gal_efal', 'Romantic comedy, Jennifer Lopez and Ralph Fiennes', null);  # 200864 Maid in Manhattan 2002
+
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (210739, 9, 'gal_efal', 'Classic 90s action comedy, very entertaining', null);  # 210739 Men in Black 1997
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (212104, 5, 'gal_efal', 'Average film, not my taste', null);  # 212104 Metropolitan 2001
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215875, 5, 'gal_efal', 'Average film, weak compared to 1996 original', null);  # 215875 Mission: Impossible 1991
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215876, 9, 'gal_efal', 'Spy action movie, Tom Cruise', null);  # 215876 Mission: Impossible 1996
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (337168, 9, 'gal_efal', 'Beloved animated family film', null);  #337168 Toy Story 2
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (264158, 9, 'gal_efal', 'Funny and sweet teen movie', null);  #264158 Princess Diaries The
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215879, 8, 'gal_efal', 'Mission: Impossible sequel, Tom Cruise action', null);  # 215879 Mission: Impossible II 2000
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215880, 9, 'gal_efal', 'Third Mission: Impossible film, great action', null);  # 215880 Mission: Impossible III 2006
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (264138, 5, 'gal_efal', 'Animated fairy tale, not very impressive', null);  #264138 Princess and the Pea
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (220276, 9, 'gal_efal', 'Musical drama, stylish and emotional', null);  # 220276 Moulin Rouge! 2001
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (220805, 8, 'gal_efal', 'Entertaining spy romance, very popular', null);  # 220805 Mr. and Mrs. Smith 2005
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (230963, 7, 'gal_efal', 'Classic musical romance, personally charming', null);  # 230963 New York, New York 1977
+
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (238072, 9, 'gal_efal', 'Classic heist movie, great cast', null);  # 238072 Ocean's Eleven 2001
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (238073, 7, 'gal_efal', 'Stylish crime sequel, less impressive than the first', null);  # 238073 Ocean's Twelve 2004
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (244421, 7, 'gal_efal', 'Drama with sensitive theme, charming but simple', null);  # 244421 Other Sister, The 1999
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (247849, 4, 'gal_efal', 'Did not really like it, weak and less known', null);  # 247849 Pantalones 2000
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256631, 8, 'gal_efal', 'Pirates adventure sequel, Johnny Depp as Jack Sparrow', null);  # 256631 Pirates of the Caribbean 2 2006
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256632, 9, 'gal_efal', 'Johnny Depp as Jack Sparrow, iconic role', null);  # 256632 Pirates of the Caribbean: The Curse of the Black Pearl 2003
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (258948, 6, 'gal_efal', 'Thriller with provocative theme, not very impressive', null);  # 258948 Poison Ivy 1992
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (263360, 10, 'gal_efal', 'Popular romantic comedy, iconic film', null);  # 263360 Pretty Woman 1990
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (264157, 8, 'gal_efal', 'Funny and sweet, less impressive than the first', null);  # 264157 Princess Diaries 2: Royal Engagement, The 2004
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (279751, 5, 'gal_efal', 'Vintage Robin Hood movie, weak compared to modern versions', null);  # 279751 Robin Hood, Jr. 1923
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280270, 9, 'gal_efal', 'Oscar-winning sports movie, very impressive', null);  # 280270 Rocky 1976
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280281, 7, 'gal_efal', 'Second Rocky movie, weaker than the first', null);  # 280281 Rocky II 1979
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280282, 6, 'gal_efal', 'Third Rocky movie, weaker sequel', null);  # 280282 Rocky III 1982
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280284, 6, 'gal_efal', 'Rocky continuation, fun but weaker', null);  # 280284 Rocky IV 1985
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280305, 5, 'gal_efal', 'Fifth Rocky movie, disappointing continuation', null);  # 280305 Rocky V 1990
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (9795, 9, 'gal_efal', 'Classic Disney animation, magical and fun', null);  #9795  Aladdin
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (283410, 8, 'gal_efal', 'Funny and sweet romcom, very entertaining', null);  # 283410 Runaway Bride 1999
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (290070, 10, 'gal_efal', 'Oscar-winning masterpiece, highly important', null);  # 290070 Schindler's List 1993
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300229, 9, 'gal_efal', 'Family animation, Oscar-winning film', null);  # 300229 Shrek 2001
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300230, 8, 'gal_efal', 'DreamWorks animation sequel, very entertaining', null);  # 300230 Shrek 2 2004
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300233, 4, 'gal_efal', 'Did not really like it, weak attraction', null);  # 300233 Shrek 4-D 2003
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (183549, 8, 'gal_efal', 'Classic Disney romance with dogs', null);  #183549 Lady and the Tramp
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311037, 9, 'gal_efal', 'Comic action, classic superhero origin', null);  # 311037 Spider-Man 2002
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311038, 9, 'gal_efal', 'Comic action, highly entertaining sequel', null);  # 311038 Spider-Man 2 2004
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311040, 7, 'gal_efal', 'Third Spider-Man movie, weaker than the first two', null);  # 311040 Spider-Man 3 2007
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (183550, 7, 'gal_efal', 'Sequel to classic Disney tale', null);  #183550 Lady and the Tramp II Scamps Adventure
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (95120, 7, 'gal_efal', 'Classic Disney animation, touching story', null);  #95120 Dumbo
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311601, 8, 'gal_efal', 'SpongeBob animation movie, very funny', null);  #311601 SpongeBob SquarePants Movie The
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312150, 8, 'gal_efal', 'Kids as secret agents, funny and charming', null);  # 312150 Spy Kids 2001
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312151, 7, 'gal_efal', 'Second Spy Kids movie, fun but weaker', null);  # 312151 Spy Kids 2: Island of Lost Dreams 2002
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312152, 6, 'gal_efal', 'Spy Kids sequel, 3-D effects but weak story', null);  # 312152 Spy Kids 3-D: Game Over 2003
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (28751, 8, 'gal_efal', 'Timeless family favorite, beautifully animated', null);  #28751 Bambi
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313474, 8, 'gal_efal', 'Star Wars prequel, visually impressive', null);  # 313474 Star Wars: Episode I - The Phantom Menace 1999
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256342, 7, 'gal_efal', 'Timeless, beautifully crafted family film', null);  #256342 Pinocchio
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313476, 6, 'gal_efal', 'Sci-fi fantasy, visually strong but weak story', null);  # 313476 Star Wars: Episode II - Attack of the Clones 2002
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313477, 9, 'gal_efal', 'Best of the Star Wars prequels, highly entertaining', null);  # 313477 Star Wars: Episode III - Revenge of the Sith 2005
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313478, 10, 'gal_efal', 'Best Star Wars movie, highly iconic', null);  # 313478 Star Wars: Episode V - The Empire Strikes Back 1980
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313479, 9, 'gal_efal', 'Epic Star Wars adventure, very entertaining', null);  # 313479 Star Wars: Episode VI - Return of the Jedi 1983
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (121616, 8, 'gal_efal', 'Light-hearted, entertaining family film', null);  #121616 Fun and Fancy Free
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (240001, 7, 'gal_efal', 'Musical adventure with a modern twist', null);  #240001 Oliver and Company
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (240015, 8, 'gal_efal', 'Silent film adaptation of Dickens’ novel', null);  #240015 Oliver Twist
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (155213, 8, 'gal_efal', 'Humorous and family-friendly', null);  #155213 Ice Age
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (47865, 8, 'gal_efal', 'Family-friendly, emotional journey', null);  #47865 Brother Bear
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (63208, 9, 'gal_efal', 'Magical adventure in a fantastical world', null);  #63208 Chronicles of Narnia The Lion the Witch  the Wardrobe The
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (325095, 8, 'gal_efal', 'Fun continuation of the jungle adventures', null);  #325095 Tarzan and Jane
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (54419, 7, 'gal_efal','Classic superhero action from the 40s', null);  #54419 Captain America
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (54421, 6, 'gal_efal', 'Struggles to capture the comic book charm', null);  #54421 Captain America1991
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (291220, 5, 'gal_efal', 'Early slasher with cheesy horror vibes', null);  #	291220	Scream (1985/I)	
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (291221, 7, 'gal_efal', 'Revitalized the teen horror genre', null);  #291221 Scream
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (319602, 8, 'gal_efal', 'The origin of Superman, iconic and heroic', null);  # 319602 Superman 1978
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (319613, 8, 'gal_efal', 'Classic superhero continuation, entertaining', null);  # 319613 Superman II 1980
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (326384, 7, 'gal_efal', 'Short film, charming and easygoing', null);  # 326384 Tea with Tiffany 2003
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (333856, 9, 'gal_efal', 'Iconic historical romance, emotionally engaging', null);  # 333856 Titanic 1997
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (333849, 4, 'gal_efal', 'Silent drama about the Titanic sinking', null);  # 333849 Titanic 1915
+
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (335592, 4, 'gal_efal', 'Melodramatic story, not widely known', null);  # 335592 Too Good to Be True (1997/I) 1997
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (335835, 7, 'gal_efal', 'High-flying drama, iconic soundtrack', null);  # 335835 Top Gun 1986
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (337166, 9, 'gal_efal', 'Toy adventures, heartwarming and fun', null);  # 337166 Toy Story 1995
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (340271, 5, 'gal_efal', 'Documentary-style satire on film industry', null);  # 340271 Trollywood 2004
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (340652, 8, 'gal_efal', 'Historical drama with strong cast', null);  # 340652 Troy 2004
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (350176, 4, 'gal_efal', 'Gothic horror with vampire themes', null);  # 350176 Vampire Brides 1994
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (350424, 7, 'gal_efal', 'Psychological romance, starring Tom Cruise', null);  # 350424 Vanilla Sky 2001
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (359297, 7, 'gal_efal', 'Sci-fi thriller, Spielberg-directed', null);  # 359297 War of the Worlds 2005
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (363902, 5, 'gal_efal', 'Explores social inequality and whiteness', null);  # 363902 White Like Me 2004
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (366967, 5, 'gal_efal', 'Intimate drama about relationships', null);  # 366967 Without You (1999/I) 1999
+
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (372733, 7, 'gal_efal', 'Mystery and early detective skills', null);  # 372733 Young Sherlock Holmes 1985
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (880, 7, 'gal_efal', 'Colorful and fun sequel', null);  #880 102 Dalmatians
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (881, 8, 'gal_efal', 'Light-hearted family entertainment', null);  #881 102 Dalmatians: Puppies to the Rescue
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (130128, 10, 'gal_efal', 'Masterpiece of American cinema', null);  #130128 Godfather The
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (130129, 9, 'gal_efal', 'Epic mafia sequel, deepening the Corleone saga', null); # 130129 Godfather: Part II The
+
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (130130, 8, 'gal_efal', 'Michael Corleones final chapter', null); #130130 Godfather: Part III The
+
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (117874, 9, 'gal_efal', 'Life-spanning drama with humor and emotion', null); #117874 Forrest Gump
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (112290, 8, 'gal_efal', 'Psychological drama with dark humor', null); #112290 Fight Club
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (131780, 10, 'gal_efal', 'Crime saga with iconic performances', null); #131780 Goodfellas
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (289109, 10, 'gal_efal', 'emotionally powerful war drama', null); #289109 Saving Private Ryan
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (146778, 8, 'gal_efal', 'Romantic comedy with Will Smith', null); #146778 Hitch
+
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (26844, 8, 'gal_efal', 'Classic sci-fi comedy about time travel', null); #26844 Back to the Future
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (26846, 8, 'gal_efal', 'Sequel with time-travel to the future', null); #26846 Back to the Future Part II
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (26847, 8, 'gal_efal', 'Final Back to the Future installment, Wild West setting', null); #26847 Back to the Future Part III
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (129185, 8, 'gal_efal', 'Action-packed, emotionally engaging', null); #129185 Gladiator
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (201794, 7, 'gal_efal', 'Behind-the-scenes of The Lion King', null); #201794 Making ofThe Lion King 
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (289558, 9, 'gal_efal', 'Stylish, violent, iconic 80s film', null); #289558 Scarface
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (86274, 9, 'gal_efal', 'Classic action, Bruce Willis stars', null); #86274 Die Hard
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (56304, 9, 'gal_efal', 'Stylish, intense, dramatic storytelling', null); #56304 Casino
+
+ 
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (160490, 8, 'gal_efal', 'Academia, mental health, compelling narrative', null); #160490 Inside: A Beautiful Mind
+
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (113504, 9, 'gal_efal', 'Funny, colorful, and visually stunning', null); #113504 Finding Nemo
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (113505, 9, 'gal_efal', 'Pixar animated underwater adventure', null); #113505 Finding Nemo (2003/II)
+
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (218415, 9, 'gal_efal', 'Heartwarming and entertaining for all ages', null); #218415 Monsters, Inc.
+
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (55727, 8, 'gal_efal', 'Fun for kids, colorful and lively', null); #55727 Cars
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (91223, 6, 'gal_efal', 'Classic story of Dorothy’s return to Oz', null); #91223 Dorothy & the Wizard in Oz
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (119358, 7, 'gal_efal', 'Comedy about mother-daughter body swap', null); #119358 Freaky Friday
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (192017, 8, 'gal_efal', 'Iconic songs and magical animation', null); #192017 Little Mermaid, The
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (192014, 7, 'gal_efal', 'Continuation of the original story', null); #192014 Little Mermaid II: Return to the Sea, The
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (306283, 9, 'gal_efal', 'Classic fairy tale, timeless appeal', null); #306283 Snow White and the Seven Dwarfs
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (64069, 8, 'gal_efal', 'Charming animation, family favorite', null); #64069 Cinderella
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (304773, 8, 'gal_efal', 'Beautiful animation, timeless charm', null); #304773 Sleeping Beauty
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (227470, 8, 'gal_efal', 'Family fantasy with magical nanny', null); #227470 Nanny McPhee
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (60163, 7, 'gal_efal', 'Funny, chaotic, heartwarming', null); #60163 Cheaper by the Dozen
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (163363, 7, 'gal_efal', 'Classic mid-90s feel-good movie', null); #163363 It Takes Two
+
