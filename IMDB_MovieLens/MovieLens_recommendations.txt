@@ -1,0 +1,85 @@
+# Rating distribution
+Select rating, count(*) as cnt  
+from imdb_movielens.u2base
+group by rating
+order by rating
+;
+
+# Ratings per movie
+DROP TABLE IF EXISTS imdb_movielens.rating_per_movie;
+
+create table
+imdb_movielens.rating_per_movie
+as
+select movieid, count(*) as ratings_num  
+from imdb_movielens.u2base
+group by movieid
+order by movieid
+;
+
+# Rating per movie distribution
+select
+ratings_num
+, count(*) as movies
+from
+imdb_movielens.rating_per_movie
+group by ratings_num
+order by ratings_num
+;
+
+DROP TABLE IF EXISTS imdb_movielens.u2base_high;
+
+create table
+imdb_movielens.u2base_high
+as
+select u.*  
+from imdb_movielens.u2base as u
+join
+imdb_movielens.rating_per_movie as rpm
+on
+u.moveid = rpm.movieid
+where
+ratings_num >= 500
+;
+
+
+DROP TABLE IF EXISTS imdb_movielens.u2base_high;
+
+create table
+imdb_movielens.u2base_high
+as
+select u.*  
+from imdb_movielens.u2base as u
+join
+imdb_movielens.rating_per_movie as rpm
+on
+u.movieid = rpm.movieid
+where
+ratings_num >= 500
+;
+
+# Movies rating by the same user
+DROP TABLE IF EXISTS imdb_movielens.joint_rating;
+
+create table
+imdb_movielens.joint_rating
+as
+select
+f.movieid as fmovieid
+, s.movieid as smovieid
+, count(*) as joint_ratings
+, avg(f.rating) as favg_rating
+, avg(if(f.rating >=4,1,0)) as fhigh_rating
+, avg(s.rating) as savg_rating
+, avg(if(s.rating >=4,1,0)) as shigh_rating
+from imdb_movielens.u2base_high as f
+join
+imdb_movielens.u2base_high as s
+on
+f.movieid = s.movieid
+group by
+f.movieid
+, s.movieid
+having
+count(*) >= 50 
+;
