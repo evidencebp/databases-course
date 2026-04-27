@@ -116,3 +116,24 @@ order by
 ;
 
 
+# We can nest group by statements, getting grouping and aggregations on groupd data.
+select
+animals
+, count(distinct `Animal Group`) as animals_groups_of_that_size
+, group_concat(`Animal Group` order by `Animal Group`) as animals_groups_of_that_size_names
+from
+(
+select
+`Animal Group`
+, count(*) as animals
+from
+animals
+group by
+`Animal Group`
+) as inSql
+group by
+animals
+order by
+animals
+;
+
