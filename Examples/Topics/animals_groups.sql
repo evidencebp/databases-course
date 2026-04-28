@@ -2,12 +2,14 @@
 select *
 from
 animals
+order by `Animal Group`
 ;
 
 
 # Computing aggregations on groups of animals
 select
 `Animal Group`
+, group_concat(`Animal Name` order by `Animal Name`) as names
 , count(*) as animals
 , count(distinct `Animal Group`) as animal_groups
 , count(distinct Habitat) as habitats
@@ -57,6 +59,7 @@ order by
 # You can choose to group by any of the columns
 select
 Habitat
+, group_concat(`Animal Name` order by `Animal Name`) as names
 , count(*) as animals
 , count(distinct `Animal Group`) as animal_groups
 , count(distinct Habitat) as habitats
@@ -75,6 +78,7 @@ Habitat
 select
 `Animal Group`
 , Habitat
+, group_concat(`Animal Name` order by `Animal Name`) as names
 , count(*) as animals
 , count(distinct `Animal Group`) as animal_groups
 , count(distinct Habitat) as habitats
@@ -99,6 +103,7 @@ order by
 # Computing aggregations on groups of animals
 select
 `Animal Group`
+, group_concat(`Animal Name` order by `Animal Name`) as names
 , count(*) as animals
 , count(distinct `Animal Group`) as animal_groups
 , count(distinct Habitat) as habitats
@@ -114,7 +119,6 @@ count(*) > 1 # Selecting only groups with more than one animala
 order by
 `Animal Group`
 ;
-
 
 # We can nest group by statements, getting grouping and aggregations on groupd data.
 select
@@ -136,4 +140,6 @@ animals
 order by
 animals
 ;
+
+
 
