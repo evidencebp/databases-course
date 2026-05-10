@@ -1,0 +1,1822 @@
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(30967  -- Batman Returns
+, 30976  -- Batman: Mask of the Phantasm
+, 8
+, 'Omer Ben Aderet'
+, 'We recommend the next Batman-related film'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(30976  -- Batman: Mask of the Phantasm
+, 30965  -- Batman Forever
+, 8
+, 'Omer Ben Aderet'
+, 'We recommend the next Batman-related film'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(30965  -- Batman Forever
+, 30952  -- Batman & Robin
+, 8
+, 'Omer Ben Aderet'
+, 'We recommend the next Batman-related film'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(30952  -- Batman & Robin
+, 30951  -- Batman & Mr. Freeze: SubZero
+, 8
+, 'Omer Ben Aderet'
+, 'We recommend the next Batman-related film'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(30951  -- Batman & Mr. Freeze: SubZero
+, 30970  -- Batman/Superman Movie
+, 8
+, 'Omer Ben Aderet'
+, 'We recommend the next Batman-related film'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(30970  -- Batman/Superman Movie
+, 30962  -- Batman Beyond: The Movie
+, 8
+, 'Omer Ben Aderet'
+, 'We recommend the next Batman-related film'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(30962  -- Batman Beyond: The Movie
+, 30961  -- Batman Beyond: Return of the Joker
+, 8
+, 'Omer Ben Aderet'
+, 'We recommend the next Batman-related film'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(30961  -- Batman Beyond: Return of the Joker
+, 30977  -- Batman: Mystery of the Batwoman
+, 8
+, 'Omer Ben Aderet'
+, 'We recommend the next Batman-related film'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(30977  -- Batman: Mystery of the Batwoman
+, 30959  -- Batman Begins
+, 8
+, 'Omer Ben Aderet'
+, 'We recommend the next Batman-related film'
+, NULL
+);
+
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(291698  -- Se7en
+, 112290  -- Fight Club
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(291698  -- Se7en
+, 306032  -- Snatch
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(291698  -- Se7en
+, 238072  -- Ocean's Eleven
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(291698  -- Se7en
+, 340652  -- Troy
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(291698  -- Se7en
+, 238073  -- Ocean's Twelve
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(291698  -- Se7en
+, 220805  -- Mr. and Mrs. Smith
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(112290  -- Fight Club
+, 291698  -- Se7en
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(112290  -- Fight Club
+, 306032  -- Snatch
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(112290  -- Fight Club
+, 238072  -- Ocean's Eleven
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(112290  -- Fight Club
+, 340652  -- Troy
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(112290  -- Fight Club
+, 238073  -- Ocean's Twelve
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(112290  -- Fight Club
+, 220805  -- Mr. and Mrs. Smith
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(306032  -- Snatch
+, 291698  -- Se7en
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(306032  -- Snatch
+, 112290  -- Fight Club
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(306032  -- Snatch
+, 238072  -- Ocean's Eleven
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(306032  -- Snatch
+, 340652  -- Troy
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(306032  -- Snatch
+, 238073  -- Ocean's Twelve
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(306032  -- Snatch
+, 220805  -- Mr. and Mrs. Smith
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(238072  -- Ocean's Eleven
+, 291698  -- Se7en
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(238072  -- Ocean's Eleven
+, 112290  -- Fight Club
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(238072  -- Ocean's Eleven
+, 306032  -- Snatch
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(238072  -- Ocean's Eleven
+, 340652  -- Troy
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(238072  -- Ocean's Eleven
+, 238073  -- Ocean's Twelve
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(238072  -- Ocean's Eleven
+, 220805  -- Mr. and Mrs. Smith
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(340652  -- Troy
+, 291698  -- Se7en
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(340652  -- Troy
+, 112290  -- Fight Club
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(340652  -- Troy
+, 306032  -- Snatch
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(340652  -- Troy
+, 238072  -- Ocean's Eleven
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(340652  -- Troy
+, 238073  -- Ocean's Twelve
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(340652  -- Troy
+, 220805  -- Mr. and Mrs. Smith
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(238073  -- Ocean's Twelve
+, 291698  -- Se7en
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(238073  -- Ocean's Twelve
+, 112290  -- Fight Club
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(238073  -- Ocean's Twelve
+, 306032  -- Snatch
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(238073  -- Ocean's Twelve
+, 238072  -- Ocean's Eleven
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(238073  -- Ocean's Twelve
+, 340652  -- Troy
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(238073  -- Ocean's Twelve
+, 220805  -- Mr. and Mrs. Smith
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(220805  -- Mr. and Mrs. Smith
+, 291698  -- Se7en
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(220805  -- Mr. and Mrs. Smith
+, 112290  -- Fight Club
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(220805  -- Mr. and Mrs. Smith
+, 306032  -- Snatch
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(220805  -- Mr. and Mrs. Smith
+, 238072  -- Ocean's Eleven
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(220805  -- Mr. and Mrs. Smith
+, 340652  -- Troy
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(220805  -- Mr. and Mrs. Smith
+, 238073  -- Ocean's Twelve
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Brad Pitt'
+, 'Fans of Brad Pitt often enjoy other films he appears in'
+);
+
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(333856  -- Titanic
+, 56871  -- Catch Me If You Can
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Leonardo DiCaprio'
+, 'Fans of DiCaprio tend to enjoy other films he stars in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(56871  -- Catch Me If You Can
+, 333856  -- Titanic
+, 8
+, 'Omer Ben Aderet'
+, 'Both star Leonardo DiCaprio'
+, 'Fans of DiCaprio tend to enjoy other films he stars in'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(214755  -- Minority Report
+, 99633  -- Elysium
+, 7
+, 'Omer Ben Aderet'
+, 'Both are sci-fi movies'
+, 'Sci-Fi is very niche, so someone who enjoys one film in the genre will likely enjoy others.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(214755  -- Minority Report
+, 61751  -- Children of Men
+, 7
+, 'Omer Ben Aderet'
+, 'Both are sci-fi movies'
+, 'Sci-Fi is very niche, so someone who enjoys one film in the genre will likely enjoy others.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(99633  -- Elysium
+, 214755  -- Minority Report
+, 7
+, 'Omer Ben Aderet'
+, 'Both are sci-fi movies'
+, 'Sci-Fi is very niche, so someone who enjoys one film in the genre will likely enjoy others.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(99633  -- Elysium
+, 61751  -- Children of Men
+, 7
+, 'Omer Ben Aderet'
+, 'Both are sci-fi movies'
+, 'Sci-Fi is very niche, so someone who enjoys one film in the genre will likely enjoy others.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(61751  -- Children of Men
+, 214755  -- Minority Report
+, 7
+, 'Omer Ben Aderet'
+, 'Both are sci-fi movies'
+, 'Sci-Fi is very niche, so someone who enjoys one film in the genre will likely enjoy others.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(61751  -- Children of Men
+, 99633  -- Elysium
+, 7
+, 'Omer Ben Aderet'
+, 'Both are sci-fi movies'
+, 'Sci-Fi is very niche, so someone who enjoys one film in the genre will likely enjoy others.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(118367  -- Four Rooms
+, 159665  -- Inglorious Bastards
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(118367  -- Four Rooms
+, 164572  -- Jackie Brown
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(118367  -- Four Rooms
+, 176711  -- Kill Bill 1
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(118367  -- Four Rooms
+, 176712  -- Kill Bill 2
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(118367  -- Four Rooms
+, 267038  -- Pulp Fiction
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(118367  -- Four Rooms
+, 276217  -- Reservoir Dogs
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(159665  -- Inglorious Bastards
+, 118367  -- Four Rooms
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(159665  -- Inglorious Bastards
+, 164572  -- Jackie Brown
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(159665  -- Inglorious Bastards
+, 176711  -- Kill Bill 1
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(159665  -- Inglorious Bastards
+, 176712  -- Kill Bill 2
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(159665  -- Inglorious Bastards
+, 267038  -- Pulp Fiction
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(159665  -- Inglorious Bastards
+, 276217  -- Reservoir Dogs
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(164572  -- Jackie Brown
+, 118367  -- Four Rooms
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(164572  -- Jackie Brown
+, 159665  -- Inglorious Bastards
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(164572  -- Jackie Brown
+, 176711  -- Kill Bill 1
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(164572  -- Jackie Brown
+, 176712  -- Kill Bill 2
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(164572  -- Jackie Brown
+, 267038  -- Pulp Fiction
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(164572  -- Jackie Brown
+, 276217  -- Reservoir Dogs
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(176711  -- Kill Bill 1
+, 118367  -- Four Rooms
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(176711  -- Kill Bill 1
+, 159665  -- Inglorious Bastards
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(176711  -- Kill Bill 1
+, 164572  -- Jackie Brown
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(176711  -- Kill Bill 1
+, 176712  -- Kill Bill 2
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(176711  -- Kill Bill 1
+, 267038  -- Pulp Fiction
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(176711  -- Kill Bill 1
+, 276217  -- Reservoir Dogs
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(176712  -- Kill Bill 2
+, 118367  -- Four Rooms
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(176712  -- Kill Bill 2
+, 159665  -- Inglorious Bastards
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(176712  -- Kill Bill 2
+, 164572  -- Jackie Brown
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(176712  -- Kill Bill 2
+, 176711  -- Kill Bill 1
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(176712  -- Kill Bill 2
+, 267038  -- Pulp Fiction
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(176712  -- Kill Bill 2
+, 276217  -- Reservoir Dogs
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(267038  -- Pulp Fiction
+, 118367  -- Four Rooms
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(267038  -- Pulp Fiction
+, 159665  -- Inglorious Bastards
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(267038  -- Pulp Fiction
+, 164572  -- Jackie Brown
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(267038  -- Pulp Fiction
+, 176711  -- Kill Bill 1
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(267038  -- Pulp Fiction
+, 176712  -- Kill Bill 2
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(267038  -- Pulp Fiction
+, 276217  -- Reservoir Dogs
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(276217  -- Reservoir Dogs
+, 118367  -- Four Rooms
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(276217  -- Reservoir Dogs
+, 159665  -- Inglorious Bastards
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(276217  -- Reservoir Dogs
+, 164572  -- Jackie Brown
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(276217  -- Reservoir Dogs
+, 176711  -- Kill Bill 1
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(276217  -- Reservoir Dogs
+, 176712  -- Kill Bill 2
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(276217  -- Reservoir Dogs
+, 267038  -- Pulp Fiction
+, 7
+, 'Omer Ben Aderet'
+, 'Both are Quentin Tarantino movies'
+, 'Quentin Tarantino is known for his unique style, so people who enjoy one of his films will likely enjoy another.'
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(337409  -- Traffic Crossing Leeds Bridge
+, 139653  -- Harry Potter and the Half-Blood Prince
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(139653  -- Harry Potter and the Half-Blood Prince
+, 337409  -- Traffic Crossing Leeds Bridge
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(337409  -- Traffic Crossing Leeds Bridge
+, 139654  -- Harry Potter and the Order of the Phoenix
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(139654  -- Harry Potter and the Order of the Phoenix
+, 337409  -- Traffic Crossing Leeds Bridge
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(337409  -- Traffic Crossing Leeds Bridge
+, 359289  -- War of the Red Cliff, The
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(359289  -- War of the Red Cliff, The
+, 337409  -- Traffic Crossing Leeds Bridge
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(337409  -- Traffic Crossing Leeds Bridge
+, 347931  -- Untitled Star Trek Prequel
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(347931  -- Untitled Star Trek Prequel
+, 337409  -- Traffic Crossing Leeds Bridge
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(337409  -- Traffic Crossing Leeds Bridge
+, 92850  -- DragonBall Z
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(92850  -- DragonBall Z
+, 337409  -- Traffic Crossing Leeds Bridge
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(282455  -- Roundhay Garden Scene
+, 139653  -- Harry Potter and the Half-Blood Prince
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(139653  -- Harry Potter and the Half-Blood Prince
+, 282455  -- Roundhay Garden Scene
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(282455  -- Roundhay Garden Scene
+, 139654  -- Harry Potter and the Order of the Phoenix
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(139654  -- Harry Potter and the Order of the Phoenix
+, 282455  -- Roundhay Garden Scene
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(282455  -- Roundhay Garden Scene
+, 359289  -- War of the Red Cliff, The
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(359289  -- War of the Red Cliff, The
+, 282455  -- Roundhay Garden Scene
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(282455  -- Roundhay Garden Scene
+, 347931  -- Untitled Star Trek Prequel
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(347931  -- Untitled Star Trek Prequel
+, 282455  -- Roundhay Garden Scene
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(282455  -- Roundhay Garden Scene
+, 92850  -- DragonBall Z
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(92850  -- DragonBall Z
+, 282455  -- Roundhay Garden Scene
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(218186  -- Monkeyshines, No. 1
+, 139653  -- Harry Potter and the Half-Blood Prince
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(139653  -- Harry Potter and the Half-Blood Prince
+, 218186  -- Monkeyshines, No. 1
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(218186  -- Monkeyshines, No. 1
+, 139654  -- Harry Potter and the Order of the Phoenix
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(139654  -- Harry Potter and the Order of the Phoenix
+, 218186  -- Monkeyshines, No. 1
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(218186  -- Monkeyshines, No. 1
+, 359289  -- War of the Red Cliff, The
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(359289  -- War of the Red Cliff, The
+, 218186  -- Monkeyshines, No. 1
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(218186  -- Monkeyshines, No. 1
+, 347931  -- Untitled Star Trek Prequel
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(347931  -- Untitled Star Trek Prequel
+, 218186  -- Monkeyshines, No. 1
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(218186  -- Monkeyshines, No. 1
+, 92850  -- DragonBall Z
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(92850  -- DragonBall Z
+, 218186  -- Monkeyshines, No. 1
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(218187  -- Monkeyshines, No. 2
+, 139653  -- Harry Potter and the Half-Blood Prince
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(139653  -- Harry Potter and the Half-Blood Prince
+, 218187  -- Monkeyshines, No. 2
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(218187  -- Monkeyshines, No. 2
+, 139654  -- Harry Potter and the Order of the Phoenix
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(139654  -- Harry Potter and the Order of the Phoenix
+, 218187  -- Monkeyshines, No. 2
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(218187  -- Monkeyshines, No. 2
+, 359289  -- War of the Red Cliff, The
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(359289  -- War of the Red Cliff, The
+, 218187  -- Monkeyshines, No. 2
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(218187  -- Monkeyshines, No. 2
+, 347931  -- Untitled Star Trek Prequel
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(347931  -- Untitled Star Trek Prequel
+, 218187  -- Monkeyshines, No. 2
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(218187  -- Monkeyshines, No. 2
+, 92850  -- DragonBall Z
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(92850  -- DragonBall Z
+, 218187  -- Monkeyshines, No. 2
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(218188  -- Monkeyshines, No. 3
+, 139653  -- Harry Potter and the Half-Blood Prince
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(139653  -- Harry Potter and the Half-Blood Prince
+, 218188  -- Monkeyshines, No. 3
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(218188  -- Monkeyshines, No. 3
+, 139654  -- Harry Potter and the Order of the Phoenix
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(139654  -- Harry Potter and the Order of the Phoenix
+, 218188  -- Monkeyshines, No. 3
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(218188  -- Monkeyshines, No. 3
+, 359289  -- War of the Red Cliff, The
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(359289  -- War of the Red Cliff, The
+, 218188  -- Monkeyshines, No. 3
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(218188  -- Monkeyshines, No. 3
+, 347931  -- Untitled Star Trek Prequel
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(347931  -- Untitled Star Trek Prequel
+, 218188  -- Monkeyshines, No. 3
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(218188  -- Monkeyshines, No. 3
+, 92850  -- DragonBall Z
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(92850  -- DragonBall Z
+, 218188  -- Monkeyshines, No. 3
+, 2
+, 'Omer Ben Aderet'
+, 'Extreme difference in time periods'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(301642  -- Silent Hill
+, 319579  -- Superhero!
+, 2
+, 'Omer Ben Aderet'
+, 'Genres are completely mismatched'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(319579  -- Superhero!
+, 301642  -- Silent Hill
+, 2
+, 'Omer Ben Aderet'
+, 'Genres are completely mismatched'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(301642  -- Silent Hill
+, 48075  -- Bruce Almighty
+, 2
+, 'Omer Ben Aderet'
+, 'Genres are completely mismatched'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(48075  -- Bruce Almighty
+, 301642  -- Silent Hill
+, 2
+, 'Omer Ben Aderet'
+, 'Genres are completely mismatched'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(55626  -- Carrie
+, 319579  -- Superhero!
+, 2
+, 'Omer Ben Aderet'
+, 'Genres are completely mismatched'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(319579  -- Superhero!
+, 55626  -- Carrie
+, 2
+, 'Omer Ben Aderet'
+, 'Genres are completely mismatched'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(55626  -- Carrie
+, 48075  -- Bruce Almighty
+, 2
+, 'Omer Ben Aderet'
+, 'Genres are completely mismatched'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(48075  -- Bruce Almighty
+, 55626  -- Carrie
+, 2
+, 'Omer Ben Aderet'
+, 'Genres are completely mismatched'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(301641  -- Silent Hill
+, 319579  -- Superhero!
+, 2
+, 'Omer Ben Aderet'
+, 'Genres are completely mismatched'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(319579  -- Superhero!
+, 301641  -- Silent Hill
+, 2
+, 'Omer Ben Aderet'
+, 'Genres are completely mismatched'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(301641  -- Silent Hill
+, 48075  -- Bruce Almighty
+, 2
+, 'Omer Ben Aderet'
+, 'Genres are completely mismatched'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(48075  -- Bruce Almighty
+, 301641  -- Silent Hill
+, 2
+, 'Omer Ben Aderet'
+, 'Genres are completely mismatched'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(105034  -- Event Horizon
+, 319579  -- Superhero!
+, 2
+, 'Omer Ben Aderet'
+, 'Genres are completely mismatched'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(319579  -- Superhero!
+, 105034  -- Event Horizon
+, 2
+, 'Omer Ben Aderet'
+, 'Genres are completely mismatched'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(105034  -- Event Horizon
+, 48075  -- Bruce Almighty
+, 2
+, 'Omer Ben Aderet'
+, 'Genres are completely mismatched'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(48075  -- Bruce Almighty
+, 105034  -- Event Horizon
+, 2
+, 'Omer Ben Aderet'
+, 'Genres are completely mismatched'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(142616  -- Hellraiser
+, 319579  -- Superhero!
+, 2
+, 'Omer Ben Aderet'
+, 'Genres are completely mismatched'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(319579  -- Superhero!
+, 142616  -- Hellraiser
+, 2
+, 'Omer Ben Aderet'
+, 'Genres are completely mismatched'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(142616  -- Hellraiser
+, 48075  -- Bruce Almighty
+, 2
+, 'Omer Ben Aderet'
+, 'Genres are completely mismatched'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(48075  -- Bruce Almighty
+, 142616  -- Hellraiser
+, 2
+, 'Omer Ben Aderet'
+, 'Genres are completely mismatched'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(259826  -- Poltergeist
+, 319579  -- Superhero!
+, 2
+, 'Omer Ben Aderet'
+, 'Genres are completely mismatched'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(319579  -- Superhero!
+, 259826  -- Poltergeist
+, 2
+, 'Omer Ben Aderet'
+, 'Genres are completely mismatched'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(259826  -- Poltergeist
+, 48075  -- Bruce Almighty
+, 2
+, 'Omer Ben Aderet'
+, 'Genres are completely mismatched'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(48075  -- Bruce Almighty
+, 259826  -- Poltergeist
+, 2
+, 'Omer Ben Aderet'
+, 'Genres are completely mismatched'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1750  -- 2009 Lost Memories
+, 194697  -- Lost
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2438  -- 4 Freunde und 4 Pfoten
+, 120044  -- Freunde
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(3085  -- 7th Street
+, 361588  -- West 47th Street
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(6382  -- Adieu
+, 6407  -- Adieu pays
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(7615  -- Afraid of Everything
+, 271053  -- Raid
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(7833  -- After Freedom
+, 119466  -- Free
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(7986  -- AfterLife
+, 7987  -- AfterLife
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(8904  -- Aiki
+, 358253  -- Waikiki Brothers
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(10559  -- Alias
+, 10614  -- Alias: The Lost Episode
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(10614  -- Alias: The Lost Episode
+, 194697  -- Lost
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(10675  -- Alice
+, 10800  -- Alice's Misadventures in Wonderland
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(10675  -- Alice
+, 11716  -- Alla lskar Alice
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(10675  -- Alice
+, 138063  -- Hana to Alice
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(10675  -- Alice
+, 362133  -- What Alice Found
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(10800  -- Alice's Misadventures in Wonderland
+, 367960  -- Wonder
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(11129  -- All Access: Front Row. Backstage. Live!
+, 312761  -- Stag
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(11171  -- All Babes Want to Kill Me
+, 359072  -- Want
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(11281  -- All I Want for Christmas
+, 359072  -- Want
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(12225  -- Almost Guys, The
+, 136298  -- Guys, The
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(12225  -- Almost Guys, The
+, 219753  -- Most
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(12248  -- Almost Salinas
+, 219753  -- Most
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(12332  -- Along Came a Spider
+, 310998  -- Spider
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(12413  -- Alphaville, Live In America
+, 157499  -- In America
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(13497  -- Amber
+, 139650  -- Harry Potter and the Chamber of Secrets
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(13497  -- Amber
+, 357827  -- Vlo de Ghislain Lambert, Le
+, 2
+, 'Omer Ben Aderet'
+, 'Despite similar titles, these movies are unrelated in style or content'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(34319  -- Superman III
+, 112290  -- Shrek Forever After
+, 1
+, 'Omer Ben Aderet'
+, 'Completely unrelated genres and audiences'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(84427  -- The Ring
+, 116797  -- The Hangover
+, 1
+, 'Omer Ben Aderet'
+, 'Combining horror and comedy usually doesn’t make sense in recommendations'
+, NULL
+);
+

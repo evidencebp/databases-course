@@ -1,0 +1,1654 @@
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(311037  -- Spider-Man (2002)
+, 311038  -- Spider-Man 2 (2004)
+, 9
+, 'Gal Efal'
+, 'Recommended the sequel Spider-Man 2'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(311038  -- Spider-Man 2 (2004)
+, 311040  -- Spider-Man 3 (2007)
+, 8
+, 'Gal Efal'
+, 'Recommended the next movie in the Spider-Man trilogy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(311036  -- Spider-Man (2000)
+, 311037  -- Spider-Man (2002)
+, 8
+, 'Gal Efal'
+, 'Recommended the 2002 remake after older version'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(13343  -- Amazing Adventures of Spider-Man The (1999)
+, 311037  -- Spider-Man (2002)
+, 7
+, 'Gal Efal'
+, 'Recommended the blockbuster Spider-Man 2002'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+( 118367-- 	Four Rooms
+,  164572  -- Jackie Brown
+, 8
+, 'Gal Efal'
+, 'SAME DIERCTOR'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+( 267038 -- 	Pulp Fiction
+, 276217   -- Reservoir Dogs
+, 8
+, 'Gal Efal'
+, 'SAME DIERCTOR'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(406154  -- Spider-Man Unlimited (1999)
+, 311037  -- Spider-Man (2002)
+, 6
+, 'Gal Efal'
+, 'Recommended from animated version to movie'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(139657  -- Harry Potter and the Sorcerer's Stone (2001)
+, 139650  -- Harry Potter and the Chamber of Secrets (2002)
+, 9
+, 'Gal Efal'
+, 'Chronological Harry Potter series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(139650  -- Harry Potter and the Chamber of Secrets (2002)
+, 139655  -- Harry Potter and the Prisoner of Azkaban (2004)
+, 9
+, 'Gal Efal'
+, 'Chronological Harry Potter series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(139655  -- Harry Potter and the Prisoner of Azkaban (2004)
+, 139652  -- Harry Potter and the Goblet of Fire (2005)
+, 9
+, 'Gal Efal'
+, 'Chronological Harry Potter series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(139652  -- Harry Potter and the Goblet of Fire (2005)
+, 139654  -- Harry Potter and the Order of the Phoenix (2007)
+, 9
+, 'Gal Efal'
+, 'Chronological Harry Potter series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(139654  -- Harry Potter and the Order of the Phoenix (2007)
+, 139653  -- Harry Potter and the Half-Blood Prince (2008)
+, 9
+, 'Gal Efal'
+, 'Chronological Harry Potter series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1038  -- 13 Going On 30 (2004)
+, 46878  -- Bridget Jones: The Edge of Reason (2004)
+, 9
+, 'Gal Efal'
+, 'Both romantic comedies with quirky female leads exploring love and self-acceptance'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(151616  -- How to Lose a Guy in 10 Days (2003)
+, 200864  -- Maid in Manhattan (2002)
+, 8
+, 'Gal Efal'
+, 'Romantic plots with misunderstandings, charm, and feel-good endings'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(220805  -- Mr. and Mrs. Smith (2005)
+, 220276  -- Moulin Rouge! (2001)
+, 8
+, 'Gal Efal'
+, 'Both mix action/strong visuals with deep romantic tension'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(200864  -- Maid in Manhattan (2002)
+, 1038  -- 13 Going On 30 (2004)
+, 8
+, 'Gal Efal'
+, 'Feel-good transformations with charming female leads'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(97727  -- Edward Scissorhands
+, 59578  -- Charlie and the Chocolate Factory
+, 8
+, 'Gal Efal'
+, 'Both feature Johnny Depp in whimsical, imaginative roles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(113506  -- Finding Neverland
+, 62460  -- Chocolat
+, 9
+, 'Gal Efal'
+, 'Both involve themes of emotional transformation and compassion'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(304862  -- Sleepy Hollow
+, 120506  -- From Hell
+, 8
+, 'Gal Efal'
+, 'Both are dark mystery thrillers set in the 1800s starring Depp as an investigator'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(97360  -- Ed Wood
+, 97727  -- Edward Scissorhands
+, 9
+, 'Gal Efal'
+, 'Two Tim Burton-directed films showcasing Depps eccentric characters'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(292671  -- Secret Window
+, 233058  -- Ninth Gate, The
+, 7
+, 'Gal Efal'
+, 'Suspenseful psychological/mystery roles with dark tones'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(256631  -- Pirates of the Caribbean 2
+, 256632  -- Pirates of the Caribbean: The Curse of the Black Pearl
+, 9
+, 'Gal Efal'
+, 'Continuation of the Pirates of the Caribbean saga'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(22651  -- Astronaut's Wife, The
+, 20253  -- Arizona Dream
+, 6
+, 'Gal Efal'
+, 'Depp plays dreamy, introspective characters in offbeat settings'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(41518  -- Blow
+, 70959  -- Corpse Bride, The
+, 7
+, 'Gal Efal'
+, 'Both explore destructive personal journeys of troubled men'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(300229  -- Shrek
+, 300230  -- Shrek 2
+, 9
+, 'Gal Efal'
+, 'Fun, witty animated sequel with the same beloved characters'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(300230  -- Shrek 2
+, 300233  -- Shrek 4-D
+, 8
+, 'Gal Efal'
+, 'Continued Shrek universe experience with interactive style'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(849  -- 101 Dalmatians II: Patch''s London Adventure
+, 170721  -- Jungle Book 2, The
+, 7
+, 'Gal Efal'
+, 'Both are sequels to Disney classics with animal protagonists'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(32180  -- Beauty and the Beast
+, 849  -- 101 Dalmatians II: Patch''s London Adventure
+, 7
+, 'Gal Efal'
+, 'Classic-style Disney animation with heartwarming stories'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(190869  -- Lilo & Stitch
+, 300229  -- Shrek
+, 8
+, 'Gal Efal'
+, 'Both combine humor with emotional depth in animated form'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(311604  -- SpongeBob SquarePants: Legend of the Lost Spatula
+, 311606  -- SpongeBob SquarePants: Revenge of the Flying Dutchman
+, 8
+, 'Gal Efal'
+, 'Both are early SpongeBob adventure games with similar tone'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(311606  -- SpongeBob SquarePants: Revenge of the Flying Dutchman
+, 311607  -- SpongeBob SquarePants: SuperSponge
+, 8
+, 'Gal Efal'
+, 'Sequential game titles continuing SpongeBobs quirky style'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(311607  -- SpongeBob SquarePants: SuperSponge
+, 311601  -- SpongeBob SquarePants Movie, The
+, 9
+, 'Gal Efal'
+, 'Game to feature-length movie transition in same universe'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(312150  -- Spy Kids
+, 312151  -- Spy Kids 2: Island of Lost Dreams
+, 9
+, 'Gal Efal'
+, 'Chronological sequel in the Spy Kids series'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(312151  -- Spy Kids 2: Island of Lost Dreams
+, 312152  -- Spy Kids 3-D: Game Over
+, 9
+, 'Gal Efal'
+, 'Next adventurous chapter continuing the story'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(312150  -- Spy Kids
+, 312152  -- Spy Kids 3-D: Game Over
+, 8
+, 'Gal Efal'
+, 'Jump from first movie to action-packed finale'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(402385  -- Psychiatrist
+, 185306  -- Last Gun, The
+, 9
+, 'Gal Efal'
+, 'Chronological Spielberg recommendation from Psychiatrist to Last Gun, The'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(185306  -- Last Gun, The
+, 31256  -- Battle Squad
+, 9
+, 'Gal Efal'
+, 'Chronological Spielberg recommendation from Last Gun, The to Battle Squad'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31256  -- Battle Squad
+, 103334  -- Escape to Nowhere
+, 9
+, 'Gal Efal'
+, 'Chronological Spielberg recommendation from Battle Squad to Escape to Nowhere'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(103334  -- Escape to Nowhere
+, 113931  -- Firelight
+, 9
+, 'Gal Efal'
+, 'Chronological Spielberg recommendation from Escape to Nowhere to Firelight'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(113931  -- Firelight
+, 305079  -- Slipstream
+, 9
+, 'Gal Efal'
+, 'Chronological Spielberg recommendation from Firelight to Slipstream'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(14126  -- American Pie
+, 14132  -- American Pie 2
+, 8
+, 'Gal Efal'
+, 'Classic American Pie series progression'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(14132  -- American Pie 2
+, 146780  -- Hitch
+, 7
+, 'Gal Efal'
+, 'Recommended similar genre - romantic comedy appeal'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1038  -- 13 Going On 30
+, 146780  -- Hitch
+, 6
+, 'Gal Efal'
+, 'Light romantic comedies with quirky leads'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(30959  -- Batman Begins
+, 30974  -- Batman: Dead End
+, 8
+, 'Gal Efal'
+, 'Recommended a shorter spin-off after major title'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(30974  -- Batman: Dead End
+, 30977  -- Batman: Mystery of the Batwoman
+, 7
+, 'Gal Efal'
+, 'Recommended animated follow-up after fan favorite'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(30977  -- Batman: Mystery of the Batwoman
+, 30978  -- Batman: Rise of Sin Tzu
+, 7
+, 'Gal Efal'
+, 'Suggested next title in Batman animated universe'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215874  -- Mission: Humanity
+, 215878  -- Mission: Impossible - Operation Surma
+, 7
+, 'Gal Efal'
+, 'Earlier to game-based installment'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215878  -- Mission: Impossible - Operation Surma
+, 215880  -- Mission: Impossible III
+, 8
+, 'Gal Efal'
+, 'Game to major cinematic release'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215874  -- Mission: Humanity
+, 215880  -- Mission: Impossible III
+, 6
+, 'Gal Efal'
+, 'Jump from early title to later big-budget sequel'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(175880  -- Forrest Gump
+, 175881  -- Cast Away
+, 9
+, 'Gal Efal'
+, 'Both dramatic performances with emotional depth by Tom Hanks at his finest'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(175874  -- The Da Vinci Code
+, 175875  -- Angels & Demons
+, 9
+, 'Gal Efal'
+, 'Chronological recommendation starring Tom Hanks as the brilliant Robert Langdon'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(175882  -- Road to Perdition
+, 175883  -- Catch Me If You Can
+, 8
+, 'Gal Efal'
+, 'Showcases Hanks’ versatility — from hitman father to FBI agent'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(175872  -- Saving Private Ryan
+, 175873  -- The Green Mile
+, 8
+, 'Gal Efal'
+, 'Two of Tom Hanks’ most emotionally charged roles, in war and prison settings'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(175878  -- Apollo 13
+, 175879  -- The Terminal
+, 8
+, 'Gal Efal'
+, 'Different genres, same Hanks brilliance — space mission vs. airport life'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(175876  -- Sully
+, 175880  -- Forrest Gump
+, 8
+, 'Gal Efal'
+, 'Biopics led by Hanks iconic acting — true heroes portrayed with depth'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(175877  -- Bridge of Spies
+, 175872  -- Saving Private Ryan
+, 9
+, 'Gal Efal'
+, 'Historical dramas where Tom Hanks carries the story with quiet strength'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(175883  -- Catch Me If You Can
+, 175875  -- Angels & Demons
+, 7
+, 'Gal Efal'
+, 'Smart thrillers with Hanks as the relentless investigator'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(175879  -- The Terminal
+, 175881  -- Cast Away
+, 8
+, 'Gal Efal'
+, 'Tom Hanks isolated — one in an airport, one on an island — both unforgettable'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(175873  -- The Green Mile
+, 175880  -- Forrest Gump
+, 9
+, 'Gal Efal'
+, 'Emotionally powerful stories where Hanks gives career-defining performances'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(404282  -- Santa Barbara""
+, 390691  -- Growing Pains""
+, 8
+, 'Gal Efal'
+, 'Both feature Leonardo DiCaprio and were released within a close timeframe'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(390691  -- Growing Pains
+, 400853  -- Parenthood
+, 8
+, 'Gal Efal'
+, 'Both feature Leonardo DiCaprio and were released within a close timeframe'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(400853  -- Parenthood
+, 73574  -- Critters 3
+, 8
+, 'Gal Efal'
+, 'Both feature Leonardo DiCaprio and were released within a close timeframe'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(73574  -- Critters 3
+, 258948  -- Poison Ivy
+, 8
+, 'Gal Efal'
+, 'Both feature Leonardo DiCaprio and were released within a close timeframe'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(258948  -- Poison Ivy
+, 330670  -- This Boy's Life
+, 8
+, 'Gal Efal'
+, 'Both feature Leonardo DiCaprio and were released within a close timeframe'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(330670  -- This Boy's Life
+, 116829  -- Foot Shooting Party, The
+, 8
+, 'Gal Efal'
+, 'Both feature Leonardo DiCaprio and were released within a close timeframe'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(116829  -- Foot Shooting Party, The
+, 336446  -- Total Eclipse (1995/II)
+, 8
+, 'Gal Efal'
+, 'Both feature Leonardo DiCaprio and were released within a close timeframe'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(336446  -- Total Eclipse (1995/II)
+, 336445  -- Total Eclipse
+, 8
+, 'Gal Efal'
+, 'Both feature Leonardo DiCaprio and were released within a close timeframe'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(336445  -- Total Eclipse
+, 30686  -- Basketball Diaries, The
+, 8
+, 'Gal Efal'
+, 'Both feature Leonardo DiCaprio and were released within a close timeframe'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(30686  -- Basketball Diaries, The
+, 57894  -- Cent et une nuits de Simon Cinma, Les
+, 8
+, 'Gal Efal'
+, 'Both feature Leonardo DiCaprio and were released within a close timeframe'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(17370  -- Minority Report
+, 33109  -- War of the Worlds
+, 8, 'Gal Efal', 'Both are Spielberg-directed sci-fi thrillers starring Tom Cruise', NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(17370  -- Minority Report
+, 300509  -- Edge of Tomorrow
+, 8, 'Gal Efal', 'Sci-fi action movies featuring Tom Cruise facing futuristic enemies', NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(300509  -- Edge of Tomorrow
+, 300680  -- Oblivion
+, 7, 'Gal Efal', 'Tom Cruise leads in visually stunning post-apocalyptic action films', NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(300680  -- Oblivion
+, 336555  -- Jack Reacher
+, 7, 'Gal Efal', 'From sci-fi thriller to grounded action – Cruise’s versatile roles', NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(336555  -- Jack Reacher
+, 336556  -- Jack Reacher: Never Go Back
+, 9, 'Gal Efal', 'Direct sequel – continuation of Reacher’s investigations and action', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215880  -- Mission: Impossible III
+, 17370  -- Minority Report
+, 8, 'Gal Efal', 'From spy action to futuristic thriller – Cruise excels in both', NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215880  -- Mission: Impossible III
+, 33109  -- War of the Worlds
+, 7, 'Gal Efal', 'Recommended for Cruise fans who enjoy high-stakes sci-fi action', NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215878  -- Mission: Impossible - Operation Surma
+, 336555  -- Jack Reacher
+, 7, 'Gal Efal', 'Espionage and detective action – different style, same intensity', NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215878  -- Mission: Impossible - Operation Surma
+, 300509  -- Edge of Tomorrow
+, 7, 'Gal Efal', 'Espionage meets alien warfare – Cruise’s action range', NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215874  -- Mission: Humanity
+, 336556  -- Jack Reacher: Never Go Back
+, 6, 'Gal Efal', 'For those interested in standalone Cruise-led missions', NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(134677  -- Goodfellas
+, 134680  -- Casino
+, 9
+, 'Gal Efal'
+, 'Classic mafia films about power, crime, and downfall'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(126792  -- The Godfather: Part II
+, 134677  -- Goodfellas
+, 8
+, 'Gal Efal'
+, 'Classic mafia films about power, crime, and downfall'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(126792  -- The Godfather: Part II
+, 134675  -- The Godfather
+, 9
+, 'Gal Efal'
+,'Classic mafia films about power, crime, and downfall'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(126792  -- The Godfather: Part II
+, 134676  -- The Godfather: Part III
+, 8
+, 'Gal Efal'
+, 'Classic mafia films about power, crime, and downfall'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(134675  -- The Godfather
+, 134676  -- The Godfather: Part III
+, 8
+, 'Gal Efal'
+,'Classic mafia films about power, crime, and downfall'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(164870  -- Scarface
+, 134677  -- Goodfellas
+, 7
+, 'Gal Efal'
+, 'Classic mafia films about power, crime, and downfall'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(163430  -- Heat
+, 134680  -- Casino
+, 8
+, 'Gal Efal'
+,'Classic mafia films about power, crime, and downfall'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(163430  -- Heat
+, 134677  -- Goodfellas
+, 7
+, 'Gal Efal'
+,'Classic mafia films about power, crime, and downfall'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(134680  -- Casino
+, 134676  -- The Godfather: Part III
+, 7
+, 'Gal Efal'
+,'Classic mafia films about power, crime, and downfall'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(134677  -- Goodfellas
+, 126792  -- The Godfather: Part II
+, 9
+, 'Gal Efal'
+,'Classic mafia films about power, crime, and downfall'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(185735 -- Last Tycoon, The
+, 70468 -- Cop Land
+, 8
+, 'Gal Efal'
+, 'Robert De Niro fans would enjoy both performances'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(144663 -- Hide and Seek
+, 215869 -- Mission, The
+, 9
+, 'Gal Efal'
+, 'Robert De Niro fans would enjoy both performances'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(107353 -- Fahrenheit 9/11
+, 141544 -- Heat
+, 8
+, 'Gal Efal'
+, 'Robert De Niro fans would enjoy both performances'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(141495 -- Hearts of Darkness: A Filmmaker's Apocalypse
+, 281334 -- Ronin
+, 9
+, 'Gal Efal'
+, 'Robert De Niro fans would enjoy both performances'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(57894 -- Cent et une nuits de Simon Cinma, Les
+, 144452 -- Hi, Mom!
+, 10
+, 'Gal Efal'
+, 'Robert De Niro fans would enjoy both performances'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(29760  -- Raging Bull
+, 29768  -- Taxi Driver
+, 9
+, 'Gal Efal'
+, 'Both intense character studies led by De Niro', NULL);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(29760  -- Raging Bull
+, 29772  -- The Untouchables
+, 8, 'Gal Efal', 'De Niro showcases range from boxer to gangster', NULL);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(29772  -- The Untouchables
+, 29766  -- Goodfellas
+, 8, 'Gal Efal', 'Both mob-themed classics with strong performances', NULL);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(29770  -- Heat
+, 29769  -- The Fan
+, 7, 'Gal Efal', 'Recommended for fans of psychological thrillers', NULL);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(29768  -- Taxi Driver
+, 29771  -- The Deer Hunter
+, 8, 'Gal Efal', 'Powerful 70s films with De Niro in intense roles', NULL);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(29771  -- Barbier de Sville Le
+, 381188   --  Ballyskillen Opera House The
+, 8, 'Gal Efal', 'Transition from war trauma to psychological suspense', NULL);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(29773  --  Barbier Le (2001/I)
+,33093   -- Behold the Man!
+, 7, 'Gal Efal', 'Unique shift showing De Niro’s comedic talent', NULL);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(29773  -- Barbier Le (2001/I)
+, 29774  -- Barbiere di Rio Il
+
+, 7, 'Gal Efal', 'Direct sequel, recommended to continue the story', NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(311037  -- Spider-Man (2002)
+, 13392  -- Amazing Spider-Man The (1977)
+, 3
+, 'Gal Efal'
+, 'Less relevant: 2002 movie recommending the 1977 version'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(311038  -- Spider-Man 2 (2004)
+, 311042  -- Spider-Man Strikes Back (1978)
+, 4
+, 'Gal Efal'
+, 'Weak recommendation: big year gap between versions'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(13343  -- Amazing Adventures of Spider-Man The (1999)
+, 406157  -- Spider-Man (1994)
+, 2
+, 'Gal Efal'
+, 'Different formats and eras – weak connection'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1038  -- 13 Going On 30 (2004)
+, 220805  -- Mr. and Mrs. Smith (2005)
+, 5
+, 'Gal Efal'
+, 'Romance element exists, but genre mismatch'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(220276  -- Moulin Rouge! (2001)
+, 46878  -- Bridget Jones: The Edge of Reason (2004)
+, 4
+, 'Gal Efal'
+, 'Both revolve around love stories, though tone and style differ'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(200864  -- Maid in Manhattan (2002)
+, 151616  -- How to Lose a Guy in 10 Days (2003)
+, 5
+, 'Gal Efal'
+, 'Similar theme of hidden identity and romance, but different tones'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(46878  -- Bridget Jones: The Edge of Reason (2004)
+, 220805  -- Mr. and Mrs. Smith (2005)
+, 4
+, 'Gal Efal'
+, 'Both about romantic conflict, but from very different narrative styles'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(97727  -- Edward Scissorhands
+, 41518  -- Blow
+, 4
+, 'Gal Efal'
+, 'Drastic tone shift from fairy-tale fantasy to gritty drug drama'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(62460  -- Chocolat
+, 304862  -- Sleepy Hollow
+, 3
+, 'Gal Efal'
+, 'Mismatch in mood and setting: French romance vs. gothic horror'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(233058  -- The Ninth Gate
+, 59578  -- Charlie and the Chocolate Factory
+, 4
+, 'Gal Efal'
+, 'From slow occult mystery to childrens fantasy musical'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(70959  -- The Libertine
+, 113506  -- Finding Neverland
+, 3
+, 'Gal Efal'
+, 'Different audiences: animated fantasy vs. historical biopic'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(22651  -- The Astronaut's Wife
+, 292671  -- Secret Window
+, 5
+, 'Gal Efal'
+, 'Both suspenseful but differ in genre and storytelling style'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(20253  -- Arizona Dream
+, 233058  -- The Ninth Gate
+, 4
+, 'Gal Efal'
+, 'Art-house surrealism vs. dense mystery plot'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(256631  -- Pirates of the Caribbean: Dead Man's Chest
+, 97360  -- Ed Wood
+, 2
+, 'Gal Efal'
+, 'Pirate adventure vs. black-and-white director biopic – no link'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(292671  -- Secret Window
+, 62460  -- Chocolat
+, 5
+, 'Gal Efal'
+, 'Both character-driven but different tones: thriller vs. romance'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(300230  -- Shrek 2
+, 32180  -- Beauty and the Beast
+, 4
+, 'Gal Efal'
+, 'Both animated, but tone and humor style differ significantly'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(849  -- 101 Dalmatians II: Patch's London Adventure
+, 300233  -- Shrek 4-D
+, 3
+, 'Gal Efal'
+, 'Different animation studios and story depth – less relevant'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(170721  -- Jungle Book 2, The
+, 300229  -- Shrek
+, 5
+, 'Gal Efal'
+, 'Animal-based animated stories, but different humor and target age'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(32180  -- Beauty and the Beast
+, 190869  -- Lilo & Stitch
+, 4
+, 'Gal Efal'
+, 'Classic fairytale vs. modern emotional alien story'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(190869  -- Lilo & Stitch
+, 849  -- 101 Dalmatians II: Patch's London Adventure
+, 3
+, 'Gal Efal'
+, 'Different animation eras and narrative complexity'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(402385  -- Psychiatrist
+, 351705  -- Vengeance
+, 4
+, 'Gal Efal'
+, 'Poor recommendation: large time gap from Psychiatrist to Vengeance'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(185306  -- Last Gun, The
+, 159167  -- Indiana Jones 4
+, 4
+, 'Gal Efal'
+, 'Poor recommendation: large time gap from Last Gun, The to Indiana Jones 4'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31256  -- Battle Squad
+, 359297  -- War of the Worlds
+, 4
+, 'Gal Efal'
+, 'Poor recommendation: large time gap from Battle Squad to War of the Worlds'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(103334  -- Escape to Nowhere
+, 328272  -- Terminal, The
+, 4
+, 'Gal Efal'
+, 'Poor recommendation: large time gap from Escape to Nowhere to Terminal, The'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(113931  -- Firelight
+, 214755  -- Minority Report
+, 4
+, 'Gal Efal'
+, 'Poor recommendation: large time gap from Firelight to Minority Report'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(14132  -- American Pie 2
+, 1038  -- 13 Going On 30
+, 5
+, 'Gal Efal'
+, 'Both romantic comedies, but different tones and eras'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(14126 -- American Pie 
+, 1038  -- 13 Going On 30
+, 5
+, 'Gal Efal'
+, 'Both romantic comedies, but different tones and eras'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(30978  -- Batman: Rise of Sin Tzu
+, 30979  -- Batman: Vengeance
+, 5
+, 'Gal Efal'
+, 'Both games-inspired but less continuity between them'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(30959  -- Batman Begins
+, 30979  -- Batman: Vengeance
+, 4
+, 'Gal Efal'
+, 'Live-action to early animated game-style film'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(264818  -- Jack
+, 162944  -- House of the Dead 2
+, 4
+, 'Gal Efal'
+, 'Genres clash: romantic drama vs. zombie horror'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(336864  -- Himself/Lerner
+, 275256  -- Beneath Still Waters
+, 3
+, 'Gal Efal'
+, 'Mismatch of tone and genre'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(157521  -- Himself
+, 177928  -- Hard Candy
+, 5
+, 'Gal Efal'
+, 'Psychological horror doesn’t align well with the source'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1038  -- 13 Going On 30
+, 242261  -- Soul Survivors
+, 5
+, 'Gal Efal'
+, 'Feel-good romcom paired with teen horror thriller'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(14132  -- American Pie
+, 217275  -- The Devil’s Backbone
+, 4
+, 'Gal Efal'
+, 'Silly comedy vs. dark ghost story'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(146780  -- Hitch
+, 302377  -- Slither
+, 3
+, 'Gal Efal'
+, 'Alien parasite horror not a natural follow-up to romantic comedy'
+, NULL);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(79697 -- Dawn The
+,33059 -- Behind the Seams
+,4
+,'Gal Efal'
+,'Genre clash: romantic comedy vs. horror',
+NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(5149 -- Absence of Light The
+,296763 -- Shadow Man: 2econd Coming
+,4
+,'Gal Efal'
+,'Genre clash: romantic comedy vs. horror',
+NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(275273 -- Relaciones carnales
+,367344 -- Wolfsbane
+,4
+,'Gal Efal'
+,'Genre clash: romantic comedy vs. horror'
+,NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(306609 -- Soal hati
+,68001 -- Comedy Hell
+,4
+,'Gal Efal'
+,'Genre clash: romantic comedy vs. horror'
+,NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(164352 -- Jack & Ella
+,140078 -- Haunted
+,4
+,'Gal Efal'
+,'Genre clash: romantic comedy vs. horror'
+,NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(88177 -- Divorce Le
+,352912 -- Vettam
+,4
+,'Gal Efal'
+,'Genre clash: romantic comedy vs. horror'
+,NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(362081 -- What a Girl Wants
+,82886 -- Dennis
+,4
+,'Gal Efal'
+,'Genre clash: romantic comedy vs. horror'
+,NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(144481 -- Hi-Yah!
+,291682 -- Se souvenir des belles choses
+,4
+,'Gal Efal'
+,'Genre clash: romantic comedy vs. horror'
+,NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(21002 -- Art of Love
+,378522 -- tek do Budna
+,4
+,'Gal Efal'
+,'Genre clash: romantic comedy vs. horror'
+,NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(174155 -- Karmina 2
+,117819 -- Forkerte navne
+,4
+,'Gal Efal'
+,'Genre clash: romantic comedy vs. horror'
+,NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(354548 -- Village The
+,318919 -- Sun jaat si mui
+,4
+,'Gal Efal'
+,'Genre clash: romantic comedy vs. horror'
+,NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(33940 -- Bend It Like Beckham
+,284793 -- Sabaa warakat kotshina
+,4
+,'Gal Efal'
+,'Genre clash: romantic comedy vs. horror'
+,NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(171105 -- Just Desserts
+,158986 -- Indefinitely
+,4
+,'Gal Efal'
+,'Genre clash: romantic comedy vs. horror'
+,NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(134800 -- Groe Liebe wider Willen
+,300844 -- Sicily 2km
+,4
+,'Gal Efal'
+,'Genre clash: romantic comedy vs. horror'
+,NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(213253 -- Midnight Sun
+,136275 -- Guy Next Door The
+,4
+,'Gal Efal'
+,'Genre clash: romantic comedy vs. horror'
+,NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(45334 -- Boxer Shorts
+, 112055 -- Fierecilla del puerto La
+, 4
+, 'Gal Efal'
+, 'Comedy movies from different eras with limited connection'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(13759 -- American Adobo
+, 41319 -- Blood Sucking Freaks
+, 4
+, 'Gal Efal'
+, 'Comedy movies from different eras with limited connection'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(322674 -- Ta soeur
+, 294089 -- Sendung der Lysistrata Die
+, 4
+, 'Gal Efal'
+, 'Comedy movies from different eras with limited connection'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(227159 -- Name That Dookie
+, 192567 -- Live It Up
+, 4
+, 'Gal Efal'
+, 'Comedy movies from different eras with limited connection'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(364134 -- Whizzard of Ow The
+, 84820 -- Devichya vesna
+, 4
+, 'Gal Efal'
+, 'Comedy movies from different eras with limited connection'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(121661 -- American Pie Presents: The Book of Love
+, 204993 -- Nad rzeką której nie ma
+, 4
+, 'Gal Efal'
+, 'Comedy movies from different eras with limited connection'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(229067 -- 3 Nights in the Desert
+, 105679 -- Suburban Beat
+, 4
+, 'Gal Efal'
+, 'Comedy movies from different eras with limited connection'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(257502 -- D.C. Sniper: 23 Days of Fear
+, 148289 -- McHale's Navy Joins the Air Force
+, 4
+, 'Gal Efal'
+, 'Comedy movies from different eras with limited connection'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(152795 -- Be Kind Rewind
+, 198589 -- Head
+, 4
+, 'Gal Efal'
+, 'Comedy movies from different eras with limited connection'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(184664 -- Harold & Kumar Escape from Guantanamo Bay
+, 183471 -- A Stitch in Time
+, 4
+, 'Gal Efal'
+, 'Comedy movies from different eras with limited connection'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1038 -- 13 Going On 30
+, 118 -- Halloween Unmasked 200
+, 4
+, 'Gal Efal'
+, 'Different genres'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(139648 -- 13 Erotic Ghosts
+, 183500 -- Catch Me If You Can: Behind the Camera
+, 3
+, 'Gal Efal'
+, 'Fantasy erotic vs. behind-the-scenes documentary — weak match'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(151616 -- How to Lose a Guy in 10 Days
+, 185112 -- The Story of the Weeping Camel
+, 4
+, 'Gal Efal'
+, 'Romantic fantasy vs. slow-paced cultural documentary'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(292671 -- Mort Rainey
+, 185764 -- Winged Migration
+, 4
+, 'Gal Efal'
+, 'Psychological thriller with fantasy elements vs. nature documentary'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(300229 -- Shrek
+, 183621 -- Bowling for Columbine
+, 3
+, 'Gal Efal'
+, 'Animated fantasy comedy vs. gun violence documentary'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(311037 -- Spider-Man
+, 184375 -- Comedian
+, 4
+, 'Gal Efal'
+, 'Superhero action vs. stand-up documentary — unrelated genres'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(311048 -- Spider-Man: The Movie Game
+, 185234 -- The Fog of War
+, 3
+, 'Gal Efal'
+, 'Fantasy-based video game movie vs. historical documentary'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(220276 -- Moulin Rouge!
+, 184017 -- Capturing the Friedmans
+, 4
+, 'Gal Efal'
+, 'Musical romance vs. disturbing family-focused documentary'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(311604 -- SpongeBob SquarePants: Legend of the Lost Spatula
+, 183505 -- Amandla! A Revolution in Four-Part Harmony
+, 4
+, 'Gal Efal'
+, 'Light cartoon fantasy vs. serious musical revolution documentary'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(312150 -- Spy Kids
+, 183662 -- Blue Vinyl
+, 4
+, 'Gal Efal'
+, 'Whimsical action fantasy vs. environmental investigation — poor fit'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(175882  -- Road to Perdition
+, 175878  -- Apollo 13
+, 5
+, 'Gal Efal'
+, 'Tom Hanks plays serious roles in both, but genre and tone are very different'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(175874  -- The Da Vinci Code
+, 175883  -- Catch Me If You Can
+, 4
+, 'Gal Efal'
+, 'Both thrillers, but completely different styles and character types for Hanks'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(175875  -- Angels & Demons
+, 175881  -- Cast Away
+, 3
+, 'Gal Efal'
+, 'No meaningful connection — one’s a religious thriller, the other is a survival drama'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(175877  -- Bridge of Spies
+, 175879  -- The Terminal
+, 4
+, 'Gal Efal'
+, 'Different historical periods and tones — recommendation is weak'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(175880  -- Forrest Gump
+, 175874  -- The Da Vinci Code
+, 2
+, 'Gal Efal'
+, 'Iconic roles, but no narrative or thematic overlap — not a strong match'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(175873  -- The Green Mile
+, 175875  -- Angels & Demons
+, 3
+, 'Gal Efal'
+, 'Very different genres and emotional tone — not a logical pair'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(175876  -- Sully
+, 175882  -- Road to Perdition
+, 4
+, 'Gal Efal'
+, 'Both dramatic, but real-life pilot vs. fictional hitman – weak connection'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(175872  -- Saving Private Ryan
+, 175878  -- Apollo 13
+, 5
+, 'Gal Efal'
+, 'Both based on true events, but very different war vs. space missions'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(175881  -- Cast Away
+, 175877  -- Bridge of Spies
+, 4
+, 'Gal Efal'
+, 'Different emotional arcs and historical relevance — not a strong transition'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(175879  -- The Terminal
+, 175873  -- The Green Mile
+, 3
+, 'Gal Efal'
+, 'Dramatic performances by Hanks, but no thematic or stylistic overlap'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(90220  -- The 70th Annual Academy Awards
+, 99480  -- Titanic
+, 4
+, 'Gal Efal'
+, 'Award show recommending narrative film is a weak connection'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(152368  -- The Man in the Iron Mask
+, 356816  -- Don's Plum
+, 5
+, 'Gal Efal'
+, 'Both feature DiCaprio, but very different tone and production value'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(287029  -- The Basketball Diaries
+, 207539  -- Poison Ivy
+, 4
+, 'Gal Efal'
+, 'Both deal with troubled youth, but vastly different style and critical reception'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(99480  -- Titanic
+, 90220  -- The 70th Annual Academy Awards
+, 3
+, 'Gal Efal'
+, 'Recommending award show after film feels irrelevant'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(287029  -- The Basketball Diaries
+, 274837  -- Celebrity
+, 5
+, 'Gal Efal'
+, 'Both explore fame or downfall, but different tone and style'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(294573  -- Catch Me If You Can
+, 356816  -- Don's Plum
+, 4
+, 'Gal Efal'
+, 'Recommending from a blockbuster to an obscure indie film'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(315160  -- The Aviator
+, 358117  -- This Boy's Life
+, 5
+, 'Gal Efal'
+, 'Both biographical coming-of-age themes, but target audience and scope differ'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(342576  -- The Great Gatsby
+, 287029  -- The Basketball Diaries
+, 4
+, 'Gal Efal'
+, 'Different eras, genres, and tone — recommendation feels forced'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(356816  -- Don's Plum
+, 207539  -- Poison Ivy
+, 4
+, 'Gal Efal'
+, 'Both lesser-known early roles, but very different themes and quality'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(207539  -- Poison Ivy
+, 90220  -- The 70th Annual Academy Awards
+, 3
+, 'Gal Efal'
+, 'Irrelevant jump from a niche thriller to an award show appearance'
+, NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215880  -- Mission: Impossible III
+, 29069  -- Jerry Maguire
+, 4, 'Gal Efal', 'Different tone and genre – spy thriller meets sports romance', NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215878  -- Mission: Impossible - Operation Surma
+, 336554  -- The Firm
+, 5, 'Gal Efal', 'Legal thriller lacks the action flair of Mission: Impossible', NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215874  -- Mission: Humanity
+, 310500  -- Eyes Wide Shut
+, 3, 'Gal Efal', 'Different pace and mood – not ideal for action lovers', NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215880  -- Mission: Impossible III
+, 310501  -- Vanilla Sky
+, 4, 'Gal Efal', 'Psychological drama doesn’t align with spy-action vibes', NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215878  -- Mission: Impossible - Operation Surma
+, 336553  -- Magnolia
+, 2, 'Gal Efal', 'Critically acclaimed but far from the intensity of espionage', NULL);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(29760  -- Raging Bull
+, 29774  -- Meet the Fockers
+, 4, 'Gal Efal', 'Very different genres – intense drama vs. light comedy', NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(29771  -- The Deer Hunter
+, 29769  -- The Fan
+, 3, 'Gal Efal', 'Both thrillers, but very different in tone and depth', NULL);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(29768  -- Taxi Driver
+, 29773  -- Meet the Parents
+, 2, 'Gal Efal', 'Iconic serious role vs. goofy family comedy – weak match', NULL);
+
+
+#INSERT INTO imdb_ijs.movies_recommendations VALUES 
+#(29764  -- Cape Fear
+#, 263 -- Til There Was You
+#, 4, 'Gal Efal', 'Different genres', NULL);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(29766  -- Goodfellas
+, 29774  -- Meet the Fockers
+, 3, 'Gal Efal', 'Mismatch in genre and tone – mafia epic vs. slapstick comedy', NULL);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+( 72012 -- Courting Courtney
+, 267038  --  Pulp Fiction
+, 3, 'Gal Efal', 'Mismatch in tone and storytelling style', NULL);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+( 176711 -- Kill Bill: Vol. 1
+, 55004 --  Carga mortal
+, 3, 'Gal Efal', 'Different production quality and audience expectations', NULL);

@@ -1,0 +1,1815 @@
+
+-- 20 recommendations for Tom Cruise films (Both star Tom Cruise) & action
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(335835  -- Top Gun
+, 215881  -- Mission: Improbable
+, 9
+, 'Achiad Avigdori'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(335835  -- Top Gun
+, 215880  -- Mission: Impossible III
+, 9
+, 'Achiad Avigdori'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(335835  -- Top Gun
+, 215879  -- Mission: Impossible II
+, 9
+, 'Achiad Avigdori'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(335835  -- Top Gun
+, 215876  -- Mission: Impossible
+, 9
+, 'Achiad Avigdori'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(335835  -- Top Gun
+, 185628  -- Last Samurai, The
+, 9
+, 'Achiad Avigdori'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215881  -- Mission: Improbable
+, 335835  -- Top Gun
+, 9
+, 'Achiad Avigdori'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215881  -- Mission: Improbable
+, 215880  -- Mission: Impossible III
+, 9
+, 'Achiad Avigdori'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215881  -- Mission: Improbable
+, 215879  -- Mission: Impossible II
+, 9
+, 'Achiad Avigdori'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215881  -- Mission: Improbable
+, 215876  -- Mission: Impossible
+, 9
+, 'Achiad Avigdori'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215881  -- Mission: Improbable
+, 185628  -- Last Samurai, The
+, 9
+, 'Achiad Avigdori'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215880  -- Mission: Impossible III
+, 335835  -- Top Gun
+, 9
+, 'Achiad Avigdori'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215880  -- Mission: Impossible III
+, 215881  -- Mission: Improbable
+, 9
+, 'Achiad Avigdori'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215880  -- Mission: Impossible III
+, 215879  -- Mission: Impossible II
+, 9
+, 'Achiad Avigdori'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215880  -- Mission: Impossible III
+, 215876  -- Mission: Impossible
+, 9
+, 'Achiad Avigdori'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215880  -- Mission: Impossible III
+, 185628  -- Last Samurai, The
+, 9
+, 'Achiad Avigdori'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215879  -- Mission: Impossible II
+, 335835  -- Top Gun
+, 9
+, 'Achiad Avigdori'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215879  -- Mission: Impossible II
+, 215881  -- Mission: Improbable
+, 9
+, 'Achiad Avigdori'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215879  -- Mission: Impossible II
+, 215880  -- Mission: Impossible III
+, 9
+, 'Achiad Avigdori'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215879  -- Mission: Impossible II
+, 215876  -- Mission: Impossible
+, 9
+, 'Achiad Avigdori'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(215879  -- Mission: Impossible II
+, 185628  -- Last Samurai, The
+, 9
+, 'Achiad Avigdori'
+, 'Both star Tom Cruise'
+, NULL
+);
+
+-- same-genre (comedy), same-year (2000), rank > 9
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(79593  -- David Nelson Live
+, 279594  -- Robbers
+, 8
+, 'Achiad Avigdori'
+, 'Comedy; released 2000; rank > 9'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(79593  -- David Nelson Live
+, 123371  -- Game Day
+, 8
+, 'Achiad Avigdori'
+, 'Comedy; released 2000; rank > 9'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(79593  -- David Nelson Live
+, 168745  -- Johnny the Amazing Firetruck
+, 8
+, 'Achiad Avigdori'
+, 'Comedy; released 2000; rank > 9'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(79593  -- David Nelson Live
+, 152856  -- Hungry
+, 8
+, 'Achiad Avigdori'
+, 'Comedy; released 2000; rank > 9'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(279594  -- Robbers
+, 79593   -- David Nelson Live
+, 8
+, 'Achiad Avigdori'
+, 'Comedy; released 2000; rank > 9'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(279594  -- Robbers
+, 123371  -- Game Day
+, 8
+, 'Achiad Avigdori'
+, 'Comedy; released 2000; rank > 9'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(279594  -- Robbers
+, 168745  -- Johnny the Amazing Firetruck
+, 8
+, 'Achiad Avigdori'
+, 'Comedy; released 2000; rank > 9'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(279594  -- Robbers
+, 152856  -- Hungry
+, 8
+, 'Achiad Avigdori'
+, 'Comedy; released 2000; rank > 9'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(123371  -- Game Day
+, 79593   -- David Nelson Live
+, 8
+, 'Achiad Avigdori'
+, 'Comedy; released 2000; rank > 9'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(123371  -- Game Day
+, 279594  -- Robbers
+, 8
+, 'Achiad Avigdori'
+, 'Comedy; released 2000; rank > 9'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(123371  -- Game Day
+, 168745  -- Johnny the Amazing Firetruck
+, 8
+, 'Achiad Avigdori'
+, 'Comedy; released 2000; rank > 9'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(123371  -- Game Day
+, 152856  -- Hungry
+, 8
+, 'Achiad Avigdori'
+, 'Comedy; released 2000; rank > 9'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(168745  -- Johnny the Amazing Firetruck
+, 79593   -- David Nelson Live
+, 8
+, 'Achiad Avigdori'
+, 'Comedy; released 2000; rank > 9'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(168745  -- Johnny the Amazing Firetruck
+, 279594  -- Robbers
+, 8
+, 'Achiad Avigdori'
+, 'Comedy; released 2000; rank > 9'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(168745  -- Johnny the Amazing Firetruck
+, 123371  -- Game Day
+, 8
+, 'Achiad Avigdori'
+, 'Comedy; released 2000; rank > 9'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(168745  -- Johnny the Amazing Firetruck
+, 152856  -- Hungry
+, 8
+, 'Achiad Avigdori'
+, 'Comedy; released 2000; rank > 9'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(152856  -- Hungry
+, 79593   -- David Nelson Live
+, 8
+, 'Achiad Avigdori'
+, 'Comedy; released 2000; rank > 9'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(152856  -- Hungry
+, 279594  -- Robbers
+, 8
+, 'Achiad Avigdori'
+, 'Comedy; released 2000; rank > 9'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(152856  -- Hungry
+, 123371  -- Game Day
+, 8
+, 'Achiad Avigdori'
+, 'Comedy; released 2000; rank > 9'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(152856  -- Hungry
+, 168745  -- Johnny the Amazing Firetruck
+, 8
+, 'Achiad Avigdori'
+, 'Comedy; released 2000; rank > 9'
+, NULL
+);
+
+-- recommendations for movies in the same series
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(81  -- 'Columbia' and 'Shamrock II': Jockeying and Starting
+, 82  -- 'Columbia' and 'Shamrock II': Start of Second Race
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(81  -- 'Columbia' and 'Shamrock II': Jockeying and Starting
+, 83  -- 'Columbia' and 'Shamrock II': Starting in the Third Race
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(81  -- 'Columbia' and 'Shamrock II': Jockeying and Starting
+, 84  -- 'Columbia' and 'Shamrock II': Turning the Outer Stake Boat
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(82  -- 'Columbia' and 'Shamrock II': Start of Second Race
+, 81  -- 'Columbia' and 'Shamrock II': Jockeying and Starting
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(82  -- 'Columbia' and 'Shamrock II': Start of Second Race
+, 83  -- 'Columbia' and 'Shamrock II': Starting in the Third Race
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(82  -- 'Columbia' and 'Shamrock II': Start of Second Race
+, 84  -- 'Columbia' and 'Shamrock II': Turning the Outer Stake Boat
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(83  -- 'Columbia' and 'Shamrock II': Starting in the Third Race
+, 81  -- 'Columbia' and 'Shamrock II': Jockeying and Starting
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(83  -- 'Columbia' and 'Shamrock II': Starting in the Third Race
+, 82  -- 'Columbia' and 'Shamrock II': Start of Second Race
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(83  -- 'Columbia' and 'Shamrock II': Starting in the Third Race
+, 84  -- 'Columbia' and 'Shamrock II': Turning the Outer Stake Boat
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(84  -- 'Columbia' and 'Shamrock II': Turning the Outer Stake Boat
+, 81  -- 'Columbia' and 'Shamrock II': Jockeying and Starting
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(84  -- 'Columbia' and 'Shamrock II': Turning the Outer Stake Boat
+, 82  -- 'Columbia' and 'Shamrock II': Start of Second Race
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(84  -- 'Columbia' and 'Shamrock II': Turning the Outer Stake Boat
+, 83  -- 'Columbia' and 'Shamrock II': Starting in the Third Race
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(178  -- 'N Sync: 'Ntimale Holiday Special
+, 179  -- 'N Sync: Live From Madison Square Garden
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(178  -- 'N Sync: 'Ntimale Holiday Special
+, 180  -- 'N Sync: Making the Tour
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(178  -- 'N Sync: 'Ntimale Holiday Special
+, 181  -- 'N Sync: No Strings Attached
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(178  -- 'N Sync: 'Ntimale Holiday Special
+, 182  -- 'N Sync: PopOdyssey Live
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(178  -- 'N Sync: 'Ntimale Holiday Special
+, 183  -- 'N Sync: The Atlantis Concert
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(179  -- 'N Sync: Live From Madison Square Garden
+, 178  -- 'N Sync: 'Ntimale Holiday Special
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(179  -- 'N Sync: Live From Madison Square Garden
+, 180  -- 'N Sync: Making the Tour
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(179  -- 'N Sync: Live From Madison Square Garden
+, 181  -- 'N Sync: No Strings Attached
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(179  -- 'N Sync: Live From Madison Square Garden
+, 182  -- 'N Sync: PopOdyssey Live
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(179  -- 'N Sync: Live From Madison Square Garden
+, 183  -- 'N Sync: The Atlantis Concert
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(180  -- 'N Sync: Making the Tour
+, 178  -- 'N Sync: 'Ntimale Holiday Special
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(180  -- 'N Sync: Making the Tour
+, 179  -- 'N Sync: Live From Madison Square Garden
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(180  -- 'N Sync: Making the Tour
+, 181  -- 'N Sync: No Strings Attached
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(180  -- 'N Sync: Making the Tour
+, 182  -- 'N Sync: PopOdyssey Live
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(180  -- 'N Sync: Making the Tour
+, 183  -- 'N Sync: The Atlantis Concert
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(181  -- 'N Sync: No Strings Attached
+, 178  -- 'N Sync: 'Ntimale Holiday Special
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(181  -- 'N Sync: No Strings Attached
+, 179  -- 'N Sync: Live From Madison Square Garden
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(181  -- 'N Sync: No Strings Attached
+, 180  -- 'N Sync: Making the Tour
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(181  -- 'N Sync: No Strings Attached
+, 182  -- 'N Sync: PopOdyssey Live
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(181  -- 'N Sync: No Strings Attached
+, 183  -- 'N Sync: The Atlantis Concert
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(182  -- 'N Sync: PopOdyssey Live
+, 178  -- 'N Sync: 'Ntimale Holiday Special
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(182  -- 'N Sync: PopOdyssey Live
+, 179  -- 'N Sync: Live From Madison Square Garden
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(182  -- 'N Sync: PopOdyssey Live
+, 180  -- 'N Sync: Making the Tour
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(182  -- 'N Sync: PopOdyssey Live
+, 181  -- 'N Sync: No Strings Attached
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(182  -- 'N Sync: PopOdyssey Live
+, 183  -- 'N Sync: The Atlantis Concert
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(183  -- 'N Sync: The Atlantis Concert
+, 178  -- 'N Sync: 'Ntimale Holiday Special
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(183  -- 'N Sync: The Atlantis Concert
+, 179  -- 'N Sync: Live From Madison Square Garden
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(183  -- 'N Sync: The Atlantis Concert
+, 180  -- 'N Sync: Making the Tour
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(183  -- 'N Sync: The Atlantis Concert
+, 181  -- 'N Sync: No Strings Attached
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(183  -- 'N Sync: The Atlantis Concert
+, 182  -- 'N Sync: PopOdyssey Live
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(724  -- 100 Years of Horror
+, 725  -- 100 Years of Horror: Freaks
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(724  -- 100 Years of Horror
+, 726  -- 100 Years of Horror: Giants and Dinosaurs
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(724  -- 100 Years of Horror
+, 727  -- 100 Years of Horror: Maniacs
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(724  -- 100 Years of Horror
+, 728  -- 100 Years of Horror: Scream Queens
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(724  -- 100 Years of Horror
+, 729  -- 100 Years of Horror: Sorcerers
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(724  -- 100 Years of Horror
+, 730  -- 100 Years of Horror: The Aristocrats of Evil
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(724  -- 100 Years of Horror
+, 731  -- 100 Years of Horror: The Count and Company
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(724  -- 100 Years of Horror
+, 732  -- 100 Years of Horror: The Double Demons
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(724  -- 100 Years of Horror
+, 733  -- 100 Years of Horror: The Evil Unseeable
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(724  -- 100 Years of Horror
+, 734  -- 100 Years of Horror: The Frankenstein Family
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(724  -- 100 Years of Horror
+, 735  -- 100 Years of Horror: The Monster Makers
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(724  -- 100 Years of Horror
+, 736  -- 100 Years of Horror: The Walking Dead
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(724  -- 100 Years of Horror
+, 737  -- 100 Years of Horror: Witchcraft and Demons
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(725  -- 100 Years of Horror: Freaks
+, 724  -- 100 Years of Horror
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(725  -- 100 Years of Horror: Freaks
+, 726  -- 100 Years of Horror: Giants and Dinosaurs
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(725  -- 100 Years of Horror: Freaks
+, 727  -- 100 Years of Horror: Maniacs
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(725  -- 100 Years of Horror: Freaks
+, 728  -- 100 Years of Horror: Scream Queens
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(725  -- 100 Years of Horror: Freaks
+, 729  -- 100 Years of Horror: Sorcerers
+, 8
+, 'Achiad Avigdori'
+, 'Same series recommendation'
+, NULL
+);
+
+-- Bad recommendations mismatch horror-comedy
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2657  -- 5 Dark Souls
+, 6259  -- Addicted to His Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2657  -- 5 Dark Souls
+, 8955  -- Ain't Love Funny?
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2657  -- 5 Dark Souls
+, 11637  -- All's Fair in Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2657  -- 5 Dark Souls
+, 26374  -- Baby Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2657  -- 5 Dark Souls
+, 32109  -- Beautiful Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2657  -- 5 Dark Souls
+, 43921  -- Book of Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2657  -- 5 Dark Souls
+, 72721  -- Crazy Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2657  -- 5 Dark Souls
+, 88883  -- Doctor in Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2657  -- 5 Dark Souls
+, 96986  -- Easy to Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2662  -- 5 Dead on the Crimson Canvas
+, 6259  -- Addicted to His Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2662  -- 5 Dead on the Crimson Canvas
+, 8955  -- Ain't Love Funny?
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2662  -- 5 Dead on the Crimson Canvas
+, 11637  -- All's Fair in Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2662  -- 5 Dead on the Crimson Canvas
+, 26374  -- Baby Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2662  -- 5 Dead on the Crimson Canvas
+, 32109  -- Beautiful Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2662  -- 5 Dead on the Crimson Canvas
+, 43921  -- Book of Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2662  -- 5 Dead on the Crimson Canvas
+, 72721  -- Crazy Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2662  -- 5 Dead on the Crimson Canvas
+, 88883  -- Doctor in Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2662  -- 5 Dead on the Crimson Canvas
+, 96986  -- Easy to Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(4980  -- Abomination: Evil Maker 2
+, 6259  -- Addicted to His Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(4980  -- Abomination: Evil Maker 2
+, 8955  -- Ain't Love Funny?
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(4980  -- Abomination: Evil Maker 2
+, 11637  -- All's Fair in Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(4980  -- Abomination: Evil Maker 2
+, 26374  -- Baby Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(4980  -- Abomination: Evil Maker 2
+, 32109  -- Beautiful Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(4980  -- Abomination: Evil Maker 2
+, 43921  -- Book of Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(4980  -- Abomination: Evil Maker 2
+, 72721  -- Crazy Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(4980  -- Abomination: Evil Maker 2
+, 88883  -- Doctor in Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(4980  -- Abomination: Evil Maker 2
+, 96986  -- Easy to Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(6121  -- Adam & Evil
+, 6259  -- Addicted to His Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(6121  -- Adam & Evil
+, 8955  -- Ain't Love Funny?
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(6121  -- Adam & Evil
+, 11637  -- All's Fair in Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(6121  -- Adam & Evil
+, 26374  -- Baby Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(6121  -- Adam & Evil
+, 32109  -- Beautiful Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(6121  -- Adam & Evil
+, 43921  -- Book of Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(6121  -- Adam & Evil
+, 72721  -- Crazy Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(6121  -- Adam & Evil
+, 88883  -- Doctor in Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(6121  -- Adam & Evil
+, 96986  -- Easy to Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(10903  -- Alien Terminator
+, 6259  -- Addicted to His Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(10903  -- Alien Terminator
+, 8955  -- Ain't Love Funny?
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(10903  -- Alien Terminator
+, 11637  -- All's Fair in Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(10903  -- Alien Terminator
+, 26374  -- Baby Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(10903  -- Alien Terminator
+, 32109  -- Beautiful Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(10903  -- Alien Terminator
+, 43921  -- Book of Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(10903  -- Alien Terminator
+, 72721  -- Crazy Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(10903  -- Alien Terminator
+, 88883  -- Doctor in Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(10903  -- Alien Terminator
+, 96986  -- Easy to Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(17622  -- Annabelle
+, 6259  -- Addicted to His Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(17622  -- Annabelle
+, 8955  -- Ain't Love Funny?
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(17622  -- Annabelle
+, 11637  -- All's Fair in Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(17622  -- Annabelle
+, 26374  -- Baby Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(17622  -- Annabelle
+, 32109  -- Beautiful Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(17622  -- Annabelle
+, 43921  -- Book of Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(17622  -- Annabelle
+, 72721  -- Crazy Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(17622  -- Annabelle
+, 88883  -- Doctor in Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(17622  -- Annabelle
+, 96986  -- Easy to Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(21784  -- Ashes of Doom
+, 6259  -- Addicted to His Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(21784  -- Ashes of Doom
+, 8955  -- Ain't Love Funny?
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(21784  -- Ashes of Doom
+, 11637  -- All's Fair in Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(21784  -- Ashes of Doom
+, 26374  -- Baby Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(21784  -- Ashes of Doom
+, 32109  -- Beautiful Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(21784  -- Ashes of Doom
+, 43921  -- Book of Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(21784  -- Ashes of Doom
+, 72721  -- Crazy Love
+, 2
+, 'Achiad Avigdori'
+, 'mismatch horror-comedy'
+, NULL
+);
+
+-- Bad recommendations mismatch sci-fi movies rank > 9.5 to sci-fi movies rank = 1
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(160250  -- Inseguito
+, 107783  -- Fall of a Saga
+, 3
+, 'Achiad Avigdori'
+, 'mismatch high-low rank'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(160250  -- Inseguito
+, 296901  -- Shadowlands
+, 3
+, 'Achiad Avigdori'
+, 'mismatch high-low rank'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(160250  -- Inseguito
+, 328573  -- Terror of Prehistoric Bloody Monster From Space
+, 3
+, 'Achiad Avigdori'
+, 'mismatch high-low rank'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(160250  -- Inseguito
+, 347751  -- Untamed Women
+, 3
+, 'Achiad Avigdori'
+, 'mismatch high-low rank'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(323619  -- Taking Tiger Mountain
+, 107783  -- Fall of a Saga
+, 3
+, 'Achiad Avigdori'
+, 'mismatch high-low rank'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(137709  -- Halo
+, 107783  -- Fall of a Saga
+, 3
+, 'Achiad Avigdori'
+, 'mismatch high-low rank'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(137709  -- Halo
+, 296901  -- Shadowlands
+, 3
+, 'Achiad Avigdori'
+, 'mismatch high-low rank'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(137709  -- Halo
+, 328573  -- Terror of Prehistoric Bloody Monster From Space
+, 3
+, 'Achiad Avigdori'
+, 'mismatch high-low rank'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(137709  -- Halo
+, 347751  -- Untamed Women
+, 3
+, 'Achiad Avigdori'
+, 'mismatch high-low rank'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(302296  -- Simulacra
+, 107783  -- Fall of a Saga
+, 3
+, 'Achiad Avigdori'
+, 'mismatch high-low rank'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(302296  -- Simulacra
+, 296901  -- Shadowlands
+, 3
+, 'Achiad Avigdori'
+, 'mismatch high-low rank'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(302296  -- Simulacra
+, 328573  -- Terror of Prehistoric Bloody Monster From Space
+, 3
+, 'Achiad Avigdori'
+, 'mismatch high-low rank'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(302296  -- Simulacra
+, 347751  -- Untamed Women
+, 3
+, 'Achiad Avigdori'
+, 'mismatch high-low rank'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(199529  -- Made Incorrect
+, 107783  -- Fall of a Saga
+, 3
+, 'Achiad Avigdori'
+, 'mismatch high-low rank'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(199529  -- Made Incorrect
+, 296901  -- Shadowlands
+, 3
+, 'Achiad Avigdori'
+, 'mismatch high-low rank'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(199529  -- Made Incorrect
+, 328573  -- Terror of Prehistoric Bloody Monster From Space
+, 3
+, 'Achiad Avigdori'
+, 'mismatch high-low rank'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(199529  -- Made Incorrect
+, 347751  -- Untamed Women
+, 3
+, 'Achiad Avigdori'
+, 'mismatch high-low rank'
+, NULL
+);
+
+-- Bad recommendations mismatch action + year = 2004 to action + year=1970
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(4830  -- Abgefahren
+, 16888  -- Angels Die Hard
+, 4
+, 'Achiad Avigdori'
+, 'mismatch action-year'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(4830  -- Abgefahren
+, 229259  -- Ned Kelly
+, 4
+, 'Achiad Avigdori'
+, 'mismatch action-year'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(4830  -- Abgefahren
+, 316661  -- Street of a Thousand Pleasures
+, 4
+, 'Achiad Avigdori'
+, 'mismatch action-year'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(8277  -- Agents secrets
+, 16888  -- Angels Die Hard
+, 4
+, 'Achiad Avigdori'
+, 'mismatch action-year'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(8277  -- Agents secrets
+, 16753  -- Angel Unchained
+, 4
+, 'Achiad Avigdori'
+, 'mismatch action-year'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(8277  -- Agents secrets
+, 149726  -- Horror of the Blood Monsters
+, 4
+, 'Achiad Avigdori'
+, 'mismatch action-year'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(8277  -- Agents secrets
+, 229259  -- Ned Kelly
+, 4
+, 'Achiad Avigdori'
+, 'mismatch action-year'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(8277  -- Agents secrets
+, 316661  -- Street of a Thousand Pleasures
+, 4
+, 'Achiad Avigdori'
+, 'mismatch action-year'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(20620  -- Around the World in 80 Days
+, 16888  -- Angels Die Hard
+, 4
+, 'Achiad Avigdori'
+, 'mismatch action-year'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(20620  -- Around the World in 80 Days
+, 16753  -- Angel Unchained
+, 4
+, 'Achiad Avigdori'
+, 'mismatch action-year'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(20620  -- Around the World in 80 Days
+, 149726  -- Horror of the Blood Monsters
+, 4
+, 'Achiad Avigdori'
+, 'mismatch action-year'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(20620  -- Around the World in 80 Days
+, 229259  -- Ned Kelly
+, 4
+, 'Achiad Avigdori'
+, 'mismatch action-year'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(20620  -- Around the World in 80 Days
+, 316661  -- Street of a Thousand Pleasures
+, 4
+, 'Achiad Avigdori'
+, 'mismatch action-year'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(28657  -- Balls Deep
+, 16888  -- Angels Die Hard
+, 4
+, 'Achiad Avigdori'
+, 'mismatch action-year'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(28657  -- Balls Deep
+, 16753  -- Angel Unchained
+, 4
+, 'Achiad Avigdori'
+, 'mismatch action-year'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(28657  -- Balls Deep
+, 149726  -- Horror of the Blood Monsters
+, 4
+, 'Achiad Avigdori'
+, 'mismatch action-year'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(28657  -- Balls Deep
+, 229259  -- Ned Kelly
+, 4
+, 'Achiad Avigdori'
+, 'mismatch action-year'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(28657  -- Balls Deep
+, 316661  -- Street of a Thousand Pleasures
+, 4
+, 'Achiad Avigdori'
+, 'mismatch action-year'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(42030  -- Blueberry
+, 16888  -- Angels Die Hard
+, 4
+, 'Achiad Avigdori'
+, 'mismatch action-year'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(42030  -- Blueberry
+, 16753  -- Angel Unchained
+, 4
+, 'Achiad Avigdori'
+, 'mismatch action-year'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(42030  -- Blueberry
+, 149726  -- Horror of the Blood Monsters
+, 4
+, 'Achiad Avigdori'
+, 'mismatch action-year'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(42030  -- Blueberry
+, 316661  -- Street of a Thousand Pleasures
+, 4
+, 'Achiad Avigdori'
+, 'mismatch action-year'
+, NULL
+);

@@ -1,0 +1,1800 @@
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 15 -- $30
+, 18 -- $40,000
+, 9
+, 'maya apter'
+, 'Both are highly-rated Comedy movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 15 -- $30
+, 51 -- 'A'
+, 9
+, 'maya apter'
+, 'Both are highly-rated Short movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 15 -- $30
+, 52 -- 'A' gai waak
+, 9
+, 'maya apter'
+, 'Both are highly-rated Comedy movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 15 -- $30
+, 53 -- 'A' gai waak juk jaap
+, 9
+, 'maya apter'
+, 'Both are highly-rated Comedy movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 15 -- $30
+, 100 -- 'E'
+, 9
+, 'maya apter'
+, 'Both are highly-rated Comedy, Short movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 15 -- $30
+, 121 -- 'High Sign', The
+, 9
+, 'maya apter'
+, 'Both are highly-rated Comedy, Short movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 15 -- $30
+, 153 -- 'Mad' Boy, I'll Blow Your Blues Away. Be Mine
+, 9
+, 'maya apter'
+, 'Both are highly-rated Short movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 15 -- $30
+, 330 -- +1 -1
+, 9
+, 'maya apter'
+, 'Both are highly-rated Comedy, Short movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 15 -- $30
+, 338 -- ...A Valparaso
+, 9
+, 'maya apter'
+, 'Both are highly-rated Short movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 15 -- $30
+, 365 -- ...borgnes sont rois, Les
+, 9
+, 'maya apter'
+, 'Both are highly-rated Short movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 15 -- $30
+, 413 -- ...Ja teeb trikke
+, 9
+, 'maya apter'
+, 'Both are highly-rated Comedy, Short movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 15 -- $30
+, 499 -- ...ya no puede caminar.
+, 9
+, 'maya apter'
+, 'Both are highly-rated Short movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 15 -- $30
+, 618 -- 10 from Your Show of Shows
+, 9
+, 'maya apter'
+, 'Both are highly-rated Comedy movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 15 -- $30
+, 628 -- 10 minuta
+, 9
+, 'maya apter'
+, 'Both are highly-rated Short movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 15 -- $30
+, 641 -- 10 Seconds
+, 9
+, 'maya apter'
+, 'Both are highly-rated Short movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 15 -- $30
+, 798 -- 100% Service
+, 9
+, 'maya apter'
+, 'Both are highly-rated Comedy, Short movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 15 -- $30
+, 829 -- 10000th Day, The
+, 9
+, 'maya apter'
+, 'Both are highly-rated Short movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 15 -- $30
+, 837 -- 1001 Nights
+, 9
+, 'maya apter'
+, 'Both are highly-rated Short movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 18 -- $40,000
+, 52 -- 'A' gai waak
+, 9
+, 'maya apter'
+, 'Both are highly-rated Comedy movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 18 -- $40,000
+, 53 -- 'A' gai waak juk jaap
+, 9
+, 'maya apter'
+, 'Both are highly-rated Comedy movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 18 -- $40,000
+, 100 -- 'E'
+, 9
+, 'maya apter'
+, 'Both are highly-rated Comedy movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 18 -- $40,000
+, 121 -- 'High Sign', The
+, 9
+, 'maya apter'
+, 'Both are highly-rated Comedy movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 18 -- $40,000
+, 330 -- +1 -1
+, 9
+, 'maya apter'
+, 'Both are highly-rated Comedy movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 18 -- $40,000
+, 413 -- ...Ja teeb trikke
+, 9
+, 'maya apter'
+, 'Both are highly-rated Comedy movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 18 -- $40,000
+, 618 -- 10 from Your Show of Shows
+, 9
+, 'maya apter'
+, 'Both are highly-rated Comedy movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 18 -- $40,000
+, 798 -- 100% Service
+, 9
+, 'maya apter'
+, 'Both are highly-rated Comedy movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 51 -- 'A'
+, 100 -- 'E'
+, 9
+, 'maya apter'
+, 'Both are highly-rated Short movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 51 -- 'A'
+, 121 -- 'High Sign', The
+, 9
+, 'maya apter'
+, 'Both are highly-rated Short movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 51 -- 'A'
+, 153 -- 'Mad' Boy, I'll Blow Your Blues Away. Be Mine
+, 9
+, 'maya apter'
+, 'Both are highly-rated Short movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 51 -- 'A'
+, 330 -- +1 -1
+, 9
+, 'maya apter'
+, 'Both are highly-rated Short movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 51 -- 'A'
+, 338 -- ...A Valparaso
+, 9
+, 'maya apter'
+, 'Both are highly-rated Short movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 51 -- 'A'
+, 365 -- ...borgnes sont rois, Les
+, 9
+, 'maya apter'
+, 'Both are highly-rated Short movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 51 -- 'A'
+, 413 -- ...Ja teeb trikke
+, 9
+, 'maya apter'
+, 'Both are highly-rated Short movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 51 -- 'A'
+, 499 -- ...ya no puede caminar.
+, 9
+, 'maya apter'
+, 'Both are highly-rated Short movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 51 -- 'A'
+, 628 -- 10 minuta
+, 9
+, 'maya apter'
+, 'Both are highly-rated Short movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 51 -- 'A'
+, 641 -- 10 Seconds
+, 9
+, 'maya apter'
+, 'Both are highly-rated Short movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 51 -- 'A'
+, 798 -- 100% Service
+, 9
+, 'maya apter'
+, 'Both are highly-rated Short movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 51 -- 'A'
+, 829 -- 10000th Day, The
+, 9
+, 'maya apter'
+, 'Both are highly-rated Short movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 51 -- 'A'
+, 837 -- 1001 Nights
+, 9
+, 'maya apter'
+, 'Both are highly-rated Short movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 52 -- 'A' gai waak
+, 53 -- 'A' gai waak juk jaap
+, 9
+, 'maya apter'
+, 'Both are highly-rated Action, Comedy movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 52 -- 'A' gai waak
+, 100 -- 'E'
+, 9
+, 'maya apter'
+, 'Both are highly-rated Comedy movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 52 -- 'A' gai waak
+, 121 -- 'High Sign', The
+, 9
+, 'maya apter'
+, 'Both are highly-rated Comedy movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 52 -- 'A' gai waak
+, 330 -- +1 -1
+, 9
+, 'maya apter'
+, 'Both are highly-rated Comedy movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 52 -- 'A' gai waak
+, 413 -- ...Ja teeb trikke
+, 9
+, 'maya apter'
+, 'Both are highly-rated Comedy movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 52 -- 'A' gai waak
+, 618 -- 10 from Your Show of Shows
+, 9
+, 'maya apter'
+, 'Both are highly-rated Comedy movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 52 -- 'A' gai waak
+, 798 -- 100% Service
+, 9
+, 'maya apter'
+, 'Both are highly-rated Comedy movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 53 -- 'A' gai waak juk jaap
+, 100 -- 'E'
+, 9
+, 'maya apter'
+, 'Both are highly-rated Comedy movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 53 -- 'A' gai waak juk jaap
+, 108 -- 'G' Men
+, 9
+, 'maya apter'
+, 'Both are highly-rated Crime movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 53 -- 'A' gai waak juk jaap
+, 121 -- 'High Sign', The
+, 9
+, 'maya apter'
+, 'Both are highly-rated Comedy movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 53 -- 'A' gai waak juk jaap
+, 330 -- +1 -1
+, 9
+, 'maya apter'
+, 'Both are highly-rated Comedy movies'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 528 -- 002 operazione Luna
+, 257 -- 'Teddy' Bears, The
+, 9
+, 'maya apter'
+, 'Both movies are top-rated and share themes that fans will enjoy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 644 -- 10 Things I Hate About You
+, 523 -- 0-600-Amor ya
+, 8
+, 'maya apter'
+, 'Similar genre and tone, recommended for fans of the style'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 381 -- ...e continuavano a mettere lo diavolo ne lo inferno
+, 1017 -- 127 millones libres de impuestos
+, 7
+, 'maya apter'
+, 'Similar genre and tone, recommended for fans of the style'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 22 -- $5.20 an Hour Dream, The
+, 723 -- 100 Years of Hope and Humor
+, 9
+, 'maya apter'
+, 'Both movies are top-rated and share themes that fans will enjoy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 735 -- 100 Years of Horror: The Monster Makers
+, 869 -- 101 Rent Boys
+, 10
+, 'maya apter'
+, 'Both movies are top-rated and share themes that fans will enjoy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 411 -- ...It Is Nice to Be Privileged
+, 311 -- (G)
+, 9
+, 'maya apter'
+, 'Both movies are top-rated and share themes that fans will enjoy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 477 -- ...und sowas nennt sich Show
+, 373 -- ...denn alle Schuld rcht sich auf Erden
+, 8
+, 'maya apter'
+, 'Similar genre and tone, recommended for fans of the style'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 1073 -- 13th Floor, The
+, 704 -- 100 Lives of Black Jack Savage, The
+, 7
+, 'maya apter'
+, 'Similar genre and tone, recommended for fans of the style'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 850 -- 101 Dalmatians Sing Along
+, 936 -- 111-es, A
+, 7
+, 'maya apter'
+, 'Similar genre and tone, recommended for fans of the style'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 370 -- ...continuavano a chiamarlo Trinit
+, 130 -- 'Imhar', une lgende
+, 9
+, 'maya apter'
+, 'Both movies are top-rated and share themes that fans will enjoy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 350 -- ...And Millions Die!
+, 90 -- 'Corsair', The
+, 8
+, 'maya apter'
+, 'Similar genre and tone, recommended for fans of the style'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 555 -- 1 + 1 = 3
+, 474 -- ...und oben wohnen die Engel
+, 7
+, 'maya apter'
+, 'Similar genre and tone, recommended for fans of the style'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 277 -- 'Twas Ever Thus
+, 162 -- 'Meteor III' Afloat
+, 8
+, 'maya apter'
+, 'Similar genre and tone, recommended for fans of the style'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 47 -- '88 Dodge Aries
+, 878 -- 102
+, 9
+, 'maya apter'
+, 'Both movies are top-rated and share themes that fans will enjoy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 923 -- 11-22-63: The Day the Nation Cried
+, 934 -- 110/220
+, 8
+, 'maya apter'
+, 'Similar genre and tone, recommended for fans of the style'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 834 -- 1001 films
+, 980 -- 12 Hot Women
+, 10
+, 'maya apter'
+, 'Both movies are top-rated and share themes that fans will enjoy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 632 -- 10 Minuten zwischen Hamburg und Salzburg
+, 1026 -- 13 Dead Men
+, 8
+, 'maya apter'
+, 'Similar genre and tone, recommended for fans of the style'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 235 -- 'Shamrock' and 'Columbia' Jockeying for a Start
+, 801 -- 100% Wool
+, 7
+, 'maya apter'
+, 'Similar genre and tone, recommended for fans of the style'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 690 -- 100 Greatest TV Characters, The
+, 308 -- (Brief Inquiry Into)
+, 10
+, 'maya apter'
+, 'Both movies are top-rated and share themes that fans will enjoy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 206 -- 'Partizanka'
+, 252 -- 't is maar een woord
+, 8
+, 'maya apter'
+, 'Similar genre and tone, recommended for fans of the style'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 705 -- 100 Lovers of Jesus Reynolds
+, 504 -- ...s jtra mosolyognak
+, 7
+, 'maya apter'
+, 'Similar genre and tone, recommended for fans of the style'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 295 -- 'Weird Al' Yankovic: The Videos
+, 981 -- 12 Inches of Dangling Fury
+, 7
+, 'maya apter'
+, 'Similar genre and tone, recommended for fans of the style'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 798 -- 100% Service
+, 302 -- 'Zmeiny istochnik
+, 8
+, 'maya apter'
+, 'Similar genre and tone, recommended for fans of the style'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 340 -- ...A ya uezzhayu domoy
+, 415 -- ...kone na betne
+, 7
+, 'maya apter'
+, 'Similar genre and tone, recommended for fans of the style'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 271 -- 'Tis the Ball
+, 316 -- (Ohne Titel)
+, 10
+, 'maya apter'
+, 'Both movies are top-rated and share themes that fans will enjoy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 147 -- 'Leapfrog' on the Beach
+, 358 -- ...Au champ d'honneur
+, 7
+, 'maya apter'
+, 'Similar genre and tone, recommended for fans of the style'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 469 -- ...und htte der Liebe nicht
+, 589 -- 1-2-3 Go!
+, 10
+, 'maya apter'
+, 'Both movies are top-rated and share themes that fans will enjoy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 1023 -- 12x12
+, 540 -- 01412 pasasingeum
+, 8
+, 'maya apter'
+, 'Similar genre and tone, recommended for fans of the style'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 619 -- 10 Jahre DDR in Filmdokumenten 1949-1959
+, 887 -- 105 ha otoko no bang
+, 7
+, 'maya apter'
+, 'Similar genre and tone, recommended for fans of the style'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 765 -- 100% Blowjobs 22
+, 958 -- 11th American Music Awards, The
+, 10
+, 'maya apter'
+, 'Both movies are top-rated and share themes that fans will enjoy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 229 -- 'Sagres' em Marselha e Regresso a Lisboa
+, 1065 -- 1300 godini bulgraska civilizacija
+, 9
+, 'maya apter'
+, 'Both movies are top-rated and share themes that fans will enjoy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 660 -- 10,000 Kids and a Cop
+, 952 -- 11:00 AM
+, 10
+, 'maya apter'
+, 'Both movies are top-rated and share themes that fans will enjoy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 450 -- ...tick...tick...tick...
+, 116 -- 'Graf Waldersee'
+, 9
+, 'maya apter'
+, 'Both movies are top-rated and share themes that fans will enjoy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 431 -- ...Quando Troveja
+, 601 -- 1/2 8
+, 10
+, 'maya apter'
+, 'Both movies are top-rated and share themes that fans will enjoy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 332 -- -But the Flesh Is Weak
+, 599 -- 1. maj 1960
+, 8
+, 'maya apter'
+, 'Similar genre and tone, recommended for fans of the style'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 579 -- 1, 2, 3, Coco
+, 1024 -- 13 (1999/I)
+, 7
+, 'maya apter'
+, 'Similar genre and tone, recommended for fans of the style'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 866 -- 101 Most Starlicious Makeovers
+, 599 -- 1. maj 1960
+, 9
+, 'maya apter'
+, 'Both movies are top-rated and share themes that fans will enjoy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 64 -- 'Bats' Abound
+, 400 -- ...First Do No Harm
+, 8
+, 'maya apter'
+, 'Similar genre and tone, recommended for fans of the style'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 426 -- ...och efter skymning kommer mrker
+, 470 -- ...und ich dachte, du magst mich
+, 7
+, 'maya apter'
+, 'Similar genre and tone, recommended for fans of the style'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 636 -- 10 pesen o Moskve
+, 174 -- 'N herinnering wijlen Z.M. Willem III een rijtoer makende door het Vondelpark te Amsterdam, 'N (1899
+, 10
+, 'maya apter'
+, 'Both movies are top-rated and share themes that fans will enjoy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 952 -- 11:00 AM
+, 597 -- 1. April 2000
+, 10
+, 'maya apter'
+, 'Both movies are top-rated and share themes that fans will enjoy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 345 -- ...Almost
+, 539 -- 011 Beograd
+, 10
+, 'maya apter'
+, 'Both movies are top-rated and share themes that fans will enjoy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 1024 -- 13 (1999/I)
+, 842 -- 1003. Nacht, Die
+, 9
+, 'maya apter'
+, 'Both movies are top-rated and share themes that fans will enjoy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 244 -- 'Sloboda' - Kula
+, 1016 -- 125 rue Montmartre
+, 7
+, 'maya apter'
+, 'Similar genre and tone, recommended for fans of the style'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 74 -- 'C' Word, The
+, 298 -- 'When It Rains'
+, 7
+, 'maya apter'
+, 'Similar genre and tone, recommended for fans of the style'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 727 -- 100 Years of Horror: Maniacs
+, 881 -- 102 Dalmatians: Puppies to the Rescue
+, 7
+, 'maya apter'
+, 'Similar genre and tone, recommended for fans of the style'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 717 -- 100 tag cignyzenekar a Hsk tern, A
+, 191 -- 'Nendo no omen' yori: kaachan
+, 9
+, 'maya apter'
+, 'Both movies are top-rated and share themes that fans will enjoy'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 313 -- (Haru)
+, 105 -- 'Fighting' Dan McCool
+, 7
+, 'maya apter'
+, 'Similar genre and tone, recommended for fans of the style'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 675 -- 100 Days
+, 456 -- ...und Deine Liebe auch
+, 7
+, 'maya apter'
+, 'Similar genre and tone, recommended for fans of the style'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 1046 -- 13 Moons
+, 159 -- 'Meng' jiu jia zhi ye
+, 7
+, 'maya apter'
+, 'Similar genre and tone, recommended for fans of the style'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 6 -- $1,000,000 Duck
+, 184 -- 'Ne gnstige Gelegenheit
+, 3
+, 'maya apter'
+, 'Same director, but this film received poor reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 6 -- $1,000,000 Duck
+, 186 -- 'Neath Brooklyn Bridge
+, 3
+, 'maya apter'
+, 'Same director, but this film received poor reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 6 -- $1,000,000 Duck
+, 263 -- 'Til There Was You
+, 3
+, 'maya apter'
+, 'Same director, but this film received poor reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 6 -- $1,000,000 Duck
+, 359 -- ...Aur Pyaar Ho Gaya
+, 3
+, 'maya apter'
+, 'Same director, but this film received poor reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 6 -- $1,000,000 Duck
+, 585 -- 1,99 - Um Supermercado Que Vende Palavras
+, 3
+, 'maya apter'
+, 'Same director, but this film received poor reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 6 -- $1,000,000 Duck
+, 589 -- 1-2-3 Go!
+, 3
+, 'maya apter'
+, 'Same director, but this film received poor reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 6 -- $1,000,000 Duck
+, 713 -- 100 Pro
+, 3
+, 'maya apter'
+, 'Same director, but this film received poor reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 6 -- $1,000,000 Duck
+, 749 -- 100% Arabica
+, 3
+, 'maya apter'
+, 'Same director, but this film received poor reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 6 -- $1,000,000 Duck
+, 876 -- 101st Proposition, The
+, 3
+, 'maya apter'
+, 'Same director, but this film received poor reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 6 -- $1,000,000 Duck
+, 880 -- 102 Dalmatians
+, 3
+, 'maya apter'
+, 'Same director, but this film received poor reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 6 -- $1,000,000 Duck
+, 907 -- 11 commandements, Les
+, 3
+, 'maya apter'
+, 'Same director, but this film received poor reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 31 -- $pent
+, 362 -- ...Belpaese, Il
+, 3
+, 'maya apter'
+, 'Same director, but this film received poor reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 31 -- $pent
+, 437 -- ...reitet fr Deutschland
+, 3
+, 'maya apter'
+, 'Same director, but this film received poor reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 31 -- $pent
+, 445 -- ...som havets nakna vind
+, 3
+, 'maya apter'
+, 'Same director, but this film received poor reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 31 -- $pent
+, 480 -- ...und ber uns der Himmel
+, 3
+, 'maya apter'
+, 'Same director, but this film received poor reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 31 -- $pent
+, 548 -- 08/15
+, 3
+, 'maya apter'
+, 'Same director, but this film received poor reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 31 -- $pent
+, 549 -- 08/15 - In der Heimat
+, 3
+, 'maya apter'
+, 'Same director, but this film received poor reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 31 -- $pent
+, 550 -- 08/15 - Zweiter Teil
+, 3
+, 'maya apter'
+, 'Same director, but this film received poor reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 31 -- $pent
+, 551 -- 091 Polica al habla
+, 3
+, 'maya apter'
+, 'Same director, but this film received poor reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 33 -- $windle
+, 344 -- ...All the Marbles
+, 3
+, 'maya apter'
+, 'Same director, but this film received poor reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 33 -- $windle
+, 350 -- ...And Millions Die!
+, 3
+, 'maya apter'
+, 'Same director, but this film received poor reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 33 -- $windle
+, 551 -- 091 Polica al habla
+, 3
+, 'maya apter'
+, 'Same director, but this film received poor reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 33 -- $windle
+, 646 -- 10 Violent Women
+, 3
+, 'maya apter'
+, 'Same director, but this film received poor reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 44 -- '68
+, 437 -- ...reitet fr Deutschland
+, 3
+, 'maya apter'
+, 'Same director, but this film received poor reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 44 -- '68
+, 445 -- ...som havets nakna vind
+, 3
+, 'maya apter'
+, 'Same director, but this film received poor reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 44 -- '68
+, 480 -- ...und ber uns der Himmel
+, 3
+, 'maya apter'
+, 'Same director, but this film received poor reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 44 -- '68
+, 548 -- 08/15
+, 3
+, 'maya apter'
+, 'Same director, but this film received poor reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 44 -- '68
+, 549 -- 08/15 - In der Heimat
+, 3
+, 'maya apter'
+, 'Same director, but this film received poor reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 44 -- '68
+, 550 -- 08/15 - Zweiter Teil
+, 3
+, 'maya apter'
+, 'Same director, but this film received poor reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 44 -- '68
+, 551 -- 091 Polica al habla
+, 3
+, 'maya apter'
+, 'Same director, but this film received poor reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 87 -- 'Columbia' Winning the Cup
+, 187 -- 'Neath Canadian Skies
+, 3
+, 'maya apter'
+, 'Same director, but this film received poor reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 87 -- 'Columbia' Winning the Cup
+, 340 -- ...A ya uezzhayu domoy
+, 3
+, 'maya apter'
+, 'Same director, but this film received poor reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 87 -- 'Columbia' Winning the Cup
+, 409 -- ...Is It the Design on the Wrapper?
+, 3
+, 'maya apter'
+, 'Same director, but this film received poor reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 87 -- 'Columbia' Winning the Cup
+, 585 -- 1,99 - Um Supermercado Que Vende Palavras
+, 3
+, 'maya apter'
+, 'Same director, but this film received poor reviews'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 87 -- 'Columbia' Winning the Cup
+, 589 -- 1-2-3 Go!
+, 3
+, 'maya apter'
+, 'Same genre, but the 20 years gap shows a big difference in style and quality'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 94 -- 'Crocodile' Dundee II
+, 186 -- 'Neath Brooklyn Bridge
+, 3
+, 'maya apter'
+, 'Same genre, but the 20 years gap shows a big difference in style and quality'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 94 -- 'Crocodile' Dundee II
+, 476 -- ...und sowas mu um 8 ins Bett
+, 3
+, 'maya apter'
+, 'Same genre, but the 20 years gap shows a big difference in style and quality'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 94 -- 'Crocodile' Dundee II
+, 529 -- 007 1/2 no Carnaval
+, 3
+, 'maya apter'
+, 'Same genre, but the 20 years gap shows a big difference in style and quality'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 94 -- 'Crocodile' Dundee II
+, 589 -- 1-2-3 Go!
+, 3
+, 'maya apter'
+, 'Same genre, but the 20 years gap shows a big difference in style and quality'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 94 -- 'Crocodile' Dundee II
+, 823 -- 1000 Shapes of a Female
+, 3
+, 'maya apter'
+, 'Same genre, but the 20 years gap shows a big difference in style and quality'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 127 -- 'If Only' Jim
+, 187 -- 'Neath Canadian Skies
+, 3
+, 'maya apter'
+, 'Same genre, but the 20 years gap shows a big difference in style and quality'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 127 -- 'If Only' Jim
+, 390 -- ...e per tetto un cielo di stelle
+, 3
+, 'maya apter'
+, 'Same genre, but the 20 years gap shows a big difference in style and quality'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 139 -- 'J to tedy beru, sfe...!'
+, 184 -- 'Ne gnstige Gelegenheit
+, 3
+, 'maya apter'
+, 'Same genre, but the 20 years gap shows a big difference in style and quality'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 139 -- 'J to tedy beru, sfe...!'
+, 186 -- 'Neath Brooklyn Bridge
+, 3
+, 'maya apter'
+, 'Same genre, but the 20 years gap shows a big difference in style and quality'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 139 -- 'J to tedy beru, sfe...!'
+, 263 -- 'Til There Was You
+, 3
+, 'maya apter'
+, 'Same genre, but the 20 years gap shows a big difference in style and quality'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 139 -- 'J to tedy beru, sfe...!'
+, 359 -- ...Aur Pyaar Ho Gaya
+, 3
+, 'maya apter'
+, 'Same genre, but the 20 years gap shows a big difference in style and quality'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 139 -- 'J to tedy beru, sfe...!'
+, 585 -- 1,99 - Um Supermercado Que Vende Palavras
+, 3
+, 'maya apter'
+, 'Same genre, but the 20 years gap shows a big difference in style and quality'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 139 -- 'J to tedy beru, sfe...!'
+, 589 -- 1-2-3 Go!
+, 3
+, 'maya apter'
+, 'Same genre, but the 20 years gap shows a big difference in style and quality'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 139 -- 'J to tedy beru, sfe...!'
+, 713 -- 100 Pro
+, 3
+, 'maya apter'
+, 'Same genre, but the 20 years gap shows a big difference in style and quality'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 139 -- 'J to tedy beru, sfe...!'
+, 749 -- 100% Arabica
+, 3
+, 'maya apter'
+, 'Same genre, but the 20 years gap shows a big difference in style and quality'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 139 -- 'J to tedy beru, sfe...!'
+, 880 -- 102 Dalmatians
+, 3
+, 'maya apter'
+, 'Same genre, but the 20 years gap shows a big difference in style and quality'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 139 -- 'J to tedy beru, sfe...!'
+, 907 -- 11 commandements, Les
+, 3
+, 'maya apter'
+, 'Same genre, but the 20 years gap shows a big difference in style and quality'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 184 -- 'Ne gnstige Gelegenheit
+, 186 -- 'Neath Brooklyn Bridge
+, 3
+, 'maya apter'
+, 'Same genre, but the 20 years gap shows a big difference in style and quality'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 184 -- 'Ne gnstige Gelegenheit
+, 362 -- ...Belpaese, Il
+, 3
+, 'maya apter'
+, 'Same genre, but the 20 years gap shows a big difference in style and quality'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 184 -- 'Ne gnstige Gelegenheit
+, 445 -- ...som havets nakna vind
+, 3
+, 'maya apter'
+, 'Same genre, but the 20 years gap shows a big difference in style and quality'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 184 -- 'Ne gnstige Gelegenheit
+, 476 -- ...und sowas mu um 8 ins Bett
+, 3
+, 'maya apter'
+, 'Same genre, but the 20 years gap shows a big difference in style and quality'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 184 -- 'Ne gnstige Gelegenheit
+, 529 -- 007 1/2 no Carnaval
+, 3
+, 'maya apter'
+, 'Same genre, but the 20 years gap shows a big difference in style and quality'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 184 -- 'Ne gnstige Gelegenheit
+, 551 -- 091 Polica al habla
+, 3
+, 'maya apter'
+, 'Same genre, but the 20 years gap shows a big difference in style and quality'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 184 -- 'Ne gnstige Gelegenheit
+, 589 -- 1-2-3 Go!
+, 3
+, 'maya apter'
+, 'Same genre, but the 20 years gap shows a big difference in style and quality'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 184 -- 'Ne gnstige Gelegenheit
+, 823 -- 1000 Shapes of a Female
+, 3
+, 'maya apter'
+, 'Same genre, but the 20 years gap shows a big difference in style and quality'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 186 -- 'Neath Brooklyn Bridge
+, 198 -- 'O re
+, 3
+, 'maya apter'
+, 'Same genre, but the 20 years gap shows a big difference in style and quality'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 186 -- 'Neath Brooklyn Bridge
+, 263 -- 'Til There Was You
+, 3
+, 'maya apter'
+, 'Same genre, but the 20 years gap shows a big difference in style and quality'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 186 -- 'Neath Brooklyn Bridge
+, 344 -- ...All the Marbles
+, 3
+, 'maya apter'
+, 'Same genre, but the 20 years gap shows a big difference in style and quality'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 186 -- 'Neath Brooklyn Bridge
+, 359 -- ...Aur Pyaar Ho Gaya
+, 3
+, 'maya apter'
+, 'Same genre, but the 20 years gap shows a big difference in style and quality'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 186 -- 'Neath Brooklyn Bridge
+, 362 -- ...Belpaese, Il
+, 3
+, 'maya apter'
+, 'Same genre, but the 20 years gap shows a big difference in style and quality'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 186 -- 'Neath Brooklyn Bridge
+, 476 -- ...und sowas mu um 8 ins Bett
+, 3
+, 'maya apter'
+, 'Same genre, but the 20 years gap shows a big difference in style and quality'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 186 -- 'Neath Brooklyn Bridge
+, 487 -- ...Y al tercer ao, resucit
+, 3
+, 'maya apter'
+, 'Same genre, but the 20 years gap shows a big difference in style and quality'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 167 -- 'Minagoroshi no uta' yori kenj-yo saraba!
+, 895 -- 10:30 Check-Out
+, 3
+, 'maya apter'
+, 'Same actor, but a much weaker movie'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 167 -- 'Minagoroshi no uta' yori kenj-yo saraba!
+, 921 -- 11'09''01 - September 11
+, 3
+, 'maya apter'
+, 'Same actor, but a much weaker movie'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 167 -- 'Minagoroshi no uta' yori kenj-yo saraba!
+, 939 -- 1126
+, 3
+, 'maya apter'
+, 'Same actor, but a much weaker movie'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 167 -- 'Minagoroshi no uta' yori kenj-yo saraba!
+, 948 -- 117 police secours
+, 3
+, 'maya apter'
+, 'Same actor, but a much weaker movie'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 14 -- $2500 Bride, The
+, 69 -- 'Breaker' Morant
+, 3
+, 'maya apter'
+, 'Genres Romance and War are fundamentally different, making this a weak recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 14 -- $2500 Bride, The
+, 287 -- 'V' enfrenta a la Blitzkrieg, La
+, 3
+, 'maya apter'
+, 'Genres Romance and War are fundamentally different, making this a weak recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 14 -- $2500 Bride, The
+, 446 -- ...Sometimes in April
+, 3
+, 'maya apter'
+, 'Genres Romance and War are fundamentally different, making this a weak recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 14 -- $2500 Bride, The
+, 548 -- 08/15
+, 3
+, 'maya apter'
+, 'Genres Romance and War are fundamentally different, making this a weak recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 14 -- $2500 Bride, The
+, 549 -- 08/15 - In der Heimat
+, 3
+, 'maya apter'
+, 'Genres Romance and War are fundamentally different, making this a weak recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 59 -- 'Arry and 'Arriet's Evening Out
+, 529 -- 007 1/2 no Carnaval
+, 3
+, 'maya apter'
+, 'Genres Family and Crime are fundamentally different, making this a weak recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 59 -- 'Arry and 'Arriet's Evening Out
+, 548 -- 08/15
+, 3
+, 'maya apter'
+, 'Genres Family and Crime are fundamentally different, making this a weak recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 59 -- 'Arry and 'Arriet's Evening Out
+, 549 -- 08/15 - In der Heimat
+, 3
+, 'maya apter'
+, 'Genres Family and Crime are fundamentally different, making this a weak recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 59 -- 'Arry and 'Arriet's Evening Out
+, 551 -- 091 Polica al habla
+, 3
+, 'maya apter'
+, 'Genres Family and Crime are fundamentally different, making this a weak recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 59 -- 'Arry and 'Arriet's Evening Out
+, 562 -- 1 Fijo
+, 3
+, 'maya apter'
+, 'Genres Family and Crime are fundamentally different, making this a weak recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 59 -- 'Arry and 'Arriet's Evening Out
+, 564 -- 1 heure 30 d'amour
+, 3
+, 'maya apter'
+, 'Genres Family and Crime are fundamentally different, making this a weak recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 82 -- 'Columbia' and 'Shamrock II': Start of Second Race
+, 128 -- 'Imp'probable Mr. Wee Gee, The
+, 3
+, 'maya apter'
+, 'Genres Animation and Horror are fundamentally different, making this a weak recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 82 -- 'Columbia' and 'Shamrock II': Start of Second Race
+, 129 -- 'Imperial Limited.' Canadian Pacific R.R.
+, 3
+, 'maya apter'
+, 'Genres Animation and Horror are fundamentally different, making this a weak recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 82 -- 'Columbia' and 'Shamrock II': Start of Second Race
+, 167 -- 'Minagoroshi no uta' yori kenj-yo saraba!
+, 3
+, 'maya apter'
+, 'Genres Animation and Horror are fundamentally different, making this a weak recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 82 -- 'Columbia' and 'Shamrock II': Start of Second Race
+, 183 -- 'N Sync: The Atlantis Concert
+, 3
+, 'maya apter'
+, 'Genres Animation and Horror are fundamentally different, making this a weak recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 83 -- 'Columbia' and 'Shamrock II': Starting in the Third Race
+, 138 -- 'Jennie Deans', The
+, 3
+, 'maya apter'
+, 'Genres Comedy and Thriller are fundamentally different, making this a weak recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 83 -- 'Columbia' and 'Shamrock II': Starting in the Third Race
+, 140 -- 'k vergeet u nooit, venti
+, 3
+, 'maya apter'
+, 'Genres Comedy and Thriller are fundamentally different, making this a weak recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 83 -- 'Columbia' and 'Shamrock II': Starting in the Third Race
+, 143 -- 'Kronprinz Wilhelm' with Prince Henry (of Prussia)
+, 3
+, 'maya apter'
+, 'Genres Comedy and Thriller are fundamentally different, making this a weak recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 83 -- 'Columbia' and 'Shamrock II': Starting in the Third Race
+, 145 -- 'Ks-Bels' letmdjas: Romvri Jzsef
+, 3
+, 'maya apter'
+, 'Genres Comedy and Thriller are fundamentally different, making this a weak recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 83 -- 'Columbia' and 'Shamrock II': Starting in the Third Race
+, 147 -- 'Leapfrog' on the Beach
+, 3
+, 'maya apter'
+, 'Genres Comedy and Thriller are fundamentally different, making this a weak recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 98 -- 'Diamond S' Ranch, The
+, 128 -- 'Imp'probable Mr. Wee Gee, The
+, 3
+, 'maya apter'
+, 'Genres Musical and Horror are fundamentally different, making this a weak recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 98 -- 'Diamond S' Ranch, The
+, 129 -- 'Imperial Limited.' Canadian Pacific R.R.
+, 3
+, 'maya apter'
+, 'Genres Musical and Horror are fundamentally different, making this a weak recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 98 -- 'Diamond S' Ranch, The
+, 167 -- 'Minagoroshi no uta' yori kenj-yo saraba!
+, 3
+, 'maya apter'
+, 'Genres Musical and Horror are fundamentally different, making this a weak recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 98 -- 'Diamond S' Ranch, The
+, 183 -- 'N Sync: The Atlantis Concert
+, 3
+, 'maya apter'
+, 'Genres Musical and Horror are fundamentally different, making this a weak recommendation'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 136 -- 'Java Madness' formerly titled 'Coffee Madness'
+, 594 -- 1-900
+, 3
+, 'maya apter'
+, 'Different genres, but might appeal to the same viewer'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 415 -- ...kone na betne
+, 215 -- 'Real Indian'
+, 3
+, 'maya apter'
+, 'Different genres, but might appeal to the same viewer'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 1058 -- 13. kes
+, 844 -- 100th Test Match at Lord's: The Ultimate Test
+, 4
+, 'maya apter'
+, 'Different genres, but might appeal to the same viewer'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 409 -- ...Is It the Design on the Wrapper?
+, 900 -- 10th Annual Screen Actors Guild Awards
+, 3
+, 'maya apter'
+, 'Different genres, but might appeal to the same viewer'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES
+( 569 -- 1 Maj 1973
+, 22 -- $5.20 an Hour Dream, The
+, 2
+, 'maya apter'
+, 'Weak recommendation due to significant differences'
+, NULL
+);
+

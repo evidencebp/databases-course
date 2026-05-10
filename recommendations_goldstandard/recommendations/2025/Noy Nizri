@@ -1,0 +1,1937 @@
+
+INSERT INTO movies_recommendations VALUES
+(
+  139653 /* Harry Potter and the Half-Blood Prince */,
+  139654 /* Harry Potter and the Order of the Phoenix */,
+  9,
+  'Noy Nizri',
+  'Harry Potter series sequel',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  238072 /* Ocean's Eleven */,
+  238073 /* Ocean's Twelve */,
+  8,
+  'Noy Nizri',
+  'Ocean’s series sequel',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  291698 /* Se7en */,
+  112290 /* Fight Club */,
+  10,
+  'Noy Nizri',
+  'Stars Brad Pitt',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  333856 /* Titanic */,
+  56871 /* Catch Me If You Can */,
+  9,
+  'Noy Nizri',
+  'Stars Leonardo DiCaprio',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  118367 /* Four Rooms */,
+  267038 /* Pulp Fiction */,
+  8,
+  'Noy Nizri',
+  'Tarantino’s style',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  118367 /* Four Rooms */,
+  176711 /* Kill Bill: Vol. 1 */,
+  9,
+  'Noy Nizri',
+  'Tarantino’s style',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  159665 /* Inglourious Basterds */,
+  276217 /* Reservoir Dogs */,
+  8,
+  'Noy Nizri',
+  'Shared roles',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  214755 /* Minority Report */,
+  61751 /* Children of Men */,
+  8,
+  'Noy Nizri',
+  'Acclaimed dystopian films',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  238072 /* Ocean's Eleven */,
+  340652 /* Troy */,
+  9,
+  'Noy Nizri',
+  'Brad Pitt crossover',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  30967 /* Batman Returns */,
+  30965 /* Batman Forever */,
+  8,
+  'Noy Nizri',
+  'Batman series sequel',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  340652 /* Troy */,
+  291698 /* Se7en */,
+  8,
+  'Noy Nizri',
+  'Stars Brad Pitt',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  214755 /* Minority Report */,
+  56871 /* Catch Me If You Can */,
+  8,
+  'Noy Nizri',
+  'Spielberg',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  139653 /* Harry Potter and the Half-Blood Prince */,
+  139654 /* Harry Potter and the Order of the Phoenix */,
+  9,
+  'Noy Nizri',
+  'Series sequel',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  267038 /* Pulp Fiction */,
+  291698 /* Se7en */,
+  8,
+  'Noy Nizri',
+  'Similar ratings',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  182975 /* District 9 */,
+  99633 /* Elysium */,
+  8,
+  'Noy Nizri',
+  'Sci-fi dystopias',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  164572 /* Jackie Brown */,
+  276217 /* Reservoir Dogs */,
+  8,
+  'Noy Nizri',
+  'Stars Samuel L. Jackson',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  112290 /* Fight Club */,
+  291698 /* Se7en */,
+  8,
+  'Noy Nizri',
+  'Similar ratings',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  136156 /* The Matrix */,
+  214755 /* Minority Report */,
+  9,
+  'Noy Nizri',
+  'Both are sci-fi thrillers',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  30965 /* Batman Forever */,
+  30952 /* Batman & Robin */,
+  9,
+  'Noy Nizri',
+  'Sequels in the Batman action saga',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  56871 /* Catch Me If You Can */,
+  112290 /* Fight Club */,
+  8,
+  'Noy Nizri',
+  'Stylish films with iconic male leads',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  333856 /* Titanic */,
+  340652 /* Troy */,
+  8,
+  'Noy Nizri',
+  'Epic period dramas with emotional core',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  112290 /* Fight Club */,
+  276217 /* Reservoir Dogs */,
+  4,
+  'Noy Nizri',
+  'Mismatched genre',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  333856 /* Titanic */,
+  118367 /* Four Rooms */,
+  5,
+  'Noy Nizri',
+  'Director''s early vs late',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  340652 /* Troy */,
+  159665 /* Inglourious Basterds */,
+  4,
+  'Noy Nizri',
+  'Genre but big year gap',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  112290 /* Fight Club */,
+  182975 /* District 9 */,
+  5,
+  'Noy Nizri',
+  'Same director',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  112290 /* Fight Club */,
+  291698 /* Se7en */,
+  4,
+  'Noy Nizri',
+  'Similar premise',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  238072 /* Ocean's Eleven */,
+  55626 /* Carrie */,
+  5,
+  'Noy Nizri',
+  'Mismatched genre',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  238073 /* Ocean's Twelve */,
+  301642 /* Silent Hill */,
+  4,
+  'Noy Nizri',
+  'Mismatched genre',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  214755 /* Minority Report */,
+  118367 /* Four Rooms */,
+  5,
+  'Noy Nizri',
+  'Same director',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  61751 /* Children of Men */,
+  214755 /* Minority Report */,
+  4,
+  'Noy Nizri',
+  'Genre but big year gap',
+  NULL
+);
+INSERT INTO movies_recommendations VALUES
+(
+  30967 /* Batman Returns */,
+  30965 /* Batman Forever */,
+  5,
+  'Noy Nizri',
+  'Shared supporting actor',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  30965 /* Batman Forever */,
+  30967 /* Batman Returns */,
+  4,
+  'Noy Nizri',
+  'Shared supporting actor',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  56871 /* Catch Me If You Can */,
+  333856 /* Titanic */,
+  5,
+  'Noy Nizri',
+  'Subgenre overlap',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  333856 /* Titanic */,
+  56871 /* Catch Me If You Can */,
+  4,
+  'Noy Nizri',
+  'Subgenre overlap',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  214755 /* Minority Report */,
+  99633 /* Elysium */,
+  5,
+  'Noy Nizri',
+  'Director''s early vs late',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  99633 /* Elysium */,
+  214755 /* Minority Report */,
+  4,
+  'Noy Nizri',
+  'Director''s early vs late',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  301642 /* Silent Hill */,
+  142616 /* Hellraiser */,
+  5,
+  'Noy Nizri',
+  'Genre but big year gap',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  142616 /* Hellraiser */,
+  301642 /* Silent Hill */,
+  4,
+  'Noy Nizri',
+  'Genre but big year gap',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  118367 /* Four Rooms */,
+  159665 /* Inglourious Basterds */,
+  5,
+  'Noy Nizri',
+  'Same director',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  159665 /* Inglourious Basterds */,
+  118367 /* Four Rooms */,
+  4,
+  'Noy Nizri',
+  'Same director',
+  NULL
+);
+INSERT INTO movies_recommendations VALUES
+(
+  30952 /* Batman & Robin */,
+  30951 /* Batman & Mr. Freeze: SubZero */,
+  8,
+  'Noy Nizri',
+  'Series sequel',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  137113 /* The Dark Knight Rises */,
+  157336 /* Gravity */,
+  9,
+  'Noy Nizri',
+  'Nolan',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  27205 /* V for Vendetta */,
+  214755 /* Minority Report */,
+  8,
+  'Noy Nizri',
+  'Dystopian thrillers',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  27205 /* V for Vendetta */,
+  136156 /* The Matrix */,
+  8,
+  'Noy Nizri',
+  'Dystopian resistance films',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  181812 /* Django Unchained */,
+  164572 /* Jackie Brown */,
+  9,
+  'Noy Nizri',
+  'Tarantino',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  164572 /* Jackie Brown */,
+  267038 /* Pulp Fiction */,
+  9,
+  'Noy Nizri',
+  'Tarantino',
+  NULL
+);
+
+
+INSERT INTO movies_recommendations VALUES
+(
+  238073 /* Ocean's Twelve */,
+  238072 /* Ocean's Eleven */,
+  8,
+  'Noy Nizri',
+  'Series sequel',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  306032 /* Snatch */,
+  112290 /* Fight Club */,
+  8,
+  'Noy Nizri',
+  'Similar ratings',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  61751 /* Children of Men */,
+  214755 /* Minority Report */,
+  8,
+  'Noy Nizri',
+  'Close release years',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  30967 /* Batman Returns */,
+  30976 /* Batman: Mask of the Phantasm */,
+  8,
+  'Noy Nizri',
+  'Stars Christian Bale',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  30976 /* Batman: Mask of the Phantasm */,
+  30952 /* Batman & Robin */,
+  8,
+  'Noy Nizri',
+  'Series sequel',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  214755 /* Minority Report */,
+  56871 /* Catch Me If You Can */,
+  8,
+  'Noy Nizri',
+  'Spielberg',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  139654 /* Harry Potter and the Order of the Phoenix */,
+  139653 /* Harry Potter and the Half-Blood Prince */,
+  9,
+  'Noy Nizri',
+  'Series sequel',
+  NULL
+);
+
+#INSERT INTO movies_recommendations VALUES
+#(
+#  1375666 /* Inception */,
+#  137113 /* The Dark Knight Rises */,
+#  9,
+#  'Noy Nizri',
+#  'Nolan',
+#  NULL
+#);
+
+INSERT INTO movies_recommendations VALUES
+(
+  27205 /* V for Vendetta */,
+  139653 /* Harry Potter and the Half-Blood Prince */,
+  8,
+  'Noy Nizri',
+  'Close release years',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  291698 /* Se7en */,
+  267038 /* Pulp Fiction */,
+  9,
+  'Noy Nizri',
+  'Similar ratings',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  112290 /* Fight Club */,
+  136156 /* The Matrix */,
+  8,
+  'Noy Nizri',
+  'Similar ratings',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  267038 /* Pulp Fiction */,
+  276217 /* Reservoir Dogs */,
+  9,
+  'Noy Nizri',
+  'Shared roles',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  30970 /* Batman/Superman Movie */,
+  30962 /* Batman Beyond: The Movie */,
+  8,
+  'Noy Nizri',
+  'Series sequel',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  276217 /* Reservoir Dogs */,
+  176711 /* Kill Bill: Vol. 1 */,
+  9,
+  'Noy Nizri',
+  'Tarantino style',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  176711 /* Kill Bill: Vol. 1 */,
+  176712 /* Kill Bill: Vol. 2 */,
+  8,
+  'Noy Nizri',
+  'Series sequel',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  136156 /* The Matrix */,
+  112290 /* Fight Club */,
+  8,
+  'Noy Nizri',
+  'Close release years',
+  NULL
+);
+
+
+INSERT INTO movies_recommendations VALUES
+(
+  30959 /* Batman Begins */,
+  30967 /* Batman Returns */,
+  8,
+  'Noy Nizri',
+  'Series sequel',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  112290 /* Fight Club */,
+  238072 /* Ocean's Eleven */,
+  8,
+  'Noy Nizri',
+  'Stars Brad Pitt',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  267038 /* Pulp Fiction */,
+  181812 /* Django Unchained */,
+  9,
+  'Noy Nizri',
+  'Tarantino style',
+  NULL
+);
+
+#INSERT INTO movies_recommendations VALUES
+#(
+#  333856 /* Titanic */,
+#  1375666 /* Inception */,
+#  8,
+#  'Noy Nizri',
+#  'Stars DiCaprio',
+#  NULL
+#);
+
+INSERT INTO movies_recommendations VALUES
+(
+  56871 /* Catch Me If You Can */,
+  214755 /* Minority Report */,
+  8,
+  'Noy Nizri',
+  'Close release years',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  276217 /* Reservoir Dogs */,
+  267038 /* Pulp Fiction */,
+  8,
+  'Noy Nizri',
+  'Tarantino style',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  118367 /* Four Rooms */,
+  159665 /* Inglourious Basterds */,
+  8,
+  'Noy Nizri',
+  'Tarantino',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  118367 /* Four Rooms */,
+  164572 /* Jackie Brown */,
+  8,
+  'Noy Nizri',
+  'Tarantino',
+  NULL
+);
+
+#INSERT INTO movies_recommendations VALUES
+#(
+#  1375666 /* Inception */,
+#  30959 /* Batman Begins */,
+#  9,
+#  'Noy Nizri',
+#  'Nolan',
+#  NULL
+#);
+
+INSERT INTO movies_recommendations VALUES
+(
+  136156 /* The Matrix */,
+  214755 /* Minority Report */,
+  8,
+  'Noy Nizri',
+  'Sci-fi thrillers',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  56871 /* Catch Me If You Can */,
+  214755 /* Minority Report */,
+  8,
+  'Noy Nizri',
+  'Close release years',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+
+  291698 /* Se7en */,
+  30951 /* Batman & Mr. Freeze: SubZero */,
+  8,
+  'Noy Nizri',
+  'Close release years',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  220805 /* Mr. and Mrs. Smith */,
+  340652 /* Troy */,
+  8,
+  'Noy Nizri',
+  'Stars Brad Pitt',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  30976 /* Batman: Mask of the Phantasm */,
+  30970 /* Batman/Superman Movie */,
+  8,
+  'Noy Nizri',
+  'Series sequel',
+  NULL
+);
+
+
+INSERT INTO movies_recommendations VALUES
+(
+  214755 /* Minority Report */,
+  99633 /* Elysium */,
+  8,
+  'Noy Nizri',
+  'Shared roles',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  176712 /* Kill Bill: Vol. 2 */,
+  267038 /* Pulp Fiction */,
+  9,
+  'Noy Nizri',
+  'Tarantino style',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  137113 /* The Dark Knight Rises */,
+  30959 /* Batman Begins */,
+  9,
+  'Noy Nizri',
+  'Nolan trilogy',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  139653 /* Harry Potter and the Half-Blood Prince */,
+  139654 /* Harry Potter and the Order of the Phoenix */,
+  9,
+  'Noy Nizri',
+  'Harry Potter sequel',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  30965 /* Batman Forever */,
+  30952 /* Batman & Robin */,
+  8,
+  'Noy Nizri',
+  'Batman series',
+  NULL
+);
+
+
+INSERT INTO movies_recommendations VALUES
+(
+  214755 /* Minority Report */,
+  27205 /* V for Vendetta */,
+  8,
+  'Noy Nizri',
+  'Dystopian themes',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  136156 /* The Matrix */,
+  291698 /* Se7en */,
+  8,
+  'Noy Nizri',
+  'Close release years',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  159665 /* Inglourious Basterds */,
+  181812 /* Django Unchained */,
+  9,
+  'Noy Nizri',
+  'Tarantino style',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  30959 /* Batman Begins */,
+  137113 /* The Dark Knight Rises */,
+  9,
+  'Noy Nizri',
+  'Batman trilogy',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  30965 /* Batman Forever */,
+  30959 /* Batman Begins */,
+  8,
+  'Noy Nizri',
+  'Batman reboot',
+  NULL
+);
+
+
+
+INSERT INTO movies_recommendations VALUES
+(
+  112290 /* Fight Club */,
+  30959 /* Batman Begins */,
+  8,
+  'Noy Nizri',
+  'Dark protagonist journey',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  333856 /* Titanic */,
+  139653 /* Harry Potter and the Half-Blood Prince */,
+  7,
+  'Noy Nizri',
+  'Same lead actors in iconic roles',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  30959 /* Batman Begins */,
+  306032 /* Snatch */,
+  8,
+  'Noy Nizri',
+  'British crime thrillers',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  267038 /* Pulp Fiction */,
+  30970 /* Batman/Superman Movie */,
+  5,
+  'Noy Nizri',
+  'Stylistic mismatch',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  30952 /* Batman & Robin */,
+  238073 /* Ocean's Twelve */,
+  6,
+  'Noy Nizri',
+  'Ensemble cast but genre clash',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  276217 /* Reservoir Dogs */,
+  301642 /* Silent Hill */,
+  5,
+  'Noy Nizri',
+  'Different genre tones',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  99633 /* Elysium */,
+  118367 /* Four Rooms */,
+  5,
+  'Noy Nizri',
+  'Director variety, not thematic',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  139654 /* Harry Potter and the Order of the Phoenix */,
+  301642 /* Silent Hill */,
+  4,
+  'Noy Nizri',
+  'Fantasy vs horror',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  214755 /* Minority Report */,
+  238072 /* Ocean's Eleven */,
+  5,
+  'Noy Nizri',
+  'Popular cast, unrelated genres',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  333856 /* Titanic */,
+  340652 /* Troy */,
+  8,
+  'Noy Nizri',
+  'Epic period dramas with emotional core',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  112290 /* Fight Club */,
+  276217 /* Reservoir Dogs */,
+  4,
+  'Noy Nizri',
+  'Mismatched genre',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  333856 /* Titanic */,
+  118367 /* Four Rooms */,
+  5,
+  'Noy Nizri',
+  'Director''s early vs late',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  340652 /* Troy */,
+  159665 /* Inglourious Basterds */,
+  4,
+  'Noy Nizri',
+  'Genre but big year gap',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  112290 /* Fight Club */,
+  182975 /* District 9 */,
+  5,
+  'Noy Nizri',
+  'Same director',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  112290 /* Fight Club */,
+  291698 /* Se7en */,
+  4,
+  'Noy Nizri',
+  'Similar premise',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  238072 /* Ocean's Eleven */,
+  55626 /* Carrie */,
+  5,
+  'Noy Nizri',
+  'Mismatched genre',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  238073 /* Ocean's Twelve */,
+  301642 /* Silent Hill */,
+  4,
+  'Noy Nizri',
+  'Mismatched genre',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  214755 /* Minority Report */,
+  118367 /* Four Rooms */,
+  5,
+  'Noy Nizri',
+  'Same director',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  61751 /* Children of Men */,
+  214755 /* Minority Report */,
+  4,
+  'Noy Nizri',
+  'Genre but big year gap',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  30967 /* Batman Returns */,
+  30965 /* Batman Forever */,
+  5,
+  'Noy Nizri',
+  'Shared supporting actor',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  30965 /* Batman Forever */,
+  30967 /* Batman Returns */,
+  4,
+  'Noy Nizri',
+  'Shared supporting actor',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  56871 /* Catch Me If You Can */,
+  333856 /* Titanic */,
+  5,
+  'Noy Nizri',
+  'Subgenre overlap',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  333856 /* Titanic */,
+  56871 /* Catch Me If You Can */,
+  4,
+  'Noy Nizri',
+  'Subgenre overlap',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  214755 /* Minority Report */,
+  99633 /* Elysium */,
+  5,
+  'Noy Nizri',
+  'Director''s early vs late',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  99633 /* Elysium */,
+  214755 /* Minority Report */,
+  4,
+  'Noy Nizri',
+  'Director''s early vs late',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  301642 /* Silent Hill */,
+  142616 /* Hellraiser */,
+  5,
+  'Noy Nizri',
+  'Genre but big year gap',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  142616 /* Hellraiser */,
+  301642 /* Silent Hill */,
+  4,
+  'Noy Nizri',
+  'Genre but big year gap',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  118367 /* Four Rooms */,
+  159665 /* Inglourious Basterds */,
+  5,
+  'Noy Nizri',
+  'Same director',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  159665 /* Inglourious Basterds */,
+  118367 /* Four Rooms */,
+  4,
+  'Noy Nizri',
+  'Same director',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  177166 /* Kinder aus Nr. 67, Die */,
+  136108 /* Guru */,
+  4,
+  'Noy Nizri',
+  'Mismatched genre',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  199615 /* Maden */,
+  222392 /* Mundo Depravados */,
+  4,
+  'Noy Nizri',
+  'Mismatched genre',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  88352 /* Django: la otra cara */,
+  341808 /* Tupla-Uuno */,
+  5,
+  'Noy Nizri',
+  'Mismatched genre',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  41666 /* Blue */,
+  249081 /* Paris, Mon Petit Corps Est Bien Las de Ce Grand Monde */,
+  5,
+  'Noy Nizri',
+  'Mismatched genre',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  111300 /* Ferdinando I. re di Napoli */,
+  93516 /* Drengen der Forsvandt */,
+  4,
+  'Noy Nizri',
+  'Mismatched genre',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  363719 /* Whispers in the Dark */,
+  234251 /* Noc na Karlštejne */,
+  5,
+  'Noy Nizri',
+  'Mismatched genre',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  80333 /* De Todos Modos Juan Te Llamas */,
+  134720 /* Growing Pains (1984/I) */,
+  4,
+  'Noy Nizri',
+  'Mismatched genre',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  360821 /* Week Before, The */,
+  64784 /* City Across the River */,
+  4,
+  'Noy Nizri',
+  'Mismatched genre',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  328593 /* Terror on Tour */,
+  318562 /* Sukiny Deti */,
+  5,
+  'Noy Nizri',
+  'Mismatched genre',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  321968 /* Syšchik */,
+  234111 /* Noa Bat 17 */,
+  5,
+  'Noy Nizri',
+  'Mismatched genre',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  53017 /* Cammina, Cammina */,
+  11573 /* All the Young Men */,
+  4,
+  'Noy Nizri',
+  'Mismatched genre',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  175198 /* Keepers of the Frame */,
+  376380 /* Zwei Tolle Käfer Räumen Auf */,
+  4,
+  'Noy Nizri',
+  'Mismatched genre',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  324340 /* Tang Lang */,
+  113710 /* Fiorina la Vacca */,
+  4,
+  'Noy Nizri',
+  'Mismatched genre',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  205099 /* Maratonci Trče Počasni Krug */,
+  32160 /* Beauty and the Bandit */,
+  4,
+  'Noy Nizri',
+  'Mismatched genre',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  330773 /* This Is My Life */,
+  196995 /* Lucky Numbers */,
+  4,
+  'Noy Nizri',
+  'Director''s early vs late',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  152581 /* Human Tornado, The */,
+  253979 /* Petey Wheatstraw */,
+  4,
+  'Noy Nizri',
+  'Director''s early vs late',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  139356 /* Harem */,
+  229052 /* Ne Quittez Pas! */,
+  5,
+  'Noy Nizri',
+  'Director''s early vs late',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  246726 /* Painted Stallion, The */,
+  79078 /* Darktown Strutters */,
+  5,
+  'Noy Nizri',
+  'Director''s early vs late',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  274487 /* Redes */,
+  302111 /* Simitrio */,
+  4,
+  'Noy Nizri',
+  'Director''s early vs late',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  337947 /* Trampa Infernal */,
+  373962 /* Zapatos Viejos */,
+  4,
+  'Noy Nizri',
+  'Director''s early vs late',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  264228 /* Princezna se zlatou hvezdou */,
+  194027 /* Long Ships, The */,
+  4,
+  'Noy Nizri',
+  'Mismatched genre',
+  NULL
+);
+
+
+INSERT INTO movies_recommendations VALUES
+(
+  188384 /* Let's Go to the Movies */,
+  365142 /* Wild America */,
+  4,
+  'Noy Nizri',
+  'Mismatched genre',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  149714 /* Horror Heaven */,
+  320283 /* Suspended Animation */,
+  4,
+  'Noy Nizri',
+  'Mismatched genre',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  2655 /* 5 Card Stud */,
+  46798 /* Brideless Groom */,
+  5,
+  'Noy Nizri',
+  'Mismatched genre',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  208972 /* Mother Teresa */,
+  152581 /* Human Tornado, The */,
+  4,
+  'Noy Nizri',
+  'Mismatched genre',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  102345 /* Romance in Paris */,
+  118367 /* Four Rooms */,
+  4,
+  'Noy Nizri',
+  'Director''s early vs late',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  139653 /* Harry Potter and the Half-Blood Prince */,
+  268745 /* Sci-Fi Compilation */,
+  5,
+  'Noy Nizri',
+  'Director''s early vs late',
+  NULL
+);
+
+
+INSERT INTO movies_recommendations VALUES
+(
+  182975 /* District 9 */,
+  238072 /* Ocean's Eleven */,
+  4,
+  'Noy Nizri',
+  'Genre but big year gap',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  259826 /* Poltergeist */,
+  30967 /* Batman Returns */,
+  5,
+  'Noy Nizri',
+  'Shared supporting actor',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  142616 /* Hellraiser */,
+  30976 /* Batman: Mask of the Phantasm */,
+  4,
+  'Noy Nizri',
+  'Shared supporting actor',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  61751 /* Children of Men */,
+  214755 /* Minority Report */,
+  5,
+  'Noy Nizri',
+  'Similar premise',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  99633 /* Elysium */,
+  61751 /* Children of Men */,
+  4,
+  'Noy Nizri',
+  'Similar premise',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  176711 /* Kill Bill: Vol. 1 */,
+  118367 /* Four Rooms */,
+  5,
+  'Noy Nizri',
+  'Same director',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  276217 /* Reservoir Dogs */,
+  159665 /* Inglourious Basterds */,
+  4,
+  'Noy Nizri',
+  'Same director',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  340652 /* Troy */,
+  112290 /* Fight Club */,
+  5,
+  'Noy Nizri',
+  'Mismatched genre',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  238073 /* Ocean's Twelve */,
+  118367 /* Four Rooms */,
+  4,
+  'Noy Nizri',
+  'Mismatched genre',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  30965 /* Batman Forever */,
+  333856 /* Titanic */,
+  5,
+  'Noy Nizri',
+  'Mismatched genre',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  30962 /* Batman Beyond: The Movie */,
+  30961 /* Batman Beyond: Return of the Joker */,
+  4,
+  'Noy Nizri',
+  'Director early vs late',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  86470 /* Different Loyalty, A */,
+  165789 /* Jardón de las delicias, El */,
+  4,
+  'Noy Nizri',
+  'Genre but big year gap',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  164352 /* Jack & Ella */,
+  145539 /* Hindenburg, The */,
+  4,
+  'Noy Nizri',
+  'Genre but big year gap',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  122364 /* Flins, Les */,
+  27867 /* Baile Perfumado */,
+  4,
+  'Noy Nizri',
+  'Genre but big year gap',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  16490 /* Andy Panda's Pop */,
+  28566 /* Ballermann 6 */,
+  4,
+  'Noy Nizri',
+  'Genre but big year gap',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  240379 /* Omohide poro poro */,
+  334340 /* To the Ends of the Earth */,
+  4,
+  'Noy Nizri',
+  'Genre but big year gap',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  144907 /* High School Ghosthustlers */,
+  292856 /* Secrets of Sex */,
+  5,
+  'Noy Nizri',
+  'Genre but big year gap',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  318164 /* Sudden Death */,
+  289555 /* Scarf, The */,
+  5,
+  'Noy Nizri',
+  'Genre but big year gap',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  240055 /* Olivier Blanckart: La galerie des urgences */,
+  260376 /* Popeye Presents Eugene, the Jeep */,
+  4,
+  'Noy Nizri',
+  'Genre but big year gap',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  82757 /* Demonwarp */,
+  332845 /* Tigershark */,
+  4,
+  'Noy Nizri',
+  'Same director',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  1710 /* 2001 Yonggary */,
+  333706 /* Tirannoui baltob */,
+  5,
+  'Noy Nizri',
+  'Same director',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  167708 /* Jimmy the Kid */,
+  287815 /* Santee */,
+  5,
+  'Noy Nizri',
+  'Same director',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  199683 /* Madison */,
+  169963 /* Judicial Consent */,
+  5,
+  'Noy Nizri',
+  'Same director',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  223838 /* My Dinner with Andre */,
+  13122 /* Amants, Les */,
+  4,
+  'Noy Nizri',
+  'Same director',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  284359 /* Rjin Z */,
+  41359 /* Blood: The Last Vampire */,
+  5,
+  'Noy Nizri',
+  'Same director',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  301556 /* Silencer, The */,
+  96826 /* East of A */,
+  4,
+  'Noy Nizri',
+  'Same director',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  179621 /* Kolmastoista koputus */,
+  214835 /* Min eln */,
+  4,
+  'Noy Nizri',
+  'Same director',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  227534 /* Napl szerelmeimnek */,
+  322002 /* Szabad légzet */,
+  5,
+  'Noy Nizri',
+  'Same director',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  352184 /* Verfolger */,
+  295297 /* Seven Days to Live */,
+  5,
+  'Noy Nizri',
+  'Same director',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  332912 /* Tigre aime la chair frâiche, Le */,
+  346417 /* Une affaire de femmes */,
+  4,
+  'Noy Nizri',
+  'Same director',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  213152 /* Midnight Heat (1996/I) */,
+  131052 /* Golf Punks */,
+  4,
+  'Noy Nizri',
+  'Same director',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  95570 /* Dva bojtsa */,
+  273073 /* Raznye sudby */,
+  4,
+  'Noy Nizri',
+  'Same director',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  290503 /* Schule */,
+  260407 /* Poppen */,
+  4,
+  'Noy Nizri',
+  'Same director',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  223022 /* Music for the Movies: Bernard Herrmann */,
+  249466 /* Partisans of Vilna */,
+  4,
+  'Noy Nizri',
+  'Same director',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  371262 /* Yeoseot gae ui siseon */,
+  132378 /* Goyangileul butaghae */,
+  4,
+  'Noy Nizri',
+  'Same director',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  355661 /* Vita una sola, La */,
+  355660 /* Vita bella, La */,
+  4,
+  'Noy Nizri',
+  'Similar premise',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  131980 /* Gordon of Ghost City */,
+  131985 /* Gordon, il pirata nero */,
+  5,
+  'Noy Nizri',
+  'Similar premise',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  360945 /* Weg! */,
+  360930 /* Weg naar Bresson, De */,
+  5,
+  'Noy Nizri',
+  'Similar premise',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  125239 /* Gekij-ban poketto monsutaa: Kessh-t no tei */,
+  125241 /* Gekij-ban poketto monsut - Myts no gyakush */,
+  4,
+  'Noy Nizri',
+  'Similar premise',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  305044 /* Slippery Silks */,
+  305064 /* Slippery When Wet */,
+  4,
+  'Noy Nizri',
+  'Similar premise',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  259090 /* Pokmon Heroes */,
+  259097 /* Pokmon: The First Movie */,
+  5,
+  'Noy Nizri',
+  'Similar premise',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  147281 /* Heisei tanuki gassen pompoko */,
+  159365 /* Kung Fu Panda */,
+  5,
+  'Noy Nizri',
+  'Genre but big year gap',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  13391 /* Amor a Primera Vista */,
+  22678 /* Beijo no Asfalto, O */,
+  5,
+  'Noy Nizri',
+  'Genre but big year gap',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  118367 /* Four Rooms */,
+  112290 /* Fight Club */,
+  4,
+  'Noy Nizri',
+  'Genre but big year gap',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  227302 /* Nancy Drew: The Hidden Staircase */,
+  118367 /* Four Rooms */,
+  4,
+  'Noy Nizri',
+  'Genre but big year gap',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  234903 /* Once Upon a Time in the West */,
+  234906 /* Once Upon a Time in America */,
+  10,
+  'Noy Nizri',
+  'Director''s early vs late',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  330878 /* Tie Xi Qu: West of the Tracks */,
+  330881 /* Winter Vacation */,
+  10,
+  'Noy Nizri',
+  'Same director',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  331065 /* Aparajito */,
+  22601 /* Pather Panchali */,
+  10,
+  'Noy Nizri',
+  'Same director',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  262481 /* Ponette */,
+  262484 /* Mr. Hulot''s Holiday */,
+  10,
+  'Noy Nizri',
+  'Genre but big year gap',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  330878 /* Tie Xi Qu: West of the Tracks */,
+  331066 /* A Touch of Sin */,
+  10,
+  'Noy Nizri',
+  'Same director',
+  NULL
+);
+
+INSERT INTO movies_recommendations VALUES
+(
+  222935 /* In the Mood for Love */,
+  222938 /* 2046 */,
+  10,
+  'Noy Nizri',
+  'Series sequel',
+  NULL
+);
