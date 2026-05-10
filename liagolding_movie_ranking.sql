@@ -1,18 +1,4 @@
-use imdb_ijs;
 
-drop table if exists personal_movies_ranking;
-
-create table personal_movies_ranking
-(movie_id int
-, recommendation int not null
-, suggested_by varchar(255) not null
-, justification varchar(255) not null
-, comment varchar(255)
-, PRIMARY KEY (movie_id,  suggested_by)
-, CONSTRAINT CHK_personal_recommendation CHECK (recommendation >=1 AND 10 >= recommendation)
-, CONSTRAINT CHK_personal_justification CHECK (length(justification) >=10)
-, FOREIGN KEY (movie_id) REFERENCES movies(Id)
-);
 
 insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (291698, 10, 'liagolding', 'I like Hollywood stars and puzzle-like crime plot', null);  # Se7en 1995
 insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (207645, 2, 'liagolding', 'I like only English or Hebrew speaking movies', null);  # Matanza 2002
