@@ -1,0 +1,2094 @@
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  7842,  -- After Hours
+  54209,  -- Cape Fear
+  9,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese) and Shared genre(s): Thriller',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  7842,  -- After Hours
+  82967,  -- Departed, The
+  9,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese) and Shared genre(s): Thriller',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  7842,  -- After Hours
+  177369,  -- King of Comedy, The
+  9,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese) and Shared genre(s): Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  7842,  -- After Hours
+  230947,  -- New York Stories
+  9,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese) and Shared genre(s): Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  7842,  -- After Hours
+  326155,  -- Taxi Driver
+  9,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese) and Shared genre(s): Thriller',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  10702,  -- Alice Doesn't Live Here Anymore
+  9,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese) and Shared genre(s): Drama',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  13395,  -- Amazing Stories: Book Four
+  9,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese) and Shared genre(s): Drama',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  25192,  -- Aviator, The
+  9,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese) and Shared genre(s): Drama',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  37304,  -- Big Shave, The
+  9,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese) and Shared genre(s): Drama',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  45312,  -- Boxcar Bertha
+  9,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese) and Shared genre(s): Drama',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  47130,  -- Bringing Out the Dead
+  9,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese) and Shared genre(s): Drama',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  54209,  -- Cape Fear
+  9,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese) and Shared genre(s): Drama',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  56304,  -- Casino
+  9,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese) and Shared genre(s): Drama',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  67388,  -- Color of Money, The
+  9,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese) and Shared genre(s): Drama',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  123849,  -- Gangs of New York
+  9,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese) and Shared genre(s): Drama',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  131780,  -- Goodfellas
+  9,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese) and Shared genre(s): Drama',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  177369,  -- King of Comedy, The
+  9,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese) and Shared genre(s): Drama',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  181766,  -- Kundun
+  9,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese) and Shared genre(s): Drama',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  185704,  -- Last Temptation of Christ, The
+  9,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese) and Shared genre(s): Drama',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  209158,  -- Mean Streets
+  9,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese) and Shared genre(s): Drama',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  230947,  -- New York Stories
+  9,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese) and Shared genre(s): Drama',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  230963,  -- New York, New York
+  9,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese) and Shared genre(s): Drama',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  270971,  -- Raging Bull
+  9,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese) and Shared genre(s): Drama',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  326155,  -- Taxi Driver
+  9,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese) and Shared genre(s): Drama',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  362473,  -- What's a Nice Girl Like You Doing in a Place Like This?
+  9,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese) and Shared genre(s): Drama',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  7842,  -- After Hours
+  8183,  -- Age of Innocence, The
+  7,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  7842,  -- After Hours
+  10702,  -- Alice Doesn't Live Here Anymore
+  7,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  7842,  -- After Hours
+  13395,  -- Amazing Stories: Book Four
+  7,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  7842,  -- After Hours
+  13804,  -- American Boy: A Profile of: Steven Prince
+  7,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  7842,  -- After Hours
+  25192,  -- Aviator, The
+  7,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  7842,  -- After Hours
+  27108,  -- Bad
+  7,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  7842,  -- After Hours
+  37304,  -- Big Shave, The
+  7,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  7842,  -- After Hours
+  42328,  -- Bob Dylan Anthology Project
+  7,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  7842,  -- After Hours
+  45312,  -- Boxcar Bertha
+  7,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  7842,  -- After Hours
+  47130,  -- Bringing Out the Dead
+  7,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  7842,  -- After Hours
+  56304,  -- Casino
+  7,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  7842,  -- After Hours
+  67388,  -- Color of Money, The
+  7,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  7842,  -- After Hours
+  123849,  -- Gangs of New York
+  7,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  7842,  -- After Hours
+  131780,  -- Goodfellas
+  7,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  7842,  -- After Hours
+  163603,  -- It's Not Just You, Murray!
+  7,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  7842,  -- After Hours
+  163730,  -- Italianamerican
+  7,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  7842,  -- After Hours
+  181766,  -- Kundun
+  7,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  7842,  -- After Hours
+  183593,  -- Lady by the Sea: The Statue of Liberty
+  7,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  7842,  -- After Hours
+  185704,  -- Last Temptation of Christ, The
+  7,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  7842,  -- After Hours
+  185751,  -- Last Waltz, The
+  7,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  7842,  -- After Hours
+  193231,  -- Location Production Footage: The Last Temptation of Christ
+  7,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  7842,  -- After Hours
+  199510,  -- Made in Milan
+  7,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  7842,  -- After Hours
+  209158,  -- Mean Streets
+  7,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  7842,  -- After Hours
+  212717,  -- Michael Jackson: Video Greatest Hits - HIStory
+  7,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  7842,  -- After Hours
+  214872,  -- Mio viaggio in Italia, Il
+  7,
+  'Gal Nalaboff',
+  'Same director (Martin Scorsese)',
+  NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1390,  -- 1941
+  12744,  -- Always
+  7,
+  'Gal Nalaboff',
+  'Same director (Steven Spielberg)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1390,  -- 1941
+  13396,  -- Amazing Stories: Book One
+  7,
+  'Gal Nalaboff',
+  'Same director (Steven Spielberg)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1390,  -- 1941
+  13547,  -- Amblin'
+  7,
+  'Gal Nalaboff',
+  'Same director (Steven Spielberg)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1390,  -- 1941
+  14477,  -- Amistad
+  7,
+  'Gal Nalaboff',
+  'Same director (Steven Spielberg)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1390,  -- 1941
+  21213,  -- Artificial Intelligence: AI
+  7,
+  'Gal Nalaboff',
+  'Same director (Steven Spielberg)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1390,  -- 1941
+  31256,  -- Battle Squad
+  7,
+  'Gal Nalaboff',
+  'Same director (Steven Spielberg)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1390,  -- 1941
+  56871,  -- Catch Me If You Can
+  7,
+  'Gal Nalaboff',
+  'Same director (Steven Spielberg)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1390,  -- 1941
+  65811,  -- Close Encounters of the Third Kind
+  7,
+  'Gal Nalaboff',
+  'Same director (Steven Spielberg)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1390,  -- 1941
+  67395,  -- Color Purple, The
+  7,
+  'Gal Nalaboff',
+  'Same director (Steven Spielberg)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  1390,  -- 1941
+  67592,  -- Columbo: Murder by the Book
+  7,
+  'Gal Nalaboff',
+  'Same director (Steven Spielberg)',
+  NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  11519,  -- All the Little Animals
+  7,
+  'Gal Nalaboff',
+  'Same actor (Christian Bale)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  13934,  -- American Film Institute Salute to Steven Spielberg, The
+  7,
+  'Gal Nalaboff',
+  'Same actor (Christian Bale)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  14145,  -- American Psycho
+  7,
+  'Gal Nalaboff',
+  'Same actor (Christian Bale)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  15892,  -- Anastasia: The Mystery of Anna
+  7,
+  'Gal Nalaboff',
+  'Same actor (Christian Bale)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  30959,  -- Batman Begins
+  7,
+  'Gal Nalaboff',
+  'Same actor (Christian Bale)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  54464,  -- Captain Corelli's Mandolin
+  7,
+  'Gal Nalaboff',
+  'Same actor (Christian Bale)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  62038,  -- China Odyssey: 'Empire of the Sun', a film by Steven Spielberg, A
+  7,
+  'Gal Nalaboff',
+  'Same actor (Christian Bale)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  95793,  -- Dying to Tell the Story
+  7,
+  'Gal Nalaboff',
+  'Same actor (Christian Bale)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  100130,  -- Empire of the Sun
+  7,
+  'Gal Nalaboff',
+  'Same actor (Christian Bale)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  102225,  -- Equilibrium
+  7,
+  'Gal Nalaboff',
+  'Same actor (Christian Bale)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  142920,  -- Henry V
+  7,
+  'Gal Nalaboff',
+  'Same actor (Christian Bale)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  186158,  -- Laurel Canyon
+  7,
+  'Gal Nalaboff',
+  'Same actor (Christian Bale)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  192413,  -- Little Women
+  7,
+  'Gal Nalaboff',
+  'Same actor (Christian Bale)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  198981,  -- Machinist, The
+  7,
+  'Gal Nalaboff',
+  'Same actor (Christian Bale)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  201616,  -- Making of 'American Psycho', The
+  7,
+  'Gal Nalaboff',
+  'Same actor (Christian Bale)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  206924,  -- Mary, Mother of Jesus
+  7,
+  'Gal Nalaboff',
+  'Same actor (Christian Bale)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  212093,  -- Metroland
+  7,
+  'Gal Nalaboff',
+  'Same actor (Christian Bale)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  213324,  -- Midsummer Night's Dream, A
+  7,
+  'Gal Nalaboff',
+  'Same actor (Christian Bale)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  214863,  -- Mio min Mio
+  7,
+  'Gal Nalaboff',
+  'Same actor (Christian Bale)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  222709,  -- Murder of Quality, A
+  7,
+  'Gal Nalaboff',
+  'Same actor (Christian Bale)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  230865,  -- New World, The
+  7,
+  'Gal Nalaboff',
+  'Same actor (Christian Bale)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  231070,  -- Newsies
+  7,
+  'Gal Nalaboff',
+  'Same actor (Christian Bale)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  258509,  -- Pocahontas
+  7,
+  'Gal Nalaboff',
+  'Same actor (Christian Bale)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  261039,  -- Portrait of a Lady, The
+  7,
+  'Gal Nalaboff',
+  'Same actor (Christian Bale)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  264050,  -- Prince of Jutland
+  7,
+  'Gal Nalaboff',
+  'Same actor (Christian Bale)',
+  NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  1748,  -- 2004 MTV Movie Awards
+  9,
+  'Gal Nalaboff',
+  'Same actor (Johnny Depp) and Shared genre(s): Documentary',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  3055,  -- 76th Annual Academy Awards, The
+  9,
+  'Gal Nalaboff',
+  'Same actor (Johnny Depp) and Shared genre(s): Documentary',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  18239,  -- Anti-Hero's Journey, The
+  9,
+  'Gal Nalaboff',
+  'Same actor (Johnny Depp) and Shared genre(s): Documentary',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  46190,  -- Bravo Profiles: Johnny Depp
+  9,
+  'Gal Nalaboff',
+  'Same actor (Johnny Depp) and Shared genre(s): Documentary',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  46339,  -- Breakfast with Hunter
+  9,
+  'Gal Nalaboff',
+  'Same actor (Johnny Depp) and Shared genre(s): Documentary',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  59691,  -- Charlie: The Life and Art of Charles Chaplin
+  9,
+  'Gal Nalaboff',
+  'Same actor (Johnny Depp) and Shared genre(s): Documentary',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  86010,  -- Diary of a Pirate
+  9,
+  'Gal Nalaboff',
+  'Same actor (Johnny Depp) and Shared genre(s): Documentary',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  98681,  -- El Mariachi: 10 Years Later
+  9,
+  'Gal Nalaboff',
+  'Same actor (Johnny Depp) and Shared genre(s): Documentary',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  102108,  -- Epic at Sea: The Making of 'Pirates of the Caribbean: The Curse of the Black Pearl', An
+  9,
+  'Gal Nalaboff',
+  'Same actor (Johnny Depp) and Shared genre(s): Documentary',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  131678,  -- Good, the Bad & the Bloody: Inside KNB EFX, The
+  9,
+  'Gal Nalaboff',
+  'Same actor (Johnny Depp) and Shared genre(s): Documentary',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  2894,  -- 61st Annual Golden Globe Awards, The
+  7,
+  'Gal Nalaboff',
+  'Same actor (Johnny Depp)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  20253,  -- Arizona Dream
+  7,
+  'Gal Nalaboff',
+  'Same actor (Johnny Depp)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  22651,  -- Astronaut's Wife, The
+  7,
+  'Gal Nalaboff',
+  'Same actor (Johnny Depp)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  32707,  -- Before Night Falls
+  7,
+  'Gal Nalaboff',
+  'Same actor (Johnny Depp)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  34104,  -- Benny & Joon
+  7,
+  'Gal Nalaboff',
+  'Same actor (Johnny Depp)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  41518,  -- Blow
+  7,
+  'Gal Nalaboff',
+  'Same actor (Johnny Depp)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  46167,  -- Brave, The
+  7,
+  'Gal Nalaboff',
+  'Same actor (Johnny Depp)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  49854,  -- Buried Secret of M. Night Shyamalan, The
+  7,
+  'Gal Nalaboff',
+  'Same actor (Johnny Depp)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  53921,  -- Cannes Man
+  7,
+  'Gal Nalaboff',
+  'Same actor (Johnny Depp)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  59578,  -- Charlie and the Chocolate Factory
+  7,
+  'Gal Nalaboff',
+  'Same actor (Johnny Depp)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  62460,  -- Chocolat
+  7,
+  'Gal Nalaboff',
+  'Same actor (Johnny Depp)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  70959,  -- Corpse Bride, The
+  7,
+  'Gal Nalaboff',
+  'Same actor (Johnny Depp)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  74259,  -- Cry-Baby
+  7,
+  'Gal Nalaboff',
+  'Same actor (Johnny Depp)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  80502,  -- Dead Man
+  7,
+  'Gal Nalaboff',
+  'Same actor (Johnny Depp)',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  846,  -- 101 Biggest Celebrity Oops
+  88106,  -- Diving Bell and the Butterfly, The
+  7,
+  'Gal Nalaboff',
+  'Same actor (Johnny Depp)',
+  NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  10,  -- $100,000 Pyramid, The
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 2001',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  17,  -- $300 y tickets
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 2002',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  21,  -- $5.15/Hr.
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 2004',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  33,  -- $windle
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 2002',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  36,  -- '15'
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 2002',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  37,  -- '24-25' ne vozvrashchayetsya
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 1968',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  39,  -- '42
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 1951',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  42,  -- '60s Pop Rock Reunion
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 2004',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  47,  -- '88 Dodge Aries
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 2002',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  51,  -- 'A'
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 1965',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  55,  -- 'Akasaka no shimai' yori: yoru no wada
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 1960',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  57,  -- 'Ang Galing galing mo, Babes'
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 2002',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  61,  -- 'As se hizo' - Torremolinos 73
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 2003',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  67,  -- 'Billy Elliot' Boy, The
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 2001',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  72,  -- 'Bullitt': Steve McQueen's Commitment to Reality
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 1968',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  77,  -- 'Catch Me If You Can': Behind the Camera
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 2003',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  102,  -- 'Elf' Jukebox
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 2004',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  112,  -- 'Giant' Stars Are Off to Texas
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 1955',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  115,  -- 'Golden Prison': The Louvre, 'A'
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 1964',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  117,  -- 'Halloween 4' Final Cut
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 2001',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  120,  -- 'Hellboy': The Seeds of Creation
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 2004',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  126,  -- 'I' of the Beholder, The
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 1952',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  128,  -- 'Imp'probable Mr. Wee Gee, The
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 1966',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  131,  -- 'In Side Out'
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 1965',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  133,  -- 'It's Alive!'
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 1969',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  140,  -- 'k vergeet u nooit, venti
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 1957',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  156,  -- 'Manos' the Hands of Fate
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 1966',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  161,  -- 'Metal Gear Solid 2: Sons of Liberty' - Making of the Hollywood Game
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 2002',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  167,  -- 'Minagoroshi no uta' yori kenj-yo saraba!
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 1960',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  169,  -- 'Mini' ta, La
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 1968',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  171,  -- 'Moonlight Mile': A Journey to Screen
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 2003',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  173,  -- 'n donderend gepiep
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 1963',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  175,  -- 'n stukje humor
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 2002',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  182,  -- 'N Sync: PopOdyssey Live
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 2002',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  183,  -- 'N Sync: The Atlantis Concert
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 2001',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  187,  -- 'Neath Canadian Skies
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 1946',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  191,  -- 'Nendo no omen' yori: kaachan
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 1961',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  220,  -- 'Rope' Unleashed
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 2001',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  230,  -- 'Salem's Lot
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 2004',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  243,  -- 'Slask'
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 1956',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  248,  -- 'Sugar Chile' Robinson, Billie Holiday, Count Basie and His Sextet
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 1951',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  249,  -- 'Sunset Blvd.': A Look Back
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 2002',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  252,  -- 't is maar een woord
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 1962',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  253,  -- 't Is wreed in de wereld
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 1954',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  260,  -- 'Til Death Do Us Part
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 1960',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  262,  -- 'Til Death Do Us Part
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 2002',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  279,  -- 'Twas the Night
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 2001',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  280,  -- 'Twas the Night
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 2002',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  294,  -- 'Weird Al' Yankovic: The Ultimate Video Collection
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 2003',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  3,  -- $1,000 Reward
+  299,  -- 'Where Did You Go?' 'Out.' 'What Did You Do?' 'Nothing.'
+  3,
+  'Gal Nalaboff',
+  'Movies released more than 30 years apart: 1913 vs 1960',
+  NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  2,  -- $
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  6,  -- $1,000,000 Duck
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  8,  -- $10,000 Under a Pillow
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  11,  -- $1000 a Touchdown
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  15,  -- $30
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  18,  -- $40,000
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  21,  -- $5.15/Hr.
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  28,  -- $500 Reward, The
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  29,  -- $500,000 Reward
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  35,  -- ''Bear'' Facts, The
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  47,  -- '88 Dodge Aries
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  50,  -- '?' Motorist, The
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  52,  -- 'A' gai waak
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  53,  -- 'A' gai waak juk jaap
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  59,  -- 'Arry and 'Arriet's Evening Out
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  73,  -- 'burbs, The
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  74,  -- 'C' Word, The
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  76,  -- 'Cat and Mouse' at the Home
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  94,  -- 'Crocodile' Dundee II
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  100,  -- 'E'
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  106,  -- 'Foxy Grandpa' Shows Boys He Is a Magician
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  121,  -- 'High Sign', The
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  124,  -- 'Hyp-Nut-Tist', The
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  128,  -- 'Imp'probable Mr. Wee Gee, The
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  136,  -- 'Java Madness' formerly titled 'Coffee Madness'
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  139,  -- 'J to tedy beru, sfe...!'
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  152,  -- 'M' Word
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  172,  -- 'Moving' Picture, A
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  173,  -- 'n donderend gepiep
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  184,  -- 'Ne gnstige Gelegenheit
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  186,  -- 'Neath Brooklyn Bridge
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  198,  -- 'O re
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  204,  -- 'Panaderos', Los
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  241,  -- 'Simple Life' Cure, The
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  253,  -- 't Is wreed in de wereld
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  254,  -- 't Was een April
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  256,  -- 'Taint Legal
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  263,  -- 'Til There Was You
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  268,  -- 'Tis Mother!
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  270,  -- 'Tis Spring
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  271,  -- 'Tis the Ball
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  275,  -- 'Tong tatlong tatay kong pakitong-kitong
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  277,  -- 'Twas Ever Thus
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  278,  -- 'Twas Henry's Fault
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  279,  -- 'Twas the Night
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  285,  -- 'Uncle Tom's Cabin' Troupe, An
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  290,  -- 'Weary Willie' and the Gardener
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  292,  -- 'Weird Al' Yankovic Video Library: His Greatest Hits, The
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  293,  -- 'Weird Al' Yankovic: (There's No)
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  9,  -- $100,000
+  294,  -- 'Weird Al' Yankovic: The Ultimate Video Collection
+  4,
+  'Gal Nalaboff',
+  'Different genres: Drama vs Comedy',
+  NULL
+);
