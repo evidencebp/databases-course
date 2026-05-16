@@ -1,11 +1,6 @@
 -- Personal movie ratings by Ofir Gelbart (github: ofirgelbart74)
 -- 206 movies rated on the project's 1-10 scale with specific justifications.
 
-use imdb_ijs;
-SET SQL_SAFE_UPDATES = 0;
-DELETE FROM personal_movies_ranking WHERE suggested_by = 'ofirgelbart74';
-SET SQL_SAFE_UPDATES = 1;
-
 insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (8183, 7, 'ofirgelbart74', 'Scorsese at his most restrained; Ballhaus''s camera and the repressed performances do more than dialogue ever could, making it memorable but not essential enough for a rewatch, resulting in a 7.', null);  # 8183 Age of Innocence, The 1993
 insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10702, 5, 'ofirgelbart74', 'Burstyn carries it with raw force but the road-movie structure diffuses the tension — a watchable but minor Scorsese that leaves no lasting impression, justifying a 5.', null);  # 10702 Alice Doesn't Live Here Anymore 1974
 insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10945, 5, 'ofirgelbart74', 'Visually striking but studio interference gutted the third act, making it a frustrating near-miss that is watchable without being satisfying, justifying a 5.', null);  # 10945 Alien 3 1992
