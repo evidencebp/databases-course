@@ -1,8 +1,6 @@
 use imdb_ijs;
 
 # Number of movies
-
-# Moveis per genre
 select 
 count(distinct movie_id) as movies
 from

@@ -1,0 +1,1999 @@
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  280270,  -- Rocky
+  280281,  -- Rocky II
+  7,
+  'Almog Maman',
+  'People who like the Rocky film series',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  280270,  -- Rocky
+  280282,  -- Rocky III
+  7,
+  'Almog Maman',
+  'People who like the Rocky film series',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  280270,  -- Rocky
+  280284,  -- Rocky IV
+  7,
+  'Almog Maman',
+  'People who like the Rocky film series',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  280270,  -- Rocky
+  280305,  -- Rocky V
+  7,
+  'Almog Maman',
+  'People who like the Rocky film series',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  280270,  -- Rocky
+  280306,  -- Rocky VI
+  7,
+  'Almog Maman',
+  'People who like the Rocky film series',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  280281,  -- Rocky II
+  280282,  -- Rocky III
+  7,
+  'Almog Maman',
+  'People who like the Rocky film series',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  280281,  -- Rocky II
+  280284,  -- Rocky IV
+  7,
+  'Almog Maman',
+  'People who like the Rocky film series',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  280281,  -- Rocky II
+  280305,  -- Rocky V
+  7,
+  'Almog Maman',
+  'People who like the Rocky film series',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  280281,  -- Rocky II
+  280306,  -- Rocky VI
+  7,
+  'Almog Maman',
+  'People who like the Rocky film series',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  280281,  -- Rocky II
+  280270,  -- Rocky
+  7,
+  'Almog Maman',
+  'People who like the Rocky film series',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  280282,  -- Rocky III
+  280284,  -- Rocky IV
+  7,
+  'Almog Maman',
+  'People who like the Rocky film series',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  280282,  -- Rocky III
+  280305,  -- Rocky V
+  7,
+  'Almog Maman',
+  'People who like the Rocky film series',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  280282,  -- Rocky III
+  280306,  -- Rocky VI
+  7,
+  'Almog Maman',
+  'People who like the Rocky film series',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  280282,  -- Rocky III
+  280281,  -- Rocky II
+  7,
+  'Almog Maman',
+  'People who like the Rocky film series',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  280282,  -- Rocky III
+  280270,  -- Rocky
+  7,
+  'Almog Maman',
+  'People who like the Rocky film series',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  280284,  -- Rocky IV
+  280305,  -- Rocky V
+  7,
+  'Almog Maman',
+  'People who like the Rocky film series',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  280284,  -- Rocky IV
+  280306,  -- Rocky VI
+  7,
+  'Almog Maman',
+  'People who like the Rocky film series',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  280284,  -- Rocky IV
+  280270,  -- Rocky
+  7,
+  'Almog Maman',
+  'People who like the Rocky film series',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  280284,  -- Rocky IV
+  280281,  -- Rocky II
+  7,
+  'Almog Maman',
+  'People who like the Rocky film series',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  280284,  -- Rocky IV
+  280282,  -- Rocky III
+  7,
+  'Almog Maman',
+  'People who like the Rocky film series',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  280305,  -- Rocky V
+  280270,  -- Rocky
+  7,
+  'Almog Maman',
+  'People who like the Rocky film series',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  280305,  -- Rocky V
+  280281,  -- Rocky II
+  7,
+  'Almog Maman',
+  'People who like the Rocky film series',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  280305,  -- Rocky V
+  280282,  -- Rocky III
+  7,
+  'Almog Maman',
+  'People who like the Rocky film series',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  280305,  -- Rocky V
+  280284,  -- Rocky IV
+  7,
+  'Almog Maman',
+  'People who like the Rocky film series',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  280305,  -- Rocky V
+  280306,  -- Rocky VI
+  7,
+  'Almog Maman',
+  'People who like the Rocky film series',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  280306,  -- Rocky VI
+  280270,  -- Rocky
+  7,
+  'Almog Maman',
+  'People who like the Rocky film series',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  280306,  -- Rocky VI
+  280281,  -- Rocky II
+  7,
+  'Almog Maman',
+  'People who like the Rocky film series',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  280306,  -- Rocky VI
+  280282,  -- Rocky III
+  7,
+  'Almog Maman',
+  'People who like the Rocky film series',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  280306,  -- Rocky VI
+  280284,  -- Rocky IV
+  7,
+  'Almog Maman',
+  'People who like the Rocky film series',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  280306,  -- Rocky VI
+  280305,  -- Rocky V
+  7,
+  'Almog Maman',
+  'People who like the Rocky film series',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  28631,  -- Balloon
+  38743,  -- Birthmark, The
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  28631,  -- Balloon
+  198835,  -- Macabre Pair of Shorts
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  28631,  -- Balloon
+  258132,  -- Plenilunio
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  28631,  -- Balloon
+  268034,  -- Puzzle, The
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  28631,  -- Balloon
+  319710,  -- Superstition
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  28631,  -- Balloon
+  320669,  -- Sveto mesto
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  38743,  -- Birthmark, The
+  28631,  -- Balloon
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  38743,  -- Birthmark, The
+  198835,  -- Macabre Pair of Shorts
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  38743,  -- Birthmark, The
+  258132,  -- Plenilunio
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  38743,  -- Birthmark, The
+  268034,  -- Puzzle, The
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  38743,  -- Birthmark, The
+  319710,  -- Superstition
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  38743,  -- Birthmark, The
+  320669,  -- Sveto mesto
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  198835,  -- Macabre Pair of Shorts
+  28631,  -- Balloon
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  198835,  -- Macabre Pair of Shorts
+  38743,  -- Birthmark, The
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  198835,  -- Macabre Pair of Shorts
+  258132,  -- Plenilunio
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  198835,  -- Macabre Pair of Shorts
+  268034,  -- Puzzle, The
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  198835,  -- Macabre Pair of Shorts
+  319710,  -- Superstition
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  198835,  -- Macabre Pair of Shorts
+  320669,  -- Sveto mesto
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  258132,  -- Plenilunio
+  28631,  -- Balloon
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  258132,  -- Plenilunio
+  38743,  -- Birthmark, The
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  258132,  -- Plenilunio
+  198835,  -- Macabre Pair of Shorts
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  258132,  -- Plenilunio
+  268034,  -- Puzzle, The
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  258132,  -- Plenilunio
+  319710,  -- Superstition
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  258132,  -- Plenilunio
+  320669,  -- Sveto mesto
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  268034,  -- Puzzle, The
+  28631,  -- Balloon
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  268034,  -- Puzzle, The
+  38743,  -- Birthmark, The
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  268034,  -- Puzzle, The
+  198835,  -- Macabre Pair of Shorts
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  268034,  -- Puzzle, The
+  258132,  -- Plenilunio
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  268034,  -- Puzzle, The
+  319710,  -- Superstition
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  268034,  -- Puzzle, The
+  320669,  -- Sveto mesto
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  319710,  -- Superstition
+  28631,  -- Balloon
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  319710,  -- Superstition
+  38743,  -- Birthmark, The
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  319710,  -- Superstition
+  198835,  -- Macabre Pair of Shorts
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  319710,  -- Superstition
+  258132,  -- Plenilunio
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  319710,  -- Superstition
+  268034,  -- Puzzle, The
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  319710,  -- Superstition
+  320669,  -- Sveto mesto
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  320669,  -- Sveto mesto
+  28631,  -- Balloon
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  320669,  -- Sveto mesto
+  38743,  -- Birthmark, The
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  320669,  -- Sveto mesto
+  198835,  -- Macabre Pair of Shorts
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  320669,  -- Sveto mesto
+  258132,  -- Plenilunio
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  320669,  -- Sveto mesto
+  268034,  -- Puzzle, The
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  320669,  -- Sveto mesto
+  319710,  -- Superstition
+  9,
+  'Almog Maman',
+  'Fans of 1980–2000 horror films rated over 8',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  350424,  -- Vanilla Sky
+  215875,  -- Mission: Impossible
+  8,
+  'Almog Maman',
+  'Fans of Tom Cruise films (1996–2025) would like Mission: Impossible',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  350424,  -- Vanilla Sky
+  215876,  -- Mission: Impossible
+  8,
+  'Almog Maman',
+  'Fans of Tom Cruise films (1996–2025) would like Mission: Impossible',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  350424,  -- Vanilla Sky
+  215877,  -- Mission: Impossible
+  8,
+  'Almog Maman',
+  'Fans of Tom Cruise films (1996–2025) would like Mission: Impossible',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  350424,  -- Vanilla Sky
+  215878,  -- Mission: Impossible - Operation Surma
+  8,
+  'Almog Maman',
+  'Fans of Tom Cruise films (1996–2025) would like Mission: Impossible',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  350424,  -- Vanilla Sky
+  215879,  -- Mission: Impossible II
+  8,
+  'Almog Maman',
+  'Fans of Tom Cruise films (1996–2025) would like Mission: Impossible',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  350424,  -- Vanilla Sky
+  215880,  -- Mission: Impossible III
+  8,
+  'Almog Maman',
+  'Fans of Tom Cruise films (1996–2025) would like Mission: Impossible',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  313160,  -- Stanley Kubrick: A Life in Pictures
+  215875,  -- Mission: Impossible
+  8,
+  'Almog Maman',
+  'Fans of Tom Cruise films (1996–2025) would like Mission: Impossible',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  313160,  -- Stanley Kubrick: A Life in Pictures
+  215876,  -- Mission: Impossible
+  8,
+  'Almog Maman',
+  'Fans of Tom Cruise films (1996–2025) would like Mission: Impossible',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  313160,  -- Stanley Kubrick: A Life in Pictures
+  215877,  -- Mission: Impossible
+  8,
+  'Almog Maman',
+  'Fans of Tom Cruise films (1996–2025) would like Mission: Impossible',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  313160,  -- Stanley Kubrick: A Life in Pictures
+  215878,  -- Mission: Impossible - Operation Surma
+  8,
+  'Almog Maman',
+  'Fans of Tom Cruise films (1996–2025) would like Mission: Impossible',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  313160,  -- Stanley Kubrick: A Life in Pictures
+  215879,  -- Mission: Impossible II
+  8,
+  'Almog Maman',
+  'Fans of Tom Cruise films (1996–2025) would like Mission: Impossible',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  313160,  -- Stanley Kubrick: A Life in Pictures
+  215880,  -- Mission: Impossible III
+  8,
+  'Almog Maman',
+  'Fans of Tom Cruise films (1996–2025) would like Mission: Impossible',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  310168,  -- Space Station 3D
+  215875,  -- Mission: Impossible
+  8,
+  'Almog Maman',
+  'Fans of Tom Cruise films (1996–2025) would like Mission: Impossible',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  310168,  -- Space Station 3D
+  215876,  -- Mission: Impossible
+  8,
+  'Almog Maman',
+  'Fans of Tom Cruise films (1996–2025) would like Mission: Impossible',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  310168,  -- Space Station 3D
+  215877,  -- Mission: Impossible
+  8,
+  'Almog Maman',
+  'Fans of Tom Cruise films (1996–2025) would like Mission: Impossible',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  310168,  -- Space Station 3D
+  215878,  -- Mission: Impossible - Operation Surma
+  8,
+  'Almog Maman',
+  'Fans of Tom Cruise films (1996–2025) would like Mission: Impossible',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  310168,  -- Space Station 3D
+  215879,  -- Mission: Impossible II
+  8,
+  'Almog Maman',
+  'Fans of Tom Cruise films (1996–2025) would like Mission: Impossible',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  310168,  -- Space Station 3D
+  215880,  -- Mission: Impossible III
+  8,
+  'Almog Maman',
+  'Fans of Tom Cruise films (1996–2025) would like Mission: Impossible',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  214755,  -- Minority Report
+  215875,  -- Mission: Impossible
+  8,
+  'Almog Maman',
+  'Fans of Tom Cruise films (1996–2025) would like Mission: Impossible',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  214755,  -- Minority Report
+  215876,  -- Mission: Impossible
+  8,
+  'Almog Maman',
+  'Fans of Tom Cruise films (1996–2025) would like Mission: Impossible',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  214755,  -- Minority Report
+  215877,  -- Mission: Impossible
+  8,
+  'Almog Maman',
+  'Fans of Tom Cruise films (1996–2025) would like Mission: Impossible',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  214755,  -- Minority Report
+  215878,  -- Mission: Impossible - Operation Surma
+  8,
+  'Almog Maman',
+  'Fans of Tom Cruise films (1996–2025) would like Mission: Impossible',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  214755,  -- Minority Report
+  215879,  -- Mission: Impossible II
+  8,
+  'Almog Maman',
+  'Fans of Tom Cruise films (1996–2025) would like Mission: Impossible',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  214755,  -- Minority Report
+  215880,  -- Mission: Impossible III
+  8,
+  'Almog Maman',
+  'Fans of Tom Cruise films (1996–2025) would like Mission: Impossible',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  200521,  -- Magnolia
+  215875,  -- Mission: Impossible
+  8,
+  'Almog Maman',
+  'Fans of Tom Cruise films (1996–2025) would like Mission: Impossible',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  200521,  -- Magnolia
+  215876,  -- Mission: Impossible
+  8,
+  'Almog Maman',
+  'Fans of Tom Cruise films (1996–2025) would like Mission: Impossible',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  200521,  -- Magnolia
+  215877,  -- Mission: Impossible
+  8,
+  'Almog Maman',
+  'Fans of Tom Cruise films (1996–2025) would like Mission: Impossible',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  200521,  -- Magnolia
+  215878,  -- Mission: Impossible - Operation Surma
+  8,
+  'Almog Maman',
+  'Fans of Tom Cruise films (1996–2025) would like Mission: Impossible',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  94,  -- 'Crocodile' Dundee II
+  344,  -- ...All the Marbles
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  94,  -- 'Crocodile' Dundee II
+  382,  -- ...e cos divennero i tre supermen del West
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  94,  -- 'Crocodile' Dundee II
+  430,  -- ...Po prozvishchu 'Zver'
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  94,  -- 'Crocodile' Dundee II
+  450,  -- ...tick...tick...tick...
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  94,  -- 'Crocodile' Dundee II
+  465,  -- ...und ewig knallen die Ruber
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  94,  -- 'Crocodile' Dundee II
+  506,  -- .38 Ambush Alley
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  344,  -- ...All the Marbles
+  94,  -- 'Crocodile' Dundee II
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  344,  -- ...All the Marbles
+  382,  -- ...e cos divennero i tre supermen del West
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  344,  -- ...All the Marbles
+  430,  -- ...Po prozvishchu 'Zver'
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  344,  -- ...All the Marbles
+  450,  -- ...tick...tick...tick...
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  344,  -- ...All the Marbles
+  465,  -- ...und ewig knallen die Ruber
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  344,  -- ...All the Marbles
+  506,  -- .38 Ambush Alley
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  382,  -- ...e cos divennero i tre supermen del West
+  94,  -- 'Crocodile' Dundee II
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  382,  -- ...e cos divennero i tre supermen del West
+  344,  -- ...All the Marbles
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  382,  -- ...e cos divennero i tre supermen del West
+  430,  -- ...Po prozvishchu 'Zver'
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  382,  -- ...e cos divennero i tre supermen del West
+  450,  -- ...tick...tick...tick...
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  382,  -- ...e cos divennero i tre supermen del West
+  465,  -- ...und ewig knallen die Ruber
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  382,  -- ...e cos divennero i tre supermen del West
+  506,  -- .38 Ambush Alley
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  430,  -- ...Po prozvishchu 'Zver'
+  94,  -- 'Crocodile' Dundee II
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  430,  -- ...Po prozvishchu 'Zver'
+  344,  -- ...All the Marbles
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  430,  -- ...Po prozvishchu 'Zver'
+  382,  -- ...e cos divennero i tre supermen del West
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  430,  -- ...Po prozvishchu 'Zver'
+  450,  -- ...tick...tick...tick...
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  430,  -- ...Po prozvishchu 'Zver'
+  465,  -- ...und ewig knallen die Ruber
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  430,  -- ...Po prozvishchu 'Zver'
+  506,  -- .38 Ambush Alley
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  450,  -- ...tick...tick...tick...
+  94,  -- 'Crocodile' Dundee II
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  450,  -- ...tick...tick...tick...
+  344,  -- ...All the Marbles
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  450,  -- ...tick...tick...tick...
+  382,  -- ...e cos divennero i tre supermen del West
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  450,  -- ...tick...tick...tick...
+  430,  -- ...Po prozvishchu 'Zver'
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  450,  -- ...tick...tick...tick...
+  465,  -- ...und ewig knallen die Ruber
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  450,  -- ...tick...tick...tick...
+  506,  -- .38 Ambush Alley
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  465,  -- ...und ewig knallen die Ruber
+  94,  -- 'Crocodile' Dundee II
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  465,  -- ...und ewig knallen die Ruber
+  344,  -- ...All the Marbles
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  465,  -- ...und ewig knallen die Ruber
+  382,  -- ...e cos divennero i tre supermen del West
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  465,  -- ...und ewig knallen die Ruber
+  430,  -- ...Po prozvishchu 'Zver'
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  465,  -- ...und ewig knallen die Ruber
+  450,  -- ...tick...tick...tick...
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  465,  -- ...und ewig knallen die Ruber
+  506,  -- .38 Ambush Alley
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  506,  -- .38 Ambush Alley
+  94,  -- 'Crocodile' Dundee II
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  506,  -- .38 Ambush Alley
+  344,  -- ...All the Marbles
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  506,  -- .38 Ambush Alley
+  382,  -- ...e cos divennero i tre supermen del West
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  506,  -- .38 Ambush Alley
+  430,  -- ...Po prozvishchu 'Zver'
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  506,  -- .38 Ambush Alley
+  450,  -- ...tick...tick...tick...
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  506,  -- .38 Ambush Alley
+  465,  -- ...und ewig knallen die Ruber
+  4,
+  'Almog Maman',
+  'Not everyone who enjoys a specific action movie will necessarily enjoy another movie from the same genre.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  4860,  -- Abhilasha (1983/I)
+  18086,  -- Ansuyammagari Alludu
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  4860,  -- Abhilasha (1983/I)
+  18458,  -- Anubandham
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  4860,  -- Abhilasha (1983/I)
+  23136,  -- Athaku Yamudu Ammayiki Mogudu
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  4860,  -- Abhilasha (1983/I)
+  36169,  -- Bhargava Ramudu
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  4860,  -- Abhilasha (1983/I)
+  58625,  -- Challenge
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  4860,  -- Abhilasha (1983/I)
+  83754,  -- Deshoddharakulu
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  4860,  -- Abhilasha (1983/I)
+  90571,  -- Donga
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  4860,  -- Abhilasha (1983/I)
+  90573,  -- Donga Mogudu
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  4860,  -- Abhilasha (1983/I)
+  131879,  -- Goonda
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  4860,  -- Abhilasha (1983/I)
+  165214,  -- Jamai Raja
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  4860,  -- Abhilasha (1983/I)
+  166374,  -- Jebu Donga
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  18086,  -- Ansuyammagari Alludu
+  4860,  -- Abhilasha (1983/I)
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  18086,  -- Ansuyammagari Alludu
+  18458,  -- Anubandham
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  18086,  -- Ansuyammagari Alludu
+  23136,  -- Athaku Yamudu Ammayiki Mogudu
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  18086,  -- Ansuyammagari Alludu
+  36169,  -- Bhargava Ramudu
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  18086,  -- Ansuyammagari Alludu
+  58625,  -- Challenge
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  18086,  -- Ansuyammagari Alludu
+  83754,  -- Deshoddharakulu
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  18086,  -- Ansuyammagari Alludu
+  90571,  -- Donga
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  18086,  -- Ansuyammagari Alludu
+  90573,  -- Donga Mogudu
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  18086,  -- Ansuyammagari Alludu
+  131879,  -- Goonda
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  18086,  -- Ansuyammagari Alludu
+  165214,  -- Jamai Raja
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  18086,  -- Ansuyammagari Alludu
+  166374,  -- Jebu Donga
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  18458,  -- Anubandham
+  4860,  -- Abhilasha (1983/I)
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  18458,  -- Anubandham
+  18086,  -- Ansuyammagari Alludu
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  18458,  -- Anubandham
+  23136,  -- Athaku Yamudu Ammayiki Mogudu
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  18458,  -- Anubandham
+  36169,  -- Bhargava Ramudu
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  18458,  -- Anubandham
+  58625,  -- Challenge
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  18458,  -- Anubandham
+  83754,  -- Deshoddharakulu
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  18458,  -- Anubandham
+  90571,  -- Donga
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  18458,  -- Anubandham
+  90573,  -- Donga Mogudu
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  18458,  -- Anubandham
+  131879,  -- Goonda
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  18458,  -- Anubandham
+  165214,  -- Jamai Raja
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  18458,  -- Anubandham
+  166374,  -- Jebu Donga
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  23136,  -- Athaku Yamudu Ammayiki Mogudu
+  4860,  -- Abhilasha (1983/I)
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  23136,  -- Athaku Yamudu Ammayiki Mogudu
+  18086,  -- Ansuyammagari Alludu
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  23136,  -- Athaku Yamudu Ammayiki Mogudu
+  18458,  -- Anubandham
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  23136,  -- Athaku Yamudu Ammayiki Mogudu
+  36169,  -- Bhargava Ramudu
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  23136,  -- Athaku Yamudu Ammayiki Mogudu
+  58625,  -- Challenge
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  23136,  -- Athaku Yamudu Ammayiki Mogudu
+  83754,  -- Deshoddharakulu
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  23136,  -- Athaku Yamudu Ammayiki Mogudu
+  90571,  -- Donga
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  23136,  -- Athaku Yamudu Ammayiki Mogudu
+  90573,  -- Donga Mogudu
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  23136,  -- Athaku Yamudu Ammayiki Mogudu
+  131879,  -- Goonda
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  23136,  -- Athaku Yamudu Ammayiki Mogudu
+  165214,  -- Jamai Raja
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  23136,  -- Athaku Yamudu Ammayiki Mogudu
+  166374,  -- Jebu Donga
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  36169,  -- Bhargava Ramudu
+  4860,  -- Abhilasha (1983/I)
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  36169,  -- Bhargava Ramudu
+  18086,  -- Ansuyammagari Alludu
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  36169,  -- Bhargava Ramudu
+  18458,  -- Anubandham
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  36169,  -- Bhargava Ramudu
+  23136,  -- Athaku Yamudu Ammayiki Mogudu
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  36169,  -- Bhargava Ramudu
+  58625,  -- Challenge
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  36169,  -- Bhargava Ramudu
+  83754,  -- Deshoddharakulu
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  36169,  -- Bhargava Ramudu
+  90571,  -- Donga
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  36169,  -- Bhargava Ramudu
+  90573,  -- Donga Mogudu
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  36169,  -- Bhargava Ramudu
+  131879,  -- Goonda
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  36169,  -- Bhargava Ramudu
+  165214,  -- Jamai Raja
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  36169,  -- Bhargava Ramudu
+  166374,  -- Jebu Donga
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  58625,  -- Challenge
+  4860,  -- Abhilasha (1983/I)
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  58625,  -- Challenge
+  18086,  -- Ansuyammagari Alludu
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  58625,  -- Challenge
+  18458,  -- Anubandham
+  3,
+  'Almog Maman',
+  'Not everyone who watched a film by a certain director will necessarily enjoy another film by the same director.',
+  NULL
+);

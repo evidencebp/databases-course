@@ -11,6 +11,7 @@
 3. [TutorialsPoint](https://www.tutorialspoint.com/sql/index.htm) - sytax oriented
 4. [GeekForGeek](https://www.geeksforgeeks.org/sql-tutorial/) - syntax oriented
 5. [SQLBOLT](https://sqlbolt.com/) - Movies and Syntax oriented
+6. [Eliran Grosman's SQL course  (in Hebrew)](https://egrosman1.github.io/sql-course/index.html)
 
 # Courses
    
