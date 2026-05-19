@@ -1,6 +1,3 @@
-
-use imdb_ijs;
-
 insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (406158, 8, 'drorleibov', 'Spider-Man is a thrilling superhero origin story with great character development and exciting action sequences that hold up well.', null); # 406158 Spider-Man 2003
 insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (406411, 7, 'drorleibov', 'Clone Wars captures the excitement of the Star Wars universe with fast-paced animation and fun battles between iconic characters.', null); # 406411 Star Wars: Clone Wars 2003
 insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (381392, 6, 'drorleibov', 'Batman Beyond offers a fresh futuristic spin on the Batman mythos with an engaging new protagonist taking on the cape.', null); # 381392 Batman Beyond 1999
