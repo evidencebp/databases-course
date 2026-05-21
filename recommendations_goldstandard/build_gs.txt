@@ -7,7 +7,7 @@ create table movies_recommendations
 , recommended_movie_id int
 , recommendation int 
 , suggested_by varchar(255)
-, justification varchar(255) not null
+, justification varchar(1000) not null
 , comment varchar(255)
 , PRIMARY KEY (base_movie_id, recommended_movie_id, suggested_by)
 , CONSTRAINT CHK_recommendation CHECK (recommendation >=1 AND 10 >= recommendation)
