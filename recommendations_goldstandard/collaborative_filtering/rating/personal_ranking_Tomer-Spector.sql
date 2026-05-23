@@ -1,5 +1,3 @@
--- Personal Movie Rankings
--- GitHub: Tomer-Spector
 
 insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (290070, 10, 'Tomer-Spector', 'Three hours and I didn''t check my phone once. Fiennes on the balcony is the scariest performance I''ve ever watched.', null); # 290070 Schindler''s List 1993
 insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (297838, 9, 'Tomer-Spector', 'Rewatched this last month and still get hit by the tar-roof beer scene every single time. Don''t know any movie that earns its ending more cleanly.', null); # 297838 Shawshank Redemption, The 1994
