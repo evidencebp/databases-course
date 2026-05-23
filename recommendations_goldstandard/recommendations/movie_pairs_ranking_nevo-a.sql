@@ -8,9 +8,9 @@
 -- --------------------------------------------------------------------------------------
 USE imdb_ijs;
 
--- INSERT INTO movies_recommendations (
---    base_movie_id, 
---    recommended_movie_id)
+ INSERT INTO movies_recommendations (
+    base_movie_id, 
+    recommended_movie_id)
 
 SELECT
 	pr1.movie_id AS base_movie_id,
