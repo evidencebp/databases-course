@@ -1,5 +1,3 @@
--- Personal Movie Rankings
--- GitHub: orimor25
 
 insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (290070, 10, 'orimor25', 'The contrast between Goeth and Schindler is what makes it unforgettable. Story and direction at their absolute peak, nothing feels wasted in three hours.', null); # 290070 Schindler''s List 1993
 insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (131780, 10, 'orimor25', 'Scorsese built a world so vivid you forget you are watching a film. The Copacabana tracking shot alone is worth the whole runtime.', null); # 131780 Goodfellas 1990
