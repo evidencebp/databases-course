@@ -1,11 +1,3 @@
--- Personal movie ratings by Noa Amar (github: noa165)
--- 203 movies rated on the project's 1-10 scale with specific justifications.
-
-use imdb_ijs;
-SET SQL_SAFE_UPDATES = 0;
-DELETE FROM personal_movies_ranking WHERE suggested_by = 'noa165';
-SET SQL_SAFE_UPDATES = 1;
-
 insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (333856, 10, 'noa165', 'titanic is just one of those films you never forget. the soundtrack alone makes me emotional before anything even happens.', null); -- 333856 Titanic 1997
 insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (151616, 9, 'noa165', 'how to lose a guy is such a fun watch. the whole magazine article premise is ridiculous but they make it work really well.', null); -- 151616 How to Lose a Guy in 10 Days 2003
 insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (220276, 10, 'noa165', 'moulin rouge is one of the most original films ever made. the come what may scene is genuinely one of my favorite movie moments.', null); -- 220276 Moulin Rouge! 2001
