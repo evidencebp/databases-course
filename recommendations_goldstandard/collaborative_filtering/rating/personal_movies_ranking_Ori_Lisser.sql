@@ -1,6 +1,3 @@
--- ============================================================
--- Personal movie rankings for IMDB DB - 200 movies suggested_by 'oriliss'
--- ============================================================
 
 insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (35522, 7, 'oriliss', 'Eddie Murphy at peak, the theme song lives rent free in my head', null);  # 35522 Beverly Hills Cop 1984
 insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (123849, 7, 'oriliss', 'DiCaprio in old New York, Daniel Day Lewis is electric', null);  # 123849 Gangs of New York 2002
