@@ -1,4 +1,3 @@
-USE imdb_ijs;
 
 insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (1390, 5, 'erangolani27', 'Not one of Spielberg''s stronger efforts, the plot feels disjointed', null); # 1390 1941 1979
 insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (7842, 8, 'erangolani27', 'A tense and gritty urban descent into paranoia, hard to look away', null); # 7842 After Hours 1985
