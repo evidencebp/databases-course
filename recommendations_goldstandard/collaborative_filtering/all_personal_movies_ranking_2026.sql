@@ -2763,3 +2763,4873 @@ insert into personal_movies_ranking(movie_id, recommendation, suggested_by, just
 insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (272877, 5, 'Lior', 'The darker mood makes it less aligned with my taste than romantic or family films.', null);  -- Raven, The 2003
 insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (273164, 6, 'Lior', 'The memory and reflection theme sounds emotional, even if it is not a very familiar film.', null);  -- Re-Membering Jack 2001
 insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (274677, 6, 'Lior', 'A reflective personal story can be meaningful, though it sounds more quiet than memorable.', null);  -- Reflections of a Life 2003
+
+
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (379290,8,'guyn1414','Loved it; great storytelling and strong performances, would watch this again happily.',NULL); # 379290 Adventures of Batman, The 1969
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (379327,5,'guyn1414','Ok movie; decent enough but nothing that stands out or stays with you after watching.',NULL); # 379327 Adventures of Robin Hood, The 1955
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (379331,4,'guyn1414','I dont like this; slow and unengaging, the story never pulls me in at any point.',NULL); # 379331 Adventures of Sherlock Holmes, The 1984
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (379931,7,'guyn1414','Loved it at the time; enjoyable and well-crafted, left me with a good impression.',NULL); # 379931 Amazing Stories 1985
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (381392,6,'guyn1414','Good movie that fits my taste; solid entertainment with enough quality to recommend.',NULL); # 381392 Batman Beyond 1999
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (382208,2,'guyn1414','No way; painfully bad and a waste of time, would never sit through this again.',NULL); # 382208 Blansky's Beauties 1977
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (383395,10,'guyn1414','I love this movie and would watch it anytime; an absolute masterpiece in every way.',NULL); # 383395 Captain America 1966
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (390691,5,'guyn1414','Ok movie; watchable but forgettable, does not leave much of an impression overall.',NULL); # 390691 Growing Pains 1985
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (391006,4,'guyn1414','I dont like this; poor execution and dull pacing make this very hard to enjoy.',NULL); # 391006 Happy Days 1974
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (391453,6,'guyn1414','Good movie that fits my taste; entertaining and competent with moments worth seeing.',NULL); # 391453 Herndon 1983
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (393012,7,'guyn1414','Loved it at the time; memorable and engaging, the kind of film I recall fondly.',NULL); # 393012 Iron Man 1966
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (395271,8,'guyn1414','Loved it; compelling and well made, I would definitely watch more like this.',NULL); # 395271 Laverne & Shirley 1976
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (397121,5,'guyn1414','Ok movie; has its moments but overall too average to leave a lasting impression.',NULL); # 397121 Matrix 1993
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (397250,4,'guyn1414','I dont like this; the premise had potential but the execution is deeply disappointing.',NULL); # 397250 Me and the Chimp 1972
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (398232,6,'guyn1414','Good movie that fits my taste; enjoyable watch with solid craft and a good pace.',NULL); # 398232 Mork & Mindy 1978
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (398571,2,'guyn1414','No way; unwatchable from start to finish, no redeeming qualities I can point to.',NULL); # 398571 Murphy Brown 1988
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (399427,7,'guyn1414','Loved it at the time; well directed and emotionally engaging, holds up very well.',NULL); # 399427 Night Gallery 1970
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (400612,10,'guyn1414','I love this movie and would watch it anytime; every scene is a joy, a true classic.',NULL); # 400612 Owen Marshall: Counselor at Law 1971
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (400853,5,'guyn1414','Ok movie; inoffensive and mildly entertaining but nothing to seek out intentionally.',NULL); # 400853 Parenthood 1990
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (405119,8,'guyn1414','Loved it; outstanding film with real depth and craft, would gladly revisit this.',NULL); # 405119 Sherlock Holmes 1951
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (406158,8,'guyn1414','Loved it; great storytelling and strong performances, would watch this again happily.',NULL); # 406158 Spider-Man 2003
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (406411,5,'guyn1414','Ok movie; decent enough but nothing that stands out or stays with you after watching.',NULL); # 406411 Star Wars: Clone Wars 2003
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (406759,4,'guyn1414','I dont like this; slow and unengaging, the story never pulls me in at any point.',NULL); # 406759 Strokes of Genius 1984
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (2,7,'guyn1414','Loved it at the time; enjoyable and well-crafted, left me with a good impression.',NULL); # 2 $ 1971
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (12,6,'guyn1414','Good movie that fits my taste; solid entertainment with enough quality to recommend.',NULL); # 12 $20,000 Carat, The 1913
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (15,2,'guyn1414','No way; painfully bad and a waste of time, would never sit through this again.',NULL); # 15 $30 1999
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (18,10,'guyn1414','I love this movie and would watch it anytime; an absolute masterpiece in every way.',NULL); # 18 $40,000 1996
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (20,5,'guyn1414','Ok movie; watchable but forgettable, does not leave much of an impression overall.',NULL); # 20 $5,000,000 Counterfeiting Plot, The 1914
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (33,4,'guyn1414','I dont like this; poor execution and dull pacing make this very hard to enjoy.',NULL); # 33 $windle 2002
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (37,6,'guyn1414','Good movie that fits my taste; entertaining and competent with moments worth seeing.',NULL); # 37 '24-25' ne vozvrashchayetsya 1968
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (47,7,'guyn1414','Loved it at the time; memorable and engaging, the kind of film I recall fondly.',NULL); # 47 '88 Dodge Aries 2002
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (51,8,'guyn1414','Loved it; compelling and well made, I would definitely watch more like this.',NULL); # 51 'A' 1965
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (52,5,'guyn1414','Ok movie; has its moments but overall too average to leave a lasting impression.',NULL); # 52 'A' gai waak 1983
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (53,4,'guyn1414','I dont like this; the premise had potential but the execution is deeply disappointing.',NULL); # 53 'A' gai waak juk jaap 1987
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (74,6,'guyn1414','Good movie that fits my taste; enjoyable watch with solid craft and a good pace.',NULL); # 74 'C' Word, The 1993
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (81,2,'guyn1414','No way; unwatchable from start to finish, no redeeming qualities I can point to.',NULL); # 81 'Columbia' and 'Shamrock II': Jockeying and Starting 1901
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (82,7,'guyn1414','Loved it at the time; well directed and emotionally engaging, holds up very well.',NULL); # 82 'Columbia' and 'Shamrock II': Start of Second Race 1901
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (83,10,'guyn1414','I love this movie and would watch it anytime; every scene is a joy, a true classic.',NULL); # 83 'Columbia' and 'Shamrock II': Starting in the Third Race 1901
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (84,5,'guyn1414','Ok movie; inoffensive and mildly entertaining but nothing to seek out intentionally.',NULL); # 84 'Columbia' and 'Shamrock II': Turning the Outer Stake Boat 1901
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (100,8,'guyn1414','Loved it; outstanding film with real depth and craft, would gladly revisit this.',NULL); # 100 'E' 1981
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (108,8,'guyn1414','Loved it; great storytelling and strong performances, would watch this again happily.',NULL); # 108 'G' Men 1935
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (121,5,'guyn1414','Ok movie; decent enough but nothing that stands out or stays with you after watching.',NULL); # 121 'High Sign', The 1921
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (152,4,'guyn1414','I dont like this; slow and unengaging, the story never pulls me in at any point.',NULL); # 152 'M' Word 1996
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (153,7,'guyn1414','Loved it at the time; enjoyable and well-crafted, left me with a good impression.',NULL); # 153 'Mad' Boy, I'll Blow Your Blues Away. Be Mine 1997
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (154,6,'guyn1414','Good movie that fits my taste; solid entertainment with enough quality to recommend.',NULL); # 154 'Make-Up' Thief, The 1899
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (167,2,'guyn1414','No way; painfully bad and a waste of time, would never sit through this again.',NULL); # 167 'Minagoroshi no uta' yori kenj-yo saraba! 1960
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (168,10,'guyn1414','I love this movie and would watch it anytime; an absolute masterpiece in every way.',NULL); # 168 'Ming wang xing' xing dong 1992
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (178,5,'guyn1414','Ok movie; watchable but forgettable, does not leave much of an impression overall.',NULL); # 178 'N Sync: 'Ntimate Holiday Special 2000
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (179,4,'guyn1414','I dont like this; poor execution and dull pacing make this very hard to enjoy.',NULL); # 179 'N Sync: Live From Madison Square Garden 2000
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (180,6,'guyn1414','Good movie that fits my taste; entertaining and competent with moments worth seeing.',NULL); # 180 'N Sync: Making the Tour 2000
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (181,7,'guyn1414','Loved it at the time; memorable and engaging, the kind of film I recall fondly.',NULL); # 181 'N Sync: No Strings Attached 1999
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (182,8,'guyn1414','Loved it; compelling and well made, I would definitely watch more like this.',NULL); # 182 'N Sync: PopOdyssey Live 2002
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (183,5,'guyn1414','Ok movie; has its moments but overall too average to leave a lasting impression.',NULL); # 183 'N Sync: The Atlantis Concert 2001
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (184,4,'guyn1414','I dont like this; the premise had potential but the execution is deeply disappointing.',NULL); # 184 'Ne gnstige Gelegenheit 1999
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (244,6,'guyn1414','Good movie that fits my taste; enjoyable watch with solid craft and a good pace.',NULL); # 244 'Sloboda' - Kula 1971
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (253,2,'guyn1414','No way; unwatchable from start to finish, no redeeming qualities I can point to.',NULL); # 253 't Is wreed in de wereld 1954
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (254,7,'guyn1414','Loved it at the time; well directed and emotionally engaging, holds up very well.',NULL); # 254 't Was een April 1935
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (263,10,'guyn1414','I love this movie and would watch it anytime; every scene is a joy, a true classic.',NULL); # 263 'Til There Was You 1997
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (275,5,'guyn1414','Ok movie; inoffensive and mildly entertaining but nothing to seek out intentionally.',NULL); # 275 'Tong tatlong tatay kong pakitong-kitong 1998
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (315,8,'guyn1414','Loved it; outstanding film with real depth and craft, would gladly revisit this.',NULL); # 315 (Now) 1976
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (316,8,'guyn1414','Loved it; great storytelling and strong performances, would watch this again happily.',NULL); # 316 (Ohne Titel) 2003
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (318,5,'guyn1414','Ok movie; decent enough but nothing that stands out or stays with you after watching.',NULL); # 318 (Past Present Future) 2004
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (321,4,'guyn1414','I dont like this; slow and unengaging, the story never pulls me in at any point.',NULL); # 321 (Stories from) 1995
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (322,7,'guyn1414','Loved it at the time; enjoyable and well-crafted, left me with a good impression.',NULL); # 322 (T) 2004
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (323,6,'guyn1414','Good movie that fits my taste; solid entertainment with enough quality to recommend.',NULL); # 323 (Un) 2003
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (330,2,'guyn1414','No way; painfully bad and a waste of time, would never sit through this again.',NULL); # 330 +1 -1 1987
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (338,10,'guyn1414','I love this movie and would watch it anytime; an absolute masterpiece in every way.',NULL); # 338 ...A Valparaso 1962
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (365,5,'guyn1414','Ok movie; watchable but forgettable, does not leave much of an impression overall.',NULL); # 365 ...borgnes sont rois, Les 1974
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (370,4,'guyn1414','I dont like this; poor execution and dull pacing make this very hard to enjoy.',NULL); # 370 ...continuavano a chiamarlo Trinit 1972
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (387,6,'guyn1414','Good movie that fits my taste; entertaining and competent with moments worth seeing.',NULL); # 387 ...e la vita continua 1984
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (411,7,'guyn1414','Loved it at the time; memorable and engaging, the kind of film I recall fondly.',NULL); # 411 ...It Is Nice to Be Privileged 1976
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (413,8,'guyn1414','Loved it; compelling and well made, I would definitely watch more like this.',NULL); # 413 ...Ja teeb trikke 1978
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (450,5,'guyn1414','Ok movie; has its moments but overall too average to leave a lasting impression.',NULL); # 450 ...tick...tick...tick... 1970
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (494,4,'guyn1414','I dont like this; the premise had potential but the execution is deeply disappointing.',NULL); # 494 ...Y los sueos pasan 1939
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (499,6,'guyn1414','Good movie that fits my taste; enjoyable watch with solid craft and a good pace.',NULL); # 499 ...ya no puede caminar. 2001
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (517,2,'guyn1414','No way; unwatchable from start to finish, no redeeming qualities I can point to.',NULL); # 517 .hack//Quarantine 2003
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (523,7,'guyn1414','Loved it at the time; well directed and emotionally engaging, holds up very well.',NULL); # 523 0-600-Amor ya 1998
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (576,10,'guyn1414','I love this movie and would watch it anytime; every scene is a joy, a true classic.',NULL); # 576 1 s a semmi 2004
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (589,5,'guyn1414','Ok movie; inoffensive and mildly entertaining but nothing to seek out intentionally.',NULL); # 589 1-2-3 Go! 1941
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (599,8,'guyn1414','Loved it; outstanding film with real depth and craft, would gladly revisit this.',NULL); # 599 1. maj 1960 1960
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (618,8,'guyn1414','Loved it; great storytelling and strong performances, would watch this again happily.',NULL); # 618 10 from Your Show of Shows 1973
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (628,5,'guyn1414','Ok movie; decent enough but nothing that stands out or stays with you after watching.',NULL); # 628 10 minuta 2002
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (632,4,'guyn1414','I dont like this; slow and unengaging, the story never pulls me in at any point.',NULL); # 632 10 Minuten zwischen Hamburg und Salzburg 2004
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (641,7,'guyn1414','Loved it at the time; enjoyable and well-crafted, left me with a good impression.',NULL); # 641 10 Seconds 1998
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (644,6,'guyn1414','Good movie that fits my taste; solid entertainment with enough quality to recommend.',NULL); # 644 10 Things I Hate About You 1999
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (660,2,'guyn1414','No way; painfully bad and a waste of time, would never sit through this again.',NULL); # 660 10,000 Kids and a Cop 1948
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (661,10,'guyn1414','I love this movie and would watch it anytime; an absolute masterpiece in every way.',NULL); # 661 10,000 Maniacs Time Capsule 1990
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (671,5,'guyn1414','Ok movie; watchable but forgettable, does not leave much of an impression overall.',NULL); # 671 10/65: Selbstverstmmelung 1965
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (672,4,'guyn1414','I dont like this; poor execution and dull pacing make this very hard to enjoy.',NULL); # 672 100 aos de perdn 1998
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (673,6,'guyn1414','Good movie that fits my taste; entertaining and competent with moments worth seeing.',NULL); # 673 100 Bullets 2004
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (674,7,'guyn1414','Loved it at the time; memorable and engaging, the kind of film I recall fondly.',NULL); # 674 100 Cameras: Capturing Lars Von Trier's Vision 2000
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (675,8,'guyn1414','Loved it; compelling and well made, I would definitely watch more like this.',NULL); # 675 100 Days 1991
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (676,5,'guyn1414','Ok movie; has its moments but overall too average to leave a lasting impression.',NULL); # 676 100 Days 2001
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (690,4,'guyn1414','I dont like this; the premise had potential but the execution is deeply disappointing.',NULL); # 690 100 Greatest TV Characters, The 2001
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (720,6,'guyn1414','Good movie that fits my taste; enjoyable watch with solid craft and a good pace.',NULL); # 720 100 Worst Pop Records 2004
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (724,2,'guyn1414','No way; unwatchable from start to finish, no redeeming qualities I can point to.',NULL); # 724 100 Years of Horror 1996
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (725,7,'guyn1414','Loved it at the time; well directed and emotionally engaging, holds up very well.',NULL); # 725 100 Years of Horror: Freaks 1996
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (726,10,'guyn1414','I love this movie and would watch it anytime; every scene is a joy, a true classic.',NULL); # 726 100 Years of Horror: Giants and Dinosaurs 1996
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (727,5,'guyn1414','Ok movie; inoffensive and mildly entertaining but nothing to seek out intentionally.',NULL); # 727 100 Years of Horror: Maniacs 1996
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (728,8,'guyn1414','Loved it; outstanding film with real depth and craft, would gladly revisit this.',NULL); # 728 100 Years of Horror: Scream Queens 1996
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (729,8,'guyn1414','Loved it; great storytelling and strong performances, would watch this again happily.',NULL); # 729 100 Years of Horror: Sorcerers 1996
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (731,5,'guyn1414','Ok movie; decent enough but nothing that stands out or stays with you after watching.',NULL); # 731 100 Years of Horror: The Count and Company 1996
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (735,4,'guyn1414','I dont like this; slow and unengaging, the story never pulls me in at any point.',NULL); # 735 100 Years of Horror: The Monster Makers 1996
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (798,7,'guyn1414','Loved it at the time; enjoyable and well-crafted, left me with a good impression.',NULL); # 798 100% Service 1931
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (818,6,'guyn1414','Good movie that fits my taste; solid entertainment with enough quality to recommend.',NULL); # 818 1000 Marys 2001
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (829,2,'guyn1414','No way; painfully bad and a waste of time, would never sit through this again.',NULL); # 829 10000th Day, The 1997
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (832,10,'guyn1414','I love this movie and would watch it anytime; an absolute masterpiece in every way.',NULL); # 832 1001 crtez 1960
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (837,5,'guyn1414','Ok movie; watchable but forgettable, does not leave much of an impression overall.',NULL); # 837 1001 Nights 1998
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (846,4,'guyn1414','I dont like this; poor execution and dull pacing make this very hard to enjoy.',NULL); # 846 101 Biggest Celebrity Oops 2004
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (849,6,'guyn1414','Good movie that fits my taste; entertaining and competent with moments worth seeing.',NULL); # 849 101 Dalmatians II: Patch's London Adventure 2003
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (850,7,'guyn1414','Loved it at the time; memorable and engaging, the kind of film I recall fondly.',NULL); # 850 101 Dalmatians Sing Along 1996
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (870,8,'guyn1414','Loved it; compelling and well made, I would definitely watch more like this.',NULL); # 870 101 Reykjavk 2000
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (878,5,'guyn1414','Ok movie; has its moments but overall too average to leave a lasting impression.',NULL); # 878 102 2001
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (886,4,'guyn1414','I dont like this; the premise had potential but the execution is deeply disappointing.',NULL); # 886 105 % alibi 1959
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (895,6,'guyn1414','Good movie that fits my taste; enjoyable watch with solid craft and a good pace.',NULL); # 895 10:30 Check-Out 2002
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (923,2,'guyn1414','No way; unwatchable from start to finish, no redeeming qualities I can point to.',NULL); # 923 11-22-63: The Day the Nation Cried 1989
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (952,7,'guyn1414','Loved it at the time; well directed and emotionally engaging, holds up very well.',NULL); # 952 11:00 AM 1999
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (957,10,'guyn1414','I love this movie and would watch it anytime; every scene is a joy, a true classic.',NULL); # 957 11th & Congress 2000
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (966,5,'guyn1414','Ok movie; inoffensive and mildly entertaining but nothing to seek out intentionally.',NULL); # 966 12 (2003/II) 2003
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (985,8,'guyn1414','Loved it; outstanding film with real depth and craft, would gladly revisit this.',NULL); # 985 12 Mdchen und 1 Mann 1959
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (997,8,'guyn1414','Loved it; great storytelling and strong performances, would watch this again happily.',NULL); # 997 12 Uhr mittags kommt der Bo 1968
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (1018,5,'guyn1414','Ok movie; decent enough but nothing that stands out or stays with you after watching.',NULL); # 1018 12:01 1993
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (1024,4,'guyn1414','I dont like this; slow and unengaging, the story never pulls me in at any point.',NULL); # 1024 13 (1999/I) 1999
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (1027,7,'guyn1414','Loved it at the time; enjoyable and well-crafted, left me with a good impression.',NULL); # 1027 13 dni 1964
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (1029,6,'guyn1414','Good movie that fits my taste; solid entertainment with enough quality to recommend.',NULL); # 1029 13 Erotic Ghosts 2002
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (1038,2,'guyn1414','No way; painfully bad and a waste of time, would never sit through this again.',NULL); # 1038 13 Going On 30 2004
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (1046,10,'guyn1414','I love this movie and would watch it anytime; an absolute masterpiece in every way.',NULL); # 1046 13 Moons 2002
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (1100,5,'guyn1414','Ok movie; watchable but forgettable, does not leave much of an impression overall.',NULL); # 1100 14 Million Dreams 2003
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (1121,4,'guyn1414','I dont like this; poor execution and dull pacing make this very hard to enjoy.',NULL); # 1121 1492: Conquest of Paradise 1992
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (1390,6,'guyn1414','Good movie that fits my taste; entertaining and competent with moments worth seeing.',NULL); # 1390 1941 1979
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (2057,7,'guyn1414','Loved it at the time; memorable and engaging, the kind of film I recall fondly.',NULL); # 2057 2wks, 1yr 2002
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (2352,8,'guyn1414','Loved it; compelling and well made, I would definitely watch more like this.',NULL); # 2352 36K 2000
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (2656,5,'guyn1414','Ok movie; has its moments but overall too average to leave a lasting impression.',NULL); # 2656 5 Card Stud 2002
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (2986,4,'guyn1414','I dont like this; the premise had potential but the execution is deeply disappointing.',NULL); # 2986 7 jin gong 1994
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (3055,6,'guyn1414','Good movie that fits my taste; enjoyable watch with solid craft and a good pace.',NULL); # 3055 76th Annual Academy Awards, The 2004
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (3261,2,'guyn1414','No way; unwatchable from start to finish, no redeeming qualities I can point to.',NULL); # 3261 97 goo waak jai jin mo bat sing 1997
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (3634,7,'guyn1414','Loved it at the time; well directed and emotionally engaging, holds up very well.',NULL); # 3634 A&E Biography: Captain Bligh - Mutiny on the Bounty 1996
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (4948,10,'guyn1414','I love this movie and would watch it anytime; every scene is a joy, a true classic.',NULL); # 4948 Able's House Is Green, The 2003
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (5496,5,'guyn1414','Ok movie; inoffensive and mildly entertaining but nothing to seek out intentionally.',NULL); # 5496 Accordon 2004
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (5889,8,'guyn1414','Loved it; outstanding film with real depth and craft, would gladly revisit this.',NULL); # 5889 Act Your Age 1939
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (7341,8,'guyn1414','Loved it; great storytelling and strong performances, would watch this again happily.',NULL); # 7341 Aerosmith: Big Ones You Can Look at 1994
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (7842,5,'guyn1414','Ok movie; decent enough but nothing that stands out or stays with you after watching.',NULL); # 7842 After Hours 1985
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (8183,4,'guyn1414','I dont like this; slow and unengaging, the story never pulls me in at any point.',NULL); # 8183 Age of Innocence, The 1993
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (8820,7,'guyn1414','Loved it at the time; enjoyable and well-crafted, left me with a good impression.',NULL); # 8820 Ai-Fak 2004
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (8880,6,'guyn1414','Good movie that fits my taste; solid entertainment with enough quality to recommend.',NULL); # 8880 Aiglon, L' 1931
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (9813,2,'guyn1414','No way; painfully bad and a waste of time, would never sit through this again.',NULL); # 9813 Aladdin in Nasira's Revenge 2001
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (10702,10,'guyn1414','I love this movie and would watch it anytime; an absolute masterpiece in every way.',NULL); # 10702 Alice Doesn't Live Here Anymore 1974
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (10945,5,'guyn1414','Ok movie; watchable but forgettable, does not leave much of an impression overall.',NULL); # 10945 Alien 1992
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (10830,4,'guyn1414','I dont like this; poor execution and dull pacing make this very hard to enjoy.',NULL); # 10830 Alien 1979
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (10920,6,'guyn1414','Good movie that fits my taste; entertaining and competent with moments worth seeing.',NULL); # 10920 Aliens 1986
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (11147,7,'guyn1414','Loved it at the time; memorable and engaging, the kind of film I recall fondly.',NULL); # 11147 All American Hero 1999
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (11286,8,'guyn1414','Loved it; compelling and well made, I would definitely watch more like this.',NULL); # 11286 All In 2005
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (11507,5,'guyn1414','Ok movie; has its moments but overall too average to leave a lasting impression.',NULL); # 11507 All the Invisible Children 2006
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (12744,4,'guyn1414','I dont like this; the premise had potential but the execution is deeply disappointing.',NULL); # 12744 Always 1989
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (13343,6,'guyn1414','Good movie that fits my taste; enjoyable watch with solid craft and a good pace.',NULL); # 13343 Amazing Adventures of Spider-Man, The 1999
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (13395,2,'guyn1414','No way; unwatchable from start to finish, no redeeming qualities I can point to.',NULL); # 13395 Amazing Stories: Book Four 1992
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (13396,7,'guyn1414','Loved it at the time; well directed and emotionally engaging, holds up very well.',NULL); # 13396 Amazing Stories: Book One 1992
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (13444,10,'guyn1414','I love this movie and would watch it anytime; every scene is a joy, a true classic.',NULL); # 13444 Amazones 2000 2000
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (13547,5,'guyn1414','Ok movie; inoffensive and mildly entertaining but nothing to seek out intentionally.',NULL); # 13547 Amblin' 1968
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (14132,8,'guyn1414','Loved it; outstanding film with real depth and craft, would gladly revisit this.',NULL); # 14132 American Pie 2 2001
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (14157,8,'guyn1414','Loved it; great storytelling and strong performances, would watch this again happily.',NULL); # 14157 American Reunion, An 2003
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (14477,5,'guyn1414','Ok movie; decent enough but nothing that stands out or stays with you after watching.',NULL); # 14477 Amistad 1997
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (15187,4,'guyn1414','I dont like this; slow and unengaging, the story never pulls me in at any point.',NULL); # 15187 Amsterdamned 1988
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (16730,7,'guyn1414','Loved it at the time; enjoyable and well-crafted, left me with a good impression.',NULL); # 16730 Angel on My Shoulder 1997
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (17370,6,'guyn1414','Good movie that fits my taste; solid entertainment with enough quality to recommend.',NULL); # 17370 Anjangarh (1948/II) 1948
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (17812,2,'guyn1414','No way; painfully bad and a waste of time, would never sit through this again.',NULL); # 17812 Anno Domini 2000
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (19433,10,'guyn1414','I love this movie and would watch it anytime; an absolute masterpiece in every way.',NULL); # 19433 Aquarium, L' 2001
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (20253,5,'guyn1414','Ok movie; watchable but forgettable, does not leave much of an impression overall.',NULL); # 20253 Arizona Dream 1993
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (20446,4,'guyn1414','I dont like this; poor execution and dull pacing make this very hard to enjoy.',NULL); # 20446 Armenian Archbishop, Rome 1898
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (20713,6,'guyn1414','Good movie that fits my taste; entertaining and competent with moments worth seeing.',NULL); # 20713 Arregui, la noticia del da 2001
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (21213,7,'guyn1414','Loved it at the time; memorable and engaging, the kind of film I recall fondly.',NULL); # 21213 Artificial Intelligence: AI 2001
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (21454,8,'guyn1414','Loved it; compelling and well made, I would definitely watch more like this.',NULL); # 21454 As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty 2000
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (22093,5,'guyn1414','Ok movie; has its moments but overall too average to leave a lasting impression.',NULL); # 22093 Asla Navra Nakoga Bai 1977
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (22651,4,'guyn1414','I dont like this; the premise had potential but the execution is deeply disappointing.',NULL); # 22651 Astronaut's Wife, The 1999
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (24235,6,'guyn1414','Good movie that fits my taste; enjoyable watch with solid craft and a good pace.',NULL); # 24235 Aunt Tiger 2000
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (24259,2,'guyn1414','No way; unwatchable from start to finish, no redeeming qualities I can point to.',NULL); # 24259 Aura 2002
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (24339,7,'guyn1414','Loved it at the time; well directed and emotionally engaging, holds up very well.',NULL); # 24339 Aus der Waldbhne Berlin - Italienische Nacht/Italian Night 1996
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (25192,10,'guyn1414','I love this movie and would watch it anytime; every scene is a joy, a true classic.',NULL); # 25192 Aviator, The 2004
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (25729,5,'guyn1414','Ok movie; inoffensive and mildly entertaining but nothing to seek out intentionally.',NULL); # 25729 Azrail benim 1968
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (25943,8,'guyn1414','Loved it; outstanding film with real depth and craft, would gladly revisit this.',NULL); # 25943 Baan sau chuk dak hin dui 2002
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (28085,8,'guyn1414','Loved it; great storytelling and strong performances, would watch this again happily.',NULL); # 28085 Bakit may kahapon pa? 1996
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (28092,5,'guyn1414','Ok movie; decent enough but nothing that stands out or stays with you after watching.',NULL); # 28092 Bakom jalusin 1984
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (28631,4,'guyn1414','I dont like this; slow and unengaging, the story never pulls me in at any point.',NULL); # 28631 Balloon 1991
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (29760,7,'guyn1414','Loved it at the time; enjoyable and well-crafted, left me with a good impression.',NULL); # 29760 Barbie Riding Club 1998
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (29768,6,'guyn1414','Good movie that fits my taste; solid entertainment with enough quality to recommend.',NULL); # 29768 Barbier de Sville, Le 1904
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (29771,2,'guyn1414','No way; painfully bad and a waste of time, would never sit through this again.',NULL); # 29771 Barbier de Sville, Le 1980
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (29772,10,'guyn1414','I love this movie and would watch it anytime; an absolute masterpiece in every way.',NULL); # 29772 Barbier von Sevilla, Der 1972
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (29773,5,'guyn1414','Ok movie; watchable but forgettable, does not leave much of an impression overall.',NULL); # 29773 Barbier, Le (2001/I) 2001
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (30686,4,'guyn1414','I dont like this; poor execution and dull pacing make this very hard to enjoy.',NULL); # 30686 Basketball Diaries, The 1995
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (30955,6,'guyn1414','Good movie that fits my taste; entertaining and competent with moments worth seeing.',NULL); # 30955 Batman 1989
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (30951,7,'guyn1414','Loved it at the time; memorable and engaging, the kind of film I recall fondly.',NULL); # 30951 Batman & Mr. Freeze: SubZero 1998
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (30952,8,'guyn1414','Loved it; compelling and well made, I would definitely watch more like this.',NULL); # 30952 Batman & Robin 1997
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (30953,5,'guyn1414','Ok movie; has its moments but overall too average to leave a lasting impression.',NULL); # 30953 Batman & Robin 1998
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (30957,4,'guyn1414','I dont like this; the premise had potential but the execution is deeply disappointing.',NULL); # 30957 Batman and Robin 1949
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (30959,6,'guyn1414','Good movie that fits my taste; enjoyable watch with solid craft and a good pace.',NULL); # 30959 Batman Begins 2005
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (30961,2,'guyn1414','No way; unwatchable from start to finish, no redeeming qualities I can point to.',NULL); # 30961 Batman Beyond: Return of the Joker (2000/I) 2000
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (30962,7,'guyn1414','Loved it at the time; well directed and emotionally engaging, holds up very well.',NULL); # 30962 Batman Beyond: The Movie 1999
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (30965,10,'guyn1414','I love this movie and would watch it anytime; every scene is a joy, a true classic.',NULL); # 30965 Batman Forever 1995
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (30967,5,'guyn1414','Ok movie; inoffensive and mildly entertaining but nothing to seek out intentionally.',NULL); # 30967 Batman Returns 1992
+insert into personal_movies_ranking (`movie_id`,`recommendation`,`suggested_by`,`justification`,`comment`) VALUES (30968,8,'guyn1414','Loved it; outstanding film with real depth and craft, would gladly revisit this.',NULL); # 30968 Batman Returns (1992/II) 1992
+
+
+-- Yaron's Personal Movie Rankings
+-- Format: movie_id, recommendation (1-10), suggested_by, justification, comment
+-- Built interactively based on stated preferences
+-- Comment field: 'Seen' = personally watched | 'Not seen - inferred from genre preference' = scored by taste fit
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (311037, 9, 'Yaron', 'Childhood-defining film and the start of a superhero journey; Green Goblin and the origin story made this a personal classic.', 'Seen');  -- Spider-Man 2002
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (311038, 10, 'Yaron', 'Deeply memorable; the emotional depth and train sequence make this the peak of superhero cinema for me.', 'Seen');  -- Spider-Man 2 2004
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (311040, 8, 'Yaron', 'Loves the actors and the superhero tone; overstuffed with villains but the style and energy still deliver.', 'Seen');  -- Spider-Man 3 2007
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (139652, 7, 'Yaron', 'Tournament setup brings real action and stakes; the dragon and maze sequences land for me.', 'Not seen - inferred from genre preference');  -- Harry Potter and the Goblet of Fire 2005
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (139657, 6, 'Yaron', 'Solid introduction to the wizarding world; charming and well-built even if not deeply exciting.', 'Seen');  -- Harry Potter and the Sorcerer Stone 2001
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (139650, 6, 'Yaron', 'Darker tone than the first and the basilisk climax delivers; a step up in stakes.', 'Seen');  -- Harry Potter and the Chamber of Secrets 2002
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (139655, 7, 'Yaron', 'Cuaron brings a moodier, more cinematic tone; widely considered the franchise turning point.', 'Not seen - inferred from genre preference');  -- Harry Potter and the Prisoner of Azkaban 2004
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (139654, 7, 'Yaron', 'Big scale with darker stakes and the Ministry battle; one of the more action-driven entries.', 'Not seen - inferred from genre preference');  -- Harry Potter and the Order of the Phoenix 2007
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (139653, 6, 'Yaron', 'Darker, more emotional setup chapter; strong atmosphere even if the pacing is slower.', 'Not seen - inferred from genre preference');  -- Harry Potter and the Half-Blood Prince 2008
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (129185, 10, 'Yaron', 'My all-time favorite — epic scale, iconic performance by Crowe, and emotionally gripping from start to finish.', 'Seen');  -- Gladiator 2000
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (92573, 7, 'Yaron', 'Connery sets the template in the original Bond film; lean, stylish, and still gripping.', 'Not seen - inferred from genre preference');  -- Dr. No 1962
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (120574, 7, 'Yaron', 'Tighter and more grounded than most Bond films; chess match tension throughout.', 'Not seen - inferred from genre preference');  -- From Russia with Love 1963
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (130953, 7, 'Yaron', 'Iconic villain, iconic car, iconic line — the definitive Connery Bond.', 'Not seen - inferred from genre preference');  -- Goldfinger 1964
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (332065, 5, 'Yaron', 'Solid underwater action set pieces but overlong; a step below the Connery peaks.', 'Not seen - inferred from genre preference');  -- Thunderball 1965
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (372233, 5, 'Yaron', 'Japan setting adds flair but the plot gets silly; enjoyable franchise entry.', 'Not seen - inferred from genre preference');  -- You Only Live Twice 1967
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (240521, 6, 'Yaron', 'Underrated Bond with genuine emotion; Lazenby holds his own despite one film tenure.', 'Not seen - inferred from genre preference');  -- On Her Majesty Secret Service 1969
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (85871, 2, 'Yaron', 'Connery returns but the spark is fading; campy humor undercuts the tension.', 'Not seen - inferred from genre preference');  -- Diamonds Are Forever 1971
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (192514, 6, 'Yaron', 'Moore era begins with a fun blaxploitation-influenced entry; energetic if uneven.', 'Not seen - inferred from genre preference');  -- Live and Let Die 1973
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (203649, 2, 'Yaron', 'Christopher Lee makes a great villain but the film never fully delivers on that premise.', 'Not seen - inferred from genre preference');  -- The Man with the Golden Gun 1974
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (312170, 7, 'Yaron', 'One of Moore''s best; strong villain and the underwater base sequence is memorable.', 'Not seen - inferred from genre preference');  -- The Spy Who Loved Me 1977
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (218808, 1, 'Yaron', 'Bond in space is a step too far; the franchise at its most cartoonish.', 'Not seen - inferred from genre preference');  -- Moonraker 1979
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (117314, 6, 'Yaron', 'Course correction after Moonraker — stripped back and more serious in tone.', 'Not seen - inferred from genre preference');  -- For Your Eyes Only 1981
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (354178, 2, 'Yaron', 'Moore overstays his welcome; the franchise felt tired by this point.', 'Not seen - inferred from genre preference');  -- A View to a Kill 1985
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (192702, 6, 'Yaron', 'Dalton brings a harder edge that anticipates the Craig era; underappreciated entry.', 'Not seen - inferred from genre preference');  -- The Living Daylights 1987
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (189403, 6, 'Yaron', 'Dalton at his grittiest; darker and more personal than most Bond films of the era.', 'Not seen - inferred from genre preference');  -- Licence to Kill 1989
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (130945, 7, 'Yaron', 'Brosnan''s best and a genuine franchise revival; Judi Dench and Bean make it memorable.', 'Not seen - inferred from genre preference');  -- GoldenEye 1995
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (335336, 6, 'Yaron', 'Slick Brosnan-era action; not deep but delivers the Bond formula efficiently.', 'Not seen - inferred from genre preference');  -- Tomorrow Never Dies 1997
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (368418, 5, 'Yaron', 'Strong opening and a decent villain but loses momentum in the third act.', 'Not seen - inferred from genre preference');  -- The World Is Not Enough 1999
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (86263, 2, 'Yaron', 'Brosnan''s weakest; the invisible car and over-the-top set pieces killed the era.', 'Not seen - inferred from genre preference');  -- Die Another Day 2002
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (46169, 8, 'Yaron', 'Epic war storytelling with visceral battle sequences; right in the sweet spot of historical action.', 'Not seen - inferred from genre preference');  -- Braveheart 1995
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (340652, 6, 'Yaron', 'Visually grand ancient epic with strong action; slightly hollow on character depth.', 'Not seen - inferred from genre preference');  -- Troy 2004
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (39551, 8, 'Yaron', 'Intense and relentless modern warfare; Ridley Scott at his most visceral.', 'Not seen - inferred from genre preference');  -- Black Hawk Down 2001
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (271095, 9, 'Yaron', 'Adventure-action at its peak; set the template for blockbuster storytelling.', 'Not seen - inferred from genre preference');  -- Raiders of the Lost Ark 1981
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (185628, 7, 'Yaron', 'Epic in scale with emotional weight; Tom Cruise carries a film built around honor and sacrifice.', 'Not seen - inferred from genre preference');  -- The Last Samurai 2003
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (289109, 9, 'Yaron', 'One of the greatest war films ever made; the Omaha Beach sequence alone justifies the score.', 'Not seen - inferred from genre preference');  -- Saving Private Ryan 1998
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (188507, 6, 'Yaron', 'Tight buddy-cop action that defined the genre; Gibson and Glover are electric together.', 'Not seen - inferred from genre preference');  -- Lethal Weapon 1987
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (280270, 7, 'Yaron', 'The original underdog story; anchored by Creed connection — same heart, same franchise DNA.', 'Not seen - inferred from boxing/underdog preference');  -- Rocky 1976
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (280281, 6, 'Yaron', 'Solid sequel that deepens the rivalry; slightly less impactful than the original.', 'Not seen - inferred from boxing/underdog preference');  -- Rocky II 1979
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (280282, 6, 'Yaron', 'Mr. T and a montage-heavy crowd pleaser; entertaining but lighter than the first two.', 'Not seen - inferred from boxing/underdog preference');  -- Rocky III 1982
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (280284, 7, 'Yaron', 'Cold War backdrop adds stakes; iconic training sequence, pure 80s spectacle.', 'Not seen - inferred from boxing/underdog preference');  -- Rocky IV 1985
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (280305, 2, 'Yaron', 'Weakest of the series; the franchise runs out of steam before the finish line.', 'Not seen - inferred from boxing/underdog preference');  -- Rocky V 1990
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (131780, 5, 'Yaron', 'Scorsese at his finest; gripping mob epic with career-best performances across the board.', 'Not seen - inferred from genre preference');  -- Goodfellas 1990
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (10830, 7, 'Yaron', 'Ridley Scott builds unbearable tension in deep space; a masterclass in atmospheric horror.', 'Not seen - inferred from genre preference');  -- Alien 1979
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (10920, 8, 'Yaron', 'Cameron shifts gears to pure action; bigger, louder, and relentlessly exciting.', 'Not seen - inferred from genre preference');  -- Aliens 1986
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (40199, 1, 'Yaron', 'Slow, cerebral sci-fi noir; the meditative pacing clashes with my preference for propulsive action.', 'Not seen - inferred from genre preference');  -- Blade Runner 1982
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (214755, 7, 'Yaron', 'Spielberg and Cruise deliver a sleek future thriller with genuine tension and ideas.', 'Not seen - inferred from genre preference');  -- Minority Report 2002
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (96593, 5, 'Yaron', 'Spielberg at his most heartfelt; a childhood classic with real emotional punch.', 'Not seen - inferred from genre preference');  -- E.T. 1982
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (65811, 1, 'Yaron', 'Slow-building sci-fi with a quiet awe; lacks the tension and kinetic action I want from the genre.', 'Not seen - inferred from genre preference');  -- Close Encounters of the Third Kind 1977
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (210739, 6, 'Yaron', 'Will Smith makes it cool and fun; slick concept delivered with charm and energy.', 'Seen');  -- Men in Black 1997
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (158999, 6, 'Yaron', 'Pure blockbuster spectacle; loud and dumb in the best way possible.', 'Not seen - inferred from genre preference');  -- Independence Day 1996
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (359297, 6, 'Yaron', 'Spielberg ramps up the tension throughout; relentless alien invasion with a personal focus.', 'Not seen - inferred from genre preference');  -- War of the Worlds 2005
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (267038, 7, 'Yaron', 'Tarantino at his most inventive; sharp dialogue and unforgettable scenes throughout.', 'Not seen - inferred from genre preference');  -- Pulp Fiction 1994
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (276217, 7, 'Yaron', 'Tarantino''s debut is raw and gripping; the tension never lets up.', 'Not seen - inferred from genre preference');  -- Reservoir Dogs 1992
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (176711, 7, 'Yaron', 'Stylish and relentless action-revenge; Tarantino channels pure genre energy.', 'Not seen - inferred from genre preference');  -- Kill Bill Vol. 1 2003
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (176712, 5, 'Yaron', 'Slower and more dialogue-driven than Vol. 1; rewards patience but less visceral.', 'Not seen - inferred from genre preference');  -- Kill Bill Vol. 2 2004
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (291698, 5, 'Yaron', 'Dark, intelligent thriller with a gut-punch ending; Fincher and Freeman at their best.', 'Not seen - inferred from genre preference');  -- Se7en 1995
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (112290, 5, 'Yaron', 'Provocative and visceral; one of the most influential films of its decade.', 'Not seen - inferred from genre preference');  -- Fight Club 1999
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (297838, 5, 'Yaron', 'Timeless story of hope and resilience; consistently ranked among the greatest films ever made.', 'Not seen - inferred from genre preference');  -- The Shawshank Redemption 1994
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (238072, 7, 'Yaron', 'Slick and endlessly entertaining heist film; great ensemble chemistry throughout.', 'Not seen - inferred from genre preference');  -- Ocean''s Eleven 2001
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (238073, 2, 'Yaron', 'The cast is still fun but the plot gets too clever for its own good.', 'Not seen - inferred from genre preference');  -- Ocean''s Twelve 2004
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (210511, 8, 'Yaron', 'Nolan''s breakthrough; a brilliantly structured puzzle of a thriller told in reverse.', 'Not seen - inferred from genre preference');  -- Memento 2000
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (207992, 7, 'Yaron', 'Mind-bending philosophical sci-fi with stunning action; the Black Mirror-style reality twist is exactly my kind of film.', 'Seen');  -- The Matrix 1999
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (207989, 6, 'Yaron', 'Expands the Matrix universe with bigger action; philosophy gets denser but the core concept still lands.', 'Not seen - inferred from Matrix (rated 7)');  -- The Matrix Reloaded 2003
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (207991, 1, 'Yaron', 'Weakest of the trilogy; bogs down in philosophy where the first film delivered my preferred action.', 'Not seen - inferred from Matrix (rated 7)');  -- The Matrix Revolutions 2003
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (313459, 8, 'Yaron', 'The original space opera that defined blockbuster filmmaking; timeless adventure.', 'Not seen - inferred from genre preference');  -- Star Wars 1977
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (313478, 9, 'Yaron', 'Darker and richer than the original; Vader reveal is one of cinema greatest moments.', 'Not seen - inferred from genre preference');  -- The Empire Strikes Back 1980
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (313479, 8, 'Yaron', 'Satisfying conclusion to the original trilogy; the space battle delivers real spectacle.', 'Not seen - inferred from genre preference');  -- Return of the Jedi 1983
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (313474, 2, 'Yaron', 'Visually impressive but weighed down by weak characters and a slow political plot.', 'Not seen - inferred from genre preference');  -- The Phantom Menace 1999
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (313476, 2, 'Yaron', 'Better action than Episode I but the romance subplot drags the whole film down.', 'Not seen - inferred from genre preference');  -- Attack of the Clones 2002
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (313477, 7, 'Yaron', 'Best of the prequel trilogy; the tragedy of Anakin finally lands with real weight.', 'Not seen - inferred from genre preference');  -- Revenge of the Sith 2005
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (194497, 9, 'Yaron', 'Epic world-building and strong characters; one of the best fantasy films ever made.', 'Not seen - inferred from genre preference');  -- LOTR Fellowship of the Ring 2001
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (194502, 9, 'Yaron', 'Bigger and bolder than the first; Helms Deep is one of cinema greatest battle sequences.', 'Not seen - inferred from genre preference');  -- LOTR The Two Towers 2002
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (194500, 8, 'Yaron', 'A triumphant conclusion to an epic trilogy; emotionally devastating and visually stunning.', 'Not seen - inferred from genre preference');  -- LOTR Return of the King 2003
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (256632, 3, 'Yaron', 'Just didn''t connect with it; too silly and overlong for someone who prefers grounded action.', 'Seen');  -- Pirates of the Caribbean 2003
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (256631, 3, 'Yaron', 'More of the same bloated swashbuckling; diminishing returns from the first film.', 'Not seen - inferred from Pirates (rated 3)');  -- Pirates of the Caribbean 2 2006
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (30959, 3, 'Yaron', 'Least favorite type of superhero film; lacks the emotional punch and spectacle that defines the genre for me.', 'Seen');  -- Batman Begins 2005
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (113504, 9, 'Yaron', 'Animals, wildlife, emotion — this is exactly who I am; a perfect childhood film that still resonates deeply.', 'Seen');  -- Finding Nemo 2003
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (337166, 4, 'Yaron', 'Good movie but felt quite boring; a solid concept that never fully excited.', 'Seen');  -- Toy Story 1995
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (337168, 4, 'Yaron', 'Same energy as the first; warm and well-made but ultimately not exciting enough to leave a strong impression.', 'Seen');  -- Toy Story 2 1999
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (325098, 8, 'Yaron', 'Wildlife and adventure at its best; Tarzan''s connection to the natural world is exactly my kind of story.', 'Seen');  -- Tarzan 1999
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (47865, 5, 'Yaron', 'Warm Disney animation with a strong emotional core; underrated in the studio catalog.', 'Not seen - inferred from animal movie preference');  -- Brother Bear 2003
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (291825, 1, 'Yaron', 'Slow-paced sports drama; the underdog arc works on paper but the quiet tone doesn''t match my taste.', 'Not seen - inferred from animal movie preference');  -- Seabiscuit 2003
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (144536, 7, 'Yaron', 'Epic horse adventure with stunning desert visuals; suits someone who loves animals and action.', 'Not seen - inferred from animal movie preference');  -- Hidalgo 2004
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (39276, 6, 'Yaron', 'Classic and heartfelt horse story; timeless for animal lovers.', 'Not seen - inferred from animal movie preference');  -- Black Beauty 1999
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (190869, 2, 'Yaron', 'Childhood film but felt boring; the alien-pet concept didn''t land.', 'Seen');  -- Lilo & Stitch 2002
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (191244, 8, 'Yaron', 'Emotional, classic, and full of depth; a lot to learn from this film, and the Lion King world is genuinely moving.', 'Seen');  -- Lion King II: Simba''s Pride 1998
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (300229, 6, 'Yaron', 'Genuinely fun fairy-tale parody with sharp humor; holds up better than I remembered.', 'Seen');  -- Shrek 2001
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (300230, 6, 'Yaron', 'Sharper sequel with stronger jokes and Puss in Boots; an enjoyable follow-up.', 'Seen');  -- Shrek 2 2004
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (220276, 1, 'Yaron', 'Musical romance isn''t my lane; the operatic style and song-driven format don''t fit my action taste.', 'Not seen - inferred from genre preference');  -- Moulin Rouge! 2001
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (263360, 1, 'Yaron', 'Classic romantic comedy with charm; lighter fare that does not match my action preferences.', 'Not seen - inferred from genre preference');  -- Pretty Woman 1990
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (333856, 7, 'Yaron', 'Epic romance and disaster spectacle; emotionally powerful even for those who have not seen it.', 'Not seen - inferred from genre preference');  -- Titanic 1997
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (25192, 1, 'Yaron', 'Long biographical drama; the slow character study lacks the action and scale I gravitate toward.', 'Not seen - inferred from genre preference');  -- The Aviator 2004
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (56871, 7, 'Yaron', 'Spielberg and DiCaprio at their most entertaining; fast, fun and based on a wild true story.', 'Not seen - inferred from genre preference');  -- Catch Me If You Can 2002
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (290070, 10, 'Yaron', 'Makes you cry; a film about humanity, the Holocaust, and what people are capable of — devastating and essential.', 'Seen');  -- Schindler''s List 1993
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (14131, 7, 'Yaron', 'Young, funny, and full of good energy; exactly the kind of light comedy I enjoy.', 'Seen');  -- American Pie 1999
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (66194, 1, 'Yaron', 'Teen rom-com aimed at a different audience; neither the tone nor the stakes fit my preferences.', 'Not seen - inferred from genre preference');  -- Clueless 1995
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (350424, 1, 'Yaron', 'Slow and abstract psychological thriller; the puzzle structure lacks the tension I look for.', 'Not seen - inferred from genre preference');  -- Vanilla Sky 2001
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (328272, 1, 'Yaron', 'Low-stakes comedy-drama set in a single airport; too slow and gentle for my action-driven taste.', 'Not seen - inferred from genre preference');  -- The Terminal 2004
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (14132, 7, 'Yaron', 'The gang dynamic keeps the laughs coming; same good vibe as the first film.', 'Seen');  -- American Pie 2 2001
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (59578, 7, 'Yaron', 'Childhood favorite with wonderful characters and a visually inventive world; Tim Burton at his most fun.', 'Seen');  -- Charlie and the Chocolate Factory 2005
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (165961, 7, 'Yaron', 'A classic and quite basic but the animal-threat premise is what makes it work for me.', 'Seen');  -- Jaws 1975
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (335835, 9, 'Yaron', 'Passion, depth, and iconic action; seen the sequel Maverick and loved it — Top Gun is exactly my kind of film.', 'Seen');  -- Top Gun 1986
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (215879, 8, 'Yaron', 'Tom Cruise and explosive John Woo action; pure adrenaline that delivers exactly what I want from action films.', 'Seen');  -- Mission Impossible II 2000
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (109421, 6, 'Yaron', 'Cars, money, and action — a fun franchise starter that delivers on street racing energy.', 'Seen');  -- The Fast and the Furious 2001
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (319602, 7, 'Yaron', 'Cool and charming superhero; Christopher Reeve is iconic but Superman does not hit the same emotional heights as the favorites.', 'Seen');  -- Superman 1978
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (319613, 6, 'Yaron', 'Strong sequel with General Zod as a worthy villain; enjoyable but not deeply memorable.', 'Seen');  -- Superman II 1980
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (162380, 5, 'Yaron', 'Solid animated Iron Man entry; good for fans of the character ahead of the MCU films.', 'Not seen - inferred from Marvel preference');  -- Iron Man 2005
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (170522, 6, 'Yaron', 'Robin Williams brings energy to a wild adventure concept; fun family blockbuster.', 'Not seen - inferred from genre preference');  -- Jumanji 1995
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (342685, 5, 'Yaron', 'Spectacular storm sequences carry a thin plot; pure disaster movie entertainment.', 'Not seen - inferred from genre preference');  -- Twister 1996
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (15377, 7, 'Yaron', 'Wild animal action in the jungle; the snake sequences are tense and the wildlife setting is exactly my world.', 'Seen');  -- Anaconda 1997
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (78530, 2, 'Yaron', 'Solid volcano disaster film; competent but overshadowed by bigger disaster films of the era.', 'Not seen - inferred from genre preference');  -- Dante''s Peak 1997
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (20371, 6, 'Yaron', 'Big loud space disaster spectacle; suits someone who likes action and space themes.', 'Not seen - inferred from space interest');  -- Armageddon 1998
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (81776, 6, 'Yaron', 'More grounded than Armageddon but equally epic; emotional space disaster drama.', 'Not seen - inferred from space interest');  -- Deep Impact 1998
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (222339, 7, 'Yaron', 'Ancient Egypt, wild creatures, and adventure — the ancient world setting makes this exactly the kind of film I love.', 'Seen');  -- The Mummy 1999
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (79716, 6, 'Yaron', 'Visually stunning climate disaster; spectacular set pieces even if the science is loose.', 'Not seen - inferred from genre preference');  -- The Day After Tomorrow 2004
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (228313, 6, 'Yaron', 'Fast paced treasure hunt adventure; Nicolas Cage carries a fun if lightweight premise.', 'Not seen - inferred from genre preference');  -- National Treasure 2004
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (2238, 10, 'Yaron', 'One of my all-time favorites alongside Gladiator; Spartan warfare, ancient world, pure epic spectacle.', 'Seen');  -- 300 2006
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (279757, 6, 'Yaron', 'Classic medieval adventure with a strong hero; Robin Hood is iconic even if the film is not deeply moving.', 'Seen');  -- Robin Hood: Prince of Thieves 1991
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (279581, 5, 'Yaron', 'Similar tone to Braveheart; Scottish Highland warrior story with strong action.', 'Not seen - inferred from ancient world preference');  -- Rob Roy 1995
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (250746, 7, 'Yaron', 'Mel Gibson in a Gladiator-style Revolutionary War epic; emotional and action-packed.', 'Not seen - inferred from ancient world preference');  -- The Patriot 2000
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (177636, 8, 'Yaron', 'Ridley Scott''s Crusades epic; visually stunning ancient world warfare that closely matches Gladiator.', 'Not seen - inferred from ancient world preference');  -- Kingdom of Heaven 2005
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (10331, 5, 'Yaron', 'Ambitious ancient world epic; slightly overlong but Alexander''s story is compelling.', 'Not seen - inferred from ancient world preference');  -- Alexander 2004
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (177267, 7, 'Yaron', 'Grittier and more grounded retelling of Arthurian legend; suits fans of historical battle films.', 'Not seen - inferred from ancient world preference');  -- King Arthur 2004
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (280115, 7, 'Yaron', 'Connery and Cage make a great duo; high stakes action in a contained setting.', 'Not seen - inferred from genre preference');  -- The Rock 1996
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (68940, 6, 'Yaron', 'Over the top but entertaining; Cage at his most charismatic in a pure action vehicle.', 'Not seen - inferred from genre preference');  -- Con Air 1997
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (107166, 9, 'Yaron', 'Wild premise executed brilliantly; Cage and Travolta deliver one of the best 90s action films.', 'Not seen - inferred from genre preference');  -- Face/Off 1997
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (9023, 7, 'Yaron', 'Harrison Ford as the President taking down terrorists; tense and satisfying action thriller.', 'Not seen - inferred from genre preference');  -- Air Force One 1997
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (86287, 8, 'Yaron', 'Best of the Die Hard sequels; Bruce Willis at his wisecracking action hero best.', 'Not seen - inferred from genre preference');  -- Die Hard: With a Vengeance 1995
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (310726, 7, 'Yaron', 'Simple premise, relentless execution; one of the most purely enjoyable action films of the decade.', 'Not seen - inferred from genre preference');  -- Speed 1994
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (65627, 6, 'Yaron', 'Stallone in a mountain setting delivers solid action spectacle; vertigo-inducing set pieces.', 'Not seen - inferred from genre preference');  -- Cliffhanger 1993
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (121386, 5, 'Yaron', 'Harrison Ford and Tommy Lee Jones elevate a chase thriller into something genuinely gripping.', 'Not seen - inferred from genre preference');  -- The Fugitive 1993
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (346059, 2, 'Yaron', 'Seagal delivers competent action but lacks the star power and script of the best 90s entries.', 'Not seen - inferred from genre preference');  -- Under Siege 1995
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (177328, 9, 'Yaron', 'Stunning epic with an emotional core; the bond between Kong and Ann is genuinely moving, and the scale is breathtaking.', 'Seen');  -- King Kong 2005
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (141544, 7, 'Yaron', 'The ultimate crime film; Pacino and De Niro face off in a tense and beautifully crafted epic.', 'Not seen - inferred from genre preference');  -- Heat 1995
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (90771, 5, 'Yaron', 'Pacino and Depp make a compelling duo; quieter than most crime films but gripping throughout.', 'Not seen - inferred from genre preference');  -- Donnie Brasco 1997
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (328285, 9, 'Yaron', 'Relentless and iconic sci-fi action; the Terminator launched a franchise and set a benchmark for the genre.', 'Seen');  -- The Terminator 1984
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (131665, 1, 'Yaron', 'Talky character drama; strong performances but the quiet emotional register doesn''t fit my taste.', 'Not seen - inferred from genre preference');  -- Good Will Hunting 1997
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (340901, 1, 'Yaron', 'Clever satirical concept but quiet in execution; the slow tone doesn''t match my action preferences.', 'Not seen - inferred from genre preference');  -- The Truman Show 1998
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (33923, 9, 'Yaron', 'One of the greatest ancient world epics ever made; the chariot race alone is cinema history.', 'Not seen - inferred from ancient world preference');  -- Ben-Hur 1959
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (310455, 8, 'Yaron', 'Kubrick directs a sweeping slave rebellion epic; ancient Rome at its most cinematic and powerful.', 'Not seen - inferred from ancient world preference');  -- Spartacus 1960
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (65552, 7, 'Yaron', 'Grand Hollywood epic set in ancient Egypt; the scale and setting suit my taste perfectly.', 'Not seen - inferred from ancient world preference');  -- Cleopatra 1963
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (250861, 6, 'Yaron', 'Epic WWII portrait of a larger-than-life general; war film with real historical weight and scale.', 'Not seen - inferred from genre preference');  -- Patton 1970
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (257459, 7, 'Yaron', 'Gritty and visceral Vietnam War film; Oliver Stone at his most intense and uncompromising.', 'Not seen - inferred from genre preference');  -- Platoon 1987
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (121538, 7, 'Yaron', 'Kubrick''s unflinching Vietnam epic; the boot camp sequence is one of cinema''s most iconic.', 'Not seen - inferred from genre preference');  -- Full Metal Jacket 1987
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (210671, 6, 'Yaron', 'WWII bomber crew drama with strong action and heart; suits the war epic fan well.', 'Not seen - inferred from genre preference');  -- Memphis Belle 1990
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (294855, 5, 'Yaron', 'Pacino plays a lone honest cop; compelling but slow-burning crime drama.', 'Not seen - inferred from genre preference');  -- Serpico 1973
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (89147, 5, 'Yaron', 'Pacino at his most electric in a tense real-life bank heist drama; dialogue-heavy but gripping.', 'Not seen - inferred from genre preference');  -- Dog Day Afternoon 1975
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (55122, 5, 'Yaron', 'Pacino crime epic with style and emotion; a step below Scarface but compelling throughout.', 'Not seen - inferred from genre preference');  -- Carlito''s Way 1993
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (182955, 7, 'Yaron', 'Sleek noir thriller with a sharp plot; one of the best crime films of the 90s.', 'Not seen - inferred from genre preference');  -- L.A. Confidential 1997
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (83901, 8, 'Yaron', 'Rodriguez delivers explosive Latin action; fast, stylish and relentlessly entertaining.', 'Not seen - inferred from genre preference');  -- Desperado 1995
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (47435, 6, 'Yaron', 'John Travolta as villain with nuclear stakes; solid 90s action thriller with real tension.', 'Not seen - inferred from genre preference');  -- Broken Arrow 1996
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (102341, 6, 'Yaron', 'Schwarzenegger in a lean witness protection action film; does exactly what it promises.', 'Not seen - inferred from genre preference');  -- Eraser 1996
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (73436, 7, 'Yaron', 'Denzel and Hackman in a submarine nuclear standoff; relentless tension in a confined space.', 'Not seen - inferred from genre preference');  -- Crimson Tide 1995
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (101070, 7, 'Yaron', 'Will Smith in a surveillance thriller that moves like a freight train; smart and exciting.', 'Not seen - inferred from genre preference');  -- Enemy of the State 1998
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (120478, 6, 'Yaron', 'Tarantino script meets Rodriguez direction; wild genre-blending action horror with real energy.', 'Not seen - inferred from genre preference');  -- From Dusk Till Dawn 1996
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (69895, 6, 'Yaron', 'Jodie Foster in a thoughtful first contact story; slower but the space and science theme fits.', 'Not seen - inferred from space interest');  -- Contact 1997
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (105034, 6, 'Yaron', 'Deep space horror with a haunted ship premise; dark and unsettling sci-fi that delivers dread.', 'Not seen - inferred from genre preference');  -- Event Horizon 1997
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (81731, 8, 'Yaron', 'Sharks with enhanced intelligence hunting a crew; wild animal action that fits my profile perfectly.', 'Not seen - inferred from animal movie preference');  -- Deep Blue Sea 1999
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (310957, 5, 'Yaron', 'Underwater sci-fi mystery with a strong cast; intriguing but slow in places.', 'Not seen - inferred from genre preference');  -- Sphere 1998
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (345690, 6, 'Yaron', 'Shyamalan deconstructs the superhero origin story; quieter than Spider-Man but with real depth.', 'Not seen - inferred from genre preference');  -- Unbreakable 2000
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (119532, 7, 'Yaron', 'Boy and orca whale bond in a heartfelt animal film; exactly the wildlife emotional connection I love.', 'Not seen - inferred from animal movie preference');  -- Free Willy 1993
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (116079, 7, 'Yaron', 'A girl leads geese on migration; beautiful animal adventure with real emotional pull.', 'Not seen - inferred from animal movie preference');  -- Fly Away Home 1996
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (363826, 7, 'Yaron', 'Wolf-dog adventure in the wild; the animal-human bond fits perfectly with my taste.', 'Not seen - inferred from animal movie preference');  -- White Fang 1997
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (132061, 8, 'Yaron', 'Dian Fossey lives among gorillas in the wild; wildlife, nature and emotional depth — exactly my world.', 'Not seen - inferred from animal movie preference');  -- Gorillas in the Mist 1988
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (230331, 7, 'Yaron', 'A man lives among wolves in the wild; quiet animal film with a deep connection to nature.', 'Not seen - inferred from animal movie preference');  -- Never Cry Wolf 1983
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (221259, 6, 'Yaron', 'Robin Williams at his most charming; funny and surprisingly touching family comedy.', 'Not seen - inferred from genre preference');  -- Mrs. Doubtfire 1993
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (148200, 7, 'Yaron', 'Classic childhood comedy with inventive action traps; universally loved and endlessly rewatchable.', 'Seen');  -- Home Alone 1990
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (36694, 6, 'Yaron', 'Tom Hanks in a warm coming-of-age comedy; light and fun but not action-driven.', 'Not seen - inferred from genre preference');  -- Big 1988
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (28751, 7, 'Yaron', 'The original Disney animal emotional gut-punch; wildlife, loss and beauty in a timeless classic.', 'Not seen - inferred from animal movie preference');  -- Bambi 1942
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (95120, 6, 'Yaron', 'Heartfelt Disney animal story about an outcast elephant; short but emotionally resonant.', 'Not seen - inferred from animal movie preference');  -- Dumbo 1941
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (12744, 5, 'Yaron', 'Spielberg romance with fantasy elements; lighter fare but the aerial sequences are strong.', 'Not seen - inferred from genre preference');  -- Always 1989
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (1390, 4, 'Yaron', 'Spielberg comedy misfire; too chaotic and broad to fully work even for action fans.', 'Not seen - inferred from genre preference');  -- 1941 1979
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (78677, 6, 'Yaron', 'Marvel origin story with Ben Affleck; darker tone than Spider-Man but a decent superhero entry.', 'Not seen - inferred from Marvel preference');  -- Daredevil 2003
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (152426, 7, 'Yaron', 'Seen but the Hulk character doesn''t fully connect; the film feels slow compared to Spider-Man but the superhero concept still appeals.', 'Seen');  -- Hulk 2003
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (152724, 6, 'Yaron', 'Disney brings Victor Hugo''s dark story to life; emotionally rich animation with a strong villain.', 'Not seen - inferred from childhood Disney preference');  -- Hunchback of Notre Dame 1996
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (192017, 8, 'Yaron', 'Disney undersea adventure with memorable animals and music; a childhood classic with real emotional pull.', 'Not seen - inferred from animal movie preference');  -- The Little Mermaid 1989
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (30967, 4, 'Yaron', 'Burton''s darker take on Batman has style but feels cold and distant compared to the best superhero films.', 'Not seen - inferred from genre preference');  -- Batman Returns 1992
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (30965, 3, 'Yaron', 'Val Kilmer is fine but the tone is confused; neither dark enough nor fun enough.', 'Not seen - inferred from genre preference');  -- Batman Forever 1995
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (30952, 1, 'Yaron', 'Widely considered one of the worst superhero films ever made; campy, hollow and joyless.', 'Not seen - inferred from genre preference');  -- Batman & Robin 1997
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (262647, 5, 'Yaron', 'Predator sequel loses some of the original''s tension; moves to the city but the creature action still delivers.', 'Not seen - inferred from genre preference');  -- Predator 2 1990
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (68310, 6, 'Yaron', 'Schwarzenegger at his most unstoppable; pure 80s action with no pretension and maximum energy.', 'Not seen - inferred from genre preference');  -- Commando 1986
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (86274, 7, 'Yaron', 'The original Die Hard is a masterclass in action filmmaking; Bruce Willis defined the one-man-army genre.', 'Not seen - inferred from genre preference');  -- Die Hard 1988
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (86279, 6, 'Yaron', 'Solid Die Hard sequel with an airport setting; more of what works even if it can''t match the original.', 'Not seen - inferred from genre preference');  -- Die Hard 2 1990
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (258860, 7, 'Yaron', 'Keanu Reeves and Swayze in a surf-bank-robbery thriller; stylish and surprisingly gripping.', 'Not seen - inferred from genre preference');  -- Point Break 1991
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (35522, 6, 'Yaron', 'Eddie Murphy brings explosive comedy energy to an action setup; a defining 80s action-comedy.', 'Not seen - inferred from genre preference');  -- Beverly Hills Cop 1984
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (35523, 5, 'Yaron', 'The formula still works but feels slightly worn; Murphy carries it on charm alone.', 'Not seen - inferred from genre preference');  -- Beverly Hills Cop II 1987
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (5573, 4, 'Yaron', 'Jim Carrey''s rubber comedy is fun but too silly and cartoonish to hold up as a proper film.', 'Not seen - inferred from genre preference');  -- Ace Ventura: Pet Detective 1994
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (189233, 5, 'Yaron', 'Jim Carrey in a courtroom comedy that delivers consistent laughs; lighter but entertaining.', 'Not seen - inferred from genre preference');  -- Liar Liar 1997
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (82663, 6, 'Yaron', 'Stallone and Snipes in a frozen future action film; fun sci-fi concept with solid action.', 'Not seen - inferred from genre preference');  -- Demolition Man 1993
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (139169, 5, 'Yaron', 'John Woo brings his Hong Kong action style to an American film; stylish if somewhat hollow.', 'Not seen - inferred from genre preference');  -- Hard Target 1993
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (213231, 5, 'Yaron', 'De Niro and Charles Grodin make an unlikely pair; funny road comedy that works on charm.', 'Not seen - inferred from genre preference');  -- Midnight Run 1988
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (112205, 7, 'Yaron', 'Besson''s colourful sci-fi action epic is visually inventive and relentlessly fun throughout.', 'Not seen - inferred from genre preference');  -- The Fifth Element 1997
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (348944, 7, 'Yaron', 'One of the best twist endings in cinema; a crime thriller that rewards attention throughout.', 'Not seen - inferred from genre preference');  -- The Usual Suspects 1995
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (193960, 6, 'Yaron', 'Geena Davis as a lethal assassin; underrated action film with great chemistry and real punch.', 'Not seen - inferred from genre preference');  -- The Long Kiss Goodnight 1996
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (30955, 7, 'Yaron', 'Keaton''s Batman is dark and stylish; the original Burton film set the template for serious superhero cinema.', 'Not seen - inferred from genre preference');  -- Batman 1989
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (208503, 5, 'Yaron', 'Van Damme in a twin action thriller; fast and fun but disposable action entertainment.', 'Not seen - inferred from genre preference');  -- Maximum Risk 1996
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (318163, 5, 'Yaron', 'Van Damme in a hockey rink action setting; creative premise but thin execution.', 'Not seen - inferred from genre preference');  -- Sudden Death 1995
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (346060, 4, 'Yaron', 'Under Siege sequel on a train; diminishing returns from the first film, Seagal feels tired.', 'Not seen - inferred from genre preference');  -- Under Siege 2 1995
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (232628, 5, 'Yaron', 'Luc Besson''s French action thriller is slick and stylish; a precursor to his later Hollywood work.', 'Not seen - inferred from genre preference');  -- Nikita 1990
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (191246, 9, 'Yaron', 'The ultimate childhood animal film; emotionally devastating, visually iconic, and a perfect reflection of who I am.', 'Not seen - inferred from animal movie and childhood preference');  -- The Lion King 1994
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (151616, 10, 'hilinetz', 'one of my all time favorites, watched it like five times already. kate hudson and matthew mcconaughey are hilarious together and the ending is so satisfying.', null);  # 151616 How to Lose a Guy in 10 Days 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (333856, 10, 'hilinetz', 'i cry every single time no matter how many times i watch it. the love story feels so real and the visuals are stunning.', null);  # 333856 Titanic 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (644, 9, 'hilinetz', 'so rewatchable. the banter between the two leads is actually really funny and the shakespeare twist works surprisingly well.', null);  # 644 10 Things I Hate About You 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (66194, 10, 'hilinetz', 'clueless is genuinely iconic. alicia silverstone carries the whole film and even after all these years it is still hilarious.', null);  # 66194 Clueless 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (1038, 9, 'hilinetz', 'i love this movie so much. the nostalgia, the romance, the thriller night scene. it has everything.', null);  # 1038 13 Going On 30 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (46878, 9, 'hilinetz', 'loved this sequel just as much as the first bridget jones. mark darcy is everything and the humor still lands perfectly.', null);  # 46878 Bridget Jones: The Edge of Reason 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (62460, 9, 'hilinetz', 'chocolat is so beautiful and warm. the romance with johnny depp sneaks up on you and the whole film just feels magical.', null);  # 62460 Chocolat 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (200864, 9, 'hilinetz', 'jennifer lopez is perfect in this. the story is predictable but in the best way and the chemistry is really charming.', null);  # 200864 Maid in Manhattan 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (220276, 9, 'hilinetz', 'moulin rouge is like nothing else. the music combined with the love story creates something genuinely unique and emotional.', null);  # 220276 Moulin Rouge! 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (245699, 9, 'hilinetz', 'overboard is so funny and the enemies to lovers dynamic is done really well. goldie hawn and kurt russell have amazing chemistry.', null);  # 245699 Overboard 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (257744, 8, 'hilinetz', 'playing by heart is really underrated. the ensemble cast and all the different love stories weaving together work so well.', null);  # 257744 Playing by Heart 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (118980, 8, 'hilinetz', 'frankie and johnny is a quiet and touching romance between two very unlikely people. pacino and pfeiffer make it really believable.', null);  # 118980 Frankie and Johnny 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (34104, 8, 'hilinetz', 'benny and joon is the most adorable quirky romance. johnny depp doing silent film physical comedy is unexpectedly sweet.', null);  # 34104 Benny & Joon 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (113506, 9, 'hilinetz', 'finding neverland is genuinely beautiful. johnny depp and kate winslet have this lovely chemistry and the ending broke me.', null);  # 113506 Finding Neverland 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (97727, 9, 'hilinetz', 'edward scissorhands is such a unique love story. the sadness underneath the whole film makes it more powerful than i expected.', null);  # 97727 Edward Scissorhands 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (328272, 9, 'hilinetz', 'the terminal is so warm and funny. the way the romance develops slowly and naturally is really sweet and tom hanks is perfect.', null);  # 328272 Terminal, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (59578, 8, 'hilinetz', 'charlie and the chocolate factory is visually stunning. tim burton and johnny depp together always create something memorable.', null);  # 59578 Charlie and the Chocolate Factory 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (74259, 7, 'hilinetz', 'cry baby is so ridiculous but in a really fun way. johnny depp being a teen rebel is entertaining even if it is completely over the top.', null);  # 74259 Cry-Baby 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (304862, 8, 'hilinetz', 'sleepy hollow has such a beautiful gothic atmosphere and the romance between depp and ricci is unexpectedly tender.', null);  # 304862 Sleepy Hollow 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (97360, 7, 'hilinetz', 'ed wood is a really charming film about following your passion even when you fail. the friendship between ed and bela is touching.', null);  # 97360 Ed Wood 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256632, 9, 'hilinetz', 'pirates of the caribbean is so fun. johnny depp as jack sparrow is one of the most iconic performances and the romance between will and elizabeth is really sweet.', null);  # 256632 Pirates of the Caribbean: The Curse of the Black Pearl 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256631, 7, 'hilinetz', 'the second pirates is entertaining but a bit too long and complicated compared to the first one.', null);  # 256631 Pirates of the Caribbean 2 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139657, 10, 'hilinetz', 'harry potter sorcerers stone is pure childhood magic. every time i rewatch it i feel like a kid again.', null);  # 139657 Harry Potter and the Sorcerer''s Stone 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139650, 9, 'hilinetz', 'chamber of secrets is so creepy and exciting. the basilisk reveal genuinely scared me the first time i watched it as a kid.', null);  # 139650 Harry Potter and the Chamber of Secrets 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139655, 10, 'hilinetz', 'prisoner of azkaban is my favorite of the whole series. the time travel twist is so clever and the direction feels different and more artistic.', null);  # 139655 Harry Potter and the Prisoner of Azkaban 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139652, 8, 'hilinetz', 'goblet of fire gets so dark and exciting. the ending genuinely shocked me the first time and the triwizard tournament is so tense.', null);  # 139652 Harry Potter and the Goblet of Fire 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139654, 8, 'hilinetz', 'order of the phoenix is emotionally heavy but umbridge is such a perfectly hateable villain. the battle at the ministry is great.', null);  # 139654 Harry Potter and the Order of the Phoenix 2007
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139653, 9, 'hilinetz', 'half blood prince is so emotional and the dumbledore moments are beautiful. the ending is devastating but done really well.', null);  # 139653 Harry Potter and the Half-Blood Prince 2008
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (149287, 8, 'hilinetz', 'hook is such a feel good movie. robin williams is perfect and the idea of peter pan forgetting neverland is so creative.', null);  # 149287 Hook 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (190869, 9, 'hilinetz', 'lilo and stitch made me cry which i did not expect. the sister relationship is so real and the humor is actually really funny.', null);  # 190869 Lilo & Stitch 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (32180, 9, 'hilinetz', 'beauty and the beast is a classic for a reason. the romance is enchanting and the soundtrack is one of the best disney has ever made.', null);  # 32180 Beauty and the Beast 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (337166, 10, 'hilinetz', 'toy story is a childhood classic that still holds up completely. woody and buzz are iconic and the story is genuinely heartwarming.', null);  # 337166 Toy Story 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (70959, 8, 'hilinetz', 'corpse bride is visually stunning and the love story is actually really moving. tim burton at his best.', null);  # 70959 Corpse Bride, The 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (96593, 9, 'hilinetz', 'e.t. is one of the most emotional films ever made. cried as a kid and honestly still cry as an adult.', null);  # 96593 E.T. the Extra-Terrestrial 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (100130, 8, 'hilinetz', 'empire of the sun is really moving and young christian bale is an incredible actor. the war setting makes the emotional moments hit harder.', null);  # 100130 Empire of the Sun 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (12744, 8, 'hilinetz', 'always is such a romantic and bittersweet film. the fantasy element of the love story is really beautiful.', null);  # 12744 Always 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (56871, 8, 'hilinetz', 'catch me if you can is so entertaining. leo dicaprio and tom hanks have a fascinating dynamic and the film never slows down.', null);  # 56871 Catch Me If You Can 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311037, 8, 'hilinetz', 'spider-man 2002 is such a great origin story. the romance with mary jane feels real and the uncle ben scene still gets me.', null);  # 311037 Spider-Man 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311038, 9, 'hilinetz', 'spider-man 2 is even better than the first. the train scene is iconic and the internal conflict makes peter parker so much more interesting.', null);  # 311038 Spider-Man 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311040, 6, 'hilinetz', 'spider-man 3 tries to do too much at once. the venom storyline had so much potential but got rushed and the emo peter parker is just awkward.', null);  # 311040 Spider-Man 3 2007
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (238072, 8, 'hilinetz', 'ocean''s eleven is effortlessly cool. the whole ensemble works so well together and the heist is really clever.', null);  # 238072 Ocean's Eleven 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (238073, 7, 'hilinetz', 'ocean''s twelve is entertaining but the plot gets a bit too convoluted and it loses some of the charm of the first film.', null);  # 238073 Ocean's Twelve 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (220805, 8, 'hilinetz', 'mr and mrs smith is so fun. the action and the romance are perfectly balanced and the chemistry between brad and angelina is undeniable.', null);  # 220805 Mr. and Mrs. Smith 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215876, 8, 'hilinetz', 'the original mission impossible has such a great twist in the middle. really tense and well constructed.', null);  # 215876 Mission: Impossible 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215879, 7, 'hilinetz', 'mission impossible 2 is a bit over the top but the action is exciting and tom cruise is as committed as ever.', null);  # 215879 Mission: Impossible II 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215880, 8, 'hilinetz', 'mission impossible 3 is really exciting and the villain is genuinely terrifying. probably the best of the first three.', null);  # 215880 Mission: Impossible III 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (210739, 8, 'hilinetz', 'men in black is so fun and creative. will smith and tommy lee jones are a perfect comedy duo and the alien world is really inventive.', null);  # 210739 Men in Black 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (158999, 7, 'hilinetz', 'independence day is a classic blockbuster. it is loud and over the top but genuinely entertaining to watch with a group.', null);  # 158999 Independence Day 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (359297, 7, 'hilinetz', 'war of the worlds is really tense. the family dynamic makes it more emotional than your average alien film and the ending is satisfying.', null);  # 359297 War of the Worlds 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312150, 8, 'hilinetz', 'spy kids is so creative and fun. the whole concept of kid spies with gadgets is brilliant and the family dynamic is really sweet.', null);  # 312150 Spy Kids 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312151, 7, 'hilinetz', 'spy kids 2 is still fun but a bit less magical than the first one. still enjoyable though.', null);  # 312151 Spy Kids 2: Island of Lost Dreams 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312152, 5, 'hilinetz', 'spy kids 3 feels like it was made just to use the 3d gimmick. the story is the weakest of the three.', null);  # 312152 Spy Kids 3-D: Game Over 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (129185, 8, 'hilinetz', 'gladiator is so epic. the relationship between maximus and his family gives the action real emotional weight.', null);  # 129185 Gladiator 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194500, 9, 'hilinetz', 'return of the king is such an emotional ending. the grey havens scene completely wrecked me and the whole trilogy pays off perfectly.', null);  # 194500 Lord of the Rings: The Return of the King, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194497, 9, 'hilinetz', 'fellowship of the ring draws you into the world completely. the friendship between frodo and sam is the emotional heart of the whole story.', null);  # 194497 Lord of the Rings: The Fellowship of the Ring, The 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194502, 8, 'hilinetz', 'two towers has the best battle sequence in the trilogy. helm''s deep is incredible filmmaking even now.', null);  # 194502 Lord of the Rings: The Two Towers, The 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313478, 9, 'hilinetz', 'empire strikes back is the best star wars film. the han and leia romance and the vader reveal are both iconic moments.', null);  # 313478 Star Wars: Episode V - The Empire Strikes Back 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313479, 8, 'hilinetz', 'return of the jedi has such a satisfying ending. the ewoks get a lot of hate but they are actually cute.', null);  # 313479 Star Wars: Episode VI - Return of the Jedi 1983
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313477, 8, 'hilinetz', 'revenge of the sith is surprisingly emotional. anakin''s fall is genuinely tragic and the final duel is spectacular.', null);  # 313477 Star Wars: Episode III - Revenge of the Sith 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313476, 6, 'hilinetz', 'attack of the clones has the anakin and padme romance which feels a bit forced but the action and the mystery plot are decent.', null);  # 313476 Star Wars: Episode II - Attack of the Clones 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313474, 6, 'hilinetz', 'phantom menace has some great moments like the pod racing and darth maul but jar jar binks is a lot to deal with.', null);  # 313474 Star Wars: Episode I - The Phantom Menace 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30959, 9, 'hilinetz', 'batman begins completely reinvented the superhero film. christian bale is the perfect bruce wayne and the origin story feels real and grounded.', null);  # 30959 Batman Begins 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30955, 7, 'hilinetz', 'the 1989 batman is a classic. michael keaton is iconic in the role and the gothic visual style is so cool.', null);  # 30955 Batman 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30967, 6, 'hilinetz', 'batman returns is quite dark and weird but michelle pfeiffer as catwoman is genuinely iconic and worth watching for that alone.', null);  # 30967 Batman Returns 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30965, 5, 'hilinetz', 'batman forever has its moments but it gets too campy and loses the tone of the first two films.', null);  # 30965 Batman Forever 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30952, 2, 'hilinetz', 'batman and robin is genuinely painful to watch. the ice puns never stop and nothing about it works.', null);  # 30952 Batman & Robin 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30976, 8, 'hilinetz', 'mask of the phantasm is surprisingly dark and emotional for an animated batman film. way better than i expected.', null);  # 30976 Batman: Mask of the Phantasm 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (130945, 7, 'hilinetz', 'goldeneye is such a fun bond film. natalya is one of the most likeable bond partners and the action is exciting throughout.', null);  # 130945 GoldenEye 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (86263, 7, 'hilinetz', 'die another day is a bit too over the top but halle berry is great and some of the action set pieces are really impressive.', null);  # 86263 Die Another Day 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (335336, 7, 'hilinetz', 'tomorrow never dies is a solid bond film. wai lin is one of the most capable and fun bond partners in the whole series.', null);  # 335336 Tomorrow Never Dies 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (368418, 7, 'hilinetz', 'world is not enough is entertaining with a good twist villain but the ending feels a bit flat.', null);  # 368418 World Is Not Enough, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (120574, 6, 'hilinetz', 'from russia with love is one of the stronger older bond films. the spy thriller elements are genuinely tense and well constructed.', null);  # 120574 From Russia with Love 1963
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (117314, 6, 'hilinetz', 'for your eyes only is more grounded than most bond films which actually makes it more interesting.', null);  # 117314 For Your Eyes Only 1981
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (189403, 5, 'hilinetz', 'licence to kill is very dark for a bond film. it is well made but not really what i watch bond for.', null);  # 189403 Licence to Kill 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (192702, 6, 'hilinetz', 'living daylights has a fresh feel with timothy dalton and the action is solid even if it is not the most memorable bond film.', null);  # 192702 Living Daylights, The 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188507, 8, 'hilinetz', 'lethal weapon is such a great buddy action film. riggs and murtaugh have incredible chemistry and the emotional beats actually land.', null);  # 188507 Lethal Weapon 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188509, 8, 'hilinetz', 'lethal weapon 2 is as good as the first. the villain is memorable and the action is exciting without feeling too repetitive.', null);  # 188509 Lethal Weapon 2 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188510, 6, 'hilinetz', 'lethal weapon 3 is still enjoyable but starting to feel a bit formulaic. joe pesci is funny though.', null);  # 188510 Lethal Weapon 3 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188511, 5, 'hilinetz', 'lethal weapon 4 feels like it is running on fumes at this point. jet li saves it a little but it is clearly the weakest of the four.', null);  # 188511 Lethal Weapon 4 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (109421, 7, 'hilinetz', 'fast and furious is just fun. the cars, the action, the friendships between the characters all work together nicely.', null);  # 109421 Fast and the Furious, The 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159172, 9, 'hilinetz', 'last crusade is my favorite indiana jones by far. harrison ford and sean connery as father and son is comedy gold.', null);  # 159172 Indiana Jones and the Last Crusade 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159175, 7, 'hilinetz', 'temple of doom is darker and weirder but the mine cart scene and the energy of it make it really entertaining.', null);  # 159175 Indiana Jones and the Temple of Doom 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159167, 6, 'hilinetz', 'indiana jones 4 is fun to see again but the crystal skull storyline is so silly it takes you out of it.', null);  # 159167 Indiana Jones 4 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (210511, 7, 'hilinetz', 'memento is so clever with the reverse timeline. i had to watch it twice to fully understand what was happening but it was worth it.', null);  # 210511 Memento 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (160524, 7, 'hilinetz', 'insomnia is a really gripping thriller. al pacino and robin williams together is such an unexpected pairing and it totally works.', null);  # 160524 Insomnia 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (116556, 6, 'hilinetz', 'following is impressive for such a low budget early film. you can already see nolan''s style developing and the twist is good.', null);  # 116556 Following 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (112290, 6, 'hilinetz', 'fight club is fascinating and the twist is genuinely shocking. not really my type of film but i understand why people love it.', null);  # 112290 Fight Club 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (123435, 7, 'hilinetz', 'the game is so tense and the twist completely blindsided me. a really well made thriller that keeps you guessing.', null);  # 123435 Game, The 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (247579, 6, 'hilinetz', 'panic room is tense and well made but very claustrophobic. jodie foster is excellent though and the direction is slick.', null);  # 247579 Panic Room 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (69812, 7, 'hilinetz', 'conspiracy theory is such a fun thriller. the romantic dynamic between mel gibson and julia roberts adds a lot to what could have been a generic story.', null);  # 69812 Conspiracy Theory 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (350424, 7, 'hilinetz', 'vanilla sky kept me guessing the whole time. it is confusing in places but the love triangle and the dreamlike atmosphere are really interesting.', null);  # 350424 Vanilla Sky 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (306032, 7, 'hilinetz', 'snatch is really funny and clever. the editing style is so fast and the way all the storylines connect is satisfying.', null);  # 306032 Snatch. 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (131780, 6, 'hilinetz', 'goodfellas is undeniably brilliant but not really my genre. the storytelling and pacing are incredible though.', null);  # 131780 Goodfellas 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (8183, 7, 'hilinetz', 'age of innocence is such a beautiful and tragic love story. scorsese doing period romance is surprisingly stunning.', null);  # 8183 Age of Innocence, The 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (56304, 5, 'hilinetz', 'casino is well made but too long and violent for my personal taste. not something i would rewatch.', null);  # 56304 Casino 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (31715, 8, 'hilinetz', 'beaches completely destroyed me emotionally. the friendship between the two women is so authentic and the ending is devastating.', null);  # 31715 Beaches 1988
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (67395, 8, 'hilinetz', 'the color purple is such a powerful film. whoopi goldberg is magnificent and the story stays with you long after it ends.', null);  # 67395 Color Purple, The 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (34077, 8, 'hilinetz', 'benjamin button is so beautiful and melancholy. the love story across so many years is genuinely moving even if the film is quite long.', null);  # 34077 Benjamin Button 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (208245, 7, 'hilinetz', 'maverick is such a fun and charming film. mel gibson and jodie foster together are hilarious and the poker storyline keeps you entertained.', null);  # 208245 Maverick 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (218219, 8, 'hilinetz', 'princess mononoke is stunning. the visuals are incredible and the story has a real depth to it that stays with you.', null);  # 218219 Mononoke-hime 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (174953, 8, 'hilinetz', 'nausicaa of the valley of the wind is so ahead of its time. the heroine is incredible and the world feels so richly imagined.', null);  # 174953 Kaze no tani no Naushika 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311428, 8, 'hilinetz', 'splash is such a sweet and funny love story. daryl hannah as a mermaid is completely charming and the romance is genuinely cute.', null);  # 311428 Splash 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (46169, 7, 'hilinetz', 'braveheart is really emotional and the love story with murron is so tragically short. the battle sequences are intense.', null);  # 46169 Braveheart 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (340652, 7, 'hilinetz', 'troy is epic and the paris and helen love story drives everything. it is a bit long but the performances are really engaging.', null);  # 340652 Troy 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (308025, 7, 'hilinetz', 'someone to watch over me is a really romantic thriller. the choice between two very different women feels emotionally real.', null);  # 308025 Someone to Watch Over Me 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (69469, 8, 'hilinetz', 'intimate strangers is such an intriguing and romantic french film. the tension between the two characters builds so slowly and beautifully.', null);  # 69469 Confidences trop intimes 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (33492, 8, 'hilinetz', 'bella martha is a really sweet romance about two completely different people slowly falling for each other. really charming.', null);  # 33492 Bella Martha 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (56282, 7, 'hilinetz', 'cashback is such a creative and romantic film. the whole concept of freezing time to appreciate beauty is really original.', null);  # 56282 Cashback 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (244421, 7, 'hilinetz', 'the other sister is such a touching film. the love story is really sweet and the performances feel very genuine.', null);  # 244421 Other Sister, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (235615, 7, 'hilinetz', 'nothing in common is really sweet and underrated. the father son relationship is the real heart of the film and tom hanks is great.', null);  # 235615 Nothing in Common 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (263, 7, 'hilinetz', 'til there was you is such a sweet concept. two people whose lives keep almost intersecting is a really romantic idea.', null);  # 263 'Til There Was You 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (183370, 8, 'hilinetz', 'ladies in lavender is quietly beautiful. the performances are really moving and the bittersweet ending stayed with me.', null);  # 183370 Ladies in Lavender 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (185628, 7, 'hilinetz', 'last samurai has a surprising amount of emotional depth. the romance and the cultural clash both work really well together.', null);  # 185628 Last Samurai, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (335835, 7, 'hilinetz', 'top gun is a classic. the romance and the action are both entertaining and the soundtrack is iconic.', null);  # 335835 Top Gun 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (14132, 7, 'hilinetz', 'american pie 2 is honestly funnier than the first one. the whole summer house concept works really well.', null);  # 14132 American Pie 2 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (105851, 5, 'hilinetz', 'exit to eden is a weird romantic comedy that never quite figures out what it wants to be. dan aykroyd and rosie o''donnell are funny but the tone is all over the place.', null);  # 105851 Exit to Eden 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (199763, 7, 'hilinetz', 'madonna immaculate collection is basically a perfect greatest hits package. the videos are iconic and hold up really well.', null);  # 199763 Madonna: The Immaculate Collection 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (3055, 6, 'hilinetz', 'the 76th academy awards was a memorable ceremony. watching lord of the rings sweep everything was so satisfying.', null);  # 3055 76th Annual Academy Awards, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (25192, 7, 'hilinetz', 'the aviator is quite long but really fascinating. leo dicaprio carries the whole film and the obsessive behavior is genuinely compelling.', null);  # 25192 Aviator, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (14477, 7, 'hilinetz', 'amistad is really powerful and important. spielberg handles the subject carefully and the performances are strong throughout.', null);  # 14477 Amistad 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10702, 7, 'hilinetz', 'alice doesn''t live here anymore is a really charming story about a woman starting her life over. really ahead of its time.', null);  # 10702 Alice Doesn't Live Here Anymore 1974
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (67388, 6, 'hilinetz', 'color of money is a solid sequel. newman and cruise together are interesting to watch even if the story is not as strong as the hustler.', null);  # 67388 Color of Money, The 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (253010, 7, 'hilinetz', 'a perfect world is really touching. kevin costner and the kid have such a sweet unlikely bond and the ending is really emotional.', null);  # 253010 Perfect World, A 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (65811, 8, 'hilinetz', 'close encounters is such a classic. the buildup and the final scene with the alien ship are genuinely awe inspiring.', null);  # 65811 Close Encounters of the Third Kind 1977
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (94741, 6, 'hilinetz', 'duel is impressive for an early spielberg tv film. the concept of being hunted by a truck is absurd but genuinely effective.', null);  # 94741 Duel (1971/I) 1971
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (21213, 7, 'hilinetz', 'a.i. is emotional and thought provoking. the ending got to me in a way i did not expect and the visuals are stunning.', null);  # 21213 Artificial Intelligence: AI 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (214755, 7, 'hilinetz', 'minority report is really gripping. the futuristic world feels believable and the twist is satisfying without feeling cheap.', null);  # 214755 Minority Report 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (319602, 7, 'hilinetz', 'superman 1978 is such a charming classic. christopher reeve is the most likeable superhero and the romance with lois is really sweet.', null);  # 319602 Superman 1978
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (319613, 7, 'hilinetz', 'superman 2 is even more fun. clark giving up his powers for lois is genuinely romantic and the story has real emotional stakes.', null);  # 319613 Superman II 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (400853, 8, 'hilinetz', 'parenthood is so real and moving. the ensemble family dynamics are completely authentic and it made me think about my own family.', null);  # 400853 Parenthood 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (390691, 7, 'hilinetz', 'growing pains is such a warm and nostalgic family show. the teen storylines feel really relatable even now.', null);  # 390691 Growing Pains 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (391006, 7, 'hilinetz', 'happy days is so nostalgic and warm. the friendships and the romances between the characters are genuinely sweet.', null);  # 391006 Happy Days 1974
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (398232, 8, 'hilinetz', 'mork and mindy is so sweet. the alien falling in love with a human concept is so charming and robin williams is electric.', null);  # 398232 Mork & Mindy 1978
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (398571, 7, 'hilinetz', 'murphy brown is really smart and funny. candice bergen is hilarious and the show is surprisingly ahead of its time.', null);  # 398571 Murphy Brown 1988
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (131885, 8, 'hilinetz', 'the goonies is such a classic adventure film. the friendship between all the kids is so fun and the whole treasure hunt is genuinely exciting.', null);  # 131885 Goonies, The 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (379931, 6, 'hilinetz', 'amazing stories has some really touching and creative episodes. the spielberg influence gives it a warmth that most anthology shows lack.', null);  # 379931 Amazing Stories 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (372733, 7, 'hilinetz', 'young sherlock holmes is a fun adventure and the romance adds a really nice emotional layer to the whole mystery.', null);  # 372733 Young Sherlock Holmes 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (142491, 7, 'hilinetz', 'hellboy is a really fun supernatural action film. the liz and hellboy romance is surprisingly sweet and gives it real heart.', null);  # 142491 Hellboy 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (142492, 7, 'hilinetz', 'hellboy 2 is even more visually stunning than the first. the romance between hellboy and liz becomes more central and emotional here.', null);  # 142492 Hellboy 2 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (46190, 6, 'hilinetz', 'the bravo profile on johnny depp is a fun and interesting look at his career and personality. good watch for fans.', null);  # 46190 Bravo Profiles: Johnny Depp 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (102108, 6, 'hilinetz', 'epic at sea is a fun behind the scenes documentary for fans of pirates of the caribbean. interesting to see how the action was made.', null);  # 102108 Epic at Sea: The Making of 'Pirates of the Caribbean: The Curse of the Black Pearl', An 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256627, 6, 'hilinetz', 'pirates of silicon valley is really interesting. the jobs versus gates rivalry is fascinating and the two actors are well cast.', null);  # 256627 Pirates of Silicon Valley 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (248090, 7, 'hilinetz', 'paper clips is such a moving documentary about a school project that grew into something much bigger. really inspiring.', null);  # 248090 Paper Clips 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (114955, 7, 'hilinetz', 'the flamingo kid is such a charming coming of age film. the summer romance feels very real and the ending is satisfying.', null);  # 114955 Flamingo Kid, The 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (61751, 7, 'hilinetz', 'children of men is really gripping and emotional. the long unbroken takes are incredible filmmaking and the world feels terrifyingly real.', null);  # 61751 Children of Men, The 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (49854, 5, 'hilinetz', 'buried secret of m night shyamalan is a clever mockumentary. it is fun if you know his films but probably confusing otherwise.', null);  # 49854 Buried Secret of M. Night Shyamalan, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (80969, 7, 'hilinetz', 'dear god is such a cute and funny film. the concept of answering letters to god is charming and greg kinnear is likeable.', null);  # 80969 Dear God 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (113931, 6, 'hilinetz', 'firelight is a classic romantic thriller that is actually quite underrated. the twist is good and the atmosphere is effective.', null);  # 113931 Firelight 1964
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30686, 5, 'hilinetz', 'basketball diaries is really powerful and leo dicaprio is incredible but it is very dark and not something i would rewatch easily.', null);  # 30686 Basketball Diaries, The 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (41518, 5, 'hilinetz', 'blow is well made and leo is good but it is just too dark and bleak for me personally.', null);  # 41518 Blow 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (54209, 4, 'hilinetz', 'cape fear is well made but genuinely frightening in an unpleasant way. de niro is terrifying but not my genre at all.', null);  # 54209 Cape Fear 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (200521, 6, 'hilinetz', 'magnolia is impressive and ambitious but almost three hours long and very intense. the frog scene is completely unforgettable though.', null);  # 200521 Magnolia 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10830, 4, 'hilinetz', 'alien is a masterpiece of tension but too scary for me. i had to look away multiple times and it genuinely gave me nightmares.', null);  # 10830 Alien 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10920, 5, 'hilinetz', 'aliens is more action focused which makes it a bit easier to watch than the first but still quite scary for my taste.', null);  # 10920 Aliens 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (259826, 4, 'hilinetz', 'poltergeist is really effective horror but too scary for me. the clown doll scene traumatized me as a kid.', null);  # 259826 Poltergeist 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (240327, 3, 'hilinetz', 'the omen is a classic horror but genuinely disturbing. not my genre and i found it hard to enjoy even objectively.', null);  # 240327 Omen, The 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (120506, 4, 'hilinetz', 'from hell is atmospheric and interesting but too dark and gory for me. the ripper story is compelling but the violence is too much.', null);  # 120506 From Hell 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (233058, 5, 'hilinetz', 'the ninth gate has a great atmosphere and johnny depp is good but the ending is anticlimactic and left me feeling unsatisfied.', null);  # 233058 Ninth Gate, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (44238, 2, 'hilinetz', 'bordello of blood is really bad. it is supposed to be a fun horror comedy but it is neither funny nor scary.', null);  # 44238 Bordello of Blood 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (198835, 2, 'hilinetz', 'macabre pair of shorts is genuinely unpleasant to watch. not my thing at all.', null);  # 198835 Macabre Pair of Shorts 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176711, 4, 'hilinetz', 'kill bill is impressive stylistically but way too violent for my taste. the action choreography is cool but i spent half the film looking away.', null);  # 176711 Kill Bill: Vol. 1 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176712, 5, 'hilinetz', 'kill bill vol 2 is slower and more emotional which i preferred. the ending is actually really satisfying and less gory than the first.', null);  # 176712 Kill Bill: Vol. 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (123849, 6, 'hilinetz', 'gangs of new york is intense and epic but a bit too long and violent for my usual taste. the production design is incredible though.', null);  # 123849 Gangs of New York 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (185704, 4, 'hilinetz', 'last temptation of christ is thought provoking but very difficult and uncomfortable to watch. not something i would revisit.', null);  # 185704 Last Temptation of Christ, The 1988
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (209158, 4, 'hilinetz', 'mean streets is historically important but quite rough and violent. not really my genre even though i can see it is well made.', null);  # 209158 Mean Streets 1973
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (45312, 3, 'hilinetz', 'boxcar bertha is very early scorsese and it shows. too rough and exploitative for my taste.', null);  # 45312 Boxcar Bertha 1972
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (85871, 4, 'hilinetz', 'diamonds are forever feels quite dated now. the humor and the bond girl treatment have not aged well at all.', null);  # 85871 Diamonds Are Forever 1971
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (92573, 5, 'hilinetz', 'dr no is where it all started so it is worth watching but it feels very dated compared to modern films.', null);  # 92573 Dr. No 1962
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (192514, 5, 'hilinetz', 'live and let die has an interesting voodoo theme but some of the racial elements feel quite uncomfortable now.', null);  # 192514 Live and Let Die 1973
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (203649, 4, 'hilinetz', 'man with the golden gun is one of the weaker bond films. the villain is memorable but the story feels very thin.', null);  # 203649 Man with the Golden Gun, The 1974
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (218808, 4, 'hilinetz', 'moonraker is so ridiculous that it becomes almost unwatchable. going to space in a bond film was a step too far.', null);  # 218808 Moonraker 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312170, 6, 'hilinetz', 'the spy who loved me is one of the better older bond films. anya is a strong female lead and the underwater base is iconic.', null);  # 312170 Spy Who Loved Me, The 1977
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (240521, 4, 'hilinetz', 'on her majesty''s secret service suffers from the recasting of bond. george lazenby is not very convincing and the pacing is slow.', null);  # 240521 On Her Majesty's Secret Service 1969
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (372233, 4, 'hilinetz', 'you only live twice feels quite dated now. the japanese setting is interesting but the story is too formulaic even for bond.', null);  # 372233 You Only Live Twice 1967
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (29768, 2, 'hilinetz', 'this 1904 film is only of historical interest. there is no real story and it is difficult to engage with as a modern viewer.', null);  # 29768 Barbier de Sville, Le 1904
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (29771, 4, 'hilinetz', 'this opera recording is very niche. beautiful music but not really what i look for in a film.', null);  # 29771 Barbier de Sville, Le 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (29772, 4, 'hilinetz', 'another opera adaptation that is pleasant but very specialized. only really for opera fans.', null);  # 29772 Barbier von Sevilla, Der 1972
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (29773, 4, 'hilinetz', 'le barbier is a short french film that is charming enough but too brief to be memorable.', null);  # 29773 Barbier, Le (2001/I) 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (78877, 3, 'hilinetz', 'dark mist is too vague and abstract to be engaging. the title is more interesting than the actual content.', null);  # 78877 Dark Mist, The 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (85524, 2, 'hilinetz', 'this 1941 portuguese film is only of historical interest. no real story that a modern viewer can connect with.', null);  # 85524 Dia  Nosso, O 1941
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (82868, 3, 'hilinetz', 'this german documentary is very culturally specific and hard to engage with without relevant background knowledge.', null);  # 82868 Denk ich an Deutschland - Wir haben vergessen zurckzukehren 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (78702, 3, 'hilinetz', 'dari jemapoh ke manchestee is a malay film that i could not really connect with. the humor is very culturally specific.', null);  # 78702 Dari Jemapoh ke Manchestee 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (126792, 3, 'hilinetz', 'this korean film is too slow and understated for my taste. i appreciate the style but it does not hold my attention.', null);  # 126792 Geudeulmanui sesang 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (70507, 3, 'hilinetz', 'copi je t''aime is a french documentary that is very niche and hard to appreciate without knowing the subject.', null);  # 70507 Copi, je t'aime 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (25729, 2, 'hilinetz', 'this 1968 turkish film is very obscure and the story does not translate well for modern international audiences.', null);  # 25729 Azrail benim 1968
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (25943, 3, 'hilinetz', 'baan sau chuk dak hin dui is a cantonese film that i could not follow at all without subtitles. not accessible for me.', null);  # 25943 Baan sau chuk dak hin dui 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (28085, 3, 'hilinetz', 'this filipino film is too culturally specific. the humor and the references did not land for me at all.', null);  # 28085 Bakit may kahapon pa? 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (28092, 3, 'hilinetz', 'bakom jalusin is a swedish film that is too slow and quiet for my taste. not much happens and the pacing is very difficult.', null);  # 28092 Bakom jalusin 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (36426, 3, 'hilinetz', 'this chinese film from 1984 has beautiful visuals but the pacing is too slow and the story is hard to follow.', null);  # 36426 Bian cheng 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (57894, 3, 'hilinetz', 'this french film is very meta and cinematic but too intellectual and slow for my personal taste.', null);  # 57894 Cent et une nuits de Simon Cinma, Les 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (64230, 3, 'hilinetz', 'this french documentary is very academic and dry. interesting subject matter but not engaging as a film experience.', null);  # 64230 Cinquantenaire du deuxime sexe, 1949-1999 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (67592, 5, 'hilinetz', 'columbo murder by the book is a decent early episode of the series. the formula works even here at the very beginning.', null);  # 67592 Columbo: Murder by the Book 1971
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (89441, 4, 'hilinetz', 'doki doki is a japanese short film that is quite abstract and hard to follow without cultural context.', null);  # 89441 Doki-Doki 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (89823, 3, 'hilinetz', 'le domaine is a slow french short that is too minimalist to hold my attention.', null);  # 89823 Domaine, Le 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (96239, 3, 'hilinetz', 'this french film is quite dated and the humor does not really translate to a modern audience.', null);  # 96239 Dtachez vos ceintures 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (99875, 3, 'hilinetz', 'emigranti is a slovenian film that is too culturally specific and hard to engage with as an outside viewer.', null);  # 99875 Emigranti (2002/I) 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (100241, 3, 'hilinetz', 'en attendant la cigogne is a french film that is charming in concept but too slow and understated to be engaging.', null);  # 100241 En attendant la cigogne 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (102311, 3, 'hilinetz', 'era outra vez is a portuguese film that is too quiet and slow for my taste. the story does not build to anything satisfying.', null);  # 102311 Era outra vez 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (104484, 3, 'hilinetz', 'eu adam is an israeli film i had trouble connecting with. the humor is very local and the pacing is uneven.', null);  # 104484 Eu Adam 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (105587, 3, 'hilinetz', 'examen is a romanian short that is too bleak and slow to be enjoyable. the subject is interesting but the execution is not engaging.', null);  # 105587 Examen 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (111963, 3, 'hilinetz', 'this 1979 opera recording is beautiful musically but as a film experience it is very dry and only for opera enthusiasts.', null);  # 111963 Fidelio 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (117582, 2, 'hilinetz', 'foreigners out is a provocative documentary that is more uncomfortable than enlightening. not something i enjoyed watching.', null);  # 117582 Foreigners out! Schlingensiefs Container 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (121912, 2, 'hilinetz', 'this 1921 silent short is only of historical interest. there is no real story and the humor does not land for modern viewers.', null);  # 121912 Fur Coats and Pants 1921
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (122277, 4, 'hilinetz', 'fyrsti april is an icelandic short film that is mildly amusing but too culturally specific to be really engaging.', null);  # 122277 Fyrsti aprl 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (129042, 3, 'hilinetz', 'this verdi requiem recording is a beautiful piece of music but as a film experience it is very dry and niche.', null);  # 129042 Giuseppe Verdi: Messa da Requiem 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (141779, 3, 'hilinetz', 'the berlioz te deum is an impressive classical performance but as a film it is very dry and only for classical music fans.', null);  # 141779 Hector Berlioz: Te Deum 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (175872, 3, 'hilinetz', 'this khachaturian documentary is pleasant for classical music fans but too academic for general audiences.', null);  # 175872 Khachaturian 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (175873, 4, 'hilinetz', 'the khachaturian piano concerto performance is really dramatic and beautiful. more engaging than a typical classical recording.', null);  # 175873 Khachaturian Piano Concerto 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (175875, 2, 'hilinetz', 'this 1951 film is very obscure and impossible to find any information about. could not really evaluate it properly.', null);  # 175875 Khadaini abi 1951
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (175879, 4, 'hilinetz', 'khadgam is a telugu action film that is entertaining but the story is very predictable and the romance feels rushed.', null);  # 175879 Khadgam 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (175880, 2, 'hilinetz', 'this 1952 egyptian film is too obscure and culturally specific for me to engage with meaningfully.', null);  # 175880 Khadra wa Sindibad el khebli 1952
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (175881, 3, 'hilinetz', 'this soviet tolstoy adaptation is beautifully shot but very slow. the pacing is really difficult for modern viewers.', null);  # 175881 Khadzhi murat 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (175883, 2, 'hilinetz', 'this 1990 iranian film is very culturally specific and the story did not translate at all for me.', null);  # 175883 Khagher 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (20446, 1, 'hilinetz', 'this 1898 film is purely a historical document. there is nothing to watch as a modern viewer looking for a film experience.', null);  # 20446 Armenian Archbishop, Rome 1898
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (17370, 2, 'hilinetz', 'this 1948 indian film is too old and culturally specific for me to connect with at all.', null);  # 17370 Anjangarh (1948/II) 1948
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (22093, 2, 'hilinetz', 'this 1977 marathi film is very obscure and i could not engage with the story or the characters at all.', null);  # 22093 Asla Navra Nakoga Bai 1977
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (15187, 4, 'hilinetz', 'amsterdamned is a dutch thriller that is decent but a bit dated. the amsterdam canal setting is cool though.', null);  # 15187 Amsterdamned 1988
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (31256, 3, 'hilinetz', 'battle squad is a very dated 1961 war film that has not aged well at all. feels very formulaic.', null);  # 31256 Battle Squad 1961
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (34304, 3, 'hilinetz', 'berlin babylon is a very slow documentary about berlin that is too minimalist and abstract for my taste.', null);  # 34304 Berlin Babylon 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (34306, 4, 'hilinetz', 'berlin berlin is a german comedy that has some funny moments but the humor is very specific and does not always translate.', null);  # 34306 Berlin Berlin 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (47456, 2, 'hilinetz', 'the broken coin is a 1915 silent serial that is only of historical interest. impossible to engage with as entertainment today.', null);  # 47456 Broken Coin, The 1915
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (51413, 3, 'hilinetz', 'c''est le vent is a quiet french short that is too slow and minimal to keep my attention.', null);  # 51413 C'est le vent 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (58084, 3, 'hilinetz', 'cerebrium is an experimental short that is too abstract and hard to follow even for a short film.', null);  # 58084 Cerebrium 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (60408, 3, 'hilinetz', 'chek 2000 is a very obscure short film without much to recommend it to a general audience.', null);  # 60408 Chek 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (65762, 4, 'hilinetz', 'clockwork maury is a short parody that has some funny ideas but wears out its welcome pretty quickly.', null);  # 65762 Clockwork Maury, A 2000
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (406158, 8, 'drorleibov', 'Spider-Man is a thrilling superhero origin story with great character development and exciting action sequences that hold up well.', null); # 406158 Spider-Man 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (406411, 7, 'drorleibov', 'Clone Wars captures the excitement of the Star Wars universe with fast-paced animation and fun battles between iconic characters.', null); # 406411 Star Wars: Clone Wars 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (381392, 6, 'drorleibov', 'Batman Beyond offers a fresh futuristic spin on the Batman mythos with an engaging new protagonist taking on the cape.', null); # 381392 Batman Beyond 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (391006, 5, 'drorleibov', 'Happy Days is a nostalgic sitcom with charming characters but feels dated and repetitive after a few episodes.', null); # 391006 Happy Days 1974
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (319602, 9, 'drorleibov', 'Superman 1978 is a landmark superhero film. Christopher Reeve is utterly convincing and the story balances heart with spectacle perfectly.', null); # 319602 Superman 1978
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (319613, 7, 'drorleibov', 'Superman II delivers a satisfying continuation with three menacing Kryptonian villains and great action sequences throughout.', null); # 319613 Superman II 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (335835, 8, 'drorleibov', 'Top Gun is an energetic action film with incredible aerial sequences and a compelling rivalry that keeps the story moving fast.', null); # 335835 Top Gun 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (337166, 10, 'drorleibov', 'Toy Story is a groundbreaking animated masterpiece. The friendship between Woody and Buzz feels genuine and the story is universally emotional.', null); # 337166 Toy Story 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (333856, 7, 'drorleibov', 'Titanic is an epic romance with stunning visuals and strong performances, though the runtime feels slightly overlong in the first half.', null); # 333856 Titanic 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (326155, 9, 'drorleibov', 'Taxi Driver is a masterful character study of urban isolation and obsession. De Niro delivers one of cinema greatest performances.', null); # 326155 Taxi Driver 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (328272, 6, 'drorleibov', 'The Terminal is a warm and charming Spielberg film with a likeable lead performance, though the premise stretches its welcome toward the end.', null); # 328272 Terminal, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (330670, 7, 'drorleibov', 'This Boys Life is a gripping drama with a frighteningly convincing De Niro as an abusive stepfather and strong work from DiCaprio.', null); # 330670 This Boy's Life 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (332065, 7, 'drorleibov', 'Thunderball is a solid Bond adventure with great underwater sequences and a classic villain, though it runs slightly too long.', null); # 332065 Thunderball 1965
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (335336, 6, 'drorleibov', 'Tomorrow Never Dies has good action and Brosnan is charismatic, but the villain feels generic and the story never fully takes off.', null); # 335336 Tomorrow Never Dies 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (359297, 7, 'drorleibov', 'War of the Worlds 2005 builds intense suspense in its first half with terrifying alien attacks before the ending disappoints slightly.', null); # 359297 War of the Worlds 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (368418, 7, 'drorleibov', 'The World Is Not Enough is an entertaining Bond film with a surprisingly complex villain but does not quite reach the series best entries.', null); # 368418 World Is Not Enough, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (370017, 5, 'drorleibov', 'XXX is a loud and over-the-top action film that works as mindless entertainment but lacks any real depth or originality.', null); # 370017 XXX 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (372233, 8, 'drorleibov', 'You Only Live Twice is one of the most visually spectacular Bond films with an iconic villain lair and thrilling finale.', null); # 372233 You Only Live Twice 1967
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (372733, 7, 'drorleibov', 'Young Sherlock Holmes is a fun and inventive adventure that reimagines the detective as a teenager with impressive visual effects for its time.', null); # 372733 Young Sherlock Holmes 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (354178, 6, 'drorleibov', 'A View to a Kill is a weaker Bond entry with an over-the-top villain and a past-his-prime Moore, though Walken is entertaining.', null); # 354178 View to a Kill, A 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (350424, 8, 'drorleibov', 'Vanilla Sky is a mind-bending thriller that rewards patience with a deeply emotional payoff and a standout performance from Cruise.', null); # 350424 Vanilla Sky 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (350189, 6, 'drorleibov', 'Vampire Hunter D 2000 is a visually stylish anime with an atmospheric gothic world, though the story feels rushed and underdeveloped.', null); # 350189 Vampire Hunter D 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (340652, 7, 'drorleibov', 'Troy is an ambitious epic with impressive battle sequences and a charismatic Brad Pitt as Achilles, though it simplifies the myth considerably.', null); # 340652 Troy 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (342512, 6, 'drorleibov', 'Twilight Zone The Movie has uneven segments ranging from scary to weak, but the best sequences capture the spirit of the original series well.', null); # 342512 Twilight Zone: The Movie 1983
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (323509, 5, 'drorleibov', 'Taken for a Ride covers important history but is presented in a dry documentary style that makes it hard to engage with for long stretches.', null); # 323509 Taken for a Ride 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (318388, 7, 'drorleibov', 'The Sugarland Express is an early Spielberg gem with a sympathetic criminal couple and tense road sequences that showcase his emerging talent.', null); # 318388 Sugarland Express, The 1974
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (316511, 4, 'drorleibov', 'A Stray Glance is an obscure short film with a limited budget that does not develop its premise enough to leave a lasting impression.', null); # 316511 Stray Glance, A 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (185628, 9, 'drorleibov', 'The Last Samurai is a visually stunning and emotionally rich film with Cruise at his best and a deeply respectful portrayal of samurai culture.', null); # 185628 Last Samurai, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (183873, 6, 'drorleibov', 'Ladyhawke is a charming fantasy romance with a clever curse concept and likeable leads, even if the synth soundtrack feels jarring today.', null); # 183873 Ladyhawke 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176711, 9, 'drorleibov', 'Kill Bill Vol 1 is a kinetic and visually dazzling action film. Tarantino at his most stylish with the Crazy 88 sequence being unforgettable.', null); # 176711 Kill Bill: Vol. 1 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176712, 8, 'drorleibov', 'Kill Bill Vol 2 slows down the pace for a more emotional and dialogue-driven conclusion that deepens the first film considerably.', null); # 176712 Kill Bill: Vol. 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (174953, 9, 'drorleibov', 'Nausicaa of the Valley of the Wind is a breathtaking Miyazaki film with a strong environmental message and one of anime greatest heroines.', null); # 174953 Kaze no tani no Naushika 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (170721, 5, 'drorleibov', 'The Jungle Book 2 is a harmless but unnecessary sequel that recycles elements of the original without adding anything meaningful or memorable.', null); # 170721 Jungle Book 2, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (165961, 10, 'drorleibov', 'Jaws is a perfect thriller and one of cinema greatest achievements. The tension builds masterfully and the shark is scary precisely because we see it rarely.', null); # 165961 Jaws 1975
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (164572, 8, 'drorleibov', 'Jackie Brown is Tarantino most underrated film, a mature and patient crime story with Pam Grier delivering a career-defining performance.', null); # 164572 Jackie Brown 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (160524, 7, 'drorleibov', 'Insomnia 2002 is a tense psychological thriller with Pacino perfectly cast as a sleep-deprived detective losing his grip on reality.', null); # 160524 Insomnia 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159172, 9, 'drorleibov', 'Indiana Jones and the Last Crusade is the perfect adventure film combining thrilling action with genuine father-son chemistry between Ford and Connery.', null); # 159172 Indiana Jones and the Last Crusade 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159175, 8, 'drorleibov', 'Temple of Doom is darker and more intense than Raiders with a memorable opening and the mine cart chase being one of the series highlights.', null); # 159175 Indiana Jones and the Temple of Doom 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (158999, 7, 'drorleibov', 'Independence Day is an enormously fun blockbuster with iconic set pieces and a rousing speech that captures pure cinematic crowd-pleasing energy.', null); # 158999 Independence Day 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (151616, 5, 'drorleibov', 'How to Lose a Guy in 10 Days is a formulaic romantic comedy that coasts on the chemistry of its leads without offering much originality.', null); # 151616 How to Lose a Guy in 10 Days 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (149287, 7, 'drorleibov', 'Hook is an imaginative and heartfelt Spielberg film with a great premise about a grown-up Peter Pan, even if it runs slightly overlong.', null); # 149287 Hook 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (142491, 7, 'drorleibov', 'Hellboy 2004 is a fun and visually inventive superhero film with a charismatic lead from Perlman and a genuinely creative monster world.', null); # 142491 Hellboy 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (142492, 8, 'drorleibov', 'Hellboy 2 improves on the original with even more imaginative creature design and a more confident tone from del Toro at his most playful.', null); # 142492 Hellboy 2 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139657, 9, 'drorleibov', 'Harry Potter and the Sorcerers Stone perfectly captures the magic of the book with a wondrous sense of discovery and excellent casting throughout.', null); # 139657 Harry Potter and the Sorcerer's Stone 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139650, 8, 'drorleibov', 'Chamber of Secrets deepens the wizarding world with a darker mystery and the introduction of compelling new characters like Dobby and Lockhart.', null); # 139650 Harry Potter and the Chamber of Secrets 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139655, 10, 'drorleibov', 'Prisoner of Azkaban is the best Potter film with Cuaron bringing a darker visual style and the time-turner twist delivering a genuinely satisfying payoff.', null); # 139655 Harry Potter and the Prisoner of Azkaban 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139652, 8, 'drorleibov', 'Goblet of Fire escalates the stakes significantly with the Triwizard Tournament and the shocking ending marking the series true turning point.', null); # 139652 Harry Potter and the Goblet of Fire 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139654, 8, 'drorleibov', 'Order of the Phoenix strips the story down to its emotional core with Harry rebellion and the Department of Mysteries sequence delivering real excitement.', null); # 139654 Harry Potter and the Order of the Phoenix 2007
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139653, 7, 'drorleibov', 'Half-Blood Prince is beautifully shot and emotionally devastating in its final act even if the middle section meanders more than the other films.', null); # 139653 Harry Potter and the Half-Blood Prince 2008
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (131780, 10, 'drorleibov', 'Goodfellas is a cinematic masterpiece. Scorsese direction is electric and the rise and fall of Henry Hill is endlessly watchable and thrilling.', null); # 131780 Goodfellas 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (131885, 8, 'drorleibov', 'The Goonies is an endlessly charming adventure film that perfectly captures the feeling of childhood excitement and friendship in every scene.', null); # 131885 Goonies, The 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (130953, 9, 'drorleibov', 'Goldfinger is the definitive Bond film with a perfect villain, an iconic car, and a confident Connery at the absolute peak of the franchise.', null); # 130953 Goldfinger 1964
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (130945, 7, 'drorleibov', 'GoldenEye revitalized the Bond franchise after a six year gap with Brosnan making a confident debut and the tank chase being genuinely thrilling.', null); # 130945 GoldenEye 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (644, 6, 'drorleibov', '10 Things I Hate About You is a witty and charming Shakespeare adaptation with great chemistry between Ledger and Stiles that rises above the genre.', null); # 644 10 Things I Hate About You 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (263, 4, 'drorleibov', 'Til There Was You is a forgettable romantic comedy that never creates genuine tension or chemistry between its leads despite an interesting premise.', null); # 263 'Til There Was You 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (2, 5, 'drorleibov', 'Dollar sign 1971 is a heist film with some clever moments but an uneven pace that prevents it from reaching the heights of the genre best entries.', null); # 2 $ 1971
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (52, 7, 'drorleibov', 'Project A is a spectacular Jackie Chan action comedy with jaw-dropping stunt work and a bicycle chase sequence that showcases his extraordinary talent.', null); # 52 'A' gai waak 1983
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (53, 7, 'drorleibov', 'Project A Part II continues the adventures with more inventive slapstick action and Chan pushing the physical boundaries of what he had done before.', null); # 53 'A' gai waak juk jaap 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (108, 6, 'drorleibov', 'G Men 1935 is a pre-code crime film that moves fast and has a satisfyingly tough performance from Cagney playing against his usual gangster type.', null); # 108 'G' Men 1935
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (450, 5, 'drorleibov', 'Tick Tick Tick 1970 is a social drama about racial tension in the American South that has good intentions but a somewhat predictable resolution.', null); # 450 ...tick...tick...tick... 1970
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (370, 7, 'drorleibov', 'Trinity Is Still My Name is a funny Italian western comedy with great physical humor between Hill and Spencer that is better than many expected.', null); # 370 ...continuavano a chiamarlo Trinit 1972
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (400853, 6, 'drorleibov', 'Parenthood 1990 is a warm ensemble comedy-drama with genuine heart but the sheer number of storylines means some characters feel underdeveloped.', null); # 400853 Parenthood 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (398571, 7, 'drorleibov', 'Murphy Brown is a sharp and witty sitcom with Candice Bergen delivering a formidable performance as the no-nonsense journalist anchor lead.', null); # 398571 Murphy Brown 1988
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (398232, 6, 'drorleibov', 'Mork and Mindy is charming mainly due to Robin Williams explosive improvisational energy which lifts an otherwise standard sitcom format considerably.', null); # 398232 Mork & Mindy 1978
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (399427, 7, 'drorleibov', 'Night Gallery is a genuinely creepy anthology horror series that benefits from Serling narration and some truly unsettling original stories each episode.', null); # 399427 Night Gallery 1970
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (405119, 6, 'drorleibov', 'Sherlock Holmes 1951 is a competent television adaptation of Doyle stories with a solid Holmes but lacks the production values of theatrical versions.', null); # 405119 Sherlock Holmes 1951
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159173, 4, 'drorleibov', 'Indiana Jones and the Last Crusade brings back the adventure and wit of the original with a perfect father-son dynamic between Ford and Connery.', null); # 159173 Indiana Jones and the Last Crusade 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (235062, 7, 'drorleibov', 'North by Northwest is Hitchcock at his most entertaining with a relentless cross-country chase and Cary Grant at his most charming.', null); # 235062 North by Northwest 1959
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (331529, 8, 'drorleibov', 'The Three Musketeers 1993 is a fun and swashbuckling adventure with great chemistry between the leads and plenty of entertaining action.', null); # 331529 Three Musketeers, The 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (379931, 5, 'drorleibov', 'Amazing Stories 1985 is an uneven anthology series where Spielberg vision occasionally produces magic but too many episodes feel underdeveloped or slight.', null); # 379931 Amazing Stories 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (383395, 3, 'drorleibov', 'Captain America 1966 is a cheaply produced animated series with a bland hero and plots that lack any real excitement or memorable villains.', null); # 383395 Captain America 1966
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (390691, 5, 'drorleibov', 'Growing Pains 1985 is a pleasant family sitcom that relies heavily on the charm of its cast rather than particularly sharp or inventive writing.', null); # 390691 Growing Pains 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (393012, 5, 'drorleibov', 'Iron Man 1966 is a basic animated series that introduces the character adequately but lacks the depth and excitement of later adaptations of the hero.', null); # 393012 Iron Man 1966
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (395271, 5, 'drorleibov', 'Laverne and Shirley is a decent spin-off sitcom with energetic physical comedy from its leads though the humor rarely rises above the formulaic.', null); # 395271 Laverne & Shirley 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (177369, 8, 'drorleibov', 'The King of Comedy is one of Scorsese most underrated films with De Niro delivering a disturbingly funny performance as a delusional aspiring comedian.', null); # 177369 King of Comedy, The 1983
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (181766, 7, 'drorleibov', 'Kundun is a visually meditative Scorsese biopic of the Dalai Lama with stunning cinematography by Roger Deakins and a reverent spiritual tone.', null); # 181766 Kundun 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (183370, 6, 'drorleibov', 'Ladies in Lavender is a quiet and dignified drama elevated entirely by the exceptional performances of Judi Dench and Maggie Smith as sisters.', null); # 183370 Ladies in Lavender 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (162380, 7, 'drorleibov', 'Iron Man 2005 animated series is a solid take on the armored avenger with decent action and a plot that stays faithful to key comic storylines.', null); # 162380 Iron Man 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159665, 6, 'drorleibov', 'Inglorious Bastards original 1978 version is a gritty and entertaining Italian war film that clearly inspired Tarantino entertaining remake decades later.', null); # 159665 Inglorious Bastards 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (178994, 5, 'drorleibov', 'Knockaround Guys is a forgettable crime thriller that wastes a talented cast on a predictable and uninvolving story about mob sons proving themselves.', null); # 178994 Knockaround Guys 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (185306, 4, 'drorleibov', 'The Last Gun is a mediocre Italian western with generic plotting and a hero who lacks the charisma needed to carry this kind of revenge story.', null); # 185306 Last Gun, The 1959
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (517, 4, 'drorleibov', 'Dot hack Quarantine is aimed squarely at fans of the franchise and offers little for newcomers with convoluted lore and slow pacing throughout.', null); # 517 .hack//Quarantine 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (170598, 4, 'drorleibov', 'Junction 1996 is a low-budget thriller that struggles to sustain tension across its runtime due to weak character development and a predictable plot.', null); # 170598 Junction 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (160375, 5, 'drorleibov', 'Inside Moves 1980 is a modest drama about disability and friendship with good intentions and decent performances that never quite reaches its potential.', null); # 160375 Inside Moves 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (168854, 4, 'drorleibov', 'Joker 2000 is a poorly made action film that fails to develop its characters or generate any genuine excitement from its central conflict.', null); # 168854 Joker 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (146415, 6, 'drorleibov', 'Histoire s du cinema is Godard ambitious and challenging meditation on the history of cinema that rewards patient and knowledgeable viewers greatly.', null); # 146415 Histoire(s) 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (185176, 4, 'drorleibov', 'Last Dance 2002 is a short film that lacks the narrative depth and technical execution needed to leave any meaningful impression on the viewer.', null); # 185176 Last Dance 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (397121, 5, 'drorleibov', 'Matrix 1993 is a low-budget unrelated film sharing a famous name, offering little of the visual spectacle one might associate with the title.', null); # 397121 Matrix 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (628, 5, 'drorleibov', '10 minuta is a short film that makes a clever point about modern life in a brief runtime, though it does not linger in the memory for long.', null); # 628 10 minuta 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (632, 4, 'drorleibov', 'This short road film between Hamburg and Salzburg lacks a clear narrative arc and feels more like a visual experiment than a satisfying story.', null); # 632 10 Minuten zwischen Hamburg und Salzburg 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (321, 4, 'drorleibov', 'Stories from 1995 is an obscure anthology that struggles to connect its segments into a satisfying whole and lacks memorable characters or moments.', null); # 321 (Stories from) 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (338, 6, 'drorleibov', 'A Valparaiso by Joris Ivens is a lyrical documentary portrait of the Chilean port city with beautiful imagery and a thoughtful humanist perspective.', null); # 338 ...A Valparaso 1962
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (576, 4, 'drorleibov', 'One and Nothing is a Hungarian short that experiments with form in ways that feel more academic than emotionally engaging for most viewers.', null); # 576 1 s a semmi 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (589, 5, 'drorleibov', '1-2-3 Go is a wartime short that captures the enthusiasm of its era but feels naive and dated by modern standards of documentary filmmaking.', null); # 589 1-2-3 Go! 1941
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (330, 4, 'drorleibov', 'Plus one minus one is an obscure experimental short that offers little narrative satisfaction and is difficult to access without specialist context.', null); # 330 +1 -1 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (315, 5, 'drorleibov', 'Now 1976 is a short political film by Santiago Alvarez that uses found footage effectively to make its anti-war and anti-racism argument.', null); # 315 (Now) 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (179, 6, 'drorleibov', 'NSYNC Live From Madison Square Garden captures the group at their commercial peak and is an enjoyable concert film for fans of the era.', null); # 179 'N Sync: Live From Madison Square Garden 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (182, 5, 'drorleibov', 'NSYNC PopOdyssey Live is a high-energy concert film but is essentially only of interest to dedicated fans of the pop group.', null); # 182 'N Sync: PopOdyssey Live 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (244, 5, 'drorleibov', 'Sloboda Kula is a Yugoslav short film from the early 1970s that offers an interesting historical snapshot but limited narrative appeal today.', null); # 244 'Sloboda' - Kula 1971
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (253, 5, 'drorleibov', 'It Is Cruel in the World is a Belgian film that captures postwar European sentiment but feels slow and inaccessible by contemporary viewing standards.', null); # 253 't Is wreed in de wereld 1954
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (275, 4, 'drorleibov', 'This Filipino comedy is a culturally specific farce that does not translate well for international audiences unfamiliar with its local humor conventions.', null); # 275 'Tong tatlong tatay kong pakitong-kitong 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (316, 5, 'drorleibov', 'Ohne Titel is an abstract short film that prioritizes formal experimentation over storytelling in a way that limits its broad audience appeal.', null); # 316 (Ohne Titel) 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (318, 5, 'drorleibov', 'Past Present Future is a short experimental film that plays with temporal structure in interesting ways but lacks sufficient emotional grounding.', null); # 318 (Past Present Future) 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (323, 4, 'drorleibov', 'Un 2003 is an extremely minimal experimental short that offers little to viewers looking for conventional narrative or character development.', null); # 323 (Un) 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (322, 4, 'drorleibov', 'T 2004 is a very brief abstract work that functions better as an art installation piece than as a film meant to be watched by a general audience.', null); # 322 (T) 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (365, 5, 'drorleibov', 'Les borgnes sont rois is a French comedy with a few good moments but relies too heavily on situational misunderstanding humor that wears thin quickly.', null); # 365 ...borgnes sont rois, Les 1974
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (387, 6, 'drorleibov', 'E la vita continua is a competent Italian melodrama about life after tragedy with strong performances even if the story follows predictable beats.', null); # 387 ...e la vita continua 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (413, 5, 'drorleibov', 'Ja teeb trikke is an Estonian short with modest production values and a simple story that works better as a cultural curiosity than a compelling film.', null); # 413 ...Ja teeb trikke 1978
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (494, 6, 'drorleibov', 'Y los suenos pasan is a Spanish melodrama from the Franco era with solid craftsmanship and emotional performances typical of the period.', null); # 494 ...Y los sueos pasan 1939
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (499, 4, 'drorleibov', 'Ya no puede caminar is a short film that addresses disability with good intentions but lacks the technical polish to fully realize its premise.', null); # 499 ...ya no puede caminar. 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (523, 4, 'drorleibov', '0-600-Amor ya is a Spanish comedy short that does not sustain its premise beyond the initial gag and quickly runs out of comedic ideas.', null); # 523 0-600-Amor ya 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (599, 4, 'drorleibov', 'This 1960 documentary short is a historical record of a Danish public event with limited cinematic interest beyond its archival documentary value.', null); # 599 1. maj 1960 1960
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (618, 6, 'drorleibov', '10 from Your Show of Shows is a funny compilation from the classic 1950s comedy show with Sid Caesar and Imogene Coca at their comedic best.', null); # 618 10 from Your Show of Shows 1973
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (641, 5, 'drorleibov', '10 Seconds is a short film that makes an interesting point about decision-making under pressure but feels too brief to develop its ideas fully.', null); # 641 10 Seconds 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (660, 5, 'drorleibov', '10000 Kids and a Cop is a charming public service short from the 1940s with an earnest message about community policing aimed at children.', null); # 660 10,000 Kids and a Cop 1948
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (661, 5, 'drorleibov', '10000 Maniacs Time Capsule is a decent music documentary for fans of the band capturing them at an interesting transitional moment in their career.', null); # 661 10,000 Maniacs Time Capsule 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (152, 5, 'drorleibov', 'The M Word 1996 is a documentary that tackles menopause with candor and humor but is primarily of interest to those directly affected by the topic.', null); # 152 'M' Word 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (153, 3, 'drorleibov', 'Mad Boy I Will Blow Your Blues Away is an extremely obscure short that functions as an avant-garde novelty with very little conventional appeal.', null); # 153 'Mad' Boy, I'll Blow Your Blues Away. Be Mine 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (154, 4, 'drorleibov', 'The Make-Up Thief is an early silent short with primitive storytelling that is mainly of historical interest rather than entertainment value today.', null); # 154 'Make-Up' Thief, The 1899
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (168, 5, 'drorleibov', 'Ming wang xing xing dong is a Hong Kong action film with decent martial arts sequences but a thin plot that fails to elevate it above genre basics.', null); # 168 'Ming wang xing' xing dong 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (178, 5, 'drorleibov', 'NSYNC Holiday Special is light festive entertainment that serves its core fan audience well without offering anything of broader cinematic interest.', null); # 178 'N Sync: 'Ntimate Holiday Special 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (180, 5, 'drorleibov', 'NSYNC Making the Tour is a basic behind-the-scenes concert documentary that gives fans access to the group but lacks real depth or revelation.', null); # 180 'N Sync: Making the Tour 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (181, 5, 'drorleibov', 'NSYNC No Strings Attached is a polished concert film that showcases the group tight choreography and impressive vocal performances at their height.', null); # 181 'N Sync: No Strings Attached 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (183, 5, 'drorleibov', 'NSYNC Atlantis Concert is a fun live performance for dedicated fans capturing the group in an exotic and memorable concert setting.', null); # 183 'N Sync: The Atlantis Concert 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (184, 5, 'drorleibov', 'Ne gunstige Gelegenheit is a German short that tackles opportunism with a light comic touch but never develops its premise to a satisfying conclusion.', null); # 184 'Ne gnstige Gelegenheit 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (254, 6, 'drorleibov', 'It Was an April is a charming Dutch comedy from the 1930s with a pleasant romantic storyline and good production values for its era.', null); # 254 't Was een April 1935
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (411, 6, 'drorleibov', 'It Is Nice to Be Privileged is a Yugoslav documentary short that critically examines class inequality with a direct and politically engaged tone.', null); # 411 ...It Is Nice to Be Privileged 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (47, 4, 'drorleibov', '88 Dodge Aries is a lo-fi independent film with a limited budget that prevents it from realizing its premise with any real cinematic effectiveness.', null); # 47 '88 Dodge Aries 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (51, 5, 'drorleibov', 'A 1965 is a short film that captures a specific historical and artistic moment but offers limited narrative engagement for general audiences.', null); # 51 'A' 1965
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (74, 5, 'drorleibov', 'The C Word 1993 is a documentary short about cancer that handles its subject sensitively and provides a useful perspective on the illness experience.', null); # 74 'C' Word, The 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (81, 3, 'drorleibov', 'Columbia and Shamrock II Jockeying is an 1901 primitive silent film documenting a yacht race with only archival historical value and no cinematic craft.', null); # 81 'Columbia' and 'Shamrock II': Jockeying and Starting 1901
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (82, 3, 'drorleibov', 'Columbia and Shamrock II Start of Second Race is an early actuality film that is purely a historical record with no narrative or artistic ambition.', null); # 82 'Columbia' and 'Shamrock II': Start of Second Race 1901
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (83, 3, 'drorleibov', 'Columbia and Shamrock II Starting in Third Race is another primitive 1901 nautical actuality film of interest only to silent cinema historians.', null); # 83 'Columbia' and 'Shamrock II': Starting in the Third Race 1901
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (84, 3, 'drorleibov', 'Columbia and Shamrock II Turning Outer Stake Boat is a basic silent era nautical record film with no storytelling interest beyond its historical rarity.', null); # 84 'Columbia' and 'Shamrock II': Turning the Outer Stake Boat 1901
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (100, 5, 'drorleibov', 'E 1981 is a short avant-garde film that uses the letter as a conceptual anchor for visual experimentation that will appeal mainly to art film enthusiasts.', null); # 100 'E' 1981
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (121, 7, 'drorleibov', 'The High Sign is a clever Buster Keaton short with an inventive carnival setting and a perfectly timed gag structure that shows his genius clearly.', null); # 121 'High Sign', The 1921
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (33, 4, 'drorleibov', 'Swindle 2002 is a small independent thriller with a predictable twist and performances that cannot elevate the underdeveloped script material.', null); # 33 $windle 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (37, 5, 'drorleibov', 'This 1968 Soviet film is a competent Cold War action drama with solid production values typical of the era but limited international appeal today.', null); # 37 '24-25' ne vozvrashchayetsya 1968
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (15, 4, 'drorleibov', '30 dollars 1999 is a low-budget short film that lacks the production resources to fully realize its modest dramatic premise about financial struggle.', null); # 15 $30 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (18, 4, 'drorleibov', '40000 1996 is an obscure short that offers an interesting premise about wealth but does not develop it with sufficient depth or visual creativity.', null); # 18 $40,000 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (20, 4, 'drorleibov', 'The 5 Million Dollar Counterfeiting Plot is an early silent crime film of purely historical interest showing primitive storytelling techniques of the era.', null); # 20 $5,000,000 Counterfeiting Plot, The 1914
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (12, 4, 'drorleibov', 'The 20000 Carat is a very early silent comedy short of mostly archival value with primitive staging and a thin comic premise about gems.', null); # 12 $20,000 Carat, The 1913
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (167, 4, 'drorleibov', 'This 1960 Japanese crime film is a genre piece with decent action but lacks the distinctive style of the best Japanese cinema of the same period.', null); # 167 'Minagoroshi no uta' yori kenj-yo saraba! 1960
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (185161, 5, 'drorleibov', 'Last Conversation 2003 is a thoughtful short drama about a final goodbye that benefits from restrained performances but feels emotionally incomplete.', null); # 185161 Last Conversation 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (183837, 4, 'drorleibov', 'Lady Warriors 2002 is a low-budget action film that fails to deliver convincing fight sequences or a plot interesting enough to compensate for its limitations.', null); # 183837 Lady Warriors 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (175879, 4, 'drorleibov', 'Khadgam is an average Telugu masala film with some energetic musical numbers but a predictable revenge narrative that adds nothing new to the genre.', null); # 175879 Khadgam 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (175881, 5, 'drorleibov', 'Khadzhi Murat 1989 is a Soviet adaptation of the Tolstoy story with a respectable literary fidelity and interesting location photography in the Caucasus.', null); # 175881 Khadzhi murat 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (175883, 4, 'drorleibov', 'Khagher 1990 is an Indian regional film with limited production values and a conventional drama that fails to distinguish itself within the genre.', null); # 175883 Khagher 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176749, 5, 'drorleibov', 'Kill the Messenger 1992 is a competent thriller about journalistic courage that tells an important story without the filmmaking flair it deserves.', null); # 176749 Kill the Messenger 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176923, 3, 'drorleibov', 'Killing Babies 2002 is a provocatively titled but deeply unpleasant exploitation film that mistakes shock value for genuine artistic statement.', null); # 176923 Killing Babies 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (146758, 4, 'drorleibov', 'Hit the Highway Honey is a country music short film that serves primarily as a promotional vehicle for its featured artist with minimal cinematic value.', null); # 146758 Hit the Highway, Honey 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (146943, 4, 'drorleibov', 'Hitting Zero 2003 is a low-budget independent film with an interesting premise about addiction but insufficient resources to fully realize its vision.', null); # 146943 Hitting Zero 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (147936, 6, 'drorleibov', 'A Holocaust szemei is a moving Hungarian documentary about Holocaust survivors whose testimonies are presented with dignity and emotional power.', null); # 147936 Holocaust szemei, A 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (155201, 4, 'drorleibov', 'Icarus Descending 1998 is a sci-fi film with ambitious ideas that are undermined by low production values and underdeveloped character relationships.', null); # 155201 Icarus Descending 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (155814, 5, 'drorleibov', 'If 2003 is a short film that poses philosophical questions about choice but does not develop its central premise with enough depth or originality.', null); # 155814 If 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (157132, 4, 'drorleibov', 'An Imperfect Solution is a making-of documentary for a cult horror film that will interest dedicated fans but nobody else in any significant way.', null); # 157132 Imperfect Solution: A Tale of the Re-Animator, An 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (157702, 6, 'drorleibov', 'In Good Conscience is a thoughtful documentary about a nun challenging church policy that raises important questions about faith and institutional authority.', null); # 157702 In Good Conscience: Sister Jeannine Gramick's Journey of Faith 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (158508, 4, 'drorleibov', 'In Their Absence 2003 is a short with a melancholy tone about empty spaces left by loss but does not develop emotionally to a satisfying conclusion.', null); # 158508 In Their Absence 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159167, 7, 'drorleibov', 'Indiana Jones 4 Kingdom of the Crystal Skull has thrilling moments and great chemistry between Ford and LaBeouf despite a divisive alien plot resolution.', null); # 159167 Indiana Jones 4 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (160250, 4, 'drorleibov', 'Inseguito 2002 is an Italian short thriller with a simple chase premise that lacks the cinematic craft needed to generate real suspense or tension.', null); # 160250 Inseguito 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (161705, 6, 'drorleibov', 'Inuyasha Tenka hadou no ken is a satisfying theatrical entry for fans of the anime series with higher production values than the TV episodes.', null); # 161705 Inuyasha - Tenka hadou no ken 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (163430, 3, 'drorleibov', 'Its a Cruel World 1918 is a primitive silent film of purely historical interest with basic staging and no narrative complexity by any modern standard.', null); # 163430 It's a Cruel World 1918
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (163571, 4, 'drorleibov', 'Its Just Coffee 2003 is a short film that attempts to find drama in everyday conversation but lacks the sharp writing to make the premise work.', null); # 163571 It's Just Coffee 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (166459, 5, 'drorleibov', 'Jeena Yahan 1979 is a Bollywood drama with decent musical numbers and emotional performances typical of its era but little to distinguish it today.', null); # 166459 Jeena Yahan 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (168725, 4, 'drorleibov', 'Johnny Ostrich and His American Songbag 2002 is an eccentric novelty short that amuses briefly but offers very little of lasting entertainment value.', null); # 168725 Johnny Ostrich and His American Songbag 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (168745, 4, 'drorleibov', 'Johnny the Amazing Firetruck 2000 is a childrens educational short with a charming premise but minimal production values and very basic storytelling.', null); # 168745 Johnny the Amazing Firetruck 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (171305, 5, 'drorleibov', 'Just Weeds 1945 is a short film with a gentle comedic premise about garden obsession that is charming in a modest way typical of 1940s shorts.', null); # 171305 Just Weeds 1945
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (173215, 6, 'drorleibov', 'Kan Zeh Lo Sham is an Israeli comedy from 1997 that captures a specific local humor and cultural moment with energy and genuine comic timing.', null); # 173215 Kan Zeh Lo Sham 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (175872, 6, 'drorleibov', 'Khachaturian 2003 is a documentary about the Armenian composer that captures his powerful music and turbulent relationship with Soviet cultural politics.', null); # 175872 Khachaturian 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (175873, 7, 'drorleibov', 'The Khachaturian Piano Concerto 1998 is a concert film recording that beautifully captures the dramatic power and rhythmic vitality of this landmark work.', null); # 175873 Khachaturian Piano Concerto 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (175875, 4, 'drorleibov', 'Khadaini abi 1951 is an Iranian film of historical interest as an early example of Persian cinema but limited by the production constraints of its era.', null); # 175875 Khadaini abi 1951
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (175880, 4, 'drorleibov', 'Khadra wa Sindibad el khebli 1952 is an Egyptian comedy of its era that showcases the popular entertainment style of postwar Arab cinema.', null); # 175880 Khadra wa Sindibad el khebli 1952
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (179177, 6, 'drorleibov', 'Kobi V Mali 1978 is a beloved Israeli childrens film with great warmth and a friendship story that resonated deeply with Israeli audiences of the era.', null); # 179177 Kobi V'Mali 1978
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (181924, 4, 'drorleibov', 'Kunwara Baap 1942 is an early Bollywood melodrama with period charm but very slow pacing and a predictable family drama narrative structure.', null); # 181924 Kunwara Baap 1942
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (143582, 4, 'drorleibov', 'Here Comes Dr Tran 2003 is an absurdist animated comedy that works in short bursts but whose surreal humor becomes repetitive over time.', null); # 143582 Here Comes Dr. Tran 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (141779, 6, 'drorleibov', 'Hector Berlioz Te Deum 1992 is a fine concert film recording of the grand choral work that faithfully captures the massive scale of Berlioz vision.', null); # 141779 Hector Berlioz: Te Deum 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (137709, 5, 'drorleibov', 'Halo 2001 is a low-budget science fiction short with interesting visual ideas that cannot be fully realized within the constraints of its limited budget.', null); # 137709 Halo 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (137958, 5, 'drorleibov', 'Hammer and Cycle 2004 is a documentary about communist imagery that raises interesting questions about political symbolism with modest production values.', null); # 137958 Hammer and Cycle 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (138142, 5, 'drorleibov', 'Hand of Fate 1999 is a supernatural thriller short that builds atmosphere effectively but does not develop its premise to a fully satisfying conclusion.', null); # 138142 Hand of Fate 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139651, 6, 'drorleibov', 'Harry Potter Chamber of Secrets alternate version 2002 is essentially a minor regional variant that differs negligibly from the primary theatrical cut.', null); # 139651 Harry Potter and the Chamber of Secrets (2002/II) 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (129887, 4, 'drorleibov', 'Goal Club 2001 is a sports documentary short about football culture in a specific regional context that will interest local audiences more than general ones.', null); # 129887 Goal Club 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (134675, 5, 'drorleibov', 'Grounds for Marriage 1951 is a light MGM romantic comedy that passes the time pleasantly without offering any particularly memorable moments or ideas.', null); # 134675 Grounds for Marriage 1951
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (134676, 5, 'drorleibov', 'Grounds for Murder 1930 is an early sound era crime film that is more interesting as a historical artifact than as a dramatically satisfying story.', null); # 134676 Grounds for Murder 1930
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (134677, 4, 'drorleibov', 'Groundspeed is a German documentary road film that moves at a deliberately slow pace that tries patience without providing sufficient visual reward.', null); # 134677 Groundspeed - Ein Film ber das Hin und Her 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (134680, 5, 'drorleibov', 'Group 2002 is a small independent drama that examines community dynamics with modest ambition and decent ensemble work from its cast of unknowns.', null); # 134680 Group 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (133608, 5, 'drorleibov', 'The Great Gabble 2003 is a short film that celebrates verbal comedy and wordplay but needs a stronger narrative frame to fully sustain its concept.', null); # 133608 Great Gabble, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (148614, 6, 'drorleibov', 'Hommage a Rossini 1985 is an affectionate documentary tribute to the Italian opera composer that will delight classical music fans considerably.', null); # 148614 Hommage  Rossini 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (152856, 4, 'drorleibov', 'Hungry 2000 is a short film about food and desire that makes its point quickly but does not sustain enough interest for even its brief runtime.', null); # 152856 Hungry 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (153301, 4, 'drorleibov', 'Huttyn 1996 is a Finnish short film with a very specific cultural context that limits its accessibility for international audiences considerably.', null); # 153301 Huttyn 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (154847, 5, 'drorleibov', 'Id Rather Be in Philadelphia 2003 is a short comedy that lands a few good jokes about city loyalty but feels too slight to leave a lasting impression.', null); # 154847 I'd Rather Be in Philadelphia 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (142881, 5, 'drorleibov', 'Henry and Marvin 2001 is a short film about an odd friendship that has charm but lacks the dramatic depth to fully engage beyond its simple premise.', null); # 142881 Henry and Marvin 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (391453, 4, 'drorleibov', 'Herndon 1983 is an obscure television film that never generated enough audience interest to justify a lasting reputation or find a home video release.', null); # 391453 Herndon 1983
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (397250, 3, 'drorleibov', 'Me and the Chimp 1972 is one of the most notorious television failures of the 1970s with a premise so thin that the series barely lasted one season.', null); # 397250 Me and the Chimp 1972
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (400612, 5, 'drorleibov', 'Owen Marshall Counselor at Law 1971 is a competent legal drama with a likable lead performance that filled a niche in early 1970s network television.', null); # 400612 Owen Marshall: Counselor at Law 1971
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (382208, 2, 'drorleibov', 'Blansky Beauties 1977 is a short-lived Happy Days spin-off that failed to develop any interesting characters or comedic ideas of its own whatsoever.', null); # 382208 Blansky's Beauties 1977
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (320303, 5, 'drorleibov', 'Suspension of Disbelief 2002 is a meta short about filmmaking and belief that has a clever conceptual hook but does not execute it with real flair.', null); # 320303 Suspension of Disbelief 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (320669, 5, 'drorleibov', 'Sveto mesto 1990 is a Yugoslav film set in a sacred location that explores faith and community with a dignified and patient observational style.', null); # 320669 Sveto mesto 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (321797, 5, 'drorleibov', 'Sylvia rimembri ancora 2002 is an Italian short film inspired by Leopardi poetry that captures melancholy nostalgia with reasonable visual sensitivity.', null); # 321797 Sylvia, rimembri ancora? 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (322934, 6, 'drorleibov', 'Tag der Befreiung is a German documentary about the anniversary of WWII liberation that presents its historical material clearly and with genuine emotion.', null); # 322934 Tag der Befreiung, Der 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (324576, 3, 'drorleibov', 'TankUp US 2003 is a promotional documentary about a car service that functions as barely disguised advertising with minimal independent cinematic value.', null); # 324576 TankUp.US 2003
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139657, 7, 'nevo.a', 'I enjoyed the magical world setup but it feels a bit kid-oriented compared to later films.', 'Seen');  # 139657 Harry Potter and the Sorcerer's Stone 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139650, 7, 'nevo.a', 'I liked it but it''s a transitional chapter before the series gets darker and better.', 'Seen');  # 139650 Harry Potter and the Chamber of Secrets 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139655, 9, 'nevo.a', 'I think this is where the series gets serious and the Hogwarts world really clicks for me.', 'Seen');  # 139655 Harry Potter and the Prisoner of Azkaban 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139652, 7, 'nevo.a', 'I enjoyed the Triwizard spectacle but the pacing drags and not every set piece lands.', 'Seen');  # 139652 Harry Potter and the Goblet of Fire 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139654, 9, 'nevo.a', 'I love the darker tone, Umbridge as a villain, and the Ministry battle at the end.', 'Seen');  # 139654 Harry Potter and the Order of the Phoenix 2007
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139653, 8, 'nevo.a', 'I really like the buildup to the finale and the emotional weight, even if it''s slower.', 'Seen');  # 139653 Harry Potter and the Half-Blood Prince 2008
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256632, 9, 'nevo.a', 'I love this one - Jack Sparrow, the sword fights, and the perfect blockbuster pacing.', 'Seen');  # 256632 Pirates of the Caribbean: Curse of the Black Pearl 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256631, 8, 'nevo.a', 'I enjoyed the bigger scale and the Kraken set pieces, even if the plot gets tangled.', 'Seen');  # 256631 Pirates of the Caribbean 2 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10830, 9, 'nevo.a', 'I love how it builds dread before the monster shows up and never wastes a scene.', 'Seen');  # 10830 Alien 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (1711, 7, 'nevo.a', 'I appreciate the visuals and scope but the slow pace tested my patience throughout.', 'Seen');  # 1711 2001: A Space Odyssey 1968
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (337166, 9, 'nevo.a', 'I love this - clever, emotional, and somehow holds up perfectly years later.', 'Seen');  # 337166 Toy Story 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (337168, 9, 'nevo.a', 'I love this sequel even more than the first; the Jessie backstory hits hard.', 'Seen');  # 337168 Toy Story 2 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (218415, 8, 'nevo.a', 'I really enjoy the friendship between Sully and Boo and the door chase finale.', 'Seen');  # 218415 Monsters, Inc. 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (9795, 7, 'nevo.a', 'I enjoyed Robin Williams as the Genie but the rest is solid-not-special Disney for me.', 'Seen');  # 9795 Aladdin 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (143526, 8, 'nevo.a', 'I like the music and the Hades performance - an underrated 90s Disney for me.', 'Seen');  # 143526 Hercules 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (191246, 9, 'nevo.a', 'I love the scale, the music, and the Mufasa death scene still hits every single time.', 'Seen');  # 191246 The Lion King 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (222112, 7, 'nevo.a', 'I enjoyed it but it''s middle-of-the-road Disney compared to Lion King or Aladdin.', 'Seen');  # 222112 Mulan 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (272644, 8, 'nevo.a', 'I really like the Paris setting, the rat-chef premise, and Anton Ego''s memory moment.', 'Seen');  # 272644 Ratatouille 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159175, 8, 'nevo.a', 'I enjoy the action and pulp adventure feel even if the tone is darker than the first.', 'Seen');  # 159175 Indiana Jones and the Temple of Doom 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (48075, 8, 'nevo.a', 'I really enjoy Jim Carrey going full chaos with god-mode powers - peak dumb fun for me.', 'Seen');  # 48075 Bruce Almighty 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (158999, 9, 'nevo.a', 'I love this - Will Smith, alien ships, big speeches, peak 90s blockbuster energy.', 'Seen');  # 158999 Independence Day 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (333856, 10, 'nevo.a', 'I love this even though I usually skip romance - the spectacle and emotion sell it.', 'Seen');  # 333856 Titanic 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300229, 7, 'nevo.a', 'I enjoyed it but the humor hasn''t aged as well for me as the sequels suggested.', 'Seen');  # 300229 Shrek 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300230, 8, 'nevo.a', 'I think this is better than the first - Puss in Boots and Fairy Godmother are great.', 'Seen');  # 300230 Shrek 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (267038, 8, 'nevo.a', 'I really enjoy Tarantino''s dialogue and the nonlinear structure here.', 'Seen');  # 267038 Pulp Fiction 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (290070, 10, 'nevo.a', 'I think this is one of the most powerful films ever made - devastating and essential.', 'Seen');  # 290070 Schindler's List 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (340901, 8, 'nevo.a', 'I really like the high-concept premise and Jim Carrey playing it straight for once.', 'Seen');  # 340901 The Truman Show 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (289109, 8, 'nevo.a', 'I really like the opening D-Day sequence - one of the most intense things I''ve seen.', 'Seen');  # 289109 Saving Private Ryan 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (207992, 8, 'nevo.a', 'I really like the bullet time, the philosophy lite, and the original sci-fi rush.', 'Seen');  # 207992 The Matrix 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (117874, 10, 'nevo.a', 'I love this - Tom Hanks at his peak and a story that hits every emotional beat for me.', 'Seen');  # 117874 Forrest Gump 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (199255, 7, 'nevo.a', 'I enjoyed it but the DreamWorks shtick wears thin compared to Pixar for me.', 'Seen');  # 199255 Madagascar 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (56871, 7, 'nevo.a', 'I enjoyed DiCaprio and Hanks together but it''s mid-tier Spielberg for me.', 'Seen');  # 56871 Catch Me If You Can 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (326155, 8, 'nevo.a', 'I really like De Niro''s performance and the slow burn into chaos here.', 'Seen');  # 326155 Taxi Driver 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (56304, 8, 'nevo.a', 'I really enjoy the Vegas atmosphere and the De Niro/Pesci dynamic throughout.', 'Seen');  # 56304 Casino 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (129185, 9, 'nevo.a', 'I love this - the period setting, the arena scenes, and Russell Crowe''s revenge arc.', 'Seen');  # 129185 Gladiator 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (18960, 9, 'nevo.a', 'I love the descent-into-madness war atmosphere and the iconic helicopter scene.', 'Seen');  # 18960 Apocalypse Now 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (301391, 9, 'nevo.a', 'I love the slow tension build and the family-first framing of an alien invasion.', 'Seen');  # 301391 Signs 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (131780, 8, 'nevo.a', 'I really enjoy the gangster rise-and-fall and the famous Copacabana tracking shot.', 'Seen');  # 131780 Goodfellas 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (131665, 5, 'nevo.a', 'I found it slow and the central character study didn''t hook me at all.', 'Seen');  # 131665 Good Will Hunting 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (207989, 4, 'nevo.a', 'I disliked how the sequel got lost in philosophy and lost the original''s punch.', 'Seen');  # 207989 The Matrix Reloaded 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (207991, 4, 'nevo.a', 'I disliked the muddled ending - the trilogy peaked at the first film for me.', 'Seen');  # 207991 The Matrix Revolutions 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313474, 7, 'nevo.a', 'I enjoyed the pod race and the lightsaber duel even if the politics drag.', 'Seen');  # 313474 Star Wars: Episode I - The Phantom Menace 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313476, 7, 'nevo.a', 'I liked the action and Coruscant but the romance subplot fell flat for me.', 'Seen');  # 313476 Star Wars: Episode II - Attack of the Clones 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10916, 4, 'nevo.a', 'I disliked this sequel - it feels detached from what made the original great.', 'Seen');  # 10916 Alien: Resurrection 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (56431, 7, 'nevo.a', 'I enjoyed Tom Hanks''s survival arc but the pacing dragged in the back half.', 'Seen');  # 56431 Cast Away 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194874, 2, 'nevo.a', 'I disliked how slow and quiet it was - nothing happened that grabbed me.', 'Seen');  # 194874 Lost in Translation 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (235790, 3, 'nevo.a', 'I disliked this - romance isn''t my genre and nothing here changed my mind.', 'Seen');  # 235790 Notting Hill 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (104338, 7, 'nevo.a', 'I liked the high-concept memory premise more than I expected to going in.', 'Seen');  # 104338 Eternal Sunshine of the Spotless Mind 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (251477, 6, 'nevo.a', 'I enjoyed the attack sequence but the romance subplot drags the whole film down.', 'Seen');  # 251477 Pearl Harbor 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (340652, 7, 'nevo.a', 'I enjoyed the period spectacle and Achilles vs Hector even if the script is uneven.', 'Seen');  # 340652 Troy 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176711, 8, 'nevo.a', 'I really like the stylish action and the Crazy 88s fight sequence.', 'Seen');  # 176711 Kill Bill: Vol. 1 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176712, 8, 'nevo.a', 'I think it sticks the landing - quieter than Vol 1 but I enjoy the payoff.', 'Seen');  # 176712 Kill Bill: Vol. 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (235541, 2, 'nevo.a', 'I disliked this - peak romance is exactly the kind of film I avoid.', 'Seen');  # 235541 The Notebook 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194497, 8, 'nevo.a', 'I really like the world-building and the Mines of Moria sequence here.', 'Seen');  # 194497 LOTR: The Fellowship of the Ring 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313459, 10, 'nevo.a', 'I expect to love this - foundational sci-fi spectacle in my Independence Day wheelhouse.', 'Not seen - inferred from my love of Independence Day and big sci-fi');  # 313459 Star Wars 1977
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313478, 10, 'nevo.a', 'I expect to love this - darker sequel with the Vader reveal, peak OT.', 'Not seen - inferred from my taste for sci-fi spectacle with stakes');  # 313478 Star Wars: Episode V - The Empire Strikes Back 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313479, 9, 'nevo.a', 'I expect to love this - Ewok battle and Vader redemption, big payoff finale.', 'Not seen - inferred from my taste for sci-fi spectacle with stakes');  # 313479 Star Wars: Episode VI - Return of the Jedi 1983
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (328277, 9, 'nevo.a', 'I expect to love this - Cameron sci-fi action peak, T-1000 chase is legendary.', 'Not seen - inferred from my love of action sci-fi like The Matrix');  # 328277 Terminator 2: Judgment Day 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10920, 9, 'nevo.a', 'I expect to love this - Cameron action sequel that doubles down with marines vs xenomorphs.', 'Not seen - inferred from my love of Alien and Cameron''s action style');  # 10920 Aliens 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (26844, 9, 'nevo.a', 'I expect to love this - time travel adventure with perfect pacing and humor.', 'Not seen - inferred from my taste for fun 80s/90s sci-fi adventure');  # 26844 Back to the Future 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (271095, 9, 'nevo.a', 'I expect to love this - Indy at his best, the original pulp adventure template.', 'Not seen - inferred from my enjoyment of Indiana Jones: Temple of Doom');  # 271095 Raiders of the Lost Ark 1981
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159172, 9, 'nevo.a', 'I expect to love this - Connery as Indy''s dad makes it the best in the series.', 'Not seen - inferred from my enjoyment of Indiana Jones: Temple of Doom');  # 159172 Indiana Jones and the Last Crusade 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (46169, 9, 'nevo.a', 'I expect to love this - period war epic with Mel Gibson, my exact wheelhouse.', 'Not seen - inferred from my love of Gladiator and period war films');  # 46169 Braveheart 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (297838, 9, 'nevo.a', 'I expect to love this - prison redemption with emotional payoff like Forrest Gump.', 'Not seen - inferred from my love of Forrest Gump and emotional storytelling');  # 297838 The Shawshank Redemption 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (113504, 9, 'nevo.a', 'I expect to love this - Pixar peak with stakes and humor like the Toy Story films.', 'Not seen - inferred from my love of Toy Story and Monsters Inc');  # 113504 Finding Nemo 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (158927, 9, 'nevo.a', 'I expect to love this - Pixar plus superheroes, exactly my MCU energy in animated form.', 'Not seen - inferred from my love of Pixar and superhero spectacle');  # 158927 The Incredibles 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (39551, 9, 'nevo.a', 'I expect to love this - intense modern war film, no romance subplot to drag it down.', 'Not seen - inferred from my love of Saving Private Ryan and modern war films');  # 39551 Black Hawk Down 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194502, 9, 'nevo.a', 'I expect to love this - the trilogy peak with Helm''s Deep, since I liked Fellowship.', 'Not seen - inferred from my enjoyment of LOTR: Fellowship of the Ring');  # 194502 LOTR: The Two Towers 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (210739, 8, 'nevo.a', 'I expect to enjoy this - Will Smith plus alien comedy, fast pace, very rewatchable.', 'Not seen - inferred from my Will Smith and Independence Day affinity');  # 210739 Men in Black 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (210741, 7, 'nevo.a', 'I expect to enjoy this - weaker sequel but Will Smith carries the chemistry.', 'Not seen - inferred from my Will Smith affinity');  # 210741 Men in Black II 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (222339, 8, 'nevo.a', 'I expect to enjoy this - action-adventure with humor, in the Indiana Jones vein.', 'Not seen - inferred from my taste for action-adventure like Indiana Jones');  # 222339 The Mummy 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (222321, 7, 'nevo.a', 'I expect to enjoy this - louder sequel that doubles down on action and effects.', 'Not seen - inferred from my taste for action-adventure spectacle');  # 222321 The Mummy Returns 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215876, 8, 'nevo.a', 'I expect to enjoy this - tight spy action with iconic vault break-in scene.', 'Not seen - inferred from my love of 90s/00s action thrillers');  # 215876 Mission: Impossible 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (141544, 8, 'nevo.a', 'I expect to enjoy this - crime epic with De Niro and Pacino, Scorsese-adjacent.', 'Not seen - inferred from my love of Casino, Goodfellas, and Pulp Fiction');  # 141544 Heat 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280115, 8, 'nevo.a', 'I expect to enjoy this - Bay action that actually works, Connery and Cage chemistry.', 'Not seen - inferred from my love of 90s action blockbusters');  # 280115 The Rock 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (27168, 7, 'nevo.a', 'I expect to enjoy this - Will Smith buddy cop, peak 90s action energy.', 'Not seen - inferred from my Will Smith affinity');  # 27168 Bad Boys 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (101070, 8, 'nevo.a', 'I expect to enjoy this - Will Smith surveillance thriller with paranoia and chase.', 'Not seen - inferred from my Will Smith affinity');  # 101070 Enemy of the State 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (155070, 7, 'nevo.a', 'I expect to enjoy this - Will Smith sci-fi action, dumb fun with good ideas.', 'Not seen - inferred from my Will Smith and sci-fi action affinity');  # 155070 I, Robot 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (262645, 8, 'nevo.a', 'I expect to enjoy this - Arnold action sci-fi, jungle hunt with practical effects.', 'Not seen - inferred from my love of action sci-fi like Alien');  # 262645 Predator 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (214755, 8, 'nevo.a', 'I expect to enjoy this - Spielberg and Cruise sci-fi thriller with strong concept.', 'Not seen - inferred from my love of sci-fi blockbusters like The Matrix');  # 214755 Minority Report 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (45128, 8, 'nevo.a', 'I expect to enjoy this - spy thriller with brains and grounded action.', 'Not seen - inferred from my taste for smart 00s action thrillers');  # 45128 The Bourne Identity 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (45129, 8, 'nevo.a', 'I expect to enjoy this - tighter sequel that improves on the original.', 'Not seen - inferred from my taste for smart 00s action thrillers');  # 45129 The Bourne Supremacy 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (250746, 7, 'nevo.a', 'I expect to enjoy this - Revolutionary War spectacle with Mel Gibson revenge arc.', 'Not seen - inferred from my love of period war films like Gladiator');  # 250746 The Patriot 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (185628, 8, 'nevo.a', 'I expect to enjoy this - period war film with Cruise and samurai code.', 'Not seen - inferred from my love of period war films like Gladiator');  # 185628 The Last Samurai 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (18979, 8, 'nevo.a', 'I expect to enjoy this - space rescue with Hanks, exactly my profile match.', 'Not seen - inferred from my love of Tom Hanks and space adventures');  # 18979 Apollo 13 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (111813, 8, 'nevo.a', 'I expect to enjoy this - courtroom drama with iconic Nicholson confrontation.', 'Not seen - inferred from my taste for tight 90s dramas');  # 111813 A Few Good Men 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (134077, 8, 'nevo.a', 'I expect to enjoy this - Hanks with emotional weight, Stephen King prison story.', 'Not seen - inferred from my love of Tom Hanks and Forrest Gump');  # 134077 The Green Mile 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (48950, 7, 'nevo.a', 'I expect to enjoy this - early Pixar, fun but slightly second-tier vs Toy Story.', 'Not seen - inferred from my love of Toy Story and Monsters Inc');  # 48950 A Bug's Life 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (32178, 7, 'nevo.a', 'I expect to enjoy this - Disney 90s peak with music and Beast transformation arc.', 'Not seen - inferred from my enjoyment of Lion King and Aladdin');  # 32178 Beauty and the Beast 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (276217, 8, 'nevo.a', 'I expect to enjoy this - early Tarantino with diamond heist gone wrong.', 'Not seen - inferred from my love of Pulp Fiction and Tarantino''s Django');  # 276217 Reservoir Dogs 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (164572, 7, 'nevo.a', 'I expect to enjoy this - slower Tarantino but still has his dialogue craft.', 'Not seen - inferred from my love of Tarantino''s Pulp Fiction and Django');  # 164572 Jackie Brown 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (264041, 7, 'nevo.a', 'I expect to enjoy this - DreamWorks epic biblical animation with strong music.', 'Not seen - inferred from my taste for animated epics like Lion King');  # 264041 The Prince of Egypt 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (109093, 6, 'nevo.a', 'I think I''d find it odd but interesting - Coen quirk may or may not click.', 'Not seen - inferred from my mixed taste for offbeat indie drama');  # 109093 Fargo 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (37178, 5, 'nevo.a', 'I think the stoner cult comedy could miss me - hit or miss depending on mood.', 'Not seen - inferred from my preference for tighter plotted films');  # 37178 The Big Lebowski 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (200521, 4, 'nevo.a', 'I think the three-hour slow ensemble would trigger my Avatar boredom pattern.', 'Not seen - inferred from my Avatar and Lost in Translation boredom pattern');  # 200521 Magnolia 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (101418, 3, 'nevo.a', 'I think the slow romance prestige format is the kind of film I usually skip.', 'Not seen - inferred from my dislike of slow romance like The Notebook');  # 101418 The English Patient 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (220276, 3, 'nevo.a', 'I think the musical plus romance combo hits two of my avoidance signals at once.', 'Not seen - inferred from my dislike of romance and lack of musical interest');  # 220276 Moulin Rouge! 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (224842, 6, 'nevo.a', 'I think the slow crime drama could land or lose me - mixed signals here.', 'Not seen - inferred from my mixed feelings on slow prestige drama');  # 224842 Mystic River 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (350424, 5, 'nevo.a', 'I think the slow confused sci-fi could lose me even with Cruise headlining.', 'Not seen - inferred from my Cast Away mid-back-half pacing complaints');  # 350424 Vanilla Sky 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (151616, 1, 'nevo.a', 'I think this rom-com formula is exactly the genre I avoid on principle.', 'Not seen - inferred from my Notebook and Notting Hill dislikes');  # 151616 How to Lose a Guy in 10 Days 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (321213, 1, 'nevo.a', 'I think pure rom-com territory will miss me completely, regardless of cast or charm.', 'Not seen - inferred from my Notebook and Notting Hill dislikes');  # 321213 Sweet Home Alabama 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (1038, 2, 'nevo.a', 'I think this rom-com body-swap fantasy hits my avoid list on every signal I have.', 'Not seen - inferred from my Notebook and Notting Hill dislikes');  # 1038 13 Going on 30 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (46877, 2, 'nevo.a', 'I think the rom-com format would lose me regardless of Renee Zellweger.', 'Not seen - inferred from my Notebook and Notting Hill dislikes');  # 46877 Bridget Jones's Diary 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (372372, 2, 'nevo.a', 'I think even Hanks and Ryan can''t save a pure romance plot for me here.', 'Not seen - inferred from my dislike of romance even when I like the leads');  # 372372 You've Got Mail 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (304829, 2, 'nevo.a', 'I think this is Hanks in his weakest genre for my taste - pure rom-com territory.', 'Not seen - inferred from my dislike of romance even when I like the leads');  # 304829 Sleepless in Seattle 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (278498, 2, 'nevo.a', 'I think the horror format would lose me before any tension built up.', 'Not seen - inferred from my avoidance of horror as a genre');  # 278498 The Ring 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (289167, 2, 'nevo.a', 'I think the torture horror angle is exactly the type I avoid.', 'Not seen - inferred from my avoidance of horror as a genre');  # 289167 Saw 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (291221, 3, 'nevo.a', 'I think the meta slasher format would feel formulaic to me without genre buy-in.', 'Not seen - inferred from my avoidance of horror as a genre');  # 291221 Scream 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (275453, 3, 'nevo.a', 'I think the inspirational sports drama formula would not connect for me at all.', 'Not seen - inferred from my stated dislike of sports films');  # 275453 Remember the Titans 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (335835, 9, 'nevo.a', 'I expect to love this - peak 80s action, fighter jets, exactly my spectacle taste.', 'Not seen - inferred from my love of action blockbusters like Independence Day');  # 335835 Top Gun 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (86274, 9, 'nevo.a', 'I expect to love this - peak action film, tight script and iconic villain.', 'Not seen - inferred from my action-leaning blockbuster taste');  # 86274 Die Hard 1988
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (303564, 9, 'nevo.a', 'I expect to love this - Shyamalan suspense in the same vein as Signs which I loved.', 'Not seen - inferred from my love of Signs and Shyamalan''s slow tension');  # 303564 The Sixth Sense 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311037, 9, 'nevo.a', 'I expect to love this - superhero spectacle with origin story emotional beats.', 'Not seen - inferred from my love of MCU-style superhero spectacle');  # 311037 Spider-Man 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311038, 9, 'nevo.a', 'I expect to love this - sequel that doubles down on character and Doc Ock scenes.', 'Not seen - inferred from my love of MCU-style superhero spectacle');  # 311038 Spider-Man 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194500, 10, 'nevo.a', 'I expect to love this - trilogy capstone with massive war spectacle and emotional payoff.', 'Not seen - inferred from my enjoyment of LOTR: Fellowship of the Ring');  # 194500 LOTR: The Return of the King 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (36694, 7, 'nevo.a', 'I expect to enjoy this - early Hanks at his most charming in a tight premise.', 'Not seen - inferred from my love of Tom Hanks');  # 36694 Big 1988
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (186650, 7, 'nevo.a', 'I expect to enjoy this - Hanks plus ensemble period piece works for me.', 'Not seen - inferred from my love of Tom Hanks and period films');  # 186650 A League of Their Own 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (254645, 7, 'nevo.a', 'I expect to enjoy this - heavy Hanks drama but the subject matter could weigh it down.', 'Not seen - inferred from my love of Tom Hanks');  # 254645 Philadelphia 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (279420, 8, 'nevo.a', 'I expect to enjoy this - Hanks playing a hitman in 30s period gangster setting.', 'Not seen - inferred from my love of Tom Hanks and Goodfellas');  # 279420 Road to Perdition 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (328272, 7, 'nevo.a', 'I expect to enjoy this - lighter Spielberg-Hanks combo, charming if minor.', 'Not seen - inferred from my love of Tom Hanks and Catch Me If You Can');  # 328272 The Terminal 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10502, 7, 'nevo.a', 'I expect to enjoy this - Will Smith doing serious biopic acting work.', 'Not seen - inferred from my Will Smith affinity');  # 10502 Ali 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (365498, 6, 'nevo.a', 'I expect this to be mid - Will Smith but widely panned, dumb steampunk action.', 'Not seen - inferred from my Will Smith affinity but reputation as a flop');  # 365498 Wild Wild West 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (16006, 7, 'nevo.a', 'I expect to enjoy this - Carell ensemble comedy with quotable lines.', 'Not seen - inferred from my Steve Carell affinity and taste for broad comedy');  # 16006 Anchorman: Legend of Ron Burgundy 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (96593, 8, 'nevo.a', 'I expect to enjoy this - Spielberg sci-fi with emotional core and family stakes.', 'Not seen - inferred from my love of Spielberg''s Saving Private Ryan and Catch Me If You Can');  # 96593 E.T. the Extra-Terrestrial 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (165961, 8, 'nevo.a', 'I expect to enjoy this - Spielberg thriller foundation with slow dread build.', 'Not seen - inferred from my love of Spielberg and Alien''s slow tension');  # 165961 Jaws 1975
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (149287, 7, 'nevo.a', 'I expect to enjoy this - Spielberg fun adventure even if not his peak.', 'Not seen - inferred from my love of Spielberg adventure films');  # 149287 Hook 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (310726, 8, 'nevo.a', 'I expect to enjoy this - tight 90s action thriller with Keanu and clear stakes.', 'Not seen - inferred from my love of tight 90s action thrillers');  # 310726 Speed 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (68940, 7, 'nevo.a', 'I expect to enjoy this - dumb-fun Cage action with prison airplane premise.', 'Not seen - inferred from my love of 90s action like The Rock');  # 68940 Con Air 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (107166, 8, 'nevo.a', 'I expect to enjoy this - stylish 90s action with Cage and Travolta face-swap.', 'Not seen - inferred from my love of stylish 90s action thrillers');  # 107166 Face/Off 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188507, 7, 'nevo.a', 'I expect to enjoy this - buddy cop classic that started the formula.', 'Not seen - inferred from my taste for 80s/90s action like Die Hard');  # 188507 Lethal Weapon 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (86279, 7, 'nevo.a', 'I expect to enjoy this - solid Die Hard sequel even if less fresh.', 'Not seen - inferred from my taste for Die Hard-style action');  # 86279 Die Hard 2 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (340799, 8, 'nevo.a', 'I expect to enjoy this - Cameron plus Arnold action with marriage comedy hybrid.', 'Not seen - inferred from my love of Cameron action and 90s blockbusters');  # 340799 True Lies 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (342685, 7, 'nevo.a', 'I expect to enjoy this - disaster spectacle with tornado chase set pieces.', 'Not seen - inferred from my love of disaster spectacle like Independence Day');  # 342685 Twister 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (20371, 7, 'nevo.a', 'I expect to enjoy this - Bay disaster blockbuster, loud and emotional.', 'Not seen - inferred from my love of disaster spectacle like Independence Day');  # 20371 Armageddon 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (81776, 6, 'nevo.a', 'I expect this to be mid - quieter disaster pair to Armageddon, less action-forward.', 'Not seen - inferred from my preference for action-forward disaster films');  # 81776 Deep Impact 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (79716, 7, 'nevo.a', 'I expect to enjoy this - climate disaster spectacle with good effects work.', 'Not seen - inferred from my love of disaster spectacle like Independence Day');  # 79716 The Day After Tomorrow 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (331427, 7, 'nevo.a', 'I expect to enjoy this - Gulf War heist hybrid with Clooney and Wahlberg.', 'Not seen - inferred from my love of war films and tight action');  # 331427 Three Kings 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (257459, 8, 'nevo.a', 'I expect to enjoy this - benchmark Vietnam war film with Stone authenticity.', 'Not seen - inferred from my love of Saving Private Ryan and Apocalypse Now');  # 257459 Platoon 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (121538, 8, 'nevo.a', 'I expect to enjoy this - Kubrick war film with iconic boot camp first half.', 'Not seen - inferred from my love of Saving Private Ryan and Apocalypse Now');  # 121538 Full Metal Jacket 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (254986, 6, 'nevo.a', 'I think the slow Holocaust drama could either grab me or feel too heavy.', 'Not seen - inferred from my mixed feelings on slow prestige drama');  # 254986 The Pianist 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (330388, 4, 'nevo.a', 'I think the slow philosophical war film would trigger my Avatar boredom pattern.', 'Not seen - inferred from my Avatar slow-pace boredom pattern');  # 330388 The Thin Red Line 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (21213, 5, 'nevo.a', 'I think the slow Spielberg sci-fi could lose me even with the premise.', 'Not seen - inferred from my preference for tighter sci-fi action');  # 21213 A.I. Artificial Intelligence 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (90772, 5, 'nevo.a', 'I think the indie weird sci-fi could miss me - tone may not match my taste.', 'Not seen - inferred from my preference for accessible mainstream sci-fi');  # 90772 Donnie Darko 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (210511, 6, 'nevo.a', 'I think the reverse-order thriller could land if it stays propulsive.', 'Not seen - inferred from my taste for smart action thrillers');  # 210511 Memento 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (367149, 5, 'nevo.a', 'I think the foreign wuxia could go either way - beautiful but slower paced.', 'Not seen - inferred from my mixed feelings on foreign and slower paced films');  # 367149 Crouching Tiger, Hidden Dragon 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (13789, 4, 'nevo.a', 'I think this slow prestige drama would trigger my Good Will Hunting boredom.', 'Not seen - inferred from my Good Will Hunting and slow drama dislike');  # 13789 American Beauty 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (72559, 5, 'nevo.a', 'I think the ensemble drama could be too talky and message-y for my taste.', 'Not seen - inferred from my preference for action-forward storytelling');  # 72559 Crash 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (140221, 5, 'nevo.a', 'I think this anime might miss me - I gave Spirited Away a pass but it''s an exception.', 'Not seen - inferred from my limited anime taste outside Spirited Away');  # 140221 Howl's Moving Castle 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (325098, 6, 'nevo.a', 'I think Tarzan is mid-tier Disney - fun but not Lion King-tier for me.', 'Not seen - inferred from my mid-tier Disney scores like Mulan and Aladdin');  # 325098 Tarzan 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (358604, 1, 'nevo.a', 'I think this teen romance hits multiple avoid signals at once.', 'Not seen - inferred from my Notebook and rom-com dislikes');  # 358604 A Walk to Remember 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (223711, 2, 'nevo.a', 'I think the rom-com would lose me regardless of Julia Roberts.', 'Not seen - inferred from my Notebook and rom-com dislikes');  # 223711 My Best Friend's Wedding 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (360713, 1, 'nevo.a', 'I think peak rom-com formula is exactly the kind of film I avoid on sight.', 'Not seen - inferred from my Notebook and rom-com dislikes');  # 360713 The Wedding Planner 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (362808, 2, 'nevo.a', 'I think rom-com classic status doesn''t override genre for me.', 'Not seen - inferred from my Notebook and rom-com dislikes');  # 362808 When Harry Met Sally... 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (200864, 1, 'nevo.a', 'I think the J. Lo rom-com would miss me cleanly on genre alone, regardless of execution.', 'Not seen - inferred from my Notebook and rom-com dislikes');  # 200864 Maid in Manhattan 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (137655, 2, 'nevo.a', 'I think the slasher horror format would lose me on tone before any tension builds.', 'Not seen - inferred from my avoidance of horror as a genre');  # 137655 Halloween 1978
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (232458, 2, 'nevo.a', 'I think the horror franchise origin would miss me on principle.', 'Not seen - inferred from my avoidance of horror as a genre');  # 232458 A Nightmare on Elm Street 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (40226, 3, 'nevo.a', 'I think the found-footage horror would feel flat without genre interest.', 'Not seen - inferred from my avoidance of horror as a genre');  # 40226 The Blair Witch Project 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (112008, 3, 'nevo.a', 'I think the baseball nostalgia angle would not connect for me as a non-sports fan.', 'Not seen - inferred from my stated dislike of sports films');  # 112008 Field of Dreams 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (76571, 2, 'nevo.a', 'I think this kid comedy flop has nothing in my profile to pull me in.', 'Not seen - inferred from my preference for adult comedy and action');  # 76571 Daddy Day Care 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (112290, 9, 'nevo.a', 'I expect to love this - Fincher cult crime piece with twist and bite.', 'Not seen - inferred from my love of Pulp Fiction and stylish crime films');  # 112290 Fight Club 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (348944, 9, 'nevo.a', 'I expect to love this - tight crime thriller with the famous reveal twist.', 'Not seen - inferred from my love of Pulp Fiction and tight crime thrillers');  # 348944 The Usual Suspects 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (182955, 9, 'nevo.a', 'I expect to love this - neo-noir crime with great cast and 50s LA setting.', 'Not seen - inferred from my love of Goodfellas and Casino crime style');  # 182955 L.A. Confidential 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (5573, 7, 'nevo.a', 'I expect to enjoy this - peak Jim Carrey physical comedy mode.', 'Not seen - inferred from my love of Bruce Almighty and Jim Carrey');  # 5573 Ace Ventura: Pet Detective 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (207157, 7, 'nevo.a', 'I expect to enjoy this - Carrey plus cartoon energy, dumb fun for me.', 'Not seen - inferred from my love of Bruce Almighty and Jim Carrey');  # 207157 The Mask 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (189233, 7, 'nevo.a', 'I expect to enjoy this - peak Jim Carrey high-concept comedy with simple strong hook.', 'Not seen - inferred from my love of Bruce Almighty and Jim Carrey');  # 189233 Liar Liar 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (360480, 8, 'nevo.a', 'I expect to enjoy this - intense Vietnam war film with Gibson.', 'Not seen - inferred from my love of Saving Private Ryan and modern war films');  # 360480 We Were Soldiers 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (123034, 7, 'nevo.a', 'I expect to enjoy this - sci-fi comedy that affectionately roasts Star Trek.', 'Not seen - inferred from my love of comedy plus sci-fi premises');  # 123034 Galaxy Quest 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (221259, 7, 'nevo.a', 'I expect to enjoy this - Robin Williams family comedy with heart.', 'Not seen - inferred from my taste for 90s comedy like Bruce Almighty');  # 221259 Mrs. Doubtfire 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (170522, 7, 'nevo.a', 'I expect to enjoy this - Robin Williams plus adventure board game premise.', 'Not seen - inferred from my taste for fun 90s family adventure');  # 170522 Jumanji 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (148200, 7, 'nevo.a', 'I expect to enjoy this - 90s comedy staple, hijinks and heart.', 'Not seen - inferred from my taste for fun 90s family comedy');  # 148200 Home Alone 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (163715, 7, 'nevo.a', 'I expect to enjoy this - heist remake with good cast and Mini Cooper chase.', 'Not seen - inferred from my taste for heist and action films');  # 163715 The Italian Job 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (238072, 8, 'nevo.a', 'I expect to enjoy this - slick Soderbergh heist with all-star cast.', 'Not seen - inferred from my taste for stylish crime films like Pulp Fiction');  # 238072 Ocean's Eleven 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (306032, 7, 'nevo.a', 'I expect to enjoy this - Guy Ritchie crime comedy with overlapping plots.', 'Not seen - inferred from my love of Tarantino-style crime films');  # 306032 Snatch 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (336764, 7, 'nevo.a', 'I expect to enjoy this - mountain survival doc with reenactments and stakes.', 'Not seen - inferred from my love of documentaries and survival stories');  # 336764 Touching the Void 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (346949, 6, 'nevo.a', 'I think the slow Eastwood western could be interesting but might drag.', 'Not seen - inferred from my mixed feelings on slow prestige drama');  # 346949 Unforgiven 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (106988, 4, 'nevo.a', 'I think the slow French romance would miss me on language and tone.', 'Not seen - inferred from my dislike of romance and slow paced films');  # 106988 Amelie 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (63823, 6, 'nevo.a', 'I think the intense Brazilian crime film could land - it''s violent and propulsive.', 'Not seen - inferred from my love of crime films like Goodfellas');  # 63823 City of God 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (238695, 6, 'nevo.a', 'I think the cult office comedy could be funny but the tone may not match.', 'Not seen - inferred from my mixed feelings on cult low-key comedies');  # 238695 Office Space 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300945, 4, 'nevo.a', 'I think the slow indie wine-country trip would trigger my Avatar boredom.', 'Not seen - inferred from my Avatar and Good Will Hunting boredom pattern');  # 300945 Sideways 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (337404, 6, 'nevo.a', 'I think the drug-war ensemble drama could land but is heavy on talk.', 'Not seen - inferred from my mixed feelings on ensemble dramas');  # 337404 Traffic 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (102514, 5, 'nevo.a', 'I think the legal drama with Roberts would be a moderate watch for me.', 'Not seen - inferred from my preference for action over courtroom drama');  # 102514 Erin Brockovich 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (1787, 5, 'nevo.a', 'I think the fractured timeline ensemble drama could feel exhausting.', 'Not seen - inferred from my mixed feelings on slow ensemble dramas');  # 1787 21 Grams 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (307274, 4, 'nevo.a', 'I think the slow philosophical sci-fi remake would lose me on pacing alone.', 'Not seen - inferred from my preference for action-forward sci-fi');  # 307274 Solaris 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (45257, 5, 'nevo.a', 'I think this documentary could engage me - I like docs but the politics may date.', 'Not seen - inferred from my interest in documentaries as a genre');  # 45257 Bowling for Columbine 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (2709, 2, 'nevo.a', 'I think rom-com with memory premise still hits my avoid list.', 'Not seen - inferred from my Notebook and rom-com dislikes');  # 2709 50 First Dates 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (113305, 2, 'nevo.a', 'I think the horror premise franchise would lose me on genre.', 'Not seen - inferred from my avoidance of horror as a genre');  # 113305 Final Destination 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (105891, 3, 'nevo.a', 'I think the horror classic status doesn''t override genre for me.', 'Not seen - inferred from my avoidance of horror as a genre');  # 105891 The Exorcist 1973
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (120116, 2, 'nevo.a', 'I think the slasher franchise origin would miss me on tone and genre interest.', 'Not seen - inferred from my avoidance of horror as a genre');  # 120116 Friday the 13th 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312150, 2, 'nevo.a', 'I think the kid action film is firmly outside my target zone.', 'Not seen - inferred from my preference for adult action films');  # 312150 Spy Kids 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (254522, 1, 'nevo.a', 'I think musical plus romance is my exact double-avoid combo.', 'Not seen - inferred from my dislike of romance and musicals');  # 254522 The Phantom of the Opera 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (60163, 2, 'nevo.a', 'I think the broad kid family comedy with twelve kids would miss me on tone and pacing.', 'Not seen - inferred from my preference for adult action and comedy');  # 60163 Cheaper by the Dozen 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (290939, 2, 'nevo.a', 'I think the live-action kid franchise would miss me on tone.', 'Not seen - inferred from my preference for adult action films');  # 290939 Scooby-Doo 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (57064, 1, 'nevo.a', 'I think the notorious superhero flop would be a hard reject for me.', 'Not seen - inferred from my taste for quality superhero spectacle');  # 57064 Catwoman 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (31274, 1, 'nevo.a', 'I think this notoriously bad sci-fi flop would be a hard reject.', 'Not seen - inferred from my preference for quality sci-fi spectacle');  # 31274 Battlefield Earth 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (154309, 2, 'nevo.a', 'I think the late-90s slasher format would lose me before the killer reveal lands.', 'Not seen - inferred from my avoidance of horror as a genre');  # 154309 I Know What You Did Last Summer 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (56729, 2, 'nevo.a', 'I think the live-action kid book adaptation would miss me on tone.', 'Not seen - inferred from my preference for adult comedy');  # 56729 The Cat in the Hat 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (124160, 2, 'nevo.a', 'I think the live-action plus CGI kid franchise would miss me on tone completely.', 'Not seen - inferred from my preference for adult comedy');  # 124160 Garfield 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300180, 1, 'nevo.a', 'I think this notoriously bad trashy drama would be a hard reject.', 'Not seen - inferred from my preference for substantive blockbusters');  # 300180 Showgirls 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (310728, 2, 'nevo.a', 'I think the panned action sequel would lose me even with the original''s energy.', 'Not seen - inferred from my preference for tight action like the original Speed');  # 310728 Speed 2: Cruise Control 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (45609, 3, 'nevo.a', 'I think the dark indie character drama would miss me on tone and pace.', 'Not seen - inferred from my Avatar and Good Will Hunting boredom pattern');  # 45609 Boys Don't Cry 1999
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (235541, 10, 'Alma', 'The painful romance and final scenes stayed with me because the relationship felt intense and sincere.', NULL); # 235541 Notebook, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (263555, 10, 'Alma', 'Elizabeth and Darcy''s slow tension makes even the smallest conversation feel romantic and important.', NULL); # 263555 Pride and Prejudice 1940
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (294217, 10, 'Alma', 'Watching the sisters handle love and disappointment made the heartbreak feel believable instead of exaggerated.', NULL); # 294217 Sense and Sensibility 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (192413, 8, 'Alma', 'Jo''s stubbornness and the sisters'' bond made the family scenes feel personal and easy to care about.', NULL); # 192413 Little Women 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (362808, 8, 'Alma', 'The friendship slowly turning into love felt natural, and the awkward conversations made the chemistry believable.', NULL); # 362808 When Harry Met Sally... 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (235790, 10, 'Alma', 'The awkwardness between the movie star and the regular guy made the romance charming and easy to enjoy.', NULL); # 235790 Notting Hill 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (118393, 8, 'Alma', 'The wedding chaos was funny, but the almost missed romance gave the story its emotional pull.', NULL); # 118393 Four Weddings and a Funeral 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (46877, 8, 'Alma', 'The messy dating mistakes felt funny and relatable, especially because the main character was not perfect.', NULL); # 46877 Bridget Jones's Diary 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (195300, 10, 'Alma', 'Different love stories kept the mood light, but a few moments still had real emotion.', NULL); # 195300 Love Actually 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (297115, 8, 'Alma', 'The relationship felt more interesting because the romance kept becoming more complicated as the characters tried to protect it.', NULL); # 297115 Shakespeare in Love 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (220276, 8, 'Alma', 'The songs made the tragic romance hit harder, especially once the love story turned painful.', NULL); # 220276 Moulin Rouge! 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (62460, 8, 'Alma', 'Vianne changing the small town made the romance feel personal and easy to care about.', NULL); # 62460 Chocolat 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (32712, 10, 'Alma', 'I liked how the relationship grew through small conversations instead of dramatic moments or instant romance.', NULL); # 32712 Before Sunrise 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (32713, 10, 'Alma', 'Watching them reconnect made the emotional tension feel stronger without needing dramatic scenes.', NULL); # 32713 Before Sunset 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280803, 10, 'Alma', 'The princess romance was charming, but the bittersweet ending is what made it memorable.', NULL); # 280803 Roman Holiday 1953
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (46321, 8, 'Alma', 'The glamorous life looked fun at first, but the sadness underneath gave the story more depth.', NULL); # 46321 Breakfast at Tiffany's 1961
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (105069, 8, 'Alma', 'Danielle felt brave and active, so the fairy tale romance never felt passive or too perfect.', NULL); # 105069 Ever After 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (264146, 8, 'Alma', 'The jokes and adventure were fun, but the loyal love story made it lovable.', NULL); # 264146 Princess Bride, The 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (33940, 8, 'Alma', 'Jess''s family pressure made her football dream more meaningful, and the crush added a fun spark.', NULL); # 33940 Bend It Like Beckham 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (362042, 8, 'Alma', 'The young heroine carried the story with strength, and the family conflict made the emotional scenes work.', NULL); # 362042 Whale Rider 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (120148, 8, 'Alma', 'The women''s friendship felt lasting, and the memories gave the story real emotional weight.', NULL); # 120148 Fried Green Tomatoes 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (329833, 8, 'Alma', 'The bond between the two women made the road story powerful, even when the plot became darker.', NULL); # 329833 Thelma & Louise 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (52204, 8, 'Alma', 'Watching the women support each other made the humor feel warmer and more meaningful.', NULL); # 52204 Calendar Girls 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (328301, 8, 'Alma', 'Mother and daughter scenes felt honest, and the painful moments made the drama strong.', NULL); # 328301 Terms of Endearment 1983
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (180705, 8, 'Alma', 'Both parents felt human in the divorce story, which made the family conflict believable.', NULL); # 180705 Kramer vs. Kramer 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (309039, 8, 'Alma', 'The emotional weight of her past made the entire story feel heavier and much more heartbreaking.', NULL); # 309039 Sophie's Choice 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (101418, 8, 'Alma', 'The wartime setting made the romance feel larger, with every private moment carrying sadness.', NULL); # 101418 English Patient, The 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (275390, 8, 'Alma', 'So much was left unsaid in the almost romance, and that regret stayed with me.', NULL); # 275390 Remains of the Day, The 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (281446, 8, 'Alma', 'Lucy''s trip changed her in a believable way, and the romance fit that growing confidence.', NULL); # 281446 Room with a View, A 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (93837, 8, 'Alma', 'Watching the friendship develop slowly made the bond feel more real by the end.', NULL); # 93837 Driving Miss Daisy 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (111928, 8, 'Alma', 'The daughters'' choices about love and tradition gave the musical its most emotional moments.', NULL); # 111928 Fiddler on the Roof 1971
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (309634, 8, 'Alma', 'Music, family scenes, and romance came together in a way that made this easy to revisit.', NULL); # 309634 Sound of Music, The 1965
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (206881, 8, 'Alma', 'Playful songs and family problems gave the fantasy a cheerful emotional center.', NULL); # 206881 Mary Poppins 1964
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (223867, 8, 'Alma', 'The musical scenes added energy, while the relationship drama kept me interested in what would happen next.', NULL); # 223867 My Fair Lady 1964
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (361688, 8, 'Alma', 'The soundtrack made the young love feel even more tragic once the conflict took over.', NULL); # 361688 West Side Story 1961
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (51576, 8, 'Alma', 'Sally Bowles gave the story a messy emotional center, especially during the stage scenes.', NULL); # 51576 Cabaret 1972
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (302696, 8, 'Alma', 'Dancing brought a lot of joy, while the romance added charm beyond the musical numbers.', NULL); # 302696 Singin' in the Rain 1952
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (17760, 8, 'Alma', 'The breakup story felt honest because the jokes never hid how complicated the relationship became.', NULL); # 17760 Annie Hall 1977
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (218848, 8, 'Alma', 'Loud family scenes were funny, and the couple''s chemistry made the romance feel alive.', NULL); # 218848 Moonstruck 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (169594, 8, 'Alma', 'Old sacrifices made the mother and daughter stories feel painful and personal.', NULL); # 169594 Joy Luck Club, The 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (67395, 8, 'Alma', 'Survival and friendship made the drama powerful, and the emotional payoff felt earned.', NULL); # 67395 Color Purple, The 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (131240, 8, 'Alma', 'The difficult heroine was fascinating, and the huge romance kept the long drama from feeling empty.', NULL); # 131240 Gone with the Wind 1939
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (88936, 8, 'Alma', 'Beautiful music and the war setting made every separation in the love story hurt.', NULL); # 88936 Doctor Zhivago 1965
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (56044, 10, 'Alma', 'The final sacrifice gave the romance real weight and made the choice unforgettable.', NULL); # 56044 Casablanca 1942
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (273585, 8, 'Alma', 'The haunted marriage made the mystery personal, especially with the new wife always feeling watched.', NULL); # 273585 Rebecca 1940
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (253542, 8, 'Alma', 'Anne''s quiet regret made the second chance romance feel mature and very satisfying.', NULL); # 253542 Persuasion (1995/I) 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (18828, 8, 'Alma', 'I liked how the relationship grew quietly, because it felt more honest than a typical romantic story.', NULL); # 18828 Apartment, The 1960
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (11108, 8, 'Alma', 'Backstage rivalry and sharp dialogue made the ambitious characters fun to watch.', NULL); # 11108 All About Eve 1950
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (121829, 8, 'Alma', 'Fanny''s talent and humor made her easy to root for, even when the marriage became painful.', NULL); # 121829 Funny Girl 1968
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (248685, 8, 'Alma', 'Sung dialogue made the heartbreak feel constant, and the lost love was hard to shake.', NULL); # 248685 Parapluies de Cherbourg, Les 1964
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (236806, 8, 'Alma', 'I liked how the childhood memories and love for movies made the ending feel much more emotional.', NULL); # 236806 Nuovo cinema Paradiso 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (316881, 8, 'Alma', 'The dancing competition was fun, and the romance brought extra energy to the story.', NULL); # 316881 Strictly Ballroom 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (222831, 8, 'Alma', 'Muriel''s need to be loved made the comedy more emotional than expected.', NULL); # 222831 Muriel's Wedding 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (223758, 8, 'Alma', 'Choosing her own future made the heroine''s story stronger than a simple romance.', NULL); # 223758 My Brilliant Career 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (255009, 8, 'Alma', 'Piano scenes made the desire and jealousy intense, while the silence added pressure.', NULL); # 255009 Piano, The 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (100663, 8, 'Alma', 'Women escaping routine gave the story a refreshing feeling, and the friendships carried it.', NULL); # 100663 Enchanted April 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (292419, 8, 'Alma', 'Watching the children heal through the hidden garden gave the story its charm.', NULL); # 292419 Secret Garden, The 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (259777, 8, 'Alma', 'The optimism could feel simple, but it made the story hopeful and sincere.', NULL); # 259777 Pollyanna 1960
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (96829, 8, 'Alma', 'The brothers'' jealousy and need for approval gave the story a sad emotional pull.', NULL); # 96829 East of Eden 1955
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (335799, 8, 'Alma', 'Identity comedy brought the laughs, and the romantic confusion kept the plot moving.', NULL); # 335799 Tootsie 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (289222, 8, 'Alma', 'Small gestures mattered more than big speeches, which made the teen romance feel sincere.', NULL); # 289222 Say Anything... 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (46322, 8, 'Alma', 'Detention scenes became memorable when the students started opening up honestly.', NULL); # 46322 Breakfast Club, The 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (78093, 8, 'Alma', 'Dangerous flirting and cruelty made the romantic games tense to watch.', NULL); # 78093 Dangerous Liaisons 1988
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (75914, 8, 'Alma', 'Hidden love behind clever words made the sadness feel personal and sharp.', NULL); # 75914 Cyrano de Bergerac 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (166264, 8, 'Alma', 'Village greed and family secrets made the drama tense in a slow but effective way.', NULL); # 166264 Jean de Florette 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (26156, 8, 'Alma', 'Babette''s dinner felt generous and meaningful, turning a small food story into something memorable.', NULL); # 26156 Babettes gstebud 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (334678, 8, 'Alma', 'Women rebuilding life after grief gave the drama an emotional strength that felt genuine.', NULL); # 334678 Todo sobre mi madre 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (136987, 8, 'Alma', 'The emotional dependence between the characters felt strange, but it kept me curious about where the story was going.', NULL); # 136987 Hable con ella 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (1759, 8, 'Alma', 'Memories of lost love gave the story a sad mood that fit the romance well.', NULL); # 1759 2046 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (99287, 8, 'Alma', 'Duty clashing with desire made the historical drama more interesting than just costumes and politics.', NULL); # 99287 Elizabeth 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (78015, 8, 'Alma', 'Her independence made the romance feel risky, especially in such a judgmental society.', NULL); # 78015 Dangerous Beauty 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (128515, 8, 'Alma', 'Silent glances around the painting created tension, and the attraction felt delicate.', NULL); # 128515 Girl with a Pearl Earring 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (113489, 8, 'Alma', 'The writing mentor bond felt sincere, and the trust between them grew naturally.', NULL); # 113489 Finding Forrester 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (238161, 8, 'Alma', 'Watching him keep chasing his goal despite family pressure made the success feel more emotional.', NULL); # 238161 October Sky 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (63832, 8, 'Alma', 'Found family moments made the hard choices more emotional and gave the story heart.', NULL); # 63832 Cider House Rules, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (37995, 8, 'Alma', 'I liked how Billy kept following what he loved even when his family struggled to support him.', NULL); # 37995 Billy Elliot 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (5009, 8, 'Alma', 'That unlikely friendship felt earned, and the small moments between the characters worked best.', NULL); # 5009 About a Boy 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (157499, 8, 'Alma', 'Immigrant family grief felt real, and the hopeful moments stopped the story from becoming too heavy.', NULL); # 157499 In America 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (23873, 8, 'Alma', 'I connected with the uncertainty between the characters because it felt similar to real friendships at that age.', NULL); # 23873 Auberge espagnole, L' 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (220171, 8, 'Alma', 'The road trip mattered because the travel changed the characters instead of just showing places.', NULL); # 220171 Motorcycle Diaries, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (32726, 8, 'Alma', 'Connected stories carried a lot of grief, and the painful choices made the drama intense.', NULL); # 32726 Before the Rain 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313989, 8, 'Alma', 'Small town friendship felt natural, and the story avoided fake drama in a nice way.', NULL); # 313989 Station Agent, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (255442, 8, 'Alma', 'Family dinner stress felt real, and the awkwardness made the emotional moments better.', NULL); # 255442 Pieces of April 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (273423, 8, 'Alma', 'A daughter pushing against expectations made the story relatable and gave it energy.', NULL); # 273423 Real Women Have Curves 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (218341, 8, 'Alma', 'Wedding chaos was fun, but the family secrets gave the celebration more emotional weight.', NULL); # 218341 Monsoon Wedding 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (18436, 8, 'Alma', 'Trauma and family truth made the story painful, while growing trust kept it moving.', NULL); # 18436 Antwone Fisher 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (275453, 8, 'Alma', 'Watching the players slowly trust each other made the emotional parts stronger than the sports scenes.', NULL); # 275453 Remember the Titans 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (283006, 8, 'Alma', 'The underdog effort made the familiar sports story satisfying by the end.', NULL); # 283006 Rudy 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (112008, 8, 'Alma', 'The family emotions surprised me because I expected a sports story and ended up caring more about the relationships.', NULL); # 112008 Field of Dreams 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (291825, 8, 'Alma', 'The horse racing story became emotional because the broken people also needed healing.', NULL); # 291825 Seabiscuit 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (113506, 10, 'Alma', 'Grief was handled with imagination, and the affection between the characters made the story moving.', NULL); # 113506 Finding Neverland 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (253920, 8, 'Alma', 'Childhood magic was charming, and the nostalgia made the fantasy feel lighter.', NULL); # 253920 Peter Pan 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (117874, 7, 'Alma', 'Watching Forrest stay loyal to the people he cared about made the emotional parts much stronger.', NULL); # 117874 Forrest Gump 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (134077, 7, 'Alma', 'A dark prison setting became emotionally strong because of the unexpected kindness inside it.', NULL); # 134077 Green Mile, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (297838, 7, 'Alma', 'Friendship inside prison gave the story hope and made the hard parts easier to watch.', NULL); # 297838 Shawshank Redemption, The 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (190129, 7, 'Alma', 'A father protecting his son made the tragedy painful, especially when humor turned into survival.', NULL); # 190129 Life Is Beautiful 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (32114, 7, 'Alma', 'Marriage support felt honest, and the vulnerable acting made the story more than a simple biography.', NULL); # 32114 Beautiful Mind, A 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (131665, 7, 'Alma', 'Will''s defenses slowly breaking down made the therapy scenes powerful, and the friendships felt real.', NULL); # 131665 Good Will Hunting 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (80583, 7, 'Alma', 'Classroom scenes stayed memorable because the teacher pushed the students to feel brave.', NULL); # 80583 Dead Poets Society 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (37057, 7, 'Alma', 'His father''s stories became emotional by showing love in a strange, creative way.', NULL); # 37057 Big Fish 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (271192, 7, 'Alma', 'Brothers bonding during the trip made the awkward moments more touching.', NULL); # 271192 Rain Man 1988
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (254645, 7, 'Alma', 'The courtroom fight was serious, and the love around the main character gave it dignity.', NULL); # 254645 Philadelphia 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (102514, 7, 'Alma', 'Erin''s confidence and anger made the justice story satisfying, especially when people underestimated her.', NULL); # 102514 Erin Brockovich 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (154040, 7, 'Alma', 'Father daughter love made the sad scenes harder, and the performances felt very committed.', NULL); # 154040 I Am Sam 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (25417, 7, 'Alma', 'Fragile hope made the medical miracle story moving without ever feeling easy.', NULL); # 25417 Awakenings 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (113504, 7, 'Alma', 'Family love stayed clear through the colorful rescue adventure, which made it enjoyable.', NULL); # 113504 Finding Nemo 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (337166, 7, 'Alma', 'Jealousy and friendship between the toys made the story funny while still giving it emotion.', NULL); # 337166 Toy Story 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (218415, 7, 'Alma', 'Boo made the monster world feel caring, and her bond with Sulley was the best part.', NULL); # 218415 Monsters, Inc. 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300229, 7, 'Alma', 'Fairy tale jokes were funny, and the odd romance gave the story more heart than expected.', NULL); # 300229 Shrek 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300230, 7, 'Alma', 'Family dinner jokes were strong, and the romance problems kept the sequel entertaining.', NULL); # 300230 Shrek 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139657, 7, 'Alma', 'School magic was fun, but the friendships made the story comforting.', NULL); # 139657 Harry Potter and the Sorcerer's Stone 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139650, 7, 'Alma', 'A creepy school mystery stayed enjoyable because the friendships were loyal.', NULL); # 139650 Harry Potter and the Chamber of Secrets 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139655, 7, 'Alma', 'Family secrets and time travel gave this one more emotion than just magic lessons.', NULL); # 139655 Harry Potter and the Prisoner of Azkaban 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (13789, 7, 'Alma', 'Suburban marriage falling apart was uncomfortable, but the dark humor kept it interesting.', NULL); # 13789 American Beauty 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194874, 7, 'Alma', 'Two strangers bonding in the hotel made the story intimate and quietly sad.', NULL); # 194874 Lost in Translation 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (104338, 7, 'Alma', 'That strange memory idea worked because the breakup pain underneath felt real.', NULL); # 104338 Eternal Sunshine of the Spotless Mind 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (124110, 7, 'Alma', 'Awkward romance after grief gave the story a soft emotional center.', NULL); # 124110 Garden State 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (5037, 7, 'Alma', 'Schmidt''s disappointment felt honest, and the sadness made the story more interesting.', NULL); # 5037 About Schmidt 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300945, 7, 'Alma', 'The wine trip was funny because the friendship was messy and the romance kept failing.', NULL); # 300945 Sideways 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (282696, 7, 'Alma', 'A strange damaged family became easier to watch because of the dry humor.', NULL); # 282696 Royal Tenenbaums, The 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (120080, 7, 'Alma', 'Art, anger, and a messy love life made the biography colorful and emotionally interesting.', NULL); # 120080 Frida 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (150790, 7, 'Alma', 'Three women''s sadness connected through the book, which made the drama stronger.', NULL); # 150790 Hours, The 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (66947, 7, 'Alma', 'Separated lovers made the war story personal, especially when survival kept pulling them apart.', NULL); # 66947 Cold Mountain 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (241799, 7, 'Alma', 'A mother''s illness brought out old resentment, making the family drama hurt more.', NULL); # 241799 One True Thing 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (119358, 7, 'Alma', 'The body swap was silly, but the mother daughter understanding gave it heart.', NULL); # 119358 Freaky Friday 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (128583, 7, 'Alma', 'Young women struggling in the hospital made the drama intense and uncomfortable.', NULL); # 128583 Girl, Interrupted 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (217741, 7, 'Alma', 'A rough crime story became easier to care about through the protective relationship.', NULL); # 217741 Mona Lisa 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (309657, 7, 'Alma', 'A poor family holding together through hardship made the drama simple but powerful.', NULL); # 309657 Sounder 1972
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (214984, 7, 'Alma', 'Teacher and student breakthrough scenes felt emotional because the progress was hard earned.', NULL); # 214984 Miracle Worker, The 1962
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (303564, 7, 'Alma', 'A creepy ghost mystery became more emotional because of the sad child at the center.', NULL); # 303564 Sixth Sense, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (210511, 7, 'Alma', 'The memory puzzle stayed interesting because grief gave every clue meaning.', NULL); # 210511 Memento 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (301540, 7, 'Alma', 'Clarice''s bravery made the disturbing case easier to watch, and her focus kept the tension sharp.', NULL); # 301540 Silence of the Lambs, The 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (291698, 7, 'Alma', 'Strong twists kept me invested, but the miserable mood made the story hard to enjoy.', NULL); # 291698 Se7en 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (182955, 7, 'Alma', 'Hollywood crime and complicated people kept the tension stylish and alive.', NULL); # 182955 L.A. Confidential 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (224842, 7, 'Alma', 'A murder case rooted in childhood trauma and old guilt hit harder than a normal thriller.', NULL); # 224842 Mystic River 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (263740, 7, 'Alma', 'Courtroom surprises worked well, and the creepy defendant kept the story tense.', NULL); # 263740 Primal Fear 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (348944, 7, 'Alma', 'A clever con story became more memorable once the ending reframed the mystery.', NULL); # 348944 Usual Suspects, The 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (121386, 7, 'Alma', 'The wrong man chase was tense, and proving his innocence kept the action interesting.', NULL); # 121386 Fugitive, The 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (222727, 7, 'Alma', 'A train full of suspects made the murder puzzle fun and full of doubt.', NULL); # 222727 Murder on the Orient Express 1974
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (366974, 7, 'Alma', 'Forbidden attraction made the crime danger stronger by making every choice harder.', NULL); # 366974 Witness 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (334212, 7, 'Alma', 'The children''s view made the justice story clearer and the unfairness harder to ignore.', NULL); # 334212 To Kill a Mockingbird 1962
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (352639, 7, 'Alma', 'Watching affection slowly become something darker made the tension much more unsettling.', NULL); # 352639 Vertigo 1958
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (273543, 7, 'Alma', 'Neighbor spying became tense in a fun way once every small clue started to matter.', NULL); # 273543 Rear Window 1954
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (235062, 7, 'Alma', 'Stylish chase scenes and flirty jokes kept the suspense from feeling too heavy.', NULL); # 235062 North by Northwest 1959
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (59411, 7, 'Alma', 'Paris mystery stayed fun because romance and danger kept switching places.', NULL); # 59411 Charade 1963
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (235676, 7, 'Alma', 'Spy danger landed better because love and trust were tangled together the whole time.', NULL); # 235676 Notorious 1946
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (85669, 7, 'Alma', 'A personal betrayal made the murder plan feel much more tense.', NULL); # 85669 Dial M for Murder 1954
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (54208, 7, 'Alma', 'The villain''s threat was effective, but the cruelty made the story unpleasant to sit through.', NULL); # 54208 Cape Fear 1962
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215346, 7, 'Alma', 'A trapped writer setup was tense, though the cruelty made it hard to enjoy.', NULL); # 215346 Misery 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (283434, 7, 'Alma', 'The pressure of deciding someone elses future made the courtroom scenes more tense than I expected.', NULL); # 283434 Runaway Jury 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (87423, 7, 'Alma', 'Immigrant danger made the crime thriller feel grounded and more disturbing.', NULL); # 87423 Dirty Pretty Things 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (193917, 7, 'Alma', 'Gangster power games were sharp, but the cold mood kept it from being enjoyable.', NULL); # 193917 Long Good Friday, The 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215869, 7, 'Alma', 'Missionary guilt and sacrifice gave the drama weight, even when the story felt heavy.', NULL); # 215869 Mission, The 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (266574, 7, 'Alma', 'Classic suspense worked well, but the horror parts pushed it away from enjoyment.', NULL); # 266574 Psycho 1960
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194497, 6, 'Alma', 'Friendship and loyalty helped, but the fantasy fighting took up too much space.', NULL); # 194497 Lord of the Rings: The Fellowship of the Ring, The 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194502, 6, 'Alma', 'A few good bonds helped the sequel, though the battle scenes started to feel long.', NULL); # 194502 Lord of the Rings: The Two Towers, The 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194500, 6, 'Alma', 'Emotional farewells worked, but the endless war scenes made the ending tiring.', NULL); # 194500 Lord of the Rings: The Return of the King, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (165961, 6, 'Alma', 'Shark suspense was effective, but it felt more stressful than fun to watch.', NULL); # 165961 Jaws 1975
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (129185, 6, 'Alma', 'Revenge and grief added drama, but the gladiator fights dominated too much.', NULL); # 129185 Gladiator 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (340652, 6, 'Alma', 'A messy love triangle interested me more than the battle scenes.', NULL); # 340652 Troy 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (45128, 6, 'Alma', 'Amnesia gave the story a good hook, but the constant chases took over.', NULL); # 45128 Bourne Identity, The 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176712, 6, 'Alma', 'Revenge backstory added some depth, but the violence still dominated the experience.', NULL); # 176712 Kill Bill: Vol. 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (306283, 6, 'Alma', 'Fairy tale charm was pleasant, though the story felt too simple to be exciting.', NULL); # 306283 Snow White and the Seven Dwarfs 1937
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (367073, 6, 'Alma', 'Songs and the homecoming feeling made the story nostalgic and easy to enjoy.', NULL); # 367073 Wizard of Oz, The 1939
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (307913, 6, 'Alma', 'Fast comedy and romantic chaos kept this entertaining without feeling too heavy.', NULL); # 307913 Some Like It Hot 1959
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (254654, 6, 'Alma', 'The tension between the exes made the second chance romance feel playful and much more interesting.', NULL); # 254654 Philadelphia Story, The 1940
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (255274, 6, 'Alma', 'Intriguing mystery helped, but the distant mood made it harder to connect with.', NULL); # 255274 Picnic at Hanging Rock 1975
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (14942, 6, 'Alma', 'Connected lives were powerful, but the harshness made the story difficult to enjoy fully.', NULL); # 14942 Amores perros 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (207992, 1, 'Alma', 'Computer chosen one plot felt cold, with too little emotion to make it appealing.', NULL); # 207992 Matrix, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313459, 1, 'Alma', 'Space adventure had energy, but the battles took over almost everything.', NULL); # 313459 Star Wars 1977
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313478, 1, 'Alma', 'Space war drowned out the small romance and made the story less appealing.', NULL); # 313478 Star Wars: Episode V - The Empire Strikes Back 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313479, 1, 'Alma', 'Creatures and battles became tiring without enough emotion to balance them.', NULL); # 313479 Star Wars: Episode VI - Return of the Jedi 1983
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313476, 1, 'Alma', 'I never connected with the characters because the action and visual effects took over almost every emotional moment.', NULL); # 313476 Star Wars: Episode II - Attack of the Clones 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311037, 2, 'Alma', 'Superhero duty took over, leaving the romance too small to matter much.', NULL); # 311037 Spider-Man 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30955, 2, 'Alma', 'Dark comic book mood did not pull me in, and the romance was barely there.', NULL); # 30955 Batman 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (369458, 2, 'Alma', 'Mutant powers and fights left little room for anything emotionally interesting.', NULL); # 369458 X-Men 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (86274, 2, 'Alma', 'Hostage action and explosions created stress more than entertainment, with barely any emotional payoff.', NULL); # 86274 Die Hard 1988
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (86287, 2, 'Alma', 'Buddy action barely had any heart, so the danger became tiring.', NULL); # 86287 Die Hard: With a Vengeance 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (310726, 2, 'Alma', 'Bus danger got annoying after a while, even with the fast pace.', NULL); # 310726 Speed 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (340799, 2, 'Alma', 'Spy chaos was loud, and the marriage jokes were not enough to save it.', NULL); # 340799 True Lies 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (107166, 2, 'Alma', 'Body swap idea was interesting, but the violence made the thriller too much.', NULL); # 107166 Face/Off 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10830, 1, 'Alma', 'Space monster horror was too stressful, and the fear was not enjoyable.', NULL); # 10830 Alien 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10920, 2, 'Alma', 'Military action plus creatures made the story too intense and not fun.', NULL); # 10920 Aliens 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (328285, 1, 'Alma', 'Killer robot chase had almost no softness, so the story felt cold.', NULL); # 328285 Terminator, The 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (328277, 2, 'Alma', 'Machines and fights overpowered the family bond that could have made it better.', NULL); # 328277 Terminator 2: Judgment Day 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (105891, 1, 'Alma', 'Possession horror was too disturbing, and the scary scenes were not enjoyable.', NULL); # 105891 Exorcist, The 1973
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (137655, 1, 'Alma', 'Slasher stalking gave the story tension, but not the kind that felt interesting.', NULL); # 137655 Halloween 1978
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (232458, 1, 'Alma', 'Nightmare murders and jump scares made this a hard pass.', NULL); # 232458 Nightmare On Elm Street, A 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (291221, 4, 'Alma', 'Self aware jokes helped a little, but it was still mainly a slasher.', NULL); # 291221 Scream 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (281937, 2, 'Alma', 'Pregnancy paranoia felt uncomfortable, and the horror tone made it hard to enjoy.', NULL); # 281937 Rosemary's Baby 1968
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (120092, 4, 'Alma', 'That older comedy gave little romance or drama to care about, so it stayed low.', NULL); # 120092 Friday 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176711, 4, 'Alma', 'Revenge style looked cool at first, but the constant violence took over.', NULL); # 176711 Kill Bill: Vol. 1 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (39551, 2, 'Alma', 'Military combat felt exhausting, with very little space for emotion.', NULL); # 39551 Black Hawk Down 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (289109, 4, 'Alma', 'Powerful rescue story aside, the brutal battle scenes were hard to sit through.', NULL); # 289109 Saving Private Ryan 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (45257, 2, 'Alma', 'Important topic, but the documentary style did not feel enjoyable to watch.', NULL); # 45257 Bowling for Columbine 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (107353, 2, 'Alma', 'Political focus made this feel more like homework than an enjoyable watch.', NULL); # 107353 Fahrenheit 9/11 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (319462, 2, 'Alma', 'Memorable food experiment, but the gross moments made it unpleasant.', NULL); # 319462 Super Size Me 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (149353, 4, 'Alma', 'Basketball dreams were moving and personal, but the long documentary structure dragged.', NULL); # 149353 Hoop Dreams 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (48793, 4, 'Alma', 'Great music helped a lot, but the documentary format kept the story at a distance.', NULL); # 48793 Buena Vista Social Club 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (107351, 2, 'Alma', 'I understood why the story was important, but I never became attached to the characters or their journey.', NULL); # 107351 Fahrenheit 451 1966
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139650, 7, 'msdevlab', 'Mystery around the Chamber, the school setting, and the friendship between Harry, Ron, and Hermione keep the story enjoyable, though some moments still feel a bit childish.', null);  # 139650 Harry Potter and the Chamber of Secrets 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139652, 8, 'msdevlab', 'Triwizard Tournament gives the movie clear stakes, memorable challenges, and a darker tone that makes the fantasy adventure feel more exciting.', null);  # 139652 Harry Potter and the Goblet of Fire 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139653, 7, 'msdevlab', 'Focus on Voldemort''s past and the growing tension at Hogwarts add depth, but the slow pace makes the movie less consistently engaging.', null);  # 139653 Harry Potter and the Half-Blood Prince 2008
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139654, 8, 'msdevlab', 'Dumbledore''s Army, the Ministry conflict, and Harry''s frustration make the story feel more personal and emotionally involving.', null);  # 139654 Harry Potter and the Order of the Phoenix 2007
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139655, 8, 'msdevlab', 'The time-turner mystery, Sirius Black reveal, and more mature atmosphere make this one of the easier Harry Potter stories to stay invested in.', null);  # 139655 Harry Potter and the Prisoner of Azkaban 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139657, 7, 'msdevlab', 'First introduction to Hogwarts is charming and memorable, even if the very young tone makes it feel less mature than later entries.', null);  # 139657 Harry Potter and the Sorcerer's Stone 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311036, 6, 'msdevlab', 'The early Spider-Man idea is fun, but this version does not give Peter Parker enough story depth to feel as memorable as the later films.', null);  # 311036 Spider-Man 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311037, 8, 'msdevlab', 'Peter Parker''s transformation, the Green Goblin conflict, and the balance between action and personal responsibility make the story easy to enjoy.', null);  # 311037 Spider-Man 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311038, 9, 'msdevlab', 'Doctor Octopus, Peter''s doubts, and the train sequence give the action emotional meaning instead of feeling like action only for spectacle.', null);  # 311038 Spider-Man 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311040, 7, 'msdevlab', 'Darker Peter storyline and multiple villains create entertaining moments, but the crowded plot makes the emotional focus less clean.', null);  # 311040 Spider-Man 3 2007
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (351705, 5, 'msdevlab', 'Revenge angle has some tension, but the story does not offer enough memorable character connection to leave a strong impression.', null);  # 351705 Vengeance 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159167, 6, 'msdevlab', 'The Indiana Jones adventure style is still fun, but the later entry feels less natural and less exciting than the character usually should.', null);  # 159167 Indiana Jones 4 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159172, 8, 'msdevlab', 'Father-son dynamic, the Holy Grail quest, and the humor between Indy and his father make the adventure feel lively and character-driven.', null);  # 159172 Indiana Jones and the Last Crusade 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159175, 6, 'msdevlab', 'Temple setting and chase sequences create adventure, but the harsher tone makes it less enjoyable and less easy to connect with.', null);  # 159175 Indiana Jones and the Temple of Doom 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215875, 7, 'msdevlab', 'The secret missions, disguises, and team strategy make the spy story enjoyable, but the older pacing makes it less intense than newer action films.', null);  # 215875 Mission: Impossible 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215876, 9, 'msdevlab', 'The CIA betrayal, tense missions, and Tom Cruise''s focused performance make the action feel smart, suspenseful, and plot-driven.', null);  # 215876 Mission: Impossible 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215877, 6, 'msdevlab', 'The spy missions and IMF setup are enjoyable, but this version feels thinner than the main films and left me less invested in the characters.', null);  # 215877 Mission: Impossible 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215878, 5, 'msdevlab', 'Operation Surma has the right spy elements with stealth, gadgets, and guarded locations, but the plot feels more routine than the stronger Mission: Impossible stories.', null);  # 215878 Mission: Impossible - Operation Surma 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215879, 8, 'msdevlab', 'Motorcycle action, masks, and romantic tension create a fun spy atmosphere, even when the story is not perfectly balanced.', null);  # 215879 Mission: Impossible II 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215880, 9, 'msdevlab', 'Ethan''s personal stakes, the kidnapping threat, and the intense mission structure make the action feel urgent and emotionally connected.', null);  # 215880 Mission: Impossible III 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256631, 8, 'msdevlab', 'The search for Davy Jones'' heart, Jack Sparrow''s chaos, and the sea adventure keep the movie energetic and imaginative.', null);  # 256631 Pirates of the Caribbean 2 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256632, 9, 'msdevlab', 'Jack Sparrow, the cursed pirates, and the mix of humor, romance, and adventure make the movie feel clever and very entertaining.', null);  # 256632 Pirates of the Caribbean: The Curse of the Black Pearl 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (59578, 6, 'msdevlab', 'Candy factory visuals are creative, but the strange tone and exaggerated characters make the story less easy to connect with emotionally.', null);  # 59578 Charlie and the Chocolate Factory 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (162380, 9, 'msdevlab', 'Tony Stark''s confidence, humor, and transformation into Iron Man make the superhero story feel charismatic, modern, and highly enjoyable.', null);  # 162380 Iron Man 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (220805, 8, 'msdevlab', 'Marriage-undercover twist, spy action, and chemistry between the leads make the movie fun without relying only on explosions.', null);  # 220805 Mr. and Mrs. Smith 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313464, 4, 'msdevlab', 'The X-wing battles and space setting are exciting, but the story stays focused on missions and does not give enough character moments to connect with.', null);  # 313464 Star Wars Rogue Leader: Rogue Squadron 2 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313474, 5, 'msdevlab', 'The podracing and Jedi world have visual appeal, but Jar Jar-style humor and uneven pacing make the story feel less mature.', null);  # 313474 Star Wars: Episode I - The Phantom Menace 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313475, 4, 'msdevlab', 'The podrace and Darth Maul scenes are the most exciting parts, but Jar Jar’s humor and the slow political storyline made the movie less enjoyable for me.', null);  # 313475 Star Wars: Episode I - The Phantom Menace (1999/II) 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313476, 5, 'msdevlab', 'Anakin and Padme''s romance is central, but the dialogue and slower political scenes make the movie harder to enjoy fully.', null);  # 313476 Star Wars: Episode II - Attack of the Clones 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313477, 8, 'msdevlab', 'Anakin''s fall, the Jedi tragedy, and the darker final act give this entry stronger emotional weight and clearer stakes.', null);  # 313477 Star Wars: Episode III - Revenge of the Sith 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313478, 8, 'msdevlab', 'Luke''s training, Vader''s presence, and the darker middle-chapter tension make the story feel dramatic despite the older style.', null);  # 313478 Star Wars: Episode V - The Empire Strikes Back 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313479, 7, 'msdevlab', 'Rescue mission, Jabba sequence, and final confrontation with Vader give the movie memorable adventure and emotional closure.', null);  # 313479 Star Wars: Episode VI - Return of the Jedi 1983
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313485, 5, 'msdevlab', 'The idea of a new Jedi student training at Luke’s academy is interesting, especially the lightsaber missions, but the story became repetitive after a while.', null);  # 313485 Star Wars: Jedi Knight - Jedi Academy 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313486, 4, 'msdevlab', 'Mara Jade and the Sith mystery are interesting ideas, but the plot feels too small and technical to stand beside the stronger Star Wars stories.', null);  # 313486 Star Wars: Jedi Knight - Mysteries of the Sith 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313487, 5, 'msdevlab', 'Kyle Katarn''s return to the Jedi path has cool lightsaber action, but the mission structure makes the story feel less personal.', null);  # 313487 Star Wars: Jedi Knight II - Jedi Outcast 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313488, 4, 'msdevlab', 'Starfighter focus gives some adventure, but vehicle-based action alone is not enough without a stronger character story.', null);  # 313488 Star Wars: Jedi Starfighter 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313489, 6, 'msdevlab', 'The Old Republic setting, Jedi choices, and darker backstory make this entry feel richer than most side stories in the Star Wars universe.', null);  # 313489 Star Wars: Knights of the Old Republic 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313493, 4, 'msdevlab', 'Racing idea is energetic, but without a strong character arc it feels too limited to be a highly enjoyable recommendation.', null);  # 313493 Star Wars: Racer Revenge 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313498, 5, 'msdevlab', 'The Rogue Squadron concept has action appeal, but the focus on missions over characters makes it feel only moderately interesting.', null);  # 313498 Star Wars: Rogue Squadron 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313503, 6, 'msdevlab', 'Clone Wars-style action and Jedi battles are enjoyable, but the animated/prequel-era format makes it feel less emotionally strong.', null);  # 313503 Star Wars: The Clone Wars 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313504, 5, 'msdevlab', 'This Empire Strikes Back entry has the Hoth and Vader atmosphere, but it does not capture the main film''s emotional impact as strongly.', null);  # 313504 Star Wars: The Empire Strikes Back 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313506, 4, 'msdevlab', 'The X-Wing battles have nostalgic space-action appeal, but the story does not give enough emotional reason to care about the missions.', null);  # 313506 Star Wars: X-Wing 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313508, 4, 'msdevlab', 'X-Wing versus TIE Fighter concept is exciting on paper, but it feels too technical and battle-focused for personal taste.', null);  # 313508 Star Wars: X-Wing vs. TIE Fighter 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (113506, 5, 'msdevlab', 'Peter Pan inspiration and softer emotional tone are pleasant, but the film feels slower and less immediately engaging.', null);  # 113506 Finding Neverland 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194492, 5, 'msdevlab', 'The fantasy world and quest idea are interesting, but this older Lord of the Rings entry feels less immersive than the later versions.', null);  # 194492 Lord of the Rings 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194495, 8, 'msdevlab', 'Final journey, the battle for Middle-earth, and the emotional ending give the story impressive scale and meaningful stakes.', null);  # 194495 Lord of the Rings: Return of the King, The (2003/II) 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194496, 5, 'msdevlab', 'The Middle-earth battles are interesting, but I missed the emotional focus on Frodo, Aragorn, and the fellowship.', null);  # 194496 Lord of the Rings: The Battle for Middle-Earth, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194497, 8, 'msdevlab', 'Frodo''s mission, the formation of the fellowship, and the clear danger of the ring make the fantasy story easy to follow and invest in.', null);  # 194497 Lord of the Rings: The Fellowship of the Ring, The 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194498, 7, 'msdevlab', 'The fellowship journey is still engaging, though this version feels less definitive than the main film and slightly less memorable.', null);  # 194498 Lord of the Rings: The Fellowship of the Ring, The 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194499, 5, 'msdevlab', 'The behind-the-scenes feeling is interesting for fans, but it works more as extra material than as a story with its own emotional arc.', null);  # 194499 Lord of the Rings: The Quest Fulfilled, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194500, 7, 'msdevlab', 'Return to Gondor, the final battles, and the emotional loyalty between characters make the story strong, even if very long.', null);  # 194500 Lord of the Rings: The Return of the King, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194501, 5, 'msdevlab', 'The Third Age setting has fantasy appeal, but without the same focus on Frodo and the fellowship it feels less personal to me.', null);  # 194501 Lord of the Rings: The Third Age 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194502, 8, 'msdevlab', 'Split fellowship, Helm''s Deep, and rising danger create strong action that still feels connected to the characters.', null);  # 194502 Lord of the Rings: The Two Towers, The 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194503, 7, 'msdevlab', 'The Two Towers material is still exciting, especially the battle atmosphere, but this version feels slightly less complete.', null);  # 194503 Lord of the Rings: The Two Towers, The (2002/II) 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194504, 5, 'msdevlab', 'War of the Ring has scale and big battles, but it focuses more on the war itself than on the characters I care about.', null);  # 194504 Lord of the Rings: The War of the Ring, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (264157, 7, 'msdevlab', 'Mia''s royal responsibility and romantic uncertainty are sweet and easy to watch, though the story can feel predictable at times.', null);  # 264157 Princess Diaries 2: Royal Engagement, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300229, 9, 'msdevlab', 'Shrek''s sarcastic humor, Fiona''s twist, and the fairytale parody make the movie clever, funny, and more original than a typical animated film.', null);  # 300229 Shrek 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300230, 9, 'msdevlab', 'This sequel keeps the humor sharp with Puss in Boots, Fairy Godmother, and the family conflict, while still giving the story real heart.', null);  # 300230 Shrek 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300233, 5, 'msdevlab', 'The 4-D format sounds fun and playful, but it feels too short to build the same charm as the main Shrek movies.', null);  # 300233 Shrek 4-D 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311604, 3, 'msdevlab', 'SpongeBob''s silly style is too childish for this taste, and the lost spatula plot does not create enough meaningful story value.', null);  # 311604 SpongeBob SquarePants: Legend of the Lost Spatula 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311606, 3, 'msdevlab', 'The Flying Dutchman villain fits SpongeBob''s silly world, but the humor stayed too childish for me to enjoy much.', null);  # 311606 SpongeBob SquarePants: Revenge of the Flying Dutchman 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311607, 3, 'msdevlab', 'SuperSponge feels aimed at younger viewers, with light humor but not enough plot or emotional connection for a stronger rating.', null);  # 311607 SpongeBob SquarePants: SuperSponge 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (340652, 7, 'msdevlab', 'Trojan War setting, Achilles conflict, and large-scale battles give the movie drama and action with a clearer story behind them.', null);  # 340652 Troy 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (405119, 4, 'msdevlab', 'The detective mystery has some classic Sherlock Holmes appeal, but the old pacing made it hard for me to stay interested.', null);  # 405119 "Sherlock Holmes" 1951
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (406158, 4, 'msdevlab', 'The web-slinging idea is always fun, but this version feels unclear and not developed enough compared with stronger Spider-Man stories.', null);  # 406158 "Spider-Man" 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (406411, 6, 'msdevlab', 'Clone Wars setting offers Jedi action and visual energy, but it feels less powerful than stories with stronger emotional stakes.', null);  # 406411 Star Wars: Clone Wars 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (849, 2, 'msdevlab', 'Patch''s London adventure feels too childish, and the 101 Dalmatians style is not appealing enough to enjoy the movie.', null);  # 849 101 Dalmatians II: Patch's London Adventure 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (850, 1, 'msdevlab', 'A sing-along format feels too young and too thin in plot, making it one of the least fitting choices for my taste.', null);  # 850 101 Dalmatians Sing Along 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30972, 5, 'msdevlab', 'Gotham and Batman''s darker justice theme are appealing, but Dark Justice feels too vague to stand out from stronger Batman stories.', null);  # 30972 Batman: Dark Justice 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30974, 5, 'msdevlab', 'Batman: Dead End has a darker fan-film style that can be visually interesting, but it felt too short and limited to leave a strong impression.', null);  # 30974 Batman: Dead End 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (32180, 5, 'msdevlab', 'The Beauty and the Beast idea is charming, but this version did not feel special or emotional enough compared with stronger fairytale romances.', null);  # 32180 Beauty and the Beast 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (151616, 8, 'msdevlab', 'Bet between Andie and Ben, their chemistry, and the playful romantic tension make the comedy fun without feeling too childish.', null);  # 151616 How to Lose a Guy in 10 Days 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (170721, 4, 'msdevlab', 'Jungle Book sequel has some adventure, but the lighter child-focused tone makes it less engaging than preferred animated stories.', null);  # 170721 Jungle Book 2, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (56871, 8, 'msdevlab', 'Frank Abagnale''s clever cons, the FBI chase, and the emotional father-son thread make the movie smart, fast, and easy to follow.', null);  # 56871 Catch Me If You Can 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (185176, 4, 'msdevlab', 'The dance scenes could have made it emotional, but the characters and conflict did not stay memorable enough for me.', null);  # 185176 Last Dance 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (190869, 7, 'msdevlab', 'Lilo and Stitch works because the alien chaos is balanced by family, loneliness, and a sweet emotional bond.', null);  # 190869 Lilo & Stitch 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (200864, 6, 'msdevlab', 'Class-gap romance and political setting are pleasant, but the plot is predictable and not as sharp as stronger romantic comedies.', null);  # 200864 Maid in Manhattan 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (14132, 4, 'msdevlab', 'Humor is too crude and situation-based, and the story does not offer enough emotional or meaningful plot value.', null);  # 14132 American Pie 2 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (109421, 9, 'msdevlab', 'Street racing, loyalty, and undercover tension make the action exciting while still giving the characters a clear reason to matter.', null);  # 109421 Fast and the Furious, The 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (129185, 8, 'msdevlab', 'Maximus''s revenge, the arena battles, and the emotional loss behind his mission make the action feel dramatic and meaningful.', null);  # 129185 Gladiator 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (644, 8, 'msdevlab', 'Kat''s independence, Patrick''s charm, and the school-romance setup make the movie fun, witty, and easy to connect with.', null);  # 644 10 Things I Hate About You 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (210739, 8, 'msdevlab', 'Alien-agent concept, Will Smith''s energy, and the fast comedy-action rhythm make the movie entertaining without feeling empty.', null);  # 210739 Men in Black 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (333856, 10, 'msdevlab', 'Jack and Rose''s romance, the class conflict, and the disaster''s emotional scale make the movie powerful despite its older release year.', null);  # 333856 Titanic 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (158999, 9, 'msdevlab', 'The alien invasion, Will Smith''s heroism, and the survival stakes create exactly the kind of big action story that feels exciting and clear.', null);  # 158999 Independence Day 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (56304, 5, 'msdevlab', 'Casino world and crime drama are well-made, but the slower old-school style makes it less personally engaging.', null);  # 56304 Casino 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (66194, 7, 'msdevlab', 'Cher''s personality, fashion, and social makeover plot make the comedy light and charming without becoming completely childish.', null);  # 66194 Clueless 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (337166, 6, 'msdevlab', 'Toys'' friendship and imagination are sweet, but the very family-oriented style makes it only moderately fitting for this taste.', null);  # 337166 Toy Story 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (290070, 6, 'msdevlab', 'Historical importance is clear and powerful, but the heavy Holocaust subject makes it difficult to enjoy as a personal rewatch choice.', null);  # 290070 Schindler's List 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (131780, 7, 'msdevlab', 'Henry Hill''s crime rise and downfall are compelling, though the older gangster style is not always easy to connect with.', null);  # 131780 Goodfellas 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (263360, 8, 'msdevlab', 'Vivian and Edward''s chemistry, the transformation story, and the glamorous romance make it memorable and enjoyable.', null);  # 263360 Pretty Woman 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280305, 5, 'msdevlab', 'Rocky''s later struggle has some emotional value, but the story feels less inspiring and less exciting than a strong sports drama should.', null);  # 280305 Rocky V 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (189403, 5, 'msdevlab', 'The Bond action and revenge angle have appeal, but the older style makes the movie feel less fresh and less personally engaging.', null);  # 189403 Licence to Kill 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188511, 7, 'msdevlab', 'Buddy-cop rhythm, humor, and action scenes are entertaining, even if the formula feels familiar by this fourth entry.', null);  # 188511 Lethal Weapon 4 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (335835, 8, 'msdevlab', 'Fighter-pilot training, rivalry, romance, and music make the movie iconic and energetic despite its older style.', null);  # 335835 Top Gun 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311428, 5, 'msdevlab', 'Mermaid romance has a sweet idea, but the 1980s tone feels dated and less exciting for current taste.', null);  # 311428 Splash 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (96593, 6, 'msdevlab', 'E.T. and Elliott''s friendship is emotional and memorable, but the slow and very nostalgic style keeps the rating moderate.', null);  # 96593 E.T. the Extra-Terrestrial 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (271095, 8, 'msdevlab', 'The Ark quest, booby-trap adventure, and Indiana Jones charm make the older film still feel exciting and easy to watch.', null);  # 271095 Raiders of the Lost Ark 1981
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (165961, 5, 'msdevlab', 'Shark suspense is famous, but the horror-thriller feeling and older pacing make it less suitable for personal taste.', null);  # 165961 Jaws 1975
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10945, 4, 'msdevlab', 'Sci-fi creature threat feels too close to horror, making the suspense less enjoyable even with action elements.', null);  # 10945 Alien 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (14477, 5, 'msdevlab', 'Slavery trial story is meaningful, but the serious historical-drama tone feels heavy and not very rewatchable.', null);  # 14477 Amistad 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30686, 5, 'msdevlab', 'The troubled youth story has emotion, but the dark subject matter makes it harder to enjoy as entertainment.', null);  # 30686 Basketball Diaries, The 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (34077, 5, 'msdevlab', 'Benjamin''s reverse-aging life story is original, but the slow, reflective tone makes it less engaging than more direct emotional dramas.', null);  # 34077 Benjamin Button 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (34104, 5, 'msdevlab', 'Quirky romance between Benny and Sam has tenderness, though the slower 1990s style makes it only moderately appealing.', null);  # 34104 Benny & Joon 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (39551, 7, 'msdevlab', 'Mogadishu mission, soldiers under pressure, and urgent rescue structure give the war action strong intensity.', null);  # 39551 Black Hawk Down 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (41518, 5, 'msdevlab', 'George Jung''s rise and downfall have drama, but the drug-crime focus makes the movie less personally appealing.', null);  # 41518 Blow 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (46167, 5, 'msdevlab', 'Johnny Depp''s directorial drama has ambition, but the slower tone and bleak atmosphere make it hard to connect with.', null);  # 46167 Brave, The 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (46169, 8, 'msdevlab', 'William Wallace''s fight for freedom, betrayal, and large battle scenes make the historical drama emotional and powerful.', null);  # 46169 Braveheart 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (46878, 6, 'msdevlab', 'Bridget''s romantic confusion is amusing, but the sequel feels more uneven and less fresh than the character deserves.', null);  # 46878 Bridget Jones: The Edge of Reason 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (54209, 3, 'msdevlab', 'Stalker tension and violent thriller tone are too dark, making the movie much less appealing for this taste.', null);  # 54209 Cape Fear 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (62460, 6, 'msdevlab', 'The small-town chocolate shop, gentle romance, and warm atmosphere are pleasant, though the pace is not very exciting.', null);  # 62460 Chocolat 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (86263, 7, 'msdevlab', 'Bond gadgets, ice-palace action, and fast set pieces make it entertaining, even if some parts feel exaggerated.', null);  # 86263 Die Another Day 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (112290, 5, 'msdevlab', 'Twisty identity themes are interesting, but the harsh tone and nihilistic feeling make the movie less comfortable to enjoy.', null);  # 112290 Fight Club 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (120506, 3, 'msdevlab', 'Jack the Ripper setting is too grim and horror-adjacent, so the mystery is not enough to make it appealing.', null);  # 120506 From Hell 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (123435, 6, 'msdevlab', 'The psychological game between Nicholas and the hidden organization is intriguing, though the mood can feel cold.', null);  # 123435 Game, The 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (123849, 5, 'msdevlab', 'Immigrant gang conflict and revenge themes are ambitious, but the long, heavy crime-drama style makes it less enjoyable.', null);  # 123849 Gangs of New York 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (142491, 7, 'msdevlab', 'Hellboy''s sarcasm, monster-fighting world, and outsider personality make the superhero fantasy fun and not too serious.', null);  # 142491 Hellboy 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (142492, 7, 'msdevlab', 'Creatures, visual style, and Hellboy-Liz relationship give the sequel personality, while the story stays easy to follow.', null);  # 142492 Hellboy 2 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176711, 5, 'msdevlab', 'Revenge mission is stylish, but the extreme violence and chapter structure make it less enjoyable personally.', null);  # 176711 Kill Bill: Vol. 1 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176712, 5, 'msdevlab', 'The second revenge chapter has emotional closure, but the violent tone still keeps it from fitting this taste strongly.', null);  # 176712 Kill Bill: Vol. 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (178994, 5, 'msdevlab', 'Small-time gangster setup has some tension, but the characters are not memorable enough to make the crime story stand out.', null);  # 178994 Knockaround Guys 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (185628, 8, 'msdevlab', 'Samurai culture, inner conflict, and Tom Cruise''s character growth make the historical action feel emotional and meaningful.', null);  # 185628 Last Samurai, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (192850, 4, 'msdevlab', 'The Lizzie-style teen story feels light and easy to watch, but it does not have enough depth or drama to stay memorable.', null);  # 192850 Lizzie 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (200521, 5, 'msdevlab', 'The intersecting character stories are ambitious, but the long and heavy structure feels too scattered for easy enjoyment.', null);  # 200521 Magnolia 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (210511, 6, 'msdevlab', 'Reverse-order memory puzzle is clever, though the fragmented storytelling makes it more interesting than emotionally enjoyable.', null);  # 210511 Memento 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (214755, 8, 'msdevlab', 'Future-crime concept, moral dilemma, and chase structure make the sci-fi action smart and exciting.', null);  # 214755 Minority Report 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (238072, 8, 'msdevlab', 'Heist plan, casino setting, and charming team dynamic make the movie slick, fun, and easy to enjoy.', null);  # 238072 Ocean's Eleven 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (238073, 7, 'msdevlab', 'The European heist setting keeps it stylish, but the plot feels more complicated and less sharp than the team itself.', null);  # 238073 Ocean's Twelve 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (244421, 5, 'msdevlab', 'Family and independence themes are sweet, but the softer drama style feels only moderately engaging.', null);  # 244421 Other Sister, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (245699, 5, 'msdevlab', 'Mistaken-romance and boat setting have comedy potential, but the older tone makes it less naturally appealing.', null);  # 245699 Overboard 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (247579, 7, 'msdevlab', 'Single-location home invasion and mother-daughter danger create focused suspense without relying on horror too much.', null);  # 247579 Panic Room 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256839, 5, 'msdevlab', 'The dark planet and creature threat create tension, but the horror-like sci-fi atmosphere limits the personal appeal.', null);  # 256839 Pitch Black 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (271344, 5, 'msdevlab', 'Helen''s sudden parenting responsibility has emotional potential, though the story feels a bit formulaic.', null);  # 271344 Raising Helen 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (292671, 4, 'msdevlab', 'Writer''s isolation and mystery setup are interesting, but the thriller tone becomes too dark and uncomfortable.', null);  # 292671 Secret Window 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (306032, 5, 'msdevlab', 'Fast editing, London crime schemes, and chaotic characters are clever, though the style can feel too messy.', null);  # 306032 Snatch. 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (310168, 4, 'msdevlab', 'The space-station documentary visuals are interesting, but I missed a real character story to connect with.', null);  # 310168 Space Station 3D 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312150, 5, 'msdevlab', 'The child-spy family idea is playful, but the very young tone makes the adventure feel only mildly enjoyable.', null);  # 312150 Spy Kids 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312151, 4, 'msdevlab', 'Island adventure has imagination, but the sequel leans even more childish and less emotionally interesting.', null);  # 312151 Spy Kids 2: Island of Lost Dreams 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312152, 3, 'msdevlab', 'The 3-D virtual-world idea is creative, but the visual gimmick and child-focused plot make it hard to enjoy.', null);  # 312152 Spy Kids 3-D: Game Over 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (319602, 5, 'msdevlab', 'Superman''s heroism is iconic, but the 1970s style feels dated and less exciting than newer superhero movies.', null);  # 319602 Superman 1978
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (319613, 5, 'msdevlab', 'Superman and Zod''s conflict has classic superhero stakes, though the older pacing makes it only moderately exciting.', null);  # 319613 Superman II 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (328272, 7, 'msdevlab', 'Viktor''s airport life, loneliness, and warm humor make the story surprisingly easy to connect with.', null);  # 328272 Terminal, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (328666, 3, 'msdevlab', 'The office-linebacker joke is funny as a short sketch, but it is too thin to feel like a real movie experience.', null);  # 328666 Terry Tate, Office Linebacker 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (335336, 6, 'msdevlab', 'Media-villain plot and Bond action are entertaining, but the story feels more formulaic than truly gripping.', null);  # 335336 Tomorrow Never Dies 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (336445, 4, 'msdevlab', 'Poet romance and period-drama style feel too slow and distant for a strong personal connection.', null);  # 336445 Total Eclipse 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (342797, 5, 'msdevlab', 'The Juliet romance sounds sweet, but the relationship and story do not feel developed enough to leave a strong impression.', null);  # 342797 Two Days with Juliet 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (350424, 5, 'msdevlab', 'The dream-versus-reality mystery is intriguing, but the confusing structure makes the movie less satisfying emotionally.', null);  # 350424 Vanilla Sky 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (359297, 8, 'msdevlab', 'Alien attack, family survival, and constant danger create tense action that feels connected to clear stakes.', null);  # 359297 War of the Worlds 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (368418, 6, 'msdevlab', 'Oil-pipeline plot and Bond spectacle have some excitement, though the older franchise style feels uneven.', null);  # 368418 World Is Not Enough, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (370017, 7, 'msdevlab', 'Xander Cage''s extreme-sports attitude and undercover mission give the action a bold, fast rhythm that is easy to enjoy.', null);  # 370017 XXX 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (371305, 4, 'msdevlab', 'The movie felt unclear, and I did not get enough plot or character development to remember it after watching.', null);  # 371305 Yes and 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30955, 6, 'msdevlab', 'Gotham''s dark atmosphere and Michael Keaton''s Batman are interesting, but the older comic-book style feels somewhat dated.', null);  # 30955 Batman 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30959, 9, 'msdevlab', 'Bruce Wayne''s training, fear, and realistic Gotham crime story make the superhero origin feel serious and very engaging.', null);  # 30959 Batman Begins 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30965, 5, 'msdevlab', 'The colorful villains and campy tone are entertaining at times, but the style feels too exaggerated.', null);  # 30965 Batman Forever 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30967, 5, 'msdevlab', 'Catwoman and Penguin add memorable gothic style, but the darker weird tone makes the movie less easy to enjoy.', null);  # 30967 Batman Returns 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30976, 5, 'msdevlab', 'Animated Batman mystery has emotional ideas, but the animation style feels less appealing than a modern live-action story.', null);  # 30976 Batman: Mask of the Phantasm 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (381392, 5, 'msdevlab', 'The future Gotham setting with Terry as Batman is interesting, but the story feels more like a short episode than a full movie.', null);  # 381392 "Batman Beyond" 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10920, 5, 'msdevlab', 'Alien-action survival is intense, but the creature horror element makes it less enjoyable despite the strong heroine.', null);  # 10920 Aliens 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (40199, 5, 'msdevlab', 'The future-noir world and replicant ideas are thoughtful, but the slow, abstract style feels too distant personally.', null);  # 40199 Blade Runner 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (65811, 5, 'msdevlab', 'Alien-contact mystery is meaningful, but the 1970s pacing makes it less exciting than preferred sci-fi adventures.', null);  # 65811 Close Encounters of the Third Kind 1977
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (21213, 5, 'msdevlab', 'Robot-child story has emotional ambition, but its strange tone and slow pacing make it hard to fully connect with.', null);  # 21213 Artificial Intelligence: AI 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (61751, 6, 'msdevlab', 'Dystopian future, escape mission, and pregnancy hope give the film a strong concept, even if the mood is very bleak.', null);  # 61751 Children of Men, The 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (267038, 6, 'msdevlab', 'The dialogue and crime structure are iconic, but the violent, cynical tone limits how enjoyable it feels personally.', null);  # 267038 Pulp Fiction 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (276217, 5, 'msdevlab', 'Warehouse standoff and criminal suspicion are tense, but the harsh style makes it less emotionally engaging.', null);  # 276217 Reservoir Dogs 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (297838, 8, 'msdevlab', 'Andy and Red''s prison friendship, hope, and final escape make the drama meaningful and very satisfying.', null);  # 297838 Shawshank Redemption, The 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (289109, 6, 'msdevlab', 'D-Day opening and rescue mission are powerful, but the heavy war violence makes it difficult as entertainment.', null);  # 289109 Saving Private Ryan 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (326155, 4, 'msdevlab', 'Travis Bickle''s isolation and violent decline are intense, but the dark psychological tone is not appealing.', null);  # 326155 Taxi Driver 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (270971, 4, 'msdevlab', 'Jake LaMotta''s self-destructive boxing story is well-acted, but the bleak character study feels too heavy.', null);  # 270971 Raging Bull 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (291698, 4, 'msdevlab', 'Serial-killer investigation is gripping, but the disturbing atmosphere and ending make it too dark for this taste.', null);  # 291698 Se7en 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280270, 6, 'msdevlab', 'Rocky''s underdog training and emotional need to prove himself make the sports drama inspiring despite its older pace.', null);  # 280270 Rocky 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280281, 6, 'msdevlab', 'Rocky''s rematch and relationship with Adrian keep the story emotional, though the pacing feels slower than preferred.', null);  # 280281 Rocky II 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280282, 6, 'msdevlab', 'Clubber Lang''s rivalry gives the movie energy, but the tone feels more simple and less emotionally rich.', null);  # 280282 Rocky III 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280284, 8, 'msdevlab', 'The Cold War opponent, training montage, and high-stakes final fight make this Rocky entry especially entertaining.', null);  # 280284 Rocky IV 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188507, 6, 'msdevlab', 'Riggs and Murtaugh''s partnership has humor and action, though the older buddy-cop style feels moderately appealing.', null);  # 188507 Lethal Weapon 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188509, 6, 'msdevlab', 'This sequel keeps the banter and danger moving, but the formula does not feel especially fresh.', null);  # 188509 Lethal Weapon 2 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188510, 6, 'msdevlab', 'Third entry has energetic buddy-cop action, though the story feels familiar rather than memorable.', null);  # 188510 Lethal Weapon 3 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (92573, 4, 'msdevlab', 'First Bond adventure has historical importance, but the 1960s pacing and style feel too dated personally.', null);  # 92573 Dr. No 1962
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (120574, 4, 'msdevlab', 'The spy-train intrigue has classic Bond charm, though the old-fashioned tone makes it less engaging.', null);  # 120574 From Russia with Love 1963
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (130953, 5, 'msdevlab', 'Goldfinger''s villainy, gadgets, and iconic Bond style are fun, but the older film language keeps it only moderately engaging.', null);  # 130953 Goldfinger 1964
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (332065, 4, 'msdevlab', 'Underwater action has spectacle, but the slow 1960s pacing makes it hard to stay fully interested.', null);  # 332065 Thunderball 1965
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (85871, 4, 'msdevlab', 'Las Vegas setting has some fun, but the campy older Bond tone feels too dated.', null);  # 85871 Diamonds Are Forever 1971
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (117314, 5, 'msdevlab', 'Mountain action and revenge plot are decent, though the older style keeps it from feeling very exciting.', null);  # 117314 For Your Eyes Only 1981
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (192514, 4, 'msdevlab', 'The voodoo and blaxploitation elements make the movie unusual, but the tone feels dated and not very appealing.', null);  # 192514 Live and Let Die 1973
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (203649, 4, 'msdevlab', 'Assassin-villain concept is interesting, but the 1970s Bond style feels uneven and slow.', null);  # 203649 Man with the Golden Gun, The 1974
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (218808, 5, 'msdevlab', 'The space-focused Bond spectacle is memorable, but it becomes too silly and exaggerated to feel really exciting.', null);  # 218808 Moonraker 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (240521, 5, 'msdevlab', 'Romance and emotional Bond angle are more serious, though the old style still limits personal enjoyment.', null);  # 240521 On Her Majesty's Secret Service 1969
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312170, 5, 'msdevlab', 'The submarine plot and Bond partnership have adventure appeal, but the pacing feels dated.', null);  # 312170 Spy Who Loved Me, The 1977
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (354178, 5, 'msdevlab', 'Villain plan and action are watchable, but the mid-1980s style makes it less exciting.', null);  # 354178 View to a Kill, A 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (372233, 4, 'msdevlab', 'Volcano lair and Japanese setting are memorable, though the older pacing and stereotypes reduce the appeal.', null);  # 372233 You Only Live Twice 1967
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (164572, 5, 'msdevlab', 'Jackie Brown''s smuggling plot has style, but the slow crime tone makes it less engaging than more energetic stories.', null);  # 164572 Jackie Brown 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (118367, 5, 'msdevlab', 'Hotel-room anthology format is quirky, but the uneven segments make it hard to feel connected to one story.', null);  # 118367 Four Rooms 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (209158, 4, 'msdevlab', 'The street-crime realism has importance, but the rough 1970s style feels distant and less enjoyable.', null);  # 209158 Mean Streets 1973
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (131885, 6, 'msdevlab', 'Treasure map, kids'' teamwork, and adventure tone are fun, though the older family style feels only moderately appealing.', null);  # 131885 Goonies, The 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (149287, 6, 'msdevlab', 'Grown-up Peter Pan idea is nostalgic and imaginative, but the tone feels a little too childish at times.', null);  # 149287 Hook 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (97360, 5, 'msdevlab', 'Odd Hollywood biography has interesting artistic detail, but the black-and-white style makes it less immediately engaging.', null);  # 97360 Ed Wood 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (97727, 7, 'msdevlab', 'Edward''s loneliness, the suburban setting, and the gentle romance make the strange fantasy surprisingly emotional.', null);  # 97727 Edward Scissorhands 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (304862, 4, 'msdevlab', 'The headless-horseman mystery and gothic visuals are stylish, but the horror atmosphere lowers the personal appeal.', null);  # 304862 Sleepy Hollow 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (70959, 6, 'msdevlab', 'Stop-motion world is creative and romantic, though the dead-bride theme makes it a bit too dark for high enjoyment.', null);  # 70959 Corpse Bride, The 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (220276, 6, 'msdevlab', 'Music, theatrical romance, and colorful style are memorable, but the exaggerated presentation can feel overwhelming.', null);  # 220276 Moulin Rouge! 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (218219, 6, 'msdevlab', 'Forest spirits, environmental conflict, and strong heroine make the fantasy world interesting, though the intensity is heavy.', null);  # 218219 Mononoke-hime 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (25192, 5, 'msdevlab', 'Howard Hughes''s ambition and aviation obsession are interesting, but the long biographical structure feels less personally engaging.', null);  # 25192 Aviator, The 2004
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (644, 10, 'talroup', 'Patrick''s grand-gesture confidence and Kat''s sharp wit make this my ideal teen rom-com', null); # 644 10 Things I Hate About You 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (263360, 10, 'talroup', 'Vivian''s humor and Beverly Hills fairy-tale makeover give the romance an irresistible pull', null); # 263360 Pretty Woman 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (151616, 10, 'talroup', 'A fake-dating challenge should feel silly; the Hudson-McConaughey chemistry makes it work perfectly', null); # 151616 How to Lose a Guy in 10 Days 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (66194, 10, 'talroup', 'Cher''s matchmaking, fashion, and self-aware attitude make the teen comedy feel endlessly fun', null); # 66194 Clueless 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300229, 10, 'talroup', 'The ogre-princess twist is funny, romantic, and oddly sweet all at once', null); # 300229 Shrek 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (337166, 10, 'talroup', 'Woody and Buzz moving from jealousy to friendship without losing the jokes is exactly what I love', null); # 337166 Toy Story 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (1038, 9, 'talroup', 'Jenna''s second chance at adulthood is sweet, funny, and full of feel-good romantic energy', null); # 1038 13 Going On 30 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (200864, 9, 'talroup', 'A maid mistaken for a socialite is pure rom-com fantasy, and Jennifer Lopez sells every moment', null); # 200864 Maid in Manhattan 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (283410, 9, 'talroup', 'Roberts and Gere turn commitment fears into easy, warm romance in the best way', null); # 283410 Runaway Bride 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (46878, 9, 'talroup', 'Bridget''s diary, awkward dates, and messy confidence make the romance feel funny and personal', null); # 46878 Bridget Jones: The Edge of Reason 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (264157, 9, 'talroup', 'Genovia, royal rules, and Anne Hathaway''s charm make this sequel light, girly, and comforting', null); # 264157 Princess Diaries 2: Royal Engagement, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (190869, 9, 'talroup', 'Lilo and Stitch''s chosen-family bond gives the Disney chaos a surprisingly sweet center', null); # 190869 Lilo & Stitch 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300230, 9, 'talroup', 'Meeting Fiona''s parents adds more family comedy and romance than I expected from a sequel', null); # 300230 Shrek 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (62460, 9, 'talroup', 'A chocolate shop changing a conservative village is exactly the kind of cozy romance I enjoy', null); # 62460 Chocolat 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (220276, 9, 'talroup', 'The huge musical numbers make the tragic romance colorful and fun enough to love', null); # 220276 Moulin Rouge! 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (34104, 9, 'talroup', 'Depp''s Buster Keaton-style sweetness turns the odd couple premise into something genuinely tender', null); # 34104 Benny & Joon 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (59578, 9, 'talroup', 'Wonka''s factory rooms are bizarre and candy-colored, so the fantasy stays playful instead of gloomy', null); # 59578 Charlie and the Chocolate Factory 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (96593, 9, 'talroup', 'Elliott hiding his alien friend at home gives the sci-fi story a gentle, warm family feeling', null); # 96593 E.T. the Extra-Terrestrial 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (328272, 9, 'talroup', 'Being trapped in an airport could be dull, but Tom Hanks makes every scene kind and human', null); # 328272 Terminal, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (333856, 9, 'talroup', 'Jack and Rose keep the disaster movie rooted in a romance I can actually care about', null); # 333856 Titanic 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (149287, 8, 'talroup', 'A grown-up Peter Pan could be too sad; Robin Williams keeps it nostalgic and soft-hearted', null); # 149287 Hook 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (131885, 8, 'talroup', 'Mikey''s treasure hunt and the noisy kid group give this adventure messy, happy energy', null); # 131885 Goonies, The 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (113506, 8, 'talroup', 'The Neverland imagination and gentle father-children angle keep the drama from feeling too sad', null); # 113506 Finding Neverland 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139657, 8, 'talroup', 'Arriving at Hogwarts, choosing houses, and meeting the trio makes this pure magical comfort', null); # 139657 Harry Potter and the Sorcerer's Stone 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139650, 8, 'talroup', 'The flying car and secret-chamber mystery are darker, yet Hogwarts still feels inviting', null); # 139650 Harry Potter and the Chamber of Secrets 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139655, 8, 'talroup', 'Moodier than the first two, but the time-turner story and warmer friendships keep me invested', null); # 139655 Harry Potter and the Prisoner of Azkaban 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139652, 8, 'talroup', 'Dragons, the Yule Ball, and school rivalry make the tournament chapter big but still accessible', null); # 139652 Harry Potter and the Goblet of Fire 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139654, 7, 'talroup', 'Umbridge and the rebellion are interesting, but this chapter loses some of the cozy Hogwarts magic', null); # 139654 Harry Potter and the Order of the Phoenix 2007
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139653, 7, 'talroup', 'Romantic jealousy and awkward teenage moments soften a plot that is otherwise getting darker', null); # 139653 Harry Potter and the Half-Blood Prince 2008
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256632, 8, 'talroup', 'Jack Sparrow turns piracy into something funny, stylish, and much less serious than expected', null); # 256632 Pirates of the Caribbean: The Curse of the Black Pearl 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256631, 8, 'talroup', 'Elizabeth and Will give the louder sequel enough romance to stay fun throughout', null); # 256631 Pirates of the Caribbean 2 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (238072, 8, 'talroup', 'The heist feels sunny and stylish instead of tense or violent, which is exactly right for me', null); # 238072 Ocean's Eleven 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (238073, 7, 'talroup', 'Still has movie-star charm, although the story feels more smug than breezy this time', null); # 238073 Ocean's Twelve 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (56871, 8, 'talroup', 'The fake-pilot chase gives the film a playful rhythm instead of a heavy crime mood', null); # 56871 Catch Me If You Can 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (210739, 8, 'talroup', 'Will Smith''s delivery makes the alien suits-and-gadgets world feel quick and mainstream', null); # 210739 Men in Black 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312150, 8, 'talroup', 'Kid heroes, spy gadgets, and bright colors make the whole thing feel silly in the right way', null); # 312150 Spy Kids 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312151, 7, 'talroup', 'Still cute and family-friendly, though the island adventure is less surprising than the first film', null); # 312151 Spy Kids 2: Island of Lost Dreams 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312152, 7, 'talroup', 'A video-game spy mission is ridiculous, which is basically why it stays harmless and fun', null); # 312152 Spy Kids 3-D: Game Over 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (170721, 8, 'talroup', 'Songs, animals, and a simple jungle adventure make this bright enough for an easy watch', null); # 170721 Jungle Book 2, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (291495, 7, 'talroup', 'Meaner than my usual holiday pick; Bill Murray eventually finds just enough heart', null); # 291495 Scrooged 1988
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311428, 8, 'talroup', 'A mermaid-in-New-York romance is silly, but Tom Hanks makes it genuinely sweet', null); # 311428 Splash 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (31715, 8, 'talroup', 'Bette Midler''s music and the long female friendship make the drama warmer than its sadder moments', null); # 31715 Beaches 1988
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (33492, 8, 'talroup', 'Food, kitchen routine, and quiet attraction give this European romance a very gentle charm', null); # 33492 Bella Martha 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (74259, 7, 'talroup', 'Strange retro camp, but Depp''s performance keeps the weirdness playful rather than off-putting', null); # 74259 Cry-Baby 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (97727, 7, 'talroup', 'Edward''s innocence against the perfect suburb is strange, romantic, and beautifully sad', null); # 97727 Edward Scissorhands 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (257744, 8, 'talroup', 'The ensemble structure gives several little love stories instead of one heavy drama to follow', null); # 257744 Playing by Heart 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (118980, 7, 'talroup', 'A diner romance with two adults slowly choosing vulnerability; grounded and quietly moving', null); # 118980 Frankie and Johnny 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (12744, 7, 'talroup', 'Old-fashioned, but the ghostly love story has a soft Spielberg glow I appreciate', null); # 12744 Always 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10702, 7, 'talroup', 'Alice rebuilding her life gives the drama warmth I did not expect from a Scorsese film', null); # 10702 Alice Doesn't Live Here Anymore 1974
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (208245, 7, 'talroup', 'Poker-table tricks and Foster-Gibson banter keep the western closer to comedy than grit', null); # 208245 Maverick 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280270, 7, 'talroup', 'The Adrian romance gives the boxing story a tender center I connect with', null); # 280270 Rocky 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280281, 6, 'talroup', 'Rocky and Adrian are still sweet together, even when the sequel leans into pressure', null); # 280281 Rocky II 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280282, 6, 'talroup', 'The training energy is fun; the emotional beats already feel more formulaic here', null); # 280282 Rocky III 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280284, 5, 'talroup', 'Big spectacle and music, but missing the personal sweetness I liked from the first one', null); # 280284 Rocky IV 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280305, 4, 'talroup', 'Feels less like hope and more like a tired extension of a franchise that already peaked', null); # 280305 Rocky V 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (65811, 7, 'talroup', 'The lights-in-the-sky mystery feels curious and hopeful instead of frightening', null); # 65811 Close Encounters of the Third Kind 1977
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (158999, 7, 'talroup', 'Massive destruction would usually push me away, but Will Smith keeps it popcorn-fun', null); # 158999 Independence Day 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (335835, 7, 'talroup', 'Basically glossy confidence, beach volleyball, and a small romantic pull — easy to enjoy', null); # 335835 Top Gun 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (319602, 7, 'talroup', 'Christopher Reeve''s sincerity is hard not to root for; the tone stays genuinely bright', null); # 319602 Superman 1978
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (319613, 6, 'talroup', 'Still friendly, although the romance no longer feels as magical as the original', null); # 319613 Superman II 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311037, 8, 'talroup', 'Peter trying to balance Mary Jane and hero life gives the action a sweet emotional center', null); # 311037 Spider-Man 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311038, 8, 'talroup', 'The train sequence is intense, but Peter and Mary Jane keep the sequel genuinely emotional', null); # 311038 Spider-Man 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311040, 6, 'talroup', 'Too many villains and too much internal drama, so the romance gets a little lost', null); # 311040 Spider-Man 3 2007
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30965, 6, 'talroup', 'Silly and neon-colored, which makes it more watchable than the darker chapters in the series', null); # 30965 Batman Forever 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30955, 5, 'talroup', 'Burton''s Gotham is visually memorable; I just do not find it fun or comforting to watch', null); # 30955 Batman 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30959, 5, 'talroup', 'Bruce Wayne is built well here, yet the serious tone is not what I want for a relaxed movie night', null); # 30959 Batman Begins 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30952, 4, 'talroup', 'Camp, ice puns, and chaos, but not enough real charm to balance out the mess', null); # 30952 Batman & Robin 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30976, 6, 'talroup', 'Visually elegant with a tragic romance at its core, which keeps it more serious than I expected', null); # 30976 Batman: Mask of the Phantasm 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30961, 6, 'talroup', 'The future-Gotham concept is cool, though the mood here is much darker and less cheerful than the series', null); # 30961 Batman Beyond: Return of the Joker (2000/I) 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (381392, 7, 'talroup', 'The futuristic setting gives the whole series a sleek, accessible energy I enjoy', null); # 381392 Batman Beyond 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (379290, 6, 'talroup', 'Old-school and simple, nostalgic enough to be light even if not very exciting', null); # 379290 Adventures of Batman, The 1969
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (142491, 6, 'talroup', 'Hellboy''s dry humor helps, but the monster-world darkness keeps it only mid-level for me', null); # 142491 Hellboy 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (142492, 6, 'talroup', 'Imaginative creatures, though I miss a lighter romantic or genuinely comic mood', null); # 142492 Hellboy 2 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300233, 7, 'talroup', 'A short fairy-tale attraction that gives quick silliness without asking too much of me', null); # 300233 Shrek 4-D 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (170875, 5, 'talroup', 'Odd comic energy; I would not remember it, but it passes the time harmlessly', null); # 170875 Junk Drawer 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (391006, 8, 'talroup', 'Diner nostalgia, simple jokes, and cheerful comfort — genuinely my kind of TV', null); # 391006 Happy Days 1974
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (390691, 8, 'talroup', 'Exactly the kind of warm family sitcom I would leave on casually any evening', null); # 390691 Growing Pains 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (395271, 8, 'talroup', 'Laverne and Shirley''s friendship gives the sitcom its lively, cheerful personality', null); # 395271 Laverne & Shirley 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (398232, 8, 'talroup', 'Robin Williams''s alien sweetness makes the comedy feel goofy and genuinely affectionate', null); # 398232 Mork & Mindy 1978
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (398571, 7, 'talroup', 'Murphy Brown has confidence and bite, more witty than cozy but still enjoyable', null); # 398571 Murphy Brown 1988
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (400853, 8, 'talroup', 'The family messiness feels relatable, and Ron Howard keeps it warm throughout', null); # 400853 Parenthood 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (379931, 7, 'talroup', 'Each episode feels imaginative without becoming emotionally demanding or heavy', null); # 379931 Amazing Stories 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (379327, 7, 'talroup', 'The heroism is simple and upbeat in a pleasantly old-fashioned way', null); # 379327 Adventures of Robin Hood, The 1955
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (379331, 6, 'talroup', 'Clever enough to appreciate, even if mystery is not my happiest genre', null); # 379331 Adventures of Sherlock Holmes, The 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (405119, 6, 'talroup', 'Some comfort value here, though the mood stays a bit distant for my taste', null); # 405119 Sherlock Holmes 1951
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (372733, 6, 'talroup', 'A cute concept, yet it never quite becomes a personal favorite for me', null); # 372733 Young Sherlock Holmes 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (1121, 5, 'talroup', 'Grand historical exploration that impresses without becoming something I would choose to relax with', null); # 1121 1492: Conquest of Paradise 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (1390, 5, 'talroup', 'Comic chaos and big energy, only not the kind that actually feels cozy or comfortable', null); # 1390 1941 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (7842, 5, 'talroup', 'One clever Manhattan night turned into anxiety; definitely not my kind of evening mood', null); # 7842 After Hours 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (8183, 5, 'talroup', 'A restrained society romance should appeal to me, yet this one ends up emotionally muted', null); # 8183 Age of Innocence, The 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (20253, 5, 'talroup', 'Quirky personality throughout; I admire it more than I actually enjoy watching it', null); # 20253 Arizona Dream 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (21213, 5, 'talroup', 'The childlike longing touches me, but the ending leaves me melancholic rather than uplifted', null); # 21213 Artificial Intelligence: AI 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (22651, 3, 'talroup', 'Marriage thriller meets alien paranoia — way too cold and suspicious for my taste', null); # 22651 Astronaut's Wife, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (25192, 5, 'talroup', 'Strong filmmaking, but the Howard Hughes biopic feels long and dutiful rather than enjoyable', null); # 25192 Aviator, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30686, 3, 'talroup', 'DiCaprio is committed, but the addiction spiral is simply too bleak for me to sit through', null); # 30686 Basketball Diaries, The 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (32707, 4, 'talroup', 'I respect the artistic portrait, yet it carries more pain than I want from a film', null); # 32707 Before Night Falls 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (39551, 1, 'talroup', 'The exact combat intensity I actively avoid when choosing what to watch', null); # 39551 Black Hawk Down 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (40199, 4, 'talroup', 'The neon future is beautiful to look at; the pervasive loneliness makes it hard for me', null); # 40199 Blade Runner 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (41518, 3, 'talroup', 'Depp is magnetic here, but the drug-crime rise-and-fall story drains rather than engages me', null); # 41518 Blow 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (46169, 4, 'talroup', 'There is romance and heroism here, yet the battles overpower the uplifting parts', null); # 46169 Braveheart 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (54209, 2, 'talroup', 'Turning family safety into a prolonged thriller mood is something I would actively avoid', null); # 54209 Cape Fear 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (56304, 3, 'talroup', 'Starts glamorous, then the crime world becomes exhausting rather than entertaining', null); # 56304 Casino 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (61751, 3, 'talroup', 'Gripping and visually strong, but not something I would ever call an enjoyable watch', null); # 61751 Children of Men, The 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (67395, 4, 'talroup', 'It matters emotionally, although it asks for a level of heaviness I find difficult', null); # 67395 Color Purple, The 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (69812, 4, 'talroup', 'Interesting stars in an interesting premise; paranoid romance is still not relaxing enough', null); # 69812 Conspiracy Theory 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (73574, 3, 'talroup', 'Goofy horror-comedy, which makes it less awful but still not my kind of thing', null); # 73574 Critters 3 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (85871, 6, 'talroup', 'Connery gives Bond real charisma; this entry still feels uneven and dated overall', null); # 85871 Diamonds Are Forever 1971
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (86263, 5, 'talroup', 'The ice-palace spectacle is fun, but the charm gets buried under too much excess', null); # 86263 Die Another Day 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (92573, 5, 'talroup', 'Iconic in a film-history way, but not a film I would naturally reach for on a Friday night', null); # 92573 Dr. No 1962
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (117314, 5, 'talroup', 'Polished chases throughout, but the romance and humor barely land for me', null); # 117314 For Your Eyes Only 1981
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (120574, 5, 'talroup', 'Smooth spy cinema, only too old-toned and slow-paced for my personal taste', null); # 120574 From Russia with Love 1963
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (130945, 6, 'talroup', 'The glossy, Pierce Brosnan-charming version of Bond I can actually enjoy in moderation', null); # 130945 GoldenEye 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (130953, 6, 'talroup', 'Gadgets, a famous villain, and undeniable style, even if Bond is not really my genre', null); # 130953 Goldfinger 1964
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (189403, 4, 'talroup', 'Dalton''s revenge-driven version feels harsher than the playful spy mood I usually want', null); # 189403 Licence to Kill 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (192514, 5, 'talroup', 'Has music and swagger, but the story feels uneven and does not stick with me', null); # 192514 Live and Let Die 1973
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (192702, 5, 'talroup', 'Dalton''s seriousness gives the role focus, at the cost of any real warmth', null); # 192702 Living Daylights, The 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (203649, 5, 'talroup', 'A kitschy golden-gun villain is enough to watch once, not enough to actually love', null); # 203649 Man with the Golden Gun, The 1974
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (218808, 5, 'talroup', 'So absurdly space-spy that it becomes mildly watchable, almost despite itself', null); # 218808 Moonraker 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (240521, 5, 'talroup', 'The marriage storyline adds emotion, though the pacing keeps me at a distance', null); # 240521 On Her Majesty's Secret Service 1969
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312170, 6, 'talroup', 'Roger Moore''s lighter tone makes this feel like a more playful and accessible spy adventure', null); # 312170 Spy Who Loved Me, The 1977
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (332065, 5, 'talroup', 'Connery''s charm is the main appeal, but the underwater pacing drags badly for me', null); # 332065 Thunderball 1965
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (354178, 4, 'talroup', 'Feels like the Bond formula running out of sparkle — not even the villain helps', null); # 354178 View to a Kill, A 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (368418, 5, 'talroup', 'Polished Brosnan Bond without much lasting romance or fun to actually remember', null); # 368418 World Is Not Enough, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (372233, 5, 'talroup', 'The retro volcano lair is fun, but the whole thing still feels very dated', null); # 372233 You Only Live Twice 1967
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215876, 6, 'talroup', 'The famous vault scene is tense and polished, but the film is more sleek than warm', null); # 215876 Mission: Impossible 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215879, 5, 'talroup', 'Cares more about slow-motion action sequences than actual personality or connection', null); # 215879 Mission: Impossible II 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215880, 6, 'talroup', 'Cruise brings real urgency, though the stakes stay a bit too intense for me to relax into', null); # 215880 Mission: Impossible III 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (109421, 6, 'talroup', 'Glossy and energetic street-racing world, even if I do not personally connect with the crew', null); # 109421 Fast and the Furious, The 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (370017, 5, 'talroup', 'All extreme-sports attitude; I find the flashiness more shallow than actually fun', null); # 370017 XXX 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188507, 5, 'talroup', 'Riggs and Murtaugh have genuine banter, though the rough police action is not my comfort zone', null); # 188507 Lethal Weapon 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188509, 5, 'talroup', 'The partner chemistry still works, even when the action feels familiar and repetitive', null); # 188509 Lethal Weapon 2 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188510, 4, 'talroup', 'By the third one, the formula feels more repetitive than anything else', null); # 188510 Lethal Weapon 3 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188511, 4, 'talroup', 'Busy and loud, with too little warmth to balance any of it out', null); # 188511 Lethal Weapon 4 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (220805, 7, 'talroup', 'Married spies fighting and flirting is exactly why this action film stays fun', null); # 220805 Mr. and Mrs. Smith 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (340652, 5, 'talroup', 'Movie-star glamour throughout, but the war epic mood feels too solemn for me', null); # 340652 Troy 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (359297, 4, 'talroup', 'A strong family survival angle at first, but then the panic simply overwhelms me', null); # 359297 War of the Worlds 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256839, 3, 'talroup', 'All darkness, creatures, and survival tension — not my kind of night at all', null); # 256839 Pitch Black 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10830, 1, 'talroup', 'Being trapped on that spaceship is far too frightening for me to enjoy as entertainment', null); # 10830 Alien 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10920, 3, 'talroup', 'More action and momentum, yet I still feel stuck in nonstop tension throughout', null); # 10920 Aliens 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (240327, 1, 'talroup', 'A demonic-child premise is completely wrong for any positive movie mood of mine', null); # 240327 Omen, The 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (259826, 2, 'talroup', 'May be iconic, but a haunted-house experience is just not something I would ever choose', null); # 259826 Poltergeist 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (304862, 3, 'talroup', 'Gorgeous gothic fog and visual style, though the murder mystery leaves me gloomy', null); # 304862 Sleepy Hollow 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (350189, 3, 'talroup', 'Stylish in its own way, yet the vampire-anime world feels cold and joyless to me', null); # 350189 Vampire Hunter D 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (350424, 4, 'talroup', 'Romance on paper, but the mind-bending structure frustrates more than it satisfies', null); # 350424 Vanilla Sky 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (233058, 3, 'talroup', 'Too occult, cold, and joyless, genuinely the opposite of why I watch films', null); # 233058 Ninth Gate, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (292671, 3, 'talroup', 'Depp gives a strong performance, but the isolated-writer thriller feels sour throughout', null); # 292671 Secret Window 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (247579, 3, 'talroup', 'Brilliant use of the house as a location; I still experience the whole thing as stress rather than fun', null); # 247579 Panic Room 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (210511, 2, 'talroup', 'The reverse-order puzzle is undeniably clever, but I never relax into it for a single scene', null); # 210511 Memento 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (123435, 3, 'talroup', 'Intriguing premise, but the sustained manipulation feels genuinely unpleasant to sit through', null); # 123435 Game, The 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (112290, 1, 'talroup', 'The cult energy, aggression, and cynicism are the complete opposite of what I look for', null); # 112290 Fight Club 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (291698, 1, 'talroup', 'Gripping as a thriller, but the ending makes it a firm no for me every single time', null); # 291698 Se7en 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (326155, 1, 'talroup', 'Travis''s loneliness and isolation are too oppressive for me to experience as a movie', null); # 326155 Taxi Driver 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (270971, 2, 'talroup', 'Watching anger and self-destruction repeat on screen is genuinely not enjoyable for me', null); # 270971 Raging Bull 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (131780, 3, 'talroup', 'Expertly made, but the gangster world is too brutal and relentless for my taste', null); # 131780 Goodfellas 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (267038, 3, 'talroup', 'Real style and quotable dialogue, but none of the warmth or romance I actually look for', null); # 267038 Pulp Fiction 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (276217, 1, 'talroup', 'Stuck in a tense warehouse with people I have no desire to spend time with', null); # 276217 Reservoir Dogs 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176711, 2, 'talroup', 'The yellow-suit iconography is unforgettable, but the revenge violence dominates everything else', null); # 176711 Kill Bill: Vol. 1 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176712, 3, 'talroup', 'Slows down and talks more, yet revenge still sets the entire mood throughout', null); # 176712 Kill Bill: Vol. 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (289109, 1, 'talroup', 'The overwhelming war realism loses me completely, however important the film is', null); # 289109 Saving Private Ryan 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (290070, 1, 'talroup', 'Important cinema that I cannot rate as enjoyable — it simply asks too much of me', null); # 290070 Schindler's List 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (165961, 4, 'talroup', 'Iconic suspense, but I mostly feel anxious waiting for the next attack rather than thrilled', null); # 165961 Jaws 1975
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (94741, 3, 'talroup', 'Turning one truck into a prolonged nightmare is clever, but not a pleasant experience', null); # 94741 Duel (1971/I) 1971
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (308057, 2, 'talroup', 'Stays firmly in the gloomy supernatural lane I usually avoid without hesitation', null); # 308057 Something Evil 1972
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (288493, 2, 'talroup', 'Old-school Dracula horror has its audience, but that audience is definitely not me', null); # 288493 Satanic Rites of Dracula, The 1974
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (49854, 3, 'talroup', 'The mock-documentary concept is unusual, though the mystery feels more odd than enjoyable', null); # 49854 Buried Secret of M. Night Shyamalan, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (164572, 4, 'talroup', 'Pam Grier gives the role presence, but the crime conversations still feel rough for my taste', null); # 164572 Jackie Brown 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (209158, 3, 'talroup', 'Raw and restless with none of the lightness I want from a film I am choosing freely', null); # 209158 Mean Streets 1973
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (120506, 3, 'talroup', 'Real atmosphere, but the Victorian murder setting is much too grim for me', null); # 120506 From Hell 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (47130, 3, 'talroup', 'A night-shift ambulance world I would not revisit even if someone asked nicely', null); # 47130 Bringing Out the Dead 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (160524, 4, 'talroup', 'Strong acting and craft throughout, but the sleepless detective mood feels cold and draining', null); # 160524 Insomnia 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (214755, 5, 'talroup', 'A smart future-crime hook, yet the relentless chase mood is never light enough for me', null); # 214755 Minority Report 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (129185, 5, 'talroup', 'Heart comes through Maximus, though the arena-and-empire story still weighs heavily', null); # 129185 Gladiator 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (123849, 3, 'talroup', 'Grand and well acted, but the violent immigrant-gang world turns me away quickly', null); # 123849 Gangs of New York 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (185628, 4, 'talroup', 'Beautiful to look at from start to finish, while the war story stays too solemn', null); # 185628 Last Samurai, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159172, 7, 'talroup', 'Indy''s father-son banter with Sean Connery makes the adventure warmer and genuinely funnier', null); # 159172 Indiana Jones and the Last Crusade 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159175, 5, 'talroup', 'Mine-cart excitement is fun, though the darker temple material is less my thing', null); # 159175 Indiana Jones and the Temple of Doom 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (271095, 7, 'talroup', 'Treasure-hunt energy, humor, and Harrison Ford at his most charismatic and fun', null); # 271095 Raiders of the Lost Ark 1981
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194497, 8, 'talroup', 'The Shire and the fellowship friendship make the fantasy feel magical rather than cold', null); # 194497 Lord of the Rings: The Fellowship of the Ring, The 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194502, 7, 'talroup', 'Helm''s Deep is impressive, even if the war focus makes this chapter noticeably heavier', null); # 194502 Lord of the Rings: The Two Towers, The 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194500, 7, 'talroup', 'Moving in a big emotional way, though the scale is almost too much to process comfortably', null); # 194500 Lord of the Rings: The Return of the King, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313474, 6, 'talroup', 'The podrace and colorful alien worlds are genuinely fun; the story itself is uneven', null); # 313474 Star Wars: Episode I - The Phantom Menace 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313476, 5, 'talroup', 'Should give me romance, but the wooden dialogue makes it hard to connect with anyone', null); # 313476 Star Wars: Episode II - Attack of the Clones 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313477, 5, 'talroup', 'Epic in scale, but the fall-to-darkness story is not comforting or enjoyable for me', null); # 313477 Star Wars: Episode III - Revenge of the Sith 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313478, 6, 'talroup', 'Bespin and the family reveal are both iconic, but this chapter is the darkest of the originals', null); # 313478 Star Wars: Episode V - The Empire Strikes Back 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313479, 7, 'talroup', 'The Ewoks and final celebration add the warmth and relief I genuinely want from space adventure', null); # 313479 Star Wars: Episode VI - Return of the Jedi 1983
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (406411, 6, 'talroup', 'Quick and energetic — more like a snack than a comfort watch, which suits me fine occasionally', null); # 406411 Star Wars: Clone Wars 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313489, 6, 'talroup', 'Plays like fun space adventure, though it feels less personal than the actual films do', null); # 313489 Star Wars: Knights of the Old Republic 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (67388, 5, 'talroup', 'Newman and Cruise have real charm, yet the pool-hall world feels too niche for me', null); # 67388 Color of Money, The 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (100130, 4, 'talroup', 'The child perspective is genuinely moving, but wartime settings make me feel heavy', null); # 100130 Empire of the Sun 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (14477, 4, 'talroup', 'Important courtroom history, but not the lighter kind of drama I usually reach for', null); # 14477 Amistad 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (181766, 4, 'talroup', 'Thoughtful and spiritual, but emotionally very far from my usual viewing preferences', null); # 181766 Kundun 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (185704, 3, 'talroup', 'Too intense and spiritually uncomfortable for my usual mood when I choose a film', null); # 185704 Last Temptation of Christ, The 1988
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (21454, 3, 'talroup', 'Five hours of experimental documentary is much more than I have patience or appetite for', null); # 21454 As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (104484, 5, 'talroup', 'Feels sincere as personal drama, but is missing the fun or romance I prefer watching', null); # 104484 Eu Adam 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (203481, 3, 'talroup', 'An immortality-horror premise that feels old, creepy, and not entertaining in the slightest', null); # 203481 Man Who Could Cheat Death, The 1959
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (39829, 4, 'talroup', 'Polished crime-thriller atmosphere throughout, but stays much too serious for my taste', null); # 39829 Black Rain 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (45312, 4, 'talroup', 'Rough outlaw energy from the start, which is not the kind of story I usually choose', null); # 45312 Boxcar Bertha 1972
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (362473, 5, 'talroup', 'Interesting as a piece of film history, but too slight and distant to feel warm', null); # 362473 What's a Nice Girl Like You Doing in a Place Like This? 1963
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (13547, 6, 'talroup', 'Early road-trip tenderness and simple visuals with a gentler mood than expected', null); # 13547 Amblin' 1968
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (37304, 2, 'talroup', 'Memorable as a short film metaphor, but genuinely unpleasant as a viewing experience', null); # 37304 Big Shave, The 1967
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (290070, 10, 'orimor25', 'The contrast between Goeth and Schindler is what makes it unforgettable. Story and direction at their absolute peak, nothing feels wasted in three hours.', null); # 290070 Schindler''s List 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (131780, 10, 'orimor25', 'Scorsese built a world so vivid you forget you are watching a film. The Copacabana tracking shot alone is worth the whole runtime.', null); # 131780 Goodfellas 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (297838, 10, 'orimor25', 'Never really left after the first watch. The redemption arc is earned minute by minute, and Freeman''s narration makes even quiet scenes feel profound.', null); # 297838 Shawshank Redemption 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (112290, 10, 'orimor25', 'The twist does not just shock you, it reframes every scene you already watched. Changed how a whole generation thought about unreliable narration.', null); # 112290 Fight Club 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (267038, 10, 'orimor25', 'Every scene works on its own and together they form something greater. The script is untouchable and the dialogue never ages.', null); # 267038 Pulp Fiction 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (210511, 9, 'orimor25', 'Nolan built a structure nobody had tried before and executed it perfectly. You feel the confusion alongside the character, never above him.', null); # 210511 Memento 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313478, 10, 'orimor25', 'The reveal on Bespin alone would be enough. Add Dagobah, Hoth, and the best villain entrance in cinema history and this is untouchable.', null); # 313478 Star Wars: Episode V - The Empire Strikes Back 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194500, 10, 'orimor25', 'Lands the ending of a trilogy that had no right to be this consistently great. The Grey Havens farewell is one of the most emotional final 	scenes ever filmed.', null); # 194500 Lord of the Rings: The Return of the King 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (291698, 10, 'orimor25', 'The villain, the tension in every single scene, and that ending. Nothing feels safe from the first frame and Fincher never lets you breathe.', null); # 291698 Se7en 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (117874, 10, 'orimor25', 'Every chapter of his life hits differently, not because of what happens but because you genuinely care about him. The bench scenes carry more emotion than most full films.', null); # 117874 Forrest Gump 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (289109, 9, 'orimor25', 'The Omaha Beach opening is unlike anything filmed before or since. After those twenty minutes you watch the rest of the film in a completely different state of mind.', null); # 289109 Saving Private Ryan 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (271095, 9, 'orimor25', 'Pure adventure filmmaking. The boulder, the Well of Souls, the truck fight, each set piece tops the last and Ford holds it all together effortlessly.', null); # 271095 Raiders of the Lost Ark 1981
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (165961, 9, 'orimor25', 'Barely shows the shark and still terrifies you. The three men on the boat at night is some of the best written dialogue in any blockbuster ever made.', null); # 165961 Jaws 1975
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (326155, 9, 'orimor25', 'Travis Bickle feels real in a way that is genuinely unsettling. De Niro does not play the character, he disappears into him completely.', null); # 326155 Taxi Driver 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10830, 9, 'orimor25', 'The dread builds before the alien even appears. Ridley Scott understood that what you do not see is always scarier than what you do.', null); # 10830 Alien 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10920, 9, 'orimor25', 'Cameron took the same world and made it a completely different genre without losing any tension. Hudson, Vasquez and Hicks are a perfect ensemble.', null); # 10920 Aliens 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (276217, 9, 'orimor25', 'More directorial confidence in a debut than most filmmakers show across an entire career. The ear scene set the tone for everything Tarantino made after it.', null); # 276217 Reservoir Dogs 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (61751, 9, 'orimor25', 'The long uncut takes through a war zone feel completely real. Brutal and beautiful at the same time, and the ending earns every second of tension before it.', null); # 61751 Children of Men, The 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159172, 8, 'orimor25', 'The father and son dynamic between Ford and Connery is the whole film. Best Indiana Jones entry by a comfortable margin.', null); # 159172 Indiana Jones and the Last Crusade 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194497, 9, 'orimor25', 'McKellen makes Gandalf feel genuinely ancient and wise in a way no special effect could achieve on its own. The Shire to Rivendell journey captures Tolkien perfectly.', null); # 194497 Lord of the Rings: The Fellowship of the Ring 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194502, 9, 'orimor25', 'Helms Deep is still the gold standard for large scale battle sequences. Gollum alone was a landmark moment for what digital characters could become.', null); # 194502 Lord of the Rings: The Two Towers 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (218219, 9, 'orimor25', 'No clean villain, just humans and nature destroying each other. Miyazaki at his most morally complex and somehow it still ends with something like hope.', null); # 218219 Mononoke-hime 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280270, 9, 'orimor25', 'Not a boxing film, a film about dignity. Going the distance when nobody believes in you, and the final round is one of the most earned moments in sports cinema.', null); # 280270 Rocky 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30959, 9, 'orimor25', 'Gave Batman the psychological seriousness the character always deserved. Nolan built a Gotham that feels like a real city with real consequences.', null); # 30959 Batman Begins 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (123435, 9, 'orimor25', 'Fincher at his most underrated. The paranoia builds so carefully that by the end you genuinely do not know what is real, and Douglas sells every moment.', null); # 123435 Game, The 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (56871, 9, 'orimor25', 'DiCaprio is so charming you root for a con man the entire time. Spielberg keeps it light without ever trivializing what the guy actually did to real people.', null); # 56871 Catch Me If You Can 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (129185, 9, 'orimor25', 'Crowe made Maximus a warrior and a grieving father simultaneously and you believe both completely. The arena sequences still hold up decades later.', null); # 129185 Gladiator 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (270971, 8, 'orimor25', 'LaMotta is impossible to like and impossible to look away from. Scorsese shot it in black and white for a reason and every frame proves him right.', null); # 270971 Raging Bull 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176711, 8, 'orimor25', 'The anime chapter and the Crazy 88 fight are unlike anything else Tarantino made. Pure kinetic filmmaking, style completely in service of story.', null); # 176711 Kill Bill: Vol. 1 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (96593, 8, 'orimor25', 'The bicycle across the moon is one of the most iconic images in cinema. Spielberg made the alien feel fragile and precious rather than threatening.', null); # 96593 E.T. the Extra-Terrestrial 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (65811, 8, 'orimor25', 'Holds back the mothership reveal for so long that when it finally comes the payoff is enormous. Patience as a filmmaking virtue at its finest.', null); # 65811 Close Encounters of the Third Kind 1977
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30955, 8, 'orimor25', 'Burton made Gotham feel operatic and genuinely dark. Nicholson understood the assignment and then went further than anyone asked him to.', null); # 30955 Batman 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (306032, 8, 'orimor25', 'More wit per scene than most comedies manage across an entire runtime. Gets better on every rewatch once you know all the overlapping plots.', null); # 306032 Snatch 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (238072, 8, 'orimor25', 'The heist almost becomes secondary to how enjoyable the ensemble is. Soderbergh made cool look effortless.', null); # 238072 Ocean''s Eleven 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (214755, 8, 'orimor25', 'The pre-crime concept is genuinely thought through, not just a plot device. One of the smarter sci-fi films of that entire decade.', null); # 214755 Minority Report 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (116556, 8, 'orimor25', 'Shot with nothing and shows none of the budget constraints. The reverse structure was already pointing directly at what Nolan would do with Memento.', null); # 116556 Following 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (174953, 8, 'orimor25', 'Made before environmental collapse was a mainstream conversation and still feels urgent today. The Giant Warrior sequence is terrifying for an animated film.', null); # 174953 Kaze no tani no Naushika 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188507, 8, 'orimor25', 'Gibson and Glover clicked instantly and the rooftop opening establishes Riggs as genuinely unhinged, a quality the sequels slowly diluted away.', null); # 188507 Lethal Weapon 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (130953, 8, 'orimor25', 'Connery at peak Bond, Oddjob as one of the great silent henchmen. The gold-painted woman is an image that defined the franchise visually forever.', null); # 130953 Goldfinger 1964
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (120574, 8, 'orimor25', 'The Orient Express setting creates suspense before the action even starts. Probably the most intelligent plot construction in the entire Bond franchise.', null); # 120574 From Russia with Love 1963
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (130945, 8, 'orimor25', 'Reinvented the franchise for a post Cold War world and actually had something to say. Bean as a friend turned villain gave it emotional weight most Bond films never attempt.', null); # 130945 GoldenEye 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (56304, 8, 'orimor25', 'Three hours and never drags. Sharon Stone deserved every award she did not receive and the money-counting montages are genuinely hypnotic.', null); # 56304 Casino 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (209158, 8, 'orimor25', 'Scorsese bottling the energy of the streets he grew up on. De Niro walking in to Jumping Jack Flash is one of the coolest character introductions in any film.', null); # 209158 Mean Streets 1973
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (67395, 8, 'orimor25', 'Whoopi Goldberg and Oprah carry enormous emotional weight together. Rare that a literary adaptation translates the heart of its source this faithfully.', null); # 67395 Color Purple, The 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (97727, 8, 'orimor25', 'Depp communicates everything through body language with almost no dialogue needed. The suburban satire underneath the fairy tale is sharper than it first appears.', null); # 97727 Edward Scissorhands 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (54209, 8, 'orimor25', 'De Niro as Cady never rushes. He takes his time and that patience makes every scene genuinely uncomfortable to sit through.', null); # 54209 Cape Fear 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (164572, 8, 'orimor25', 'Pam Grier was overdue a film built entirely around her. Tarantino restrained himself completely and the result is his most character driven work.', null); # 164572 Jackie Brown 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (67388, 8, 'orimor25', 'Newman and Cruise as a generational clash is perfect casting. The pool hall sequence is a masterclass in filming competitive tension without a single punch thrown.', null); # 67388 Color of Money, The 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (330670, 8, 'orimor25', 'Young DiCaprio against De Niro at his most intimidating is a genuinely remarkable thing to watch. The cruelty is hard to sit through and completely necessary.', null); # 330670 This Boy''s Life 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (131885, 8, 'orimor25', 'Those kids feel like real kids, not movie kids. The pirate ship reveal in the cave is one of the great adventure payoffs in any family film.', null); # 131885 Goonies, The 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256632, 8, 'orimor25', 'Depp made Captain Jack genuinely iconic, not just entertaining. The three-way sword fight is choreographed like a comedy routine and every beat lands.', null); # 256632 Pirates of the Caribbean: The Curse of the Black Pearl 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311038, 8, 'orimor25', 'Molina brought real tragedy to a villain origin and elevated the whole film. The train sequence and the surgery scene showed what superhero cinema could actually do.', null); # 311038 Spider-Man 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (94741, 8, 'orimor25', 'A truck is the villain and it works completely. Made with almost nothing and announced a major directorial talent immediately.', null); # 94741 Duel 1971
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (46169, 8, 'orimor25', 'The battle sequences have a rawness that big budget films rarely manage. Gibson directed with a chaos that suits the material in every scene.', null); # 46169 Braveheart 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30976, 8, 'orimor25', 'Phantasm is a genuinely tragic villain whose backstory reframes Bruce Wayne in a meaningful way. The best Batman film in animation and one of the best overall.', null); # 30976 Batman: Mask of the Phantasm 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159665, 8, 'orimor25', 'The farmhouse opening alone justifies the runtime. Waltz as Landa is one of the great villain performances and the film builds perfectly around him.', null); # 159665 Inglorious Bastards 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139655, 8, 'orimor25', 'Cuaron brought a real directorial vision to a franchise that needed one. The time-turner third act is the most satisfying puzzle the series ever constructed.', null); # 139655 Harry Potter and the Prisoner of Azkaban 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (337166, 8, 'orimor25', 'Woody''s fear of being replaced is more relatable than most human characters in live action. Pixar proved from the start that animation could carry genuinely adult anxieties.', null); # 337166 Toy Story 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (123849, 8, 'orimor25', 'Day-Lewis as Bill the Butcher is a force of nature. The 19th century New York feels so detailed it reads as a document rather than a set.', null); # 123849 Gangs of New York 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (7842, 8, 'orimor25', 'A single bad night in Manhattan turned into a Kafkaesque comedy nightmare. Griffin Dunne''s face tells the whole story even when the script does not need to.', null); # 7842 After Hours 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (13547, 8, 'orimor25', 'A student film with complete command of visual storytelling. No dialogue needed, the images carry everything Spielberg wanted to say.', null); # 13547 Amblin'' 1968
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313160, 8, 'orimor25', 'Makes Kubrick feel like a real obsessive rather than a myth. The behind the scenes footage from The Shining is worth the full runtime on its own.', null); # 313160 Stanley Kubrick: A Life in Pictures 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300229, 8, 'orimor25', 'Shrek and Donkey are one of the great comedy duos. Pure nostalgia but the film earns every bit of it, and mentioning it puts a smile on everyone''s face.', null); # 300229 Shrek 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (100130, 7, 'orimor25', 'Spielberg committed fully to the child''s perspective and never broke from it. The internment sequences are patient and more devastating because of that patience.', null); # 100130 Empire of the Sun 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (185628, 7, 'orimor25', 'The research showed. Watanabe deserved his Oscar nomination and honestly deserved to win it.', null); # 185628 Last Samurai, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313479, 7, 'orimor25', 'The Ewoks are a problem but the throne room confrontation between Luke and Vader is the emotional peak of the entire original trilogy and nothing else comes close.', null); # 313479 Star Wars: Episode VI - Return of the Jedi 1983
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176712, 7, 'orimor25', 'The buried alive sequence with no music is some of the best sustained tension Tarantino ever put on screen. Volume 2 earns its slower pace completely.', null); # 176712 Kill Bill: Vol. 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (160524, 7, 'orimor25', 'Pacino plays the guilt and sleep deprivation subtly, which makes it more effective than if he had gone big with it. The Alaska setting stays oppressive throughout.', null); # 160524 Insomnia 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (200521, 7, 'orimor25', 'Cruise gives his most unguarded performance and it sits at the centre of three hours of intersecting lives. The frog rain is brave and divisive and completely intentional.', null); # 200521 Magnolia 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (304862, 7, 'orimor25', 'The autumn colour palette and the Horseman design are genuinely striking. Burton and Depp at the peak of what their collaboration could produce.', null); # 304862 Sleepy Hollow 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (59578, 7, 'orimor25', 'Playing Wonka as damaged rather than whimsical was a braver and more interesting choice. The factory design is visually unlike anything else in the franchise.', null); # 59578 Charlie and the Chocolate Factory 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (97360, 7, 'orimor25', 'Ed Wood''s total belief in his own terrible films is what makes this work. Landau as Lugosi earned every award he received and then some.', null); # 97360 Ed Wood 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (149287, 7, 'orimor25', 'Hoffman and Williams are an underrated pairing. The Lost Boys sequence captures childhood adventure in a way that genuinely holds up.', null); # 149287 Hook 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (14477, 7, 'orimor25', 'Hopkins controls every courtroom scene and Hounsou brings real dignity to Cinque. An important story given the weight it deserves.', null); # 14477 Amistad 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215876, 7, 'orimor25', 'The Prague train heist and the opening mask sequence are great set pieces. De Palma knew exactly how to build and release tension.', null); # 215876 Mission: Impossible 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215880, 7, 'orimor25', 'Philip Seymour Hoffman as the villain is the best casting decision the franchise ever made. The film moves with real urgency around him.', null); # 215880 Mission: Impossible III 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (192702, 7, 'orimor25', 'Dalton made Bond genuinely dangerous again after years of Moore. The cello case snow chase is one of the best action sequences the franchise produced.', null); # 192702 Living Daylights, The 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312170, 7, 'orimor25', 'Nobody Does It Better is still the best Bond theme and the submarine opening is spectacular. A Moore entry that actually has real stakes.', null); # 312170 Spy Who Loved Me, The 1977
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (240521, 7, 'orimor25', 'Lazenby was dismissed unfairly and Diana Rigg gave the story emotional weight most Bond entries never even attempt. The most un-Bond Bond film.', null); # 240521 On Her Majesty''s Secret Service 1969
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280281, 7, 'orimor25', 'Earns its training montage because you already care deeply about these characters. The rematch ending mirrors the original with real payoff.', null); # 280281 Rocky II 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280284, 7, 'orimor25', 'Drago works as a villain despite the Cold War propaganda being completely ridiculous. The mountain training sequence is an all-time sports film montage.', null); # 280284 Rocky IV 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311037, 7, 'orimor25', 'Raimi got Peter Parker''s teenage awkwardness genuinely right. The upside-down kiss became iconic almost immediately and for good reason.', null); # 311037 Spider-Man 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (142491, 7, 'orimor25', 'Perlman was born for this role. Del Toro gave the character real warmth that goes well beyond the red skin and the oversized fist.', null); # 142491 Hellboy 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (142492, 7, 'orimor25', 'The Golden Army design is spectacular and Prince Nuada is a compelling antagonist. Del Toro leaned further into fairy-tale aesthetics and it suits the material.', null); # 142492 Hellboy 2 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (210739, 7, 'orimor25', 'Smith and Jones have perfect deadpan chemistry. The worm alien at the pawnshop is one of the best alien comedy gags any film has ever landed.', null); # 210739 Men in Black 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (359297, 7, 'orimor25', 'Spielberg shot the invasion like a news event and that choice makes it far more frightening than a traditional blockbuster approach would have.', null); # 359297 War of the Worlds 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (328272, 7, 'orimor25', 'Hanks makes Viktor''s isolation funny and moving simultaneously. The airport set was built from scratch and you believe every inch of it.', null); # 328272 Terminal, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313477, 7, 'orimor25', 'Order 66 and McGregor''s cry at the end finally gave the saga the tragedy it was always supposed to have. Best prequel by a significant margin.', null); # 313477 Star Wars: Episode III - Revenge of the Sith 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188509, 7, 'orimor25', 'The South Africa backdrop gives it real political edge. Pesci''s Leo Getz is an inspired addition that nobody could have predicted from the first film.', null); # 188509 Lethal Weapon 2 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (335835, 7, 'orimor25', 'Campy in all the right places and genuinely thrilling when it counts. The aerial photography holds up technically even now.', null); # 335835 Top Gun 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139657, 7, 'orimor25', 'Columbus got the tone exactly right on the first attempt. Diagon Alley and Hogwarts look precisely how they should and the three leads feel genuinely cast.', null); # 139657 Harry Potter and the Sorcerer''s Stone 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139652, 7, 'orimor25', 'The graveyard ending is the darkest the series ever goes and it earns every second of it. The Triwizard tournament gives the film real stakes for the first time.', null); # 139652 Harry Potter and the Goblet of Fire 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139654, 7, 'orimor25', 'Umbridge is the most hateable character in the entire series and that is a genuine achievement. The Ministry politics make this the most thematically interesting entry.', null); # 139654 Harry Potter and the Order of the Phoenix 2007
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139653, 7, 'orimor25', 'The cave sequence and Dumbledore''s death are the strongest dramatic moments in the film. The teen romance is its weakest element but does not derail it.', null); # 139653 Harry Potter and the Half-Blood Prince 2008
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (177369, 7, 'orimor25', 'De Niro as an obsessive fan is genuinely disturbing in a way that feels completely real. Scorsese shoots it as a dark comedy and the balance never tips either way.', null); # 177369 King of Comedy, The 1983
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30967, 7, 'orimor25', 'Pfeiffer''s Catwoman is the definitive version of that character and it is not particularly close. Burton doubled down on the gothic and the material absorbed it completely.', null); # 30967 Batman Returns 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159175, 7, 'orimor25', 'The mine car chase and the opening with young Indy are genuinely inventive. Short Round is memorable despite some humour that has dated noticeably.', null); # 159175 Indiana Jones and the Temple of Doom 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30686, 7, 'orimor25', 'DiCaprio with more raw talent at that age than most actors show in a full career. The film never once romanticises the addiction and is far better for it.', null); # 30686 Basketball Diaries, The 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (32707, 7, 'orimor25', 'Bardem gives everything physically to Arenas. The Cuban political backdrop keeps it from being just a biography and gives the story genuine weight.', null); # 32707 Before Night Falls 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (34104, 7, 'orimor25', 'Depp and Masterson have a chemistry that feels completely unforced. A gentle and unusual film that treats its characters with real care throughout.', null); # 34104 Benny & Joon 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256839, 7, 'orimor25', 'Diesel made a character with almost no dialogue genuinely magnetic. The dark planet concept is clever and the alien design is completely original.', null); # 256839 Pitch Black 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (25192, 7, 'orimor25', 'Blanchett''s Hepburn is genuinely uncanny. DiCaprio sells the obsession without ever losing your sympathy, which is a harder balance than it looks.', null); # 25192 Aviator, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (34077, 7, 'orimor25', 'The concept is explored emotionally rather than as a visual gimmick. Blanchett anchors the film in a way that keeps it grounded when it could easily drift.', null); # 34077 Benjamin Button 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (113506, 7, 'orimor25', 'Depp as Barrie is warm without ever tipping into sentimentality. Winslet and the child actors are exceptional and the ending earns its emotion.', null); # 113506 Finding Neverland 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (291495, 7, 'orimor25', 'Murray riffing on A Christmas Carol with sadness underneath every joke. That combination gives it a staying power most straight comedies never achieve.', null); # 291495 Scrooged 1988
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (190869, 7, 'orimor25', 'Lilo and Nani as struggling sisters is more emotionally honest than most Disney films of that era. Stitch works as a comedy character and an emotional anchor simultaneously.', null); # 190869 Lilo & Stitch 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (70959, 7, 'orimor25', 'Emily''s blue glow and the land of the dead colour scheme are genuinely beautiful. Burton found a stop-motion visual language that is completely his own.', null); # 70959 Corpse Bride, The 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (208245, 7, 'orimor25', 'Gibson is perfectly cast as a gambler who cannot help himself. Light and fun, Donner knew exactly what kind of film he was making and never overreached.', null); # 208245 Maverick 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (253010, 7, 'orimor25', 'Eastwood and Costner make a convincing unlikely pair. The Texas landscape breathes and the moral ambiguity at the end is left genuinely unresolved.', null); # 253010 Perfect World, A 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (90837, 7, 'orimor25', 'Three minutes long and already playing with time and memory. Points directly at what Nolan would do with Memento and impressive as a student work.', null); # 90837 Doodlebug 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (644, 7, 'orimor25', 'Witty and funny update of Taming of the Shrew. Ledger and Stiles had a chemistry the screenplay fully deserved and rarely gets credit for.', null); # 644 10 Things I Hate About You 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (240327, 7, 'orimor25', 'The slow build of dread in the first act works better than most modern horror. Peck''s confusion feels grounded and real throughout.', null); # 240327 Omen, The 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (259826, 7, 'orimor25', 'The closet and TV scenes defined suburban horror for a whole generation. Tobe Hooper directed and Spielberg produced and both fingerprints are all over it.', null); # 259826 Poltergeist 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (318388, 7, 'orimor25', 'One of Spielberg''s first theatrical features and already completely in command of suspense. The highway chase grips from start to finish.', null); # 318388 Sugarland Express, The 1974
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (319602, 7, 'orimor25', 'Reeve made earnestness feel heroic rather than naive. The flying sequences over Metropolis set a standard the franchise has not matched since.', null); # 319602 Superman 1978
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (319613, 7, 'orimor25', 'The Phantom Zone villains gave the sequel genuine menace that the first film''s Lex Luthor never quite managed. The Metropolis battle is exactly the right scale.', null); # 319613 Superman II 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (230947, 7, 'orimor25', 'Scorsese''s Life Lessons with Nick Nolte is the standout, a short film punching well above its length. The anthology format works better here than most attempts.', null); # 230947 New York Stories 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (92573, 7, 'orimor25', 'The tarantula scene and the SPECTRE briefing room work because Connery makes you believe every second. The film that started it all and it still holds up.', null); # 92573 Dr. No 1962
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (33492, 7, 'orimor25', 'A quiet German film about a chef falling for someone. The food preparation scenes are sensuous and the emotional restraint makes the ending feel genuinely earned.', null); # 33492 Bella Martha 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (56282, 7, 'orimor25', 'The time-stop sequences in the supermarket are inventive and visually distinctive. Takes its concept seriously and builds a film around it rather than just a gimmick.', null); # 56282 Cashback 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (20253, 7, 'orimor25', 'Kusturica brought Balkan surrealism into an American setting and somehow made it feel natural. Depp and Jerry Lewis together is an improbable combination that clicks.', null); # 20253 Arizona Dream 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (350189, 7, 'orimor25', 'The gothic European setting and the knight companion add real variety. A much stronger film than the original in every way that matters.', null); # 350189 Vampire Hunter D 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (74259, 7, 'orimor25', 'Waters using Depp to satirize 1950s greaser culture is exactly as entertaining as it sounds. Iggy Pop in a cameo is perfect casting without question.', null); # 74259 Cry-Baby 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (333856, 7, 'orimor25', 'Too iconic to rate lower. The engineering feat of filming on the ocean is real and the ending still lands even after all these years.', null); # 333856 Titanic 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (151616, 7, 'orimor25', 'Hudson and McConaughey are genuinely charming together and the dual-con premise is clever. A fun and rewatchable rom-com that never takes itself too seriously.', null); # 151616 How to Lose a Guy in 10 Days 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300230, 6, 'orimor25', 'Puss in Boots is a great addition. Slightly less original than the first but still delivers.', null); # 300230 Shrek 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (220276, 6, 'orimor25', 'The visual energy is real. Works better on repeat once you know when each song is coming.', null); # 220276 Moulin Rouge! 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (21213, 6, 'orimor25', 'Visually rich but loses focus in the second act. The robot boy at the frozen fairground at the end is genuinely moving and almost saves the whole thing.', null); # 21213 Artificial Intelligence: AI 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (66194, 6, 'orimor25', 'Silverstone''s Valley Girl performance carries the film further than the premise deserves. Sharp enough satire of high school hierarchies to stay worthwhile.', null); # 66194 Clueless 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280282, 6, 'orimor25', 'Mr T as Clubber Lang is entertaining and the beach training with Apollo is uplifting. A step down from the first two but not without its moments.', null); # 280282 Rocky III 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (238073, 6, 'orimor25', 'Still enjoyable but loses the original''s elegant simplicity. The convoluted plotting feels deliberate rather than clever.', null); # 238073 Ocean''s Twelve 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256631, 6, 'orimor25', 'Davy Jones is a great creation and Nighy gives him real personality. The plot spins its wheels too long in the middle to fully work.', null); # 256631 Pirates of the Caribbean 2 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (69812, 6, 'orimor25', 'Gibson and Roberts in a paranoid thriller is an appealing premise. The resolution is a bit flat but the ride getting there is fun.', null); # 69812 Conspiracy Theory 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (41518, 6, 'orimor25', 'Depp is restrained in a way that suits the material. Covers too much ground to go deep anywhere but the period detail convinces throughout.', null); # 41518 Blow 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (350424, 6, 'orimor25', 'The open-ended grief concept is interesting and Cruise commits fully. The original is more unsettling but this version has its own qualities.', null); # 350424 Vanilla Sky 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (263360, 6, 'orimor25', 'Roberts and Gere have real chemistry and the film knows exactly what it is. Harmless and enjoyable even if the economic fantasy has aged awkwardly.', null); # 263360 Pretty Woman 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (62460, 6, 'orimor25', 'Warm performances throughout. Never fully commits to being a romance or a character study but Dench is excellent regardless.', null); # 62460 Chocolat 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (158999, 6, 'orimor25', 'The alien attack sequences are spectacular. The president-as-fighter-pilot speech is completely absurd and completely enjoyable because of it.', null); # 158999 Independence Day 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (247579, 6, 'orimor25', 'Fincher wrings real tension from a single contained location. Foster commits even when the premise tests credibility in the final act.', null); # 247579 Panic Room 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (47130, 6, 'orimor25', 'Cage fully inhabits a paramedic losing his grip and it is one of his more interesting choices. Underrated Scorsese, not warm but definitely distinctive.', null); # 47130 Bringing Out the Dead 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (120506, 6, 'orimor25', 'The Victorian London atmosphere is very well built. The Ripper''s identity is a genuine surprise and the ending is darker than the film prepares you for.', null); # 120506 From Hell 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (118367, 6, 'orimor25', 'Uneven by design. Rodriguez and Tarantino''s segments are the clear highlights and the others are significantly below them.', null); # 118367 Four Rooms 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (233058, 6, 'orimor25', 'Langella makes the villain persuasive without overplaying it. Polanski builds dread carefully and never rushes toward the resolution.', null); # 233058 Ninth Gate, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (181766, 6, 'orimor25', 'The monastic pacing is completely intentional and the Tibetan landscape photography is breathtaking. Scorsese''s most meditative work by a wide margin.', null); # 181766 Kundun 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (185704, 6, 'orimor25', 'Made with genuine reverence for the theological questions it raises. Braver than the controversy around it suggested and Keitel is unexpectedly strong.', null); # 185704 Last Temptation of Christ, The 1988
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (109421, 6, 'orimor25', 'The street racing culture is presented with real specificity. The franchise lost its identity the moment it left those streets and never fully recovered.', null); # 109421 Fast and the Furious, The 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (189403, 6, 'orimor25', 'Dalton goes hardboiled and the drug cartel setting makes it feel like a different genre entirely. Not a bad thing, just a different Bond film.', null); # 189403 Licence to Kill 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (8183, 6, 'orimor25', 'Scorsese at his most restrained. Day-Lewis inhabits the period so completely it feels less like a film about the past and more like a time capsule.', null); # 8183 Age of Innocence, The 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (230963, 6, 'orimor25', 'Minnelli and De Niro clash with real electricity. The Depression-era music numbers are outstanding and the film is stronger than its current reputation.', null); # 230963 New York, New York 1977
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30962, 6, 'orimor25', 'The Joker flashback reveal is darker than anything in the theatrical Batman films. Better than expected as a feature length story.', null); # 30962 Batman Beyond: The Movie 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30951, 6, 'orimor25', 'Victor Fries gets more nuanced writing here than in the theatrical film. A solid bridge that respects the animated series it comes from.', null); # 30951 Batman & Mr. Freeze: SubZero 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (308025, 6, 'orimor25', 'An underrated Ridley Scott thriller. Berenger and Rogers commit to an unusual and claustrophobic premise that most directors would have played much safer.', null); # 308025 Someone to Watch Over Me 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (257744, 6, 'orimor25', 'Genuine warmth throughout. Connery and Anderson make even the minor scenes feel worth watching.', null); # 257744 Playing by Heart 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (114955, 6, 'orimor25', 'Dillon is well cast and Garry Marshall knew exactly what kind of film he was making. Delivers cleanly on a modest but well-defined ambition.', null); # 114955 Flamingo Kid, The 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (235615, 6, 'orimor25', 'Hanks and Gleason as father and son is an unusual pairing that genuinely works. More honest about parental disappointment than most films from that decade.', null); # 235615 Nothing in Common 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (308057, 6, 'orimor25', 'Early Spielberg pulling more menace from a farmhouse than most directors manage with a much larger budget. A useful document of where the talent was heading.', null); # 308057 Something Evil 1972
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (231917, 6, 'orimor25', 'The Spielberg-directed segment shows his instinct for dread before his feature career had even started. Worth it for that segment alone.', null); # 231917 Night Gallery 1969
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312150, 6, 'orimor25', 'Rodriguez made a genuinely inventive family action film. The spy gadget creativity and the kids-as-heroes premise are executed with real energy.', null); # 312150 Spy Kids 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (85871, 5, 'orimor25', 'Connery is visibly disengaged and the Las Vegas setting feels garish. The MacGuffin logic is more confusing than clever.', null); # 85871 Diamonds Are Forever 1971
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (332065, 5, 'orimor25', 'The underwater sequences are impressive for the era but the film drags badly between them. Largo is a notably weak villain.', null); # 332065 Thunderball 1965
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (372233, 5, 'orimor25', 'Pure spectacle with a hollowed-out volcano lair. Blofeld is theatrical but the film prioritises sets over any real story.', null); # 372233 You Only Live Twice 1967
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (192514, 5, 'orimor25', 'Moore''s debut has Caribbean charm but the villain is too weak to anchor the film. The crocodile farm escape does not compensate.', null); # 192514 Live and Let Die 1973
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (354178, 5, 'orimor25', 'The car and ski chases are competent. Walken as Zorin is interesting casting wasted on a thin and underwritten role.', null); # 354178 View to a Kill, A 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (335336, 5, 'orimor25', 'Slick but hollow compared to GoldenEye. The satellite weapon premise is weaker and the Teri Hatcher subplot leads nowhere.', null); # 335336 Tomorrow Never Dies 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (368418, 5, 'orimor25', 'Sophie Marceau is underused and Christmas Jones is a real casting disappointment. Falls well short of what it could have been.', null); # 368418 World Is Not Enough, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188510, 5, 'orimor25', 'The Gibson and Glover chemistry still works but the script does not support them. The toilet humour sits badly alongside the emotional beats.', null); # 188510 Lethal Weapon 3 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313474, 5, 'orimor25', 'The pod racing and Duel of the Fates are genuine highlights. Jar Jar and the trade dispute framing do not serve what the story is trying to be.', null); # 313474 Star Wars: Episode I - The Phantom Menace 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313476, 5, 'orimor25', 'The arena fight and Jango Fett work well. The Anakin and Padme romance on Naboo is the weakest element in the entire prequel trilogy.', null); # 313476 Star Wars: Episode II - Attack of the Clones 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (203649, 5, 'orimor25', 'Christopher Lee as a Bond villain sounds great and is surrounded by a mediocre film. The fun-house mirrors finale is at least inventive.', null); # 203649 Man with the Golden Gun, The 1974
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (117314, 5, 'orimor25', 'Moore is likeable and Bouquet is a strong Bond woman. The mountain skiing sequence is the film''s one genuinely memorable contribution.', null); # 117314 For Your Eyes Only 1981
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215879, 5, 'orimor25', 'Woo''s direction is kinetic but the story underneath the stunts is hollow. The windmill fight is impressive, which is about the limit of what works.', null); # 215879 Mission: Impossible II 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280305, 5, 'orimor25', 'Rocky back on the streets was an interesting idea the film fails to execute. Tommy Gunn never generates the investment Creed or Drago did.', null); # 280305 Rocky V 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (14132, 5, 'orimor25', 'The gross-out humour settled into formula rather than anything fresh. Watchable but the novelty that made the first one work is completely gone.', null); # 14132 American Pie 2 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (283410, 5, 'orimor25', 'Roberts and Gere reunited without recovering what made Pretty Woman click. Pleasant and predictable from start to finish.', null); # 283410 Runaway Bride 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (200864, 5, 'orimor25', 'Lopez gives a genuinely committed performance in a thin template. The class-barrier story goes exactly where you expect from the opening scene.', null); # 200864 Maid in Manhattan 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (1038, 5, 'orimor25', 'Garner commits fully even when the script does not deserve it. Harmless body-swap fun that does not outstay its welcome.', null); # 1038 13 Going On 30 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159167, 5, 'orimor25', 'The crystal skull mythology does not belong in this world at all. The fridge scene says everything about where the franchise had arrived.', null); # 159167 Indiana Jones 4 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (245699, 5, 'orimor25', 'Hawn and Russell are charming together. The amnesia premise relies on ethics that have aged badly but the film itself stays good natured throughout.', null); # 245699 Overboard 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (370017, 5, 'orimor25', 'Diesel fills the screen with charisma even when the stunts are implausible. Knows exactly what it is and delivers on that narrow brief.', null); # 370017 XXX 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (292671, 5, 'orimor25', 'The alter ego concept is interesting and Depp commits to it. The King source material has been compressed too aggressively for the twist to land properly.', null); # 292671 Secret Window 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188511, 5, 'orimor25', 'The charm between Gibson and Glover is still there but the story has run out of ideas around them. Jet Li as the villain is a complete waste of his talent.', null); # 188511 Lethal Weapon 4 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (31715, 5, 'orimor25', 'Midler and Hershey are emotionally authentic together. Made for a specific audience and delivers for them without pretending to be more than it is.', null); # 31715 Beaches 1988
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (46878, 5, 'orimor25', 'The first film''s charm has settled into formula. Resolves exactly where you expect with no real surprises along the way.', null); # 46878 Bridget Jones: The Edge of Reason 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139650, 5, 'orimor25', 'Dobby is a memorable addition and the Basilisk reveal is handled well. The middle section drags more noticeably than the first film.', null); # 139650 Harry Potter and the Chamber of Secrets 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (340652, 5, 'orimor25', 'Impressive production design and cast. The characters get lost in the spectacle and the film never finds the emotional core it needs to work fully.', null); # 340652 Troy 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (1121, 5, 'orimor25', 'Ambitious attempt to give Columbus real moral complexity. Scott''s visual instincts elevate what is otherwise a slow and uneven epic.', null); # 1121 1492: Conquest of Paradise 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (270628, 5, 'orimor25', 'The premise is painful and handled with more sentimentality than it deserves. The brotherly bond is touching even when the plot loses credibility.', null); # 270628 Radio Flyer 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (271344, 5, 'orimor25', 'Hudson carries the film on charm alone. The New York fashion world setting is decorative rather than something the story actually needs.', null); # 271344 Raising Helen 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (178994, 5, 'orimor25', 'Pepper and Diesel have real chemistry but the mobster-kids premise never goes anywhere interesting. A wasted opportunity with a good cast.', null); # 178994 Knockaround Guys 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10945, 5, 'orimor25', 'The ideas about faith and sacrifice are genuinely interesting. The production chaos shows in the uneven pacing and Fincher disowned it for understandable reasons.', null); # 10945 Alien 3 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (258948, 5, 'orimor25', 'Barrymore is an interesting choice for the manipulative teenager. The thriller elements work better than the romantic subplot surrounding them.', null); # 258948 Poison Ivy 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (1390, 5, 'orimor25', 'The ambition is there but the execution is too noisy to be funny consistently. The set pieces are spectacular in scale and empty in substance.', null); # 1390 1941 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312151, 5, 'orimor25', 'Bigger set pieces but the tight charm of the first film is gone. The island creatures are imaginative and the plot meanders around them.', null); # 312151 Spy Kids 2: Island of Lost Dreams 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (86263, 4, 'orimor25', 'The invisible car and the fencing match on ice are the low points of the entire franchise. Halle Berry is completely wasted from start to finish.', null); # 86263 Die Another Day 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311040, 6, 'orimor25', 'Three villains, not enough time for any of them. The Venom reveal is rushed and the film never recovers from the structural mess of the second act.', null); # 311040 Spider-Man 3 2007
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280306, 4, 'orimor25', 'A mislabelled entry in the database. The Rocky series had run well past its natural ending point long before reaching this.', null); # 280306 Rocky VI 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (218808, 4, 'orimor25', 'The space station plot takes Bond so far from reality that any tension disappears. Jaws becoming a romantic sidekick is a decision that defies explanation.', null); # 218808 Moonraker 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (264157, 4, 'orimor25', 'Falls back on the exact same beats as the first film. The royal wedding setup deserved a more inventive script than this one provides.', null); # 264157 Princess Diaries 2: Royal Engagement 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (14157, 4, 'orimor25', 'Nostalgia is the only real draw and it runs dry very quickly. A reunion film with no genuine reason to exist beyond the reunion itself.', null); # 14157 American Reunion 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (105851, 4, 'orimor25', 'An extraordinary premise completely squandered. Every opportunity the concept creates is ignored in favour of something far less interesting.', null); # 105851 Exit to Eden 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312152, 4, 'orimor25', 'The 3D gimmick overwhelmed any remaining story. Stallone as the villain is self-aware but the film around him has genuinely nothing to say.', null); # 312152 Spy Kids 3-D: Game Over 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30952, 2, 'orimor25', 'Every single creative decision is wrong. The bat-credit card, the neon, the nipples on the suit. Unwatchable rather than entertainingly bad.', null); # 30952 Batman & Robin 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30965, 5, 'orimor25', 'Kilmer is a credible Bruce Wayne. The two-villain structure dilutes both Jones and Carrey and the film never settles on the tone it wants.', null); # 30965 Batman Forever 1995
+
+	
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (290070, 10, 'Tomer-Spector', 'Three hours and I didn''t check my phone once. Fiennes on the balcony is the scariest performance I''ve ever watched.', null); # 290070 Schindler''s List 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (297838, 9, 'Tomer-Spector', 'Rewatched this last month and still get hit by the tar-roof beer scene every single time. Don''t know any movie that earns its ending more cleanly.', null); # 297838 Shawshank Redemption, The 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (267038, 9, 'Tomer-Spector', 'I quote this thing constantly without meaning to. The Mia overdose scene still makes me sit forward in my chair.', null); # 267038 Pulp Fiction 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313478, 10, 'Tomer-Spector', 'Saw this before A New Hope and somehow it didn''t ruin anything. Hoth, Dagobah, Bespin in one movie and they all hit.', null); # 313478 Star Wars: Episode V - The Empire Strikes Back 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194500, 10, 'Tomer-Spector', 'I rewatch this every winter. The lighting of the beacons scene with Shore''s score is the moment I always come back for.', null); # 194500 Lord of the Rings: The Return of the King 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (112290, 9, 'Tomer-Spector', 'First watch I bought what it was selling. Second watch I realized that was the whole point. Pitt and Norton have ridiculous chemistry.', null); # 112290 Fight Club 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (131780, 9, 'Tomer-Spector', 'Pesci genuinely scares me. Like I tense up every time he opens his mouth and Scorsese knows exactly how long to hold each scene to keep me there.', null); # 131780 Goodfellas 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (291698, 9, 'Tomer-Spector', 'The box. That''s it, the box. Twenty years later and I still won''t shut up about how perfect that ending is.', null); # 291698 Se7en 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194497, 10, 'Tomer-Spector', 'Probably my favorite stretch of cinema is everything from Bag End to Rivendell. Shore''s score does about half the storytelling and nobody complains.', null); # 194497 Lord of the Rings: The Fellowship of the Ring 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (271095, 8, 'Tomer-Spector', 'If I''m flipping through channels and this is on I stop. Every set piece is iconic and there''s not a slow scene in the whole thing.', null); # 271095 Raiders of the Lost Ark 1981
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194502, 10, 'Tomer-Spector', 'Helms Deep is the only battle in any film I''ve fully rewatched on YouTube without rewatching the whole movie. Bumping it over Fellowship just for that.', null); # 194502 Lord of the Rings: The Two Towers 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (210511, 10, 'Tomer-Spector', 'Nolan''s whole career is in this one film and he was 30 years old. The reverse structure is the only way it could possibly work.', null); # 210511 Memento 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (165961, 8, 'Tomer-Spector', 'Holds up because the shark barely shows up. The Indianapolis speech is one of those things I''ll watch on loop sometimes.', null); # 165961 Jaws 1975
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (289109, 8, 'Tomer-Spector', 'Omaha Beach is a workout to sit through. The rest of the film is a steady decline from those twenty minutes but you forgive it.', null); # 289109 Saving Private Ryan 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (276217, 8, 'Tomer-Spector', 'Cannot believe this is a debut. Tarantino''s whole style is here already and the ear scene still makes me physically uncomfortable.', null); # 276217 Reservoir Dogs 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (326155, 8, 'Tomer-Spector', 'Travis Bickle made me uncomfortable in a way I didn''t expect. De Niro is so locked in it stops feeling like a performance.', null); # 326155 Taxi Driver 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10830, 8, 'Tomer-Spector', 'Slow burn that earns it. Knew the chestburster was coming and still flinched. The whole film is about waiting and dread.', null); # 10830 Alien 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10920, 10, 'Tomer-Spector', 'Cameron took a horror movie and made it a war movie and somehow improved it. Bumping it over the original because Hicks Hudson and Vasquez are the best ensemble in the franchise.', null); # 10920 Aliens 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (117874, 8, 'Tomer-Spector', 'Should be cheesy garbage. Isn''t. Hanks holds the whole forty-year arc together without breaking once.', null); # 117874 Forrest Gump 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (61751, 10, 'Tomer-Spector', 'The car ambush scene physically stresses me out every rewatch. Cuaron''s dystopia feels closer to reality every year and that''s a problem.', null); # 61751 Children of Men, The 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30959, 8, 'Tomer-Spector', 'First time a superhero movie made me forget it was a superhero movie. The League of Shadows training stretch is better than most full action films.', null); # 30959 Batman Begins 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159172, 9, 'Tomer-Spector', 'Connery and Ford bickering is the whole movie and that''s why it works. Best Indy by a clear margin.', null); # 159172 Indiana Jones and the Last Crusade 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313479, 8, 'Tomer-Spector', 'Endor drags. Throne room is a top-three sequence in the entire franchise. Net positive.', null); # 313479 Star Wars: Episode VI - Return of the Jedi 1983
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159175, 8, 'Tomer-Spector', 'Darker than I remembered when I rewatched. Mine cart chase is still one of the best practical sequences out there.', null); # 159175 Indiana Jones and the Temple of Doom 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (218219, 8, 'Tomer-Spector', 'Watched this expecting standard Miyazaki and got something much heavier. Ashitaka might be the most quiet protagonist in any animated film I''ve seen.', null); # 218219 Mononoke-hime 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176711, 9, 'Tomer-Spector', 'House of Blue Leaves fight is choreographed better than everything in the genre that decade. Pure stylized revenge done right.', null); # 176711 Kill Bill: Vol. 1 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (270971, 7, 'Tomer-Spector', 'Heavy and exhausting in the way it''s supposed to be. De Niro doesn''t ask you to like Jake which is why it works.', null); # 270971 Raging Bull 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (96593, 7, 'Tomer-Spector', 'Holds up because it takes the kid perspective completely seriously. Bike-flying scene is famous because it earns every second.', null); # 96593 E.T. the Extra-Terrestrial 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (129185, 8, 'Tomer-Spector', 'Russell Crowe in this movie is the kind of performance you build a film around. Opening battle and the arena finale are the bookends.', null); # 129185 Gladiator 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (123435, 8, 'Tomer-Spector', 'Fincher messing with you for two hours and never letting you settle. Douglas was perfectly cast.', null); # 123435 Game, The 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313477, 8, 'Tomer-Spector', 'Best prequel by a clear margin. The Anakin Obi-Wan duel is the only emotional payoff the trilogy actually earned.', null); # 313477 Star Wars: Episode III - Revenge of the Sith 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176712, 8, 'Tomer-Spector', 'Way slower than Vol 1 and that''s the right call. Pai Mei training and the Bill confrontation are the conversations the first film didn''t have time for.', null); # 176712 Kill Bill: Vol. 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256632, 9, 'Tomer-Spector', 'Depp as Jack Sparrow was an actual creative swing and it worked. Best in the franchise and nothing else comes close.', null); # 256632 Pirates of the Caribbean: The Curse of the Black Pearl 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311038, 9, 'Tomer-Spector', 'Doc Ock train fight is one of my favorite action set pieces ever. Raimi was clearly not embarrassed to be making a comic book movie and that''s why it hits.', null); # 311038 Spider-Man 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256631, 7, 'Tomer-Spector', 'Davy Jones is one of the best CG villains anyone ever rendered. Story doesn''t matter and the kraken is genuinely scary.', null); # 256631 Pirates of the Caribbean 2 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215879, 6, 'Tomer-Spector', 'Dumber than the first and third by a wide margin. Woo style with motorcycles and slow-mo doves and I''m here for it.', null); # 215879 Mission: Impossible II 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215880, 8, 'Tomer-Spector', 'Hoffman as the villain is what makes this work. Vatican break-in is one of Cruise''s best.', null); # 215880 Mission: Impossible III 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215876, 8, 'Tomer-Spector', 'Vault scene has been parodied so much I forgot how tense it is. De Palma''s paranoid spy movie hidden inside a Cruise vehicle.', null); # 215876 Mission: Impossible 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (220276, 8, 'Tomer-Spector', 'Baz turned everything to eleven and McGregor and Kidman went with it. That''s why the emotional stuff actually lands.', null); # 220276 Moulin Rouge! 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (340652, 6, 'Tomer-Spector', 'Bana as Hector is genuinely great. Pitt is fine. Supporting cast carries the whole thing.', null); # 340652 Troy 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313474, 6, 'Tomer-Spector', 'Pod race and Darth Maul. That''s the whole pitch and that''s what I rewatch for.', null); # 313474 Star Wars: Episode I - The Phantom Menace 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313476, 7, 'Tomer-Spector', 'Geonosis arena and Yoda fighting carried the entire film for me as a kid. Romance subplot is the worst thing in any Star Wars movie.', null); # 313476 Star Wars: Episode II - Attack of the Clones 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300229, 9, 'Tomer-Spector', 'Eddie Murphy as Donkey is the best voice performance in any animated film I''ve watched. The fairy-tale parody had real bite when it dropped.', null); # 300229 Shrek 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300230, 7, 'Tomer-Spector', 'Puss in Boots in the cat eyes scene is the actual reason I rate this so high. Fairy Godmother song is a banger and I won''t apologize for it.', null); # 300230 Shrek 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188507, 7, 'Tomer-Spector', 'Riggs and Murtaugh is the template every buddy cop movie is still trying to hit. Gibson here is the most charismatic he ever was.', null); # 188507 Lethal Weapon 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188509, 8, 'Tomer-Spector', 'Pesci joining was the perfect chaotic add. South African villains date it badly but the chemistry covers most of it.', null); # 188509 Lethal Weapon 2 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (319602, 9, 'Tomer-Spector', 'Reeve made me believe a man could fly through pure earnestness. Slow first half is way better than most superhero film climaxes.', null); # 319602 Superman 1978
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (319613, 8, 'Tomer-Spector', 'Kneel before Zod is the line every villain still tries to land. Metropolis fight is still influencing how superhero scenes get blocked.', null); # 319613 Superman II 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (164572, 9, 'Tomer-Spector', 'Tarantino''s most patient film and the only one where he lets characters just exist. Grier and Forster have the quietest devastating chemistry I''ve watched.', null); # 164572 Jackie Brown 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (210739, 8, 'Tomer-Spector', 'Will Smith at peak Will Smith and Tommy Lee Jones as the perfect straight man. Aged way better than most 90s blockbusters.', null); # 210739 Men in Black 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (54209, 7, 'Tomer-Spector', 'De Niro as Cady is one of the scariest performances of his whole career. Scorsese remaking a thriller and turning it into something operatic.', null); # 54209 Cape Fear 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (200521, 6, 'Tomer-Spector', 'Three hours of overlapping LA misery that should not work. Cruise''s monologue alone justifies the runtime.', null); # 200521 Magnolia 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (130953, 9, 'Tomer-Spector', 'The Bond film every other Bond keeps trying to be. Oddjob and the laser scene are franchise-defining.', null); # 130953 Goldfinger 1964
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (120574, 7, 'Tomer-Spector', 'Quieter and more grounded than later Bond. Train fight with Shaw is some of the best close-quarters action of the 60s.', null); # 120574 From Russia with Love 1963
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (92573, 6, 'Tomer-Spector', 'The Bond template that had no business launching sixty years of sequels. Andress walking out of the sea is the franchise''s defining image.', null); # 92573 Dr. No 1962
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (158999, 9, 'Tomer-Spector', 'Smith and Pullman owning the screen on either end. The White House blowing up is still the most satisfying VFX shot ever rendered.', null); # 158999 Independence Day 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (123849, 7, 'Tomer-Spector', 'Day-Lewis as Bill the Butcher is one of the all-time villain performances. Plot wanders, his scenes don''t.', null); # 123849 Gangs of New York 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139655, 9, 'Tomer-Spector', 'Cuaron took the franchise away from kid stuff and gave it actual identity. Patronus scene at the lake is one of the most beautiful things in the series.', null); # 139655 Harry Potter and the Prisoner of Azkaban 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139653, 8, 'Tomer-Spector', 'Slow burn that finally pays off the Snape arc. The cave is the first time Potter felt genuinely scary.', null); # 139653 Harry Potter and the Half-Blood Prince 2008
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139654, 8, 'Tomer-Spector', 'Umbridge is the most punchable villain in the franchise and Staunton nails it. Ministry battle is the best set piece in any Potter film.', null); # 139654 Harry Potter and the Order of the Phoenix 2007
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (65811, 7, 'Tomer-Spector', 'Mashed potatoes scene is a better character moment than most films pull off in two hours. Spielberg before he learned to make crowd-pleasers.', null); # 65811 Close Encounters of the Third Kind 1977
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (47130, 7, 'Tomer-Spector', 'Scorsese and Cage as a burnt-out paramedic should have been a bigger deal. Closest Cage came to a quiet performance in this era.', null); # 47130 Bringing Out the Dead 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (94741, 7, 'Tomer-Spector', 'Spielberg before he was Spielberg. A truck and a car for ninety minutes and somehow you can''t look away.', null); # 94741 Duel 1971
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (192514, 6, 'Tomer-Spector', 'Moore''s first Bond and the most unhinged the franchise ever got. Voodoo, alligators, blaxploitation — completely tonal mess and I love it.', null); # 192514 Live and Let Die 1973
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159665, 7, 'Tomer-Spector', 'Not the Tarantino one. The Italian original. Rough but the cast chemistry is real.', null); # 159665 Inglorious Bastards 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (291495, 6, 'Tomer-Spector', 'Murray doing his cynical thing in a Christmas Carol setup. Exactly as good as that sounds.', null); # 291495 Scrooged 1988
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (118367, 5, 'Tomer-Spector', 'Anthology that lives or dies on the Tarantino and Rodriguez segments. Roth as the bellhop holding it together is the unsung hero.', null); # 118367 Four Rooms 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139657, 8, 'Tomer-Spector', 'Solid opener that mostly just had to introduce Hogwarts and got the casting right. Quidditch scenes look rough now but the wonder hits.', null); # 139657 Harry Potter and the Sorcerer''s Stone 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139650, 6, 'Tomer-Spector', 'Dobby works better than I expected and the Basilisk reveal is well handled. Middle drags hard.', null); # 139650 Harry Potter and the Chamber of Secrets 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139652, 8, 'Tomer-Spector', 'The three tasks are excellent and the graveyard scene is when the franchise turned dark for real. Cuts too much from the book though.', null); # 139652 Harry Potter and the Goblet of Fire 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (149287, 8, 'Tomer-Spector', 'Williams as adult Peter Pan should not work and mostly does. Hoffman as Hook is the right level of ridiculous.', null); # 149287 Hook 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (335835, 8, 'Tomer-Spector', 'Volleyball, sunglasses, Maverick. Plot doesn''t exist and the vibes are immortal.', null); # 335835 Top Gun 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (333856, 6, 'Tomer-Spector', 'Cameron made a three-hour love story and somehow made the sinking feel longer. DiCaprio and Winslet do the heavy lifting.', null); # 333856 Titanic 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (130945, 9, 'Tomer-Spector', 'Brosnan''s first Bond and the franchise needed exactly this reset. Bean and Janssen are the right kind of over-the-top.', null); # 130945 GoldenEye 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (185628, 8, 'Tomer-Spector', 'Beautifully shot and the choreography is excellent. The white-savior structure is what it is — the film knows.', null); # 185628 Last Samurai, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (332065, 6, 'Tomer-Spector', 'Underwater action hasn''t aged well but the rest holds up. Connery cruising on autopilot.', null); # 332065 Thunderball 1965
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (372233, 6, 'Tomer-Spector', 'Volcano lair is one of the most iconic Bond sets ever built. Story is paper thin.', null); # 372233 You Only Live Twice 1967
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (240521, 8, 'Tomer-Spector', 'Lazenby gets unfair criticism. The film around him is one of the more grounded Bonds and the ending genuinely lands.', null); # 240521 On Her Majesty''s Secret Service 1969
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (354178, 6, 'Tomer-Spector', 'Walken having a great time and Grace Jones owning every scene. Moore is too old by this point and the film is aware.', null); # 354178 View to a Kill, A 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (192702, 8, 'Tomer-Spector', 'Dalton brought a colder more book-accurate Bond. The cello case sled chase is one of the better mid-tier set pieces.', null); # 192702 Living Daylights, The 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (203649, 6, 'Tomer-Spector', 'Christopher Lee elevates every scene he''s in. Hong Kong middle drags and the film never recovers.', null); # 203649 Man with the Golden Gun, The 1974
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (335336, 6, 'Tomer-Spector', 'Pryce as a media-mogul villain was ahead of its time. BMW motorcycle chase is one of the better 90s action sequences.', null); # 335336 Tomorrow Never Dies 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (368418, 6, 'Tomer-Spector', 'Marceau is the most interesting Bond villain in years. Denise Richards as a nuclear physicist defines an era of bad casting.', null); # 368418 World Is Not Enough, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (189403, 7, 'Tomer-Spector', 'Dalton''s revenge Bond goes harder than I expected. Davi is a properly nasty villain.', null); # 189403 Licence to Kill 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (109421, 8, 'Tomer-Spector', 'The whole franchise started here and it''s still about cars and family. Walker and Diesel have the chemistry that built a fifteen-film universe.', null); # 109421 Fast and the Furious, The 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (220805, 7, 'Tomer-Spector', 'Pitt and Jolie chemistry is undeniable and the film knows it. Gets sillier as it goes and you don''t really care.', null); # 220805 Mr. and Mrs. Smith 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (238072, 9, 'Tomer-Spector', 'Eleven movie stars in suits riffing for two hours and somehow it works. Soderbergh keeps the heist moving and lets the cast carry the rest.', null); # 238072 Ocean''s Eleven 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (238073, 7, 'Tomer-Spector', 'The Julia Roberts gag is either the funniest or worst thing in the film depending on your mood. Less tight than the first.', null); # 238073 Ocean''s Twelve 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (142491, 8, 'Tomer-Spector', 'Perlman is perfect casting and del Toro''s monster designs are always the best part. Story is generic, atmosphere isn''t.', null); # 142491 Hellboy 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (142492, 8, 'Tomer-Spector', 'Visually more confident than the first and the troll market is one of del Toro''s best world-building scenes.', null); # 142492 Hellboy 2 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (190869, 8, 'Tomer-Spector', 'Disney made a film about Hawaiian family dynamics that actually feels lived in. Stitch is better designed than most major animated leads.', null); # 190869 Lilo & Stitch 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (66194, 7, 'Tomer-Spector', 'Writing is sharper than the bubble-gum aesthetic suggests. Silverstone is genuinely great in a role that could have been forgettable.', null); # 66194 Clueless 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (97727, 7, 'Tomer-Spector', 'Burton at his most heartfelt before he became a brand. Depp sells the whole emotion through posture alone.', null); # 97727 Edward Scissorhands 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (70959, 6, 'Tomer-Spector', 'Beautifully animated and quietly sad in the way Burton used to do reliably. Story is thin, the design carries it.', null); # 70959 Corpse Bride, The 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (59578, 6, 'Tomer-Spector', 'Burton remake that works because of the production design. Depp''s Wonka is divisive and probably the weakest part.', null); # 59578 Charlie and the Chocolate Factory 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (56871, 8, 'Tomer-Spector', 'Spielberg in light mode and DiCaprio at his most charming. Hanks as the FBI agent is the steady anchor.', null); # 56871 Catch Me If You Can 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (113506, 6, 'Tomer-Spector', 'Depp doing restrained dramatic work which he doesn''t do often enough. Winslet brings the emotional weight as always.', null); # 113506 Finding Neverland 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (62460, 7, 'Tomer-Spector', 'Binoche and Depp at their most charming. Light fable that knows what it is and commits.', null); # 62460 Chocolat 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (160524, 8, 'Tomer-Spector', 'Pacino and Williams playing against type, both effective. Nolan''s most underrated early film.', null); # 160524 Insomnia 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (214755, 7, 'Tomer-Spector', 'Pre-crime concept is interesting and the chases are kinetic. Third act unwinds the mystery in a less satisfying way.', null); # 214755 Minority Report 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256839, 6, 'Tomer-Spector', 'Diesel as Riddick was a star-making turn. Tight contained sci-fi horror before the franchise got bloated.', null); # 256839 Pitch Black 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (350189, 6, 'Tomer-Spector', 'Stylish anime that doesn''t get talked about enough. Animation has held up better than most films from that era.', null); # 350189 Vampire Hunter D 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (350424, 7, 'Tomer-Spector', 'Cruise doing experimental and mostly pulling it off. Glossier remake of Open Your Eyes that still works.', null); # 350424 Vanilla Sky 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (359297, 8, 'Tomer-Spector', 'First half is some of Spielberg''s most intense disaster filmmaking. Robbins basement sequence drops the energy hard.', null); # 359297 War of the Worlds 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (174953, 7, 'Tomer-Spector', 'Early Miyazaki and every theme he''d develop later is already here. World-building is dense and pays off if you''re patient.', null); # 174953 Kaze no tani no Naushika 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (370017, 6, 'Tomer-Spector', 'Diesel doing his thing in a Bond parody that takes itself too seriously to be funny. Snowboarding avalanche is genuinely impressive.', null); # 370017 XXX 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (247579, 7, 'Tomer-Spector', 'Fincher in a contained setting and you can feel him restless. Whitaker as the conflicted villain is the most interesting character.', null); # 247579 Panic Room 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (200864, 6, 'Tomer-Spector', 'Romcom with standard beats at standard times. JLo and Fiennes have just enough chemistry to make it work.', null); # 200864 Maid in Manhattan 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (151616, 6, 'Tomer-Spector', 'Hudson and McConaughey are the rare romcom pair where you actually buy the chemistry. Dumb premise the film commits to.', null); # 151616 How to Lose a Guy in 10 Days 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (306032, 9, 'Tomer-Spector', 'Pitt''s Mickey is one of the most quotable supporting characters of the decade. Ritchie at peak Ritchie before the formula went stale.', null); # 306032 Snatch 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (208245, 6, 'Tomer-Spector', 'Gibson and Foster on a riverboat being charming for two hours. The kind of mid-budget star vehicle they don''t make anymore.', null); # 208245 Maverick 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (177369, 8, 'Tomer-Spector', 'De Niro and Lewis doing uncomfortable comedy decades before that became fashionable. Scorsese''s weirdest mainstream film.', null); # 177369 King of Comedy, The 1983
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (97360, 8, 'Tomer-Spector', 'Depp and Burton''s best collaboration. Landau as Bela Lugosi is one of the most touching supporting performances of the 90s.', null); # 97360 Ed Wood 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (304862, 8, 'Tomer-Spector', 'Burton''s gothic look at peak before it became self-parody. Walken as the Headless Horseman is genuinely menacing.', null); # 304862 Sleepy Hollow 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312150, 7, 'Tomer-Spector', 'Surprisingly creative kids action movie. Rodriguez clearly had fun and the gadgets are inventive.', null); # 312150 Spy Kids 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (34077, 8, 'Tomer-Spector', 'Concept is more interesting than the execution but Pitt and Blanchett are reliably great. Fincher fighting his own instincts.', null); # 34077 Benjamin Button 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30955, 9, 'Tomer-Spector', 'Keaton is a better Batman than people remember and Nicholson''s Joker defined the character for a whole generation. Burton''s Gotham is iconic.', null); # 30955 Batman 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280270, 8, 'Tomer-Spector', 'The original underdog story everyone has copied since. Stallone''s screenplay is way better than people give him credit for.', null); # 280270 Rocky 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311037, 8, 'Tomer-Spector', 'Maguire wasn''t the cool choice and that''s why it worked. Green Goblin is the weakest part.', null); # 311037 Spider-Man 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312170, 8, 'Tomer-Spector', 'Roger Moore''s best Bond. Submarine car and Jaws''s debut are franchise highlights.', null); # 312170 Spy Who Loved Me, The 1977
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (117314, 6, 'Tomer-Spector', 'Moore''s most grounded Bond after the Moonraker disaster. Reasonable mid-tier entry that course-corrected the franchise.', null); # 117314 For Your Eyes Only 1981
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (74259, 5, 'Tomer-Spector', 'Waters at his most accessible which makes it less interesting than his earlier work. Depp commits with the right amount of self-aware ridiculousness.', null); # 74259 Cry-Baby 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (1038, 6, 'Tomer-Spector', 'Garner is charming and the Thriller dance is iconic. Film around it is paint-by-numbers.', null); # 1038 13 Going On 30 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (245699, 4, 'Tomer-Spector', 'Hawn and Russell have chemistry but the premise has aged into something I''m not comfortable with. Charm covers some of it.', null); # 245699 Overboard 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (644, 8, 'Tomer-Spector', 'Updated Shakespeare with Ledger at his most charming. Stiles is the better performance even if she gets less credit.', null); # 644 10 Things I Hate About You 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (114955, 5, 'Tomer-Spector', 'Dillon at his most charismatic. Coming of age that''s competent without ever surprising me.', null); # 114955 Flamingo Kid, The 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (131885, 7, 'Tomer-Spector', 'Nostalgic for people who saw it as kids. Sloth and the pirate ship are the parts everyone remembers.', null); # 131885 Goonies, The 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (240327, 6, 'Tomer-Spector', 'Slower than modern horror but the score and slow build still work. The decapitation scene is one of the more iconic shocks of the era.', null); # 240327 Omen, The 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (259826, 6, 'Tomer-Spector', 'Hooper and Spielberg fighting for credit and you can see both. TV scene still works as suburban horror.', null); # 259826 Poltergeist 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (32707, 6, 'Tomer-Spector', 'Bardem makes the film. Schnabel''s painterly direction can be slow if you''re not in the mood.', null); # 32707 Before Night Falls 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (233058, 5, 'Tomer-Spector', 'Polanski and Depp doing slow occult detective work. Atmosphere is great, ending is famously confused.', null); # 233058 Ninth Gate, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (270628, 4, 'Tomer-Spector', 'Premise is heavy and the film leans into sentiment too hard. Real emotion in the brotherly bond carries it past where the script gives up.', null); # 270628 Radio Flyer 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (283410, 4, 'Tomer-Spector', 'Gere and Roberts reunion that doesn''t recapture Pretty Woman magic. Coasts on the leads'' charm.', null); # 283410 Runaway Bride 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (258948, 4, 'Tomer-Spector', 'Barrymore as the manipulator works in unsettling ways. Thriller mechanics around her less interesting than her performance.', null); # 258948 Poison Ivy 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (292671, 6, 'Tomer-Spector', 'Depp committing to a King short story that didn''t have enough material. Twist is the kind you see coming half an hour out.', null); # 292671 Secret Window 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (257744, 5, 'Tomer-Spector', 'Ensemble drama with a stacked cast that doesn''t fully cohere. Nielsen and Connery have the most interesting subplot.', null); # 257744 Playing by Heart 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (253010, 6, 'Tomer-Spector', 'Costner doing his best understated work and Eastwood directing without flash. Slow but earns the payoff.', null); # 253010 Perfect World, A 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188510, 6, 'Tomer-Spector', 'Russo joining the cast gave it a needed shake-up. Starting to feel formulaic at this point.', null); # 188510 Lethal Weapon 3 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (46878, 4, 'Tomer-Spector', 'Sequel that hits the same beats less effectively. Zellweger is still committed even with thinner material.', null); # 46878 Bridget Jones: The Edge of Reason 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (41518, 7, 'Tomer-Spector', 'Depp as a coke smuggler in a fairly standard rise and fall structure. The 70s aesthetic is well done.', null); # 41518 Blow 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159167, 4, 'Tomer-Spector', 'The fridge scene is the moment the franchise crossed a line I can''t come back from. LaBeouf is fine, writing isn''t.', null); # 159167 Indiana Jones 4 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (1390, 4, 'Tomer-Spector', 'Spielberg''s only major flop and I see exactly why. Too loud, too long, not funny enough for the runtime.', null); # 1390 1941 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (1121, 6, 'Tomer-Spector', 'Vangelis score and Scott visuals doing all the heavy lifting. Story drags and Depardieu is miscast.', null); # 1121 1492: Conquest of Paradise 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (271344, 6, 'Tomer-Spector', 'Hudson on autopilot in a film that does nothing with its premise. Supporting cast can''t save it.', null); # 271344 Raising Helen 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10945, 6, 'Tomer-Spector', 'Fincher''s debut where you can see what he became fighting what the studio wanted. Disowned by him for understandable reasons.', null); # 10945 Alien 3 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (264157, 5, 'Tomer-Spector', 'Hathaway is charming as always and the film around her is empty. The first one didn''t need a sequel.', null); # 264157 Princess Diaries 2: Royal Engagement 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (14157, 5, 'Tomer-Spector', 'Cast reunion that exists for nostalgia and not much else. Premise has run out of road and the film knows it.', null); # 14157 American Reunion 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312151, 6, 'Tomer-Spector', 'Rodriguez piling on imagination without anchoring it to a story. Bigger doesn''t mean better.', null); # 312151 Spy Kids 2: Island of Lost Dreams 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30951, 5, 'Tomer-Spector', 'Direct-to-video animated Batman that''s competent at best. The TV series episodes are stronger.', null); # 30951 Batman & Mr. Freeze: SubZero 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30962, 5, 'Tomer-Spector', 'Compilation of TV episodes presented as a movie. Not really a film.', null); # 30962 Batman Beyond: The Movie 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30967, 4, 'Tomer-Spector', 'Burton at his most Burton-y and the film suffers. Walken and Pfeiffer are the only reasons to revisit.', null); # 30967 Batman Returns 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30976, 7, 'Tomer-Spector', 'Animated Batman film with surprisingly mature themes. Aged better than several live-action entries.', null); # 30976 Batman: Mask of the Phantasm 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30965, 4, 'Tomer-Spector', 'Kilmer is fine but the film around him is a cartoon. Carrey and Tommy Lee Jones competing for the same energy.', null); # 30965 Batman Forever 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (31715, 4, 'Tomer-Spector', 'Midler and Hershey are fine. Exactly what it advertises and not a frame more.', null); # 31715 Beaches 1988
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (263360, 5, 'Tomer-Spector', 'Iconic for the wrong reasons. Roberts and Gere are charming but the premise is rougher in retrospect.', null); # 263360 Pretty Woman 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (336445, 4, 'Tomer-Spector', 'DiCaprio doing arthouse before he was a star. Interesting performance, exhausting movie.', null); # 336445 Total Eclipse 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30686, 6, 'Tomer-Spector', 'DiCaprio committing to a role nobody else his age could have played. Film around the performance is less interesting.', null); # 30686 Basketball Diaries, The 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (20253, 6, 'Tomer-Spector', 'Kusturica''s American film with Depp and Dunaway. Surreal in a way that''s either fascinating or exhausting depending on mood.', null); # 20253 Arizona Dream 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (21213, 5, 'Tomer-Spector', 'Spielberg finishing Kubrick''s project and the seams show. The flesh fair is one of the bleakest things either director ever made.', null); # 21213 Artificial Intelligence: AI 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (120506, 5, 'Tomer-Spector', 'Depp doing Jack the Ripper. Hughes brothers visual style covers a thin mystery.', null); # 120506 From Hell 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215875, 5, 'Tomer-Spector', 'The TV movie pilot before the franchise restart. Curiosity more than entertainment.', null); # 215875 Mission: Impossible 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (328272, 6, 'Tomer-Spector', 'Hanks doing accent work and Spielberg keeping it gentle. Lower-tier Spielberg but watchable.', null); # 328272 Terminal, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (330670, 7, 'Tomer-Spector', 'DiCaprio''s breakthrough opposite De Niro. The film around them is competent and the leads make it more.', null); # 330670 This Boy''s Life 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (34104, 6, 'Tomer-Spector', 'Depp doing Buster Keaton tribute is the highlight. Whimsical to a fault.', null); # 34104 Benny & Joon 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (218808, 3, 'Tomer-Spector', 'Bond in space is exactly as bad as it sounds. Jaws becoming a romantic sidekick is one of the worst creative choices in the franchise.', null); # 218808 Moonraker 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (86263, 3, 'Tomer-Spector', 'Invisible car. Surfing CGI tsunami. Berry''s dialogue. The franchise needed Daniel Craig after this and quickly.', null); # 86263 Die Another Day 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280305, 4, 'Tomer-Spector', 'Stallone trying to course-correct after IV and overshooting the other way. Morrison as the protege never works.', null); # 280305 Rocky V 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280282, 5, 'Tomer-Spector', 'Mr. T is iconic and the film around him is silly. Eye of the Tiger is the most enduring contribution.', null); # 280282 Rocky III 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280284, 5, 'Tomer-Spector', 'Pure 80s Cold War cartoon. Drago is a cardboard cutout and the training montage is the only thing anyone remembers.', null); # 280284 Rocky IV 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280281, 6, 'Tomer-Spector', 'Rematch movie that exists because the first one made money. None of the underdog charm survives the sequel structure.', null); # 280281 Rocky II 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280306, 3, 'Tomer-Spector', 'Database curiosity. Rocky IV mislabeled probably. Not its own film.', null); # 280306 Rocky VI 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188511, 3, 'Tomer-Spector', 'Jet Li wasted as a silent villain. Gibson Glover chemistry is still there but the franchise had nothing left.', null); # 188511 Lethal Weapon 4 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (85871, 3, 'Tomer-Spector', 'Connery''s reluctant return and you can tell he''s coasting. Vegas setting and Blofeld plot barely keep it watchable.', null); # 85871 Diamonds Are Forever 1971
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312152, 3, 'Tomer-Spector', 'Stallone showing up doesn''t save a film that''s a tech demo for terrible 3D. Genuinely a chore.', null); # 312152 Spy Kids 3-D: Game Over 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30952, 3, 'Tomer-Spector', 'The bat-credit card. The nipples on the suit. The ice puns. Complete creative collapse start to finish.', null); # 30952 Batman & Robin 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30957, 4, 'Tomer-Spector', 'Old serial that has historical value only. Not really watchable as entertainment today.', null); # 30957 Batman and Robin 1949
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (40199, 9, 'Tomer-Spector', 'Watched this expecting old slow sci-fi and got the visual language every film since has copied. Hauer''s Tears in the Rain is the kind of monologue that gets quoted forever for a reason.', null); # 40199 Blade Runner 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (39551, 8, 'Tomer-Spector', 'Scott directing combat as controlled chaos. The Mogadishu sequences feel closer to documentary than to anything choreographed.', null); # 39551 Black Hawk Down 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256627, 8, 'Tomer-Spector', 'Watched this because of my own tech interests. Noah Wyle as Jobs and Anthony Michael Hall as Gates is somehow perfect casting and neither company comes out the hero.', null); # 256627 Pirates of Silicon Valley 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (39829, 7, 'Tomer-Spector', 'Scott and Michael Douglas in Osaka is the kind of stylish thriller they stopped making. The neon and rain does most of the storytelling.', null); # 39829 Black Rain 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (113459, 7, 'Tomer-Spector', 'Lumet doing a courtroom procedural in his sleep is still better than most directors awake. Diesel''s one genuinely good dramatic performance.', null); # 113459 Find Me Guilty 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (22651, 5, 'Tomer-Spector', 'Depp and Theron in a paranoid sci-fi thriller that mostly works on atmosphere. Wants to be Rosemary''s Baby in space and doesn''t quite get there.', null); # 22651 Astronaut''s Wife, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (12744, 6, 'Tomer-Spector', 'Spielberg doing romantic fantasy with Hunter and Dreyfuss. Minor in his filmography and softer than anything else he made that decade.', null); # 12744 Always 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (244421, 6, 'Tomer-Spector', 'Garry Marshall sentimentality with Keaton and Lewis. The kind of comfort watch you put on during a rainy afternoon and don''t think about again.', null); # 244421 Other Sister, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (183873, 8, 'Tomer-Spector', 'Hauer and Pfeiffer cursed to never meet in the same form. The 80s synth score is divisive but the rest is pure fantasy charm.', null); # 183873 Ladyhawke 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (372733, 7, 'Tomer-Spector', 'Spielberg produced and Levinson directed and the result is a fun teen deduction adventure. Stained-glass knight is one of the first proper CG character composites.', null); # 372733 Young Sherlock Holmes 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (116358, 6, 'Tomer-Spector', 'Macy doing his quiet desperation thing in a McGuffin-driven post-war drama. Arthur Miller source material gives it more weight than the marketing suggested.', null); # 116358 Focus 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (118980, 6, 'Tomer-Spector', 'Pacino and Pfeiffer playing against type as a short-order cook and a waitress. Small stakes done with real craft.', null); # 118980 Frankie and Johnny 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (251234, 5, 'Tomer-Spector', 'Pre-Gibson revenge film with the same source novel. Watchable but the Gibson remake is the one anyone actually remembers.', null); # 251234 Payback 1988
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (65522, 5, 'Tomer-Spector', 'Niche drama with a stacked cast that doesn''t go anywhere especially interesting. Worth it for Redford completionists only.', null); # 65522 Clearing, The 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (80969, 5, 'Tomer-Spector', 'Kinnear and Plummer doing harmless 90s comedy. Forgettable but never irritating.', null); # 80969 Dear God 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (73574, 4, 'Tomer-Spector', 'Direct-to-video horror that exists because DiCaprio happened to be in it. Skip unless you''re charting his early career.', null); # 73574 Critters 3 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30970, 7, 'Tomer-Spector', 'Animated crossover stitched from the TV series. Decent because the source shows were strong.', null); # 30970 Batman/Superman Movie, The 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (44238, 4, 'Tomer-Spector', 'Tales from the Crypt feature with Dennis Miller and Corey Feldman. Has its cult but the script collapses halfway through.', null); # 44238 Bordello of Blood 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (192850, 5, 'Tomer-Spector', 'Forgettable indie thriller. Curiosity for the cast more than anything in the script.', null); # 192850 Lizzie 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (168854, 5, 'Tomer-Spector', 'Not the Phoenix one. Niche art film that''s mostly noise without payoff.', null); # 168854 Joker 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (287501, 5, 'Tomer-Spector', 'Local Israeli production with limited reach abroad. Cultural-context interest more than essential viewing.', null); # 287501 Sanhedrin 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (351705, 5, 'Tomer-Spector', 'Mid-tier revenge film that doesn''t do enough with the premise. Streaming background watch.', null); # 351705 Vengeance 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (53921, 4, 'Tomer-Spector', 'Industry-insider satire that''s funnier if you''ve been to a film festival. Cameos are the main appeal.', null); # 53921 Cannes Man 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (58084, 4, 'Tomer-Spector', 'Low-budget psychological thriller. Ambition exceeds budget by a wide margin and you feel it in every scene.', null); # 58084 Cerebrium 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (242530, 5, 'Tomer-Spector', 'Not the animated film. 1999 thriller with limited release and limited reasons to seek it out.', null); # 242530 Open Season 1999
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139657, 10, 'Noam-Barkai', 'The film that started it all. Magical from start to finish.', null);  # 139657 Harry Potter and the Sorcerer's Stone 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139650, 10, 'Noam-Barkai', 'A worthy sequel, slightly darker than the first. The basilisk scene stuck with me.', null);  # 139650 Harry Potter and the Chamber of Secrets 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139655, 10, 'Noam-Barkai', 'The best in the series. The time turner twist is clever and surprising.', null);  # 139655 Harry Potter and the Prisoner of Azkaban 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139652, 8, 'Noam-Barkai', 'Exciting tournament tasks and a gorgeous Yule Ball. A little long but worth it.', null);  # 139652 Harry Potter and the Goblet of Fire 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139654, 8, 'Noam-Barkai', 'Umbridge is one of the most hateable villains in any film, and that is exactly the point.', null);  # 139654 Harry Potter and the Order of the Phoenix 2007
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139653, 7, 'Noam-Barkai', 'The story turns serious here. The ending genuinely surprised me.', null);  # 139653 Harry Potter and the Half-Blood Prince 2008
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194497, 7, 'Noam-Barkai', 'Beautiful fantasy world and a great journey. A very long sit though.', null);  # 194497 Lord of the Rings: The Fellowship of the Ring, The 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194502, 6, 'Noam-Barkai', 'The big battle is great. Everything around it drags.', null);  # 194502 Lord of the Rings: The Two Towers, The 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194500, 6, 'Noam-Barkai', 'Epic ending but it stretches across five endings in a row. Too long.', null);  # 194500 Lord of the Rings: The Return of the King, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (263360, 10, 'Noam-Barkai', 'Classic and a must-watch film. Julia Roberts is unforgettable in this role.', null);  # 263360 Pretty Woman 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (283410, 8, 'Noam-Barkai', 'Not as strong as Pretty Woman but the same vibe and the same leads make it lovely.', null);  # 283410 Runaway Bride 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (200864, 8, 'Noam-Barkai', 'A modern Cinderella story. Cozy, sweet and one I keep coming back to.', null);  # 200864 Maid in Manhattan 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (264157, 8, 'Noam-Barkai', 'More fun than the first. The mattress slide and the slumber party are great scenes.', null);  # 264157 Princess Diaries 2: Royal Engagement, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (46878, 8, 'Noam-Barkai', 'Funny, awkward and relatable. The skiing scene cracks me up every time.', null);  # 46878 Bridget Jones: The Edge of Reason 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (151616, 10, 'Noam-Barkai', 'Classic romantic comedy. Light, fun, funny and rewatchable.', null);  # 151616 How to Lose a Guy in 10 Days 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (644, 10, 'Noam-Barkai', 'A clever Shakespeare adaptation that really holds up. Smart, funny and with real heart.', null);  # 644 10 Things I Hate About You 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (1038, 10, 'Noam-Barkai', 'Jennifer Garner sells every minute. Pure fun, and the Thriller dance alone earns the ten.', null);  # 1038 13 Going On 30 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (66194, 10, 'Noam-Barkai', 'A classic teen comedy that holds up incredibly well. Sharper than most people remember.', null);  # 66194 Clueless 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (263, 7, 'Noam-Barkai', 'Sweet little romance. Nothing groundbreaking but easy to enjoy.', null);  # 263 'Til There Was You 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (297838, 8, 'Noam-Barkai', 'Slow build, but the ending makes everything worth it. Deserves the reputation.', null);  # 297838 Shawshank Redemption, The 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (333856, 7, 'Noam-Barkai', 'Iconic romance with a heartbreaking ending. Three hours is a real commitment though.', null);  # 333856 Titanic 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (113506, 8, 'Noam-Barkai', 'Depp gives an understated, lovely performance. The play scene made me cry.', null);  # 113506 Finding Neverland 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (31715, 7, 'Noam-Barkai', 'A friendship film for the ages. The title song earns every tear.', null);  # 31715 Beaches 1988
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (34077, 7, 'Noam-Barkai', 'Beautiful concept and lovely to look at. Way too long.', null);  # 34077 Benjamin Button 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (34104, 8, 'Noam-Barkai', 'Quirky and genuinely romantic. A small lovely film.', null);  # 34104 Benny & Joon 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (244421, 7, 'Noam-Barkai', 'Diane Keaton anchors the cast. Surprisingly moving and more honest than I expected.', null);  # 244421 Other Sister, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (32180, 8, 'Noam-Barkai', 'A nice retelling of a classic story. Better than I expected for a TV version.', null);  # 32180 Beauty and the Beast 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (190869, 8, 'Noam-Barkai', 'Cute, funny and full of heart. One of the better Disney films. Stitch is a great character.', null);  # 190869 Lilo & Stitch 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (170721, 6, 'Noam-Barkai', 'Decent sequel but the songs do not come close to the original.', null);  # 170721 Jungle Book 2, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (337166, 8, 'Noam-Barkai', 'Still holds up after all these years. A great friendship story.', null);  # 337166 Toy Story 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300229, 10, 'Noam-Barkai', 'Works for kids and adults equally. Funny, sweet, with a great soundtrack.', null);  # 300229 Shrek 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300230, 10, 'Noam-Barkai', 'Even better than the first. Puss in Boots steals every scene.', null);  # 300230 Shrek 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300233, 4, 'Noam-Barkai', 'Felt more like a theme park gimmick than a real film. Forgettable.', null);  # 300233 Shrek 4-D 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (70959, 8, 'Noam-Barkai', 'Dark and sweet at the same time. Stunning stop motion animation and a haunting score.', null);  # 70959 Corpse Bride, The 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (97727, 8, 'Noam-Barkai', 'Burton is one of my favorites and this is him at his best. Depp barely speaks and still says everything.', null);  # 97727 Edward Scissorhands 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (59578, 8, 'Noam-Barkai', 'A weird, colorful version with great songs. Different from the older one but charming in its own way.', null);  # 59578 Charlie and the Chocolate Factory 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256632, 10, 'Noam-Barkai', 'Pirate adventure done right. Jack Sparrow is an unforgettable character.', null);  # 256632 Pirates of the Caribbean: The Curse of the Black Pearl 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256631, 8, 'Noam-Barkai', 'Not as tight as the first but the action scenes are excellent.', null);  # 256631 Pirates of the Caribbean 2 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (142491, 6, 'Noam-Barkai', 'Del Toro''s creature design and atmosphere are great. The story itself is only okay.', null);  # 142491 Hellboy 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (142492, 6, 'Noam-Barkai', 'Even more imaginative visuals from Del Toro. The troll market scene is the highlight.', null);  # 142492 Hellboy 2 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (183873, 7, 'Noam-Barkai', 'Romantic fantasy with an original curse premise. The music has dated badly.', null);  # 183873 Ladyhawke 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (304862, 7, 'Noam-Barkai', 'Burton''s gothic touch all over this one. Spooky and exactly the kind of dark fairy tale I enjoy.', null);  # 304862 Sleepy Hollow 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (96593, 8, 'Noam-Barkai', 'A classic Spielberg family film. The flying bike scene is rightfully iconic.', null);  # 96593 E.T. the Extra-Terrestrial 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (149287, 8, 'Noam-Barkai', 'Robin Williams gives the role real heart. A fresh, emotional take on Peter Pan.', null);  # 149287 Hook 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (372733, 6, 'Noam-Barkai', 'An entertaining mystery with supernatural touches. Better than expected.', null);  # 372733 Young Sherlock Holmes 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311428, 7, 'Noam-Barkai', 'Light mermaid romance, easy to watch. Better than it has any right to be.', null);  # 311428 Splash 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311037, 7, 'Noam-Barkai', 'Solid superhero origin. The upside down kiss is iconic.', null);  # 311037 Spider-Man 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311038, 8, 'Noam-Barkai', 'Better than the first. The train scene is one of the best in the genre.', null);  # 311038 Spider-Man 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311040, 4, 'Noam-Barkai', 'Too many villains, too many tones. The dance scene is memorable in the worst way.', null);  # 311040 Spider-Man 3 2007
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (220276, 7, 'Noam-Barkai', 'Visually overwhelming. The musical mashups really land, even if the style is a lot.', null);  # 220276 Moulin Rouge! 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (220805, 7, 'Noam-Barkai', 'Pitt and Jolie chemistry is the engine. Funnier action comedy than I expected.', null);  # 220805 Mr. and Mrs. Smith 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (62460, 8, 'Noam-Barkai', 'A warm story in a beautifully shot French village. Romantic and cozy throughout.', null);  # 62460 Chocolat 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (271344, 7, 'Noam-Barkai', 'Sweet family story that does not lean on the cheese.', null);  # 271344 Raising Helen 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (118980, 7, 'Noam-Barkai', 'Two lonely people finding each other. Quiet, honest and grounded.', null);  # 118980 Frankie and Johnny 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (245699, 7, 'Noam-Barkai', 'The amnesia plot has no right to work, yet the leads sell it.', null);  # 245699 Overboard 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (328272, 8, 'Noam-Barkai', 'Charming and unusual. Hard to believe an airport setting could work this well.', null);  # 328272 Terminal, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (56871, 8, 'Noam-Barkai', 'DiCaprio carries the whole film with real charm. Fun cat and mouse from start to finish.', null);  # 56871 Catch Me If You Can 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (291495, 7, 'Noam-Barkai', 'Clever modern take on the Christmas Carol story. Good for holiday rewatches.', null);  # 291495 Scrooged 1988
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (131885, 7, 'Noam-Barkai', 'Classic kid adventure. They really do not make these anymore.', null);  # 131885 Goonies, The 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (208245, 7, 'Noam-Barkai', 'Light, funny western with great chemistry between the leads.', null);  # 208245 Maverick 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188507, 7, 'Noam-Barkai', 'Sets up the buddy cop formula brilliantly. Action and comedy in balance.', null);  # 188507 Lethal Weapon 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188509, 7, 'Noam-Barkai', 'My favorite of the four. Memorable villains and a sharp script.', null);  # 188509 Lethal Weapon 2 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188510, 6, 'Noam-Barkai', 'Decent enough but the spark from the second is gone.', null);  # 188510 Lethal Weapon 3 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188511, 4, 'Noam-Barkai', 'Tired by this point in the series. Felt like a cash grab.', null);  # 188511 Lethal Weapon 4 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280270, 7, 'Noam-Barkai', 'The underdog story done right. Iconic training scenes.', null);  # 280270 Rocky 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280281, 6, 'Noam-Barkai', 'Rematch sequel. Watchable but mostly recycles the first.', null);  # 280281 Rocky II 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280282, 6, 'Noam-Barkai', 'Eye of the Tiger and Mr T are what save this one.', null);  # 280282 Rocky III 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280284, 6, 'Noam-Barkai', 'Ridiculous Cold War boxing. Knows what it is and commits.', null);  # 280284 Rocky IV 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280305, 2, 'Noam-Barkai', 'The weakest in the series by far. Better off skipped.', null);  # 280305 Rocky V 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215876, 6, 'Noam-Barkai', 'The vault drop scene is fantastic. The rest of the plot lost me.', null);  # 215876 Mission: Impossible 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215879, 4, 'Noam-Barkai', 'Felt empty. Loud action but I forgot the whole film quickly.', null);  # 215879 Mission: Impossible II 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215880, 6, 'Noam-Barkai', 'Decent installment, mostly thanks to a strong villain performance.', null);  # 215880 Mission: Impossible III 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159172, 7, 'Noam-Barkai', 'Sean Connery as the father is perfect casting. The best of the series.', null);  # 159172 Indiana Jones and the Last Crusade 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (271095, 7, 'Noam-Barkai', 'Spielberg setting the standard for the adventure genre. Iconic scenes throughout.', null);  # 271095 Raiders of the Lost Ark 1981
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159175, 4, 'Noam-Barkai', 'Tonally off from the rest of the series. The dinner scene is unforgettable in the worst way.', null);  # 159175 Indiana Jones and the Temple of Doom 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159167, 4, 'Noam-Barkai', 'Too many silly choices. They should have left the series alone.', null);  # 159167 Indiana Jones 4 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313478, 6, 'Noam-Barkai', 'Iconic reveal scene. The rest does not really stand out.', null);  # 313478 Star Wars: Episode V - The Empire Strikes Back 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313479, 6, 'Noam-Barkai', 'Strong throne room scene but the Ewok material has aged poorly.', null);  # 313479 Star Wars: Episode VI - Return of the Jedi 1983
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313474, 4, 'Noam-Barkai', 'Only the pod race is worth watching. Most of it is a slog.', null);  # 313474 Star Wars: Episode I - The Phantom Menace 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313476, 4, 'Noam-Barkai', 'Painful romance dialogue throughout. The Yoda fight is the only highlight.', null);  # 313476 Star Wars: Episode II - Attack of the Clones 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313477, 5, 'Noam-Barkai', 'The strongest of the prequel trilogy. The final duel is well done.', null);  # 313477 Star Wars: Episode III - Revenge of the Sith 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (92573, 5, 'Noam-Barkai', 'Very dated. Worth watching as the first in the series, not much else.', null);  # 92573 Dr. No 1962
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (120574, 5, 'Noam-Barkai', 'Outside the train fight, slow and unmemorable.', null);  # 120574 From Russia with Love 1963
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (130953, 6, 'Noam-Barkai', 'The most iconic of the early Bond films. Memorable villain and theme song.', null);  # 130953 Goldfinger 1964
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (332065, 4, 'Noam-Barkai', 'The underwater scenes go on forever. Got bored midway.', null);  # 332065 Thunderball 1965
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (372233, 4, 'Noam-Barkai', 'Forgettable. Would not return to it.', null);  # 372233 You Only Live Twice 1967
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (218808, 4, 'Noam-Barkai', 'Bond in space, as silly as it sounds. One of the worst in the series.', null);  # 218808 Moonraker 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (117314, 5, 'Noam-Barkai', 'Mostly forgettable. Only the ski chase stood out.', null);  # 117314 For Your Eyes Only 1981
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312170, 6, 'Noam-Barkai', 'The theme song is one of the best in the series. The film itself is decent.', null);  # 312170 Spy Who Loved Me, The 1977
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (192514, 4, 'Noam-Barkai', 'Only the theme song stuck with me. The rest is weak.', null);  # 192514 Live and Let Die 1973
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (203649, 4, 'Noam-Barkai', 'Forgettable apart from the villain.', null);  # 203649 Man with the Golden Gun, The 1974
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (240521, 6, 'Noam-Barkai', 'Underrated Bond with real emotional stakes for once.', null);  # 240521 On Her Majesty's Secret Service 1969
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (192702, 4, 'Noam-Barkai', 'Tried for a more serious Bond. Did not quite get there.', null);  # 192702 Living Daylights, The 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (189403, 4, 'Noam-Barkai', 'Too dark for the character. Did not work for me.', null);  # 189403 Licence to Kill 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (354178, 2, 'Noam-Barkai', 'Bad casting choices and a tired plot. Not worth a watch.', null);  # 354178 View to a Kill, A 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (130945, 7, 'Noam-Barkai', 'Strong Bond reboot. The tank chase is one of the best action scenes around.', null);  # 130945 GoldenEye 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (335336, 5, 'Noam-Barkai', 'Decent Bond. The female lead is really the only highlight.', null);  # 335336 Tomorrow Never Dies 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (368418, 4, 'Noam-Barkai', 'Routine Bond, nothing stands out. Felt like filler.', null);  # 368418 World Is Not Enough, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (86263, 4, 'Noam-Barkai', 'The invisible car alone makes it hard to take seriously. Disappointing.', null);  # 86263 Die Another Day 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (85871, 4, 'Noam-Barkai', 'Very dated. Only the theme song held my attention.', null);  # 85871 Diamonds Are Forever 1971
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (267038, 6, 'Noam-Barkai', 'Tarantino''s writing is sharp. The runtime feels longer than it needs to be.', null);  # 267038 Pulp Fiction 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (276217, 6, 'Noam-Barkai', 'Tarantino''s opening scene is a great one. The rest is way too violent for my taste.', null);  # 276217 Reservoir Dogs 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (164572, 4, 'Noam-Barkai', 'Dragged. I kept losing interest.', null);  # 164572 Jackie Brown 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176711, 4, 'Noam-Barkai', 'Some impressive action but more violence than I want to sit through.', null);  # 176711 Kill Bill: Vol. 1 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176712, 4, 'Noam-Barkai', 'Slow and talky. Splitting it into two films felt pointless.', null);  # 176712 Kill Bill: Vol. 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159665, 5, 'Noam-Barkai', 'Memorable villain performance. The film around it is too long.', null);  # 159665 Inglorious Bastards 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (270971, 4, 'Noam-Barkai', 'De Niro''s transformation is impressive. Boxing dramas are just not for me.', null);  # 270971 Raging Bull 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (326155, 4, 'Noam-Barkai', 'De Niro''s performance is striking. The film itself is too bleak for me to enjoy.', null);  # 326155 Taxi Driver 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (56304, 4, 'Noam-Barkai', 'Scorsese always loses me with these long crime dramas. Heavy, long, not for me.', null);  # 56304 Casino 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (123849, 4, 'Noam-Barkai', 'Drags on forever. Only the central performance kept me there.', null);  # 123849 Gangs of New York 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (131780, 4, 'Noam-Barkai', 'A few memorable scenes. Scorsese''s mob style is just not for me.', null);  # 131780 Goodfellas 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (25192, 4, 'Noam-Barkai', 'Three hours of DiCaprio''s slow descent. Hard to sit through despite the strong performance.', null);  # 25192 Aviator, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (67388, 6, 'Noam-Barkai', 'More accessible than most Scorsese films. A pool drama with heart.', null);  # 67388 Color of Money, The 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (54209, 4, 'Noam-Barkai', 'Genuinely scary, not in a fun way. Not something I would revisit.', null);  # 54209 Cape Fear 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (165961, 6, 'Noam-Barkai', 'Spielberg hiding the shark is what makes it work. Clever tension throughout.', null);  # 165961 Jaws 1975
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (289109, 5, 'Noam-Barkai', 'Unforgettable opening sequence. The rest is hard to revisit.', null);  # 289109 Saving Private Ryan 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (39551, 4, 'Noam-Barkai', 'Ridley Scott''s camera never lets up. Exhausting more than enjoyable.', null);  # 39551 Black Hawk Down 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (359297, 4, 'Noam-Barkai', 'Tense and well shot but the ending falls completely flat.', null);  # 359297 War of the Worlds 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (158999, 6, 'Noam-Barkai', 'Cheesy in the best 90s way. Commits to being a blockbuster.', null);  # 158999 Independence Day 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (21213, 4, 'Noam-Barkai', 'Looks beautiful but the third act lost me completely.', null);  # 21213 Artificial Intelligence: AI 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (65811, 4, 'Noam-Barkai', 'A few memorable scenes. Mostly very slow.', null);  # 65811 Close Encounters of the Third Kind 1977
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (100130, 4, 'Noam-Barkai', 'Strong child lead. The film overstays its welcome by an hour.', null);  # 100130 Empire of the Sun 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (12744, 4, 'Noam-Barkai', 'Forgettable. Could not tell you what happens in it now.', null);  # 12744 Always 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (290070, 6, 'Noam-Barkai', 'Important and beautifully shot in black and white. Also a very heavy, very long sit.', null);  # 290070 Schindler's List 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (46169, 5, 'Noam-Barkai', 'Famous speech aside, three hours of medieval war is a lot.', null);  # 46169 Braveheart 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (340652, 6, 'Noam-Barkai', 'Strong central performance and a memorable duel. Long but engaging.', null);  # 340652 Troy 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (185628, 6, 'Noam-Barkai', 'More emotional than I expected. A touch too long.', null);  # 185628 Last Samurai, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (129185, 5, 'Noam-Barkai', 'Solid spectacle and a strong Crowe performance. The ending feels stretched.', null);  # 129185 Gladiator 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (112290, 6, 'Noam-Barkai', 'A clever Fincher twist. I admire it more than I actually enjoy it.', null);  # 112290 Fight Club 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (210511, 6, 'Noam-Barkai', 'Color and black and white separate the timelines, very clever. Demanding to follow but worth it.', null);  # 210511 Memento 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (291698, 4, 'Noam-Barkai', 'Fincher does atmosphere brilliantly. The film is just too bleak for me though.', null);  # 291698 Se7en 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (123435, 6, 'Noam-Barkai', 'Fincher mystery thriller. The twist mostly works.', null);  # 123435 Game, The 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (247579, 6, 'Noam-Barkai', 'A tight Fincher thriller in a confined space.', null);  # 247579 Panic Room 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (292671, 5, 'Noam-Barkai', 'A decent Stephen King adaptation, nothing more.', null);  # 292671 Secret Window 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (210739, 7, 'Noam-Barkai', 'Great buddy chemistry. The alien plot is just an excuse for that.', null);  # 210739 Men in Black 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (40199, 4, 'Noam-Barkai', 'Drags throughout. The visuals are the only thing keeping it watchable.', null);  # 40199 Blade Runner 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (214755, 6, 'Noam-Barkai', 'The precognition premise is well used. Solid science fiction.', null);  # 214755 Minority Report 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (97360, 4, 'Noam-Barkai', 'Slow biopic that did not pull me in.', null);  # 97360 Ed Wood 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (233058, 5, 'Noam-Barkai', 'Atmospheric occult mystery. The ending falls completely flat.', null);  # 233058 Ninth Gate, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (240327, 5, 'Noam-Barkai', 'Only the photo death scene really stands out. Otherwise dated.', null);  # 240327 Omen, The 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (259826, 5, 'Noam-Barkai', 'Only the TV static scene really sticks. The rest is forgettable.', null);  # 259826 Poltergeist 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (14132, 7, 'Noam-Barkai', 'More of the same as the first. The cast still works together.', null);  # 14132 American Pie 2 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (14157, 7, 'Noam-Barkai', 'Nostalgic and still funny. Nice to see the original cast back together.', null);  # 14157 American Reunion, An 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312150, 7, 'Noam-Barkai', 'Surprisingly fun kid spy movie. Holds up better than expected.', null);  # 312150 Spy Kids 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312151, 7, 'Noam-Barkai', 'An improvement on the first in places. The creatures are great.', null);  # 312151 Spy Kids 2: Island of Lost Dreams 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312152, 4, 'Noam-Barkai', 'The 3D gimmick ruined this one. Only for younger viewers.', null);  # 312152 Spy Kids 3-D: Game Over 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (238072, 8, 'Noam-Barkai', 'Stylish heist film with a strong ensemble. Always easy to rewatch.', null);  # 238072 Ocean's Eleven 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (238073, 5, 'Noam-Barkai', 'Nowhere near as tight as the first. A few good moments aside.', null);  # 238073 Ocean's Twelve 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (319602, 6, 'Noam-Barkai', 'Sets the standard for superhero films. A solid origin story.', null);  # 319602 Superman 1978
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (319613, 6, 'Noam-Barkai', 'Decent sequel, mainly thanks to strong villains.', null);  # 319613 Superman II 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30955, 6, 'Noam-Barkai', 'Atmospheric and dark. Important entry in the superhero genre.', null);  # 30955 Batman 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30967, 4, 'Noam-Barkai', 'Only the villain is worth watching. The rest is a mess.', null);  # 30967 Batman Returns 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30965, 4, 'Noam-Barkai', 'Too cartoonish. A real drop in quality from what came before.', null);  # 30965 Batman Forever 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30952, 2, 'Noam-Barkai', 'A real mess. Hard to watch from start to finish.', null);  # 30952 Batman & Robin 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30959, 7, 'Noam-Barkai', 'A reset for the series that actually works. Grounded and well done.', null);  # 30959 Batman Begins 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30976, 7, 'Noam-Barkai', 'One of the stronger animated Batman films. A shame it is underseen.', null);  # 30976 Batman: Mask of the Phantasm 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (335835, 6, 'Noam-Barkai', 'Sillier than I remembered. The flight scenes hold up.', null);  # 335835 Top Gun 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (109421, 4, 'Noam-Barkai', 'Where the franchise started. Loud and shallow, not for me.', null);  # 109421 Fast and the Furious, The 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10920, 4, 'Noam-Barkai', 'The action is fine. No urge to revisit it.', null);  # 10920 Aliens 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10830, 4, 'Noam-Barkai', 'Too tense to enjoy. Cannot rewatch.', null);  # 10830 Alien 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (350424, 4, 'Noam-Barkai', 'Lost me by the end. Pretentious in a way I did not connect with.', null);  # 350424 Vanilla Sky 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (33492, 8, 'Noam-Barkai', 'A small German film about grief and food. Quiet and lovely.', null);  # 33492 Bella Martha 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (160524, 4, 'Noam-Barkai', 'Slow and dull. The setting is more interesting than the story.', null);  # 160524 Insomnia 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (69812, 6, 'Noam-Barkai', 'A 90s thriller that holds up better than expected.', null);  # 69812 Conspiracy Theory 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (8183, 4, 'Noam-Barkai', 'Pretty to look at, but I felt nothing watching it.', null);  # 8183 Age of Innocence, The 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (7842, 6, 'Noam-Barkai', 'A cascade of disasters in one New York night. Niche but well done.', null);  # 7842 After Hours 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (177369, 4, 'Noam-Barkai', 'Intentionally uncomfortable. I did not enjoy sitting through it.', null);  # 177369 King of Comedy, The 1983
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (185704, 2, 'Noam-Barkai', 'Slow, heavy and not for me. Could not finish it a second time.', null);  # 185704 Last Temptation of Christ, The 1988
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (200521, 4, 'Noam-Barkai', 'Way too long. The frog scene completely lost me.', null);  # 200521 Magnolia 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (118367, 5, 'Noam-Barkai', 'Anthology of four directors in one hotel. Mostly weak, the last segment is the best.', null);  # 118367 Four Rooms 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (235615, 6, 'Noam-Barkai', 'Tom Hanks in early dramatic mode. More substantial than I expected from the premise.', null);  # 235615 Nothing in Common 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (257744, 7, 'Noam-Barkai', 'Multiple romance storylines handled with real heart. Bittersweet and good.', null);  # 257744 Playing by Heart 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (336445, 2, 'Noam-Barkai', 'Bleak and depressing. Did not work for me at all.', null);  # 336445 Total Eclipse 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (74259, 4, 'Noam-Barkai', 'A 50s greaser musical. Weird and not really my thing.', null);  # 74259 Cry-Baby 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (120506, 6, 'Noam-Barkai', 'A Victorian Jack the Ripper mystery. Well shot and atmospheric.', null);  # 120506 From Hell 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (174953, 8, 'Noam-Barkai', 'Strong early Miyazaki with great environmental themes.', null);  # 174953 Kaze no tani no Naushika 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (218219, 8, 'Noam-Barkai', 'One of Miyazaki''s strongest. Intense and beautiful all the way through.', null);  # 218219 Mononoke-hime 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (395271, 4, 'Noam-Barkai', 'Very dated humor. Hard to watch now.', null);  # 395271 Laverne & Shirley 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (391006, 4, 'Noam-Barkai', 'Easy background sitcom. Nothing memorable.', null);  # 391006 Happy Days 1974
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (398232, 4, 'Noam-Barkai', 'Only the lead character is worth tuning in for. Everything else is weak.', null);  # 398232 Mork & Mindy 1978
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (398571, 5, 'Noam-Barkai', 'Strong lead. The writing around her is uneven and dated.', null);  # 398571 Murphy Brown 1988
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (400853, 7, 'Noam-Barkai', 'A balanced family drama with a strong ensemble.', null);  # 400853 Parenthood 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (390691, 6, 'Noam-Barkai', 'Comfort sitcom. Holds up better than other shows from the same period.', null);  # 390691 Growing Pains 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (381392, 7, 'Noam-Barkai', 'Underrated animated series. The future Gotham setting is well done.', null);  # 381392 Batman Beyond 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30961, 7, 'Noam-Barkai', 'Darker than expected for an animated film. Surprisingly well done.', null);  # 30961 Batman Beyond: Return of the Joker (2000/I) 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30962, 6, 'Noam-Barkai', 'A solid setup for the new Batman character.', null);  # 30962 Batman Beyond: The Movie 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (406411, 6, 'Noam-Barkai', 'Sharper than the prequel films. Strong animation.', null);  # 406411 Star Wars: Clone Wars 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (406158, 5, 'Noam-Barkai', 'Standard animated series. Nothing special.', null);  # 406158 Spider-Man 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (379327, 5, 'Noam-Barkai', 'Has the charm of older TV. A simple Robin Hood take, nothing more.', null);  # 379327 Adventures of Robin Hood, The 1955
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (379331, 6, 'Noam-Barkai', 'Considered the definitive Sherlock adaptation for good reason.', null);  # 379331 Adventures of Sherlock Holmes, The 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (231917, 5, 'Noam-Barkai', 'Anthology horror. Similar in tone to The Twilight Zone but less memorable.', null);  # 231917 Night Gallery 1969
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (399427, 5, 'Noam-Barkai', 'More of the same anthology format. Fine.', null);  # 399427 Night Gallery 1970
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (183370, 7, 'Noam-Barkai', 'A small English seaside drama with Maggie Smith and Judi Dench. Quietly beautiful.', null);  # 183370 Ladies in Lavender 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (39829, 4, 'Noam-Barkai', 'Style over substance. The plot did nothing for me.', null);  # 39829 Black Rain 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (270628, 6, 'Noam-Barkai', 'A difficult subject handled with an unusual fantasy framing.', null);  # 270628 Radio Flyer 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (253010, 6, 'Noam-Barkai', 'A quieter drama. Slow but considered, with some real moments.', null);  # 253010 Perfect World, A 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (67395, 6, 'Noam-Barkai', 'Important drama with strong performances. Also a very long sit.', null);  # 67395 Color Purple, The 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30686, 4, 'Noam-Barkai', 'Heavy addiction drama. Bleak more than affecting.', null);  # 30686 Basketball Diaries, The 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (330670, 6, 'Noam-Barkai', 'An intense small drama about a difficult stepfather.', null);  # 330670 This Boy's Life 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (306032, 6, 'Noam-Barkai', 'A fast paced crime comedy. Easier to follow than other films of its kind.', null);  # 306032 Snatch. 2000
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (35522, 7, 'oriliss', 'Eddie Murphy at peak, the theme song lives rent free in my head', null);  # 35522 Beverly Hills Cop 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (123849, 7, 'oriliss', 'DiCaprio in old New York, Daniel Day Lewis is electric', null);  # 123849 Gangs of New York 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176711, 9, 'oriliss', 'Uma Thurman in yellow, Tarantino at his most stylish', null);  # 176711 Kill Bill: Vol. 1 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (163715, 7, 'oriliss', 'Mini Coopers chase in LA, fun heist movie', null);  # 163715 Italian Job, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313478, 10, 'oriliss', 'I am your father, the best Star Wars chapter hands down', null);  # 313478 Star Wars: Episode V - The Empire Strikes Back 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (359297, 7, 'oriliss', 'Spielberg sci-fi remake, intense alien invasion', null);  # 359297 War of the Worlds 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (69043, 7, 'oriliss', 'Crush your enemies see them driven before you, Arnold sword and sorcery', null);  # 69043 Conan the Barbarian 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159175, 8, 'oriliss', 'Kali Ma, the heart ripping scene scarred me as a kid', null);  # 159175 Indiana Jones and the Temple of Doom 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (26847, 7, 'oriliss', 'Doc and Marty in the old west, fun closer to the trilogy', null);  # 26847 Back to the Future Part III 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (333856, 8, 'oriliss', 'The setting is amazing, the accuracy in the small details and maintaining the sequence of events as it happened in real life.', null);  # 333856 Titanic 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (9795, 8, 'oriliss', 'Robin Williams as Genie made this movie what it is', null);  # 9795 Aladdin 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (37002, 6, 'oriliss', 'Sandler raising a kid in NYC, easy comedy watch', null);  # 37002 Big Daddy 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313476, 7, 'oriliss', 'Better than Phantom Menace but still too much CGI politics', null);  # 313476 Star Wars: Episode II - Attack of the Clones 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (337166, 9, 'oriliss', 'A classic that is part of my childhood.', null);  # 337166 Toy Story 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (303564, 9, 'oriliss', 'I see dead people, the twist still hits even on rewatches', null);  # 303564 Sixth Sense, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (221259, 8, 'oriliss', 'Robin Williams in drag, surprisingly touching family comedy', null);  # 221259 Mrs. Doubtfire 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (26846, 8, 'oriliss', 'Hoverboards and 2015, the future predictions are iconic', null);  # 26846 Back to the Future Part II 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (276217, 8, 'oriliss', 'Color coded heist with Tarantino at his most raw', null);  # 276217 Reservoir Dogs 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (130129, 9, 'oriliss', 'Young Vito and Michael''s rise and fall, just as great as the first', null);  # 130129 Godfather: Part II, The 1974
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (272644, 8, 'oriliss', 'A rat who can cook in Paris, Pixar magic at its finest', null);  # 272644 Ratatouille 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (177636, 7, 'oriliss', 'Crusades epic, Orlando Bloom is fine but the visuals shine', null);  # 177636 Kingdom of Heaven 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (49696, 9, 'oriliss', 'Clint squinting in the desert, the greatest western soundtrack', null);  # 49696 Buono, il brutto, il cattivo, Il 1966
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (27168, 7, 'oriliss', 'Will Smith Martin Lawrence buddy cops in Miami', null);  # 27168 Bad Boys 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (335835, 8, 'oriliss', 'Iconic 80s action, high-octane aerial dogfights, and Tom Cruise charisma.', null);  # 335835 Top Gun 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215876, 7, 'oriliss', 'The vault scene with Cruise hanging from wires is iconic', null);  # 215876 Mission: Impossible 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (358604, 8, 'oriliss', 'Mandy Moore singing on stage, will make you cry', null);  # 358604 Walk to Remember, A 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (155213, 7, 'oriliss', 'Sid the sloth and Scrat the squirrel are pure gold', null);  # 155213 Ice Age 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (131885, 8, 'oriliss', 'Goonies never say die, classic 80s adventure for kids', null);  # 131885 Goonies, The 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (56044, 10, 'oriliss', 'Here''s looking at you kid, the most romantic film ever made', null);  # 56044 Casablanca 1942
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159167, 7, 'oriliss', 'Nuking the Fridge', null);  # 159167 Indiana Jones 4 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (48075, 7, 'oriliss', 'Jim Carrey gets god powers, light and funny', null);  # 48075 Bruce Almighty 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (2238, 8, 'oriliss', 'Tonight we dine in hell, stylized slow motion spartan action', null);  # 2238 300 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194497, 10, 'oriliss', 'You shall not pass, Tolkien on screen finally done right', null);  # 194497 Lord of the Rings: The Fellowship of the Ring, The 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (326155, 8, 'oriliss', 'You talkin to me, De Niro is unhinged and brilliant', null);  # 326155 Taxi Driver 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (360480, 7, 'oriliss', 'Mel Gibson in Vietnam, solid war drama', null);  # 360480 We Were Soldiers 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (170723, 8, 'oriliss', 'Bare necessities, the songs are pure magic', null);  # 170723 Jungle Book, The 1967
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (257459, 9, 'oriliss', 'Charlie Sheen in Vietnam, raw and brutal', null);  # 257459 Platoon 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (228313, 7, 'oriliss', 'Nic Cage steals the Declaration of Independence, pure popcorn', null);  # 228313 National Treasure 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311038, 9, 'oriliss', 'Doc Ock train scene, the best superhero sequel of its time', null);  # 311038 Spider-Man 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (104338, 9, 'oriliss', 'Erasing memories of love, Kaufman''s strange beautiful masterpiece', null);  # 104338 Eternal Sunshine of the Spotless Mind 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (360684, 7, 'oriliss', 'Vince Vaughn and Owen Wilson crashing weddings, dumb and fun', null);  # 360684 Wedding Crashers, The 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (301540, 9, 'oriliss', 'Hello Clarice, Hopkins steals the movie in only 20 minutes of screen time', null);  # 301540 Silence of the Lambs, The 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215880, 7, 'oriliss', 'JJ Abrams brought the franchise back, Hoffman as a villain is great', null);  # 215880 Mission: Impossible III 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (222112, 7, 'oriliss', 'I''ll make a man out of you, classic Disney with great songs', null);  # 222112 Mulan 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (56304, 8, 'oriliss', 'Scorsese Vegas mob film with Pesci being terrifying', null);  # 56304 Casino 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (112290, 7, 'oriliss', 'A film with a surprising ending that makes you think about real life.', null);  # 112290 Fight Club 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (199255, 7, 'oriliss', 'Move it move it, the lemurs make this movie', null);  # 199255 Madagascar 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194500, 10, 'oriliss', 'My precious, the perfect ending to a perfect trilogy', null);  # 194500 Lord of the Rings: The Return of the King, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (375745, 7, 'oriliss', 'Quirky Irish comedy with a colorful, surreal, and absurd charm', null);  # 375745 Zonad 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (289109, 9, 'oriliss', 'A war film that makes you connect with the main character and feel the battlefield.', null);  # 289109 Saving Private Ryan 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (362808, 8, 'oriliss', 'Can men and women be just friends, the answer is no apparently', null);  # 362808 When Harry Met Sally... 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (325098, 7, 'oriliss', 'Phil Collins soundtrack carries this jungle adventure', null);  # 325098 Tarzan 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (96593, 9, 'oriliss', 'ET phone home, the bike scene still gives me chills', null);  # 96593 E.T. the Extra-Terrestrial 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (68309, 7, 'oriliss', 'Let off some steam Bennett, Arnold one liners turned to 11', null);  # 68309 Commando 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (2709, 6, 'oriliss', 'Sandler and Drew Barrymore on Hawaii, sweet but predictable', null);  # 2709 50 First Dates 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280281, 8, 'oriliss', 'Apollo Creed rematch, just as good as the first', null);  # 280281 Rocky II 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (67052, 8, 'oriliss', 'Cruise as a gray haired hitman, Michael Mann''s underrated thriller', null);  # 67052 Collateral 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (101055, 7, 'oriliss', 'Jude Law as a sniper at Stalingrad, the duel is gripping', null);  # 101055 Enemy at the Gates 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (328285, 8, 'oriliss', 'Cold relentless machine, Arnold is the perfect terminator.', null);  # 328285 Terminator, The 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (108760, 6, 'oriliss', 'Marvel before MCU, Chris Evans as Human Torch is fun', null);  # 108760 Fantastic Four 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (117874, 10, 'oriliss', 'one of the best movies ever', null);  # 117874 Forrest Gump 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (148200, 8, 'oriliss', 'Macaulay Culkin booby trapping a house, holiday classic', null);  # 148200 Home Alone 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194874, 8, 'oriliss', 'Bill Murray and Scarlett Johansson in Tokyo, melancholic and beautiful', null);  # 194874 Lost in Translation 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (340799, 8, 'oriliss', 'Arnold doing a tango then blowing things up, classic Cameron', null);  # 340799 True Lies 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (131240, 8, 'oriliss', 'Frankly my dear i dont give a damn, sweeping civil war epic', null);  # 131240 Gone with the Wind 1939
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (263360, 10, 'oriliss', 'julia is amazing and make you fell in love on her', null);  # 263360 Pretty Woman 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (121538, 9, 'oriliss', 'Full Metal Jacket has the most quotable boot camp scene ever', null);  # 121538 Full Metal Jacket 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194502, 10, 'oriliss', 'Helm''s Deep is one of the greatest battles ever filmed', null);  # 194502 Lord of the Rings: The Two Towers, The 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300229, 9, 'oriliss', 'Ogres are like onions, fairytale parody at its finest', null);  # 300229 Shrek 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (134193, 7, 'oriliss', 'Dont feed them after midnight, weird Christmas creature feature', null);  # 134193 Gremlins 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (5573, 7, 'oriliss', 'Alrighty then, Jim Carrey turned the volume to 11', null);  # 5573 Ace Ventura: Pet Detective 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (360723, 7, 'oriliss', 'Adam Sandler singing for Drew Barrymore, sweet 90s rom com', null);  # 360723 Wedding Singer, The 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (342384, 7, 'oriliss', 'Bruce Willis time travel mind bender, Brad Pitt steals scenes', null);  # 342384 Twelve Monkeys 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (134077, 9, 'oriliss', 'John Coffey like the drink, will make you cry every time', null);  # 134077 Green Mile, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (46169, 9, 'oriliss', 'They may take our lives but they''ll never take our freedom', null);  # 46169 Braveheart 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280115, 8, 'oriliss', 'Sean Connery and Nic Cage breaking into Alcatraz, perfect chaos', null);  # 280115 Rock, The 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (372233, 8, 'oriliss', 'Grand volcano lair, Blofeld''s reveal, and classic Sean Connery cool.', null);  # 372233 You Only Live Twice 1967
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280270, 9, 'oriliss', 'The ultimate motivational movie', null);  # 280270 Rocky 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139652, 8, 'oriliss', 'The triwizard tournament chapter, Voldemort returns', null);  # 139652 Harry Potter and the Goblet of Fire 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (348944, 9, 'oriliss', 'Who is Keyser Soze, one of the best twists in cinema', null);  # 348944 Usual Suspects, The 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (310726, 8, 'oriliss', 'Bus that cant go below 50, Keanu and Sandra make it work', null);  # 310726 Speed 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (244458, 8, 'oriliss', 'Nicole Kidman in a haunted house, slow burn perfection', null);  # 244458 Others, The 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (45128, 8, 'oriliss', 'Matt Damon as Jason Bourne is the modern spy template', null);  # 45128 Bourne Identity, The 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30967, 7, 'oriliss', 'Catwoman and Penguin, Tim Burton goes weirder', null);  # 30967 Batman Returns 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (152426, 6, 'oriliss', 'Ang Lee Hulk is weird, comic panels split screen experiment', null);  # 152426 Hulk 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (210511, 9, 'oriliss', 'Backwards storytelling that actually works, Nolan''s breakthrough', null);  # 210511 Memento 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (45129, 7, 'oriliss', 'Greengrass takes over with the shaky cam, the Moscow car chase is brutal', null);  # 45129 Bourne Supremacy, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (18960, 9, 'oriliss', 'The horror the horror, Apocalypse Now is a fever dream of a war film', null);  # 18960 Apocalypse Now 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (131780, 9, 'oriliss', 'As far back as i can remember i always wanted to be a gangster', null);  # 131780 Goodfellas 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (369486, 8, 'oriliss', 'Nightcrawler intro is the best superhero scene of the decade', null);  # 369486 X2 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176712, 8, 'oriliss', 'Pai Mei training and burying alive, the more emotional half', null);  # 176712 Kill Bill: Vol. 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (193253, 8, 'oriliss', 'Guy Ritchie debut, fast talking British gangsters', null);  # 193253 Lock, Stock and Two Smoking Barrels 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (279841, 7, 'oriliss', 'Dead or alive you''re coming with me, brutal 80s satire', null);  # 279841 RoboCop 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (319602, 9, 'oriliss', 'The most famous hero who makes you believe that maybe one day you will be able to fly too', null);  # 319602 Superman 1978
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (63208, 7, 'oriliss', 'Aslan and the wardrobe, good family fantasy', null);  # 63208 Chronicles of Narnia: The Lion, the Witch & the Wardrobe, The 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (56871, 8, 'oriliss', 'DiCaprio as conman Frank Abagnale, Spielberg having fun', null);  # 56871 Catch Me If You Can 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (130128, 10, 'oriliss', 'I''m gonna make him an offer he cant refuse, the greatest film ever made', null);  # 130128 Godfather, The 1972
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (111813, 9, 'oriliss', 'You cant handle the truth, Nicholson dominates the courtroom', null);  # 111813 Few Good Men, A 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280284, 8, 'oriliss', 'Rocky vs Drago, the cold war boiled down to one fight', null);  # 280284 Rocky IV 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313477, 8, 'oriliss', 'Anakin''s fall is heartbreaking and the lightsaber duel is epic', null);  # 313477 Star Wars: Episode III - Revenge of the Sith 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (86274, 10, 'oriliss', 'Yippee-ki-yay, John McClane is the blueprint for action heroes', null);  # 86274 Die Hard 1988
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (262645, 8, 'oriliss', 'Get to the chopper, Arnold vs invisible alien jungle hunter', null);  # 262645 Predator 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (207992, 8, 'oriliss', 'Makes you think deeply and critically about life', null);  # 207992 Matrix, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313474, 6, 'oriliss', 'Spectacular visual world-building, thrilling podracing, but bogged down by politics.', null);  # 313474 Star Wars: Episode I - The Phantom Menace 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311037, 7, 'oriliss', 'i like the action and the protagonist', null);  # 311037 Spider-Man 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (112205, 7, 'oriliss', 'Bruce Willis, Mila in orange straps, Gary Oldman being weird. a fun ride', null);  # 112205 Fifth Element, The 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188507, 8, 'oriliss', 'I''m too old for this. buddy cop chemistry at its best', null);  # 188507 Lethal Weapon 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (361688, 7, 'oriliss', 'Sharks and Jets dancing in NYC, Bernstein''s score is timeless', null);  # 361688 West Side Story 1961
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (82967, 9, 'oriliss', 'Scorsese finally gets his Oscar, DiCaprio Damon and Nicholson are perfect', null);  # 82967 Departed, The 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (304829, 7, 'oriliss', 'Tom Hanks and Meg Ryan in classic rom com format', null);  # 304829 Sleepless in Seattle 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (340652, 7, 'oriliss', 'Brad Pitt as Achilles, the duel with Hector is unforgettable', null);  # 340652 Troy 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (235541, 9, 'oriliss', 'Ryan Gosling and Rachel McAdams in the rain, the ultimate romance', null);  # 235541 Notebook, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (134672, 9, 'oriliss', 'Bill Murray living the same day, the best comedy concept ever', null);  # 134672 Groundhog Day 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (145044, 8, 'oriliss', 'There can be only one, sword fights and Queen soundtrack', null);  # 145044 Highlander 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (207157, 7, 'oriliss', 'Sssssmokin, Cameron Diaz debut and Jim Carrey at his most cartoonish', null);  # 207157 Mask, The 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (969, 9, 'oriliss', '12 men one room and a verdict, masterclass in tension', null);  # 969 12 Angry Men 1957
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (32114, 8, 'oriliss', 'Russell Crowe as John Nash, beautiful and heartbreaking', null);  # 32114 Beautiful Mind, A 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (158927, 9, 'oriliss', 'Pixar superhero family before Marvel made it cool', null);  # 158927 Incredibles, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (40199, 8, 'oriliss', 'Visually stunning future noir, tears in rain still hits hard', null);  # 40199 Blade Runner 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (251477, 6, 'oriliss', 'Big budget romance with bombs, the love story drags', null);  # 251477 Pearl Harbor 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (13978, 9, 'oriliss', 'Edward Norton transformation is one of the best performances ever', null);  # 13978 American History X 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (266574, 9, 'oriliss', 'The shower scene is the most analyzed scene in film history', null);  # 266574 Psycho 1960
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (352639, 8, 'oriliss', 'Hitchcock dizzying romance, Jimmy Stewart obsession at its peak', null);  # 352639 Vertigo 1958
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (76382, 7, 'oriliss', 'Tom Hanks chasing religious clues, fun Dan Brown adaptation', null);  # 76382 Da Vinci Code, The 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311040, 6, 'oriliss', 'Too many villains too little time, emo Peter Parker dancing', null);  # 311040 Spider-Man 3 2007
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (210739, 7, 'oriliss', 'The music makes you conect to the movie', null);  # 210739 Men in Black 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (173931, 6, 'oriliss', 'Daniel and Miyagi go to Okinawa, the showdown with Chozen is the highlight', null);  # 173931 Karate Kid, Part II, The 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (190869, 7, 'oriliss', 'Ohana means family, weirdly emotional alien story', null);  # 190869 Lilo & Stitch 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (297838, 10, 'oriliss', 'Get busy living or get busy dying, the most rewatchable drama ever', null);  # 297838 Shawshank Redemption, The 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (66286, 7, 'oriliss', 'Samuel L. Jackson as coach Carter, basketball with brains', null);  # 66286 Coach Carter 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313459, 10, 'oriliss', 'The film that changed everything, a long time ago in a galaxy far far away', null);  # 313459 Star Wars 1977
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (102225, 7, 'oriliss', 'Christian Bale ditches feelings, gun kata is awesome', null);  # 102225 Equilibrium 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (127073, 8, 'oriliss', 'Patrick Swayze making pottery from beyond, very emotional', null);  # 127073 Ghost 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (77728, 8, 'oriliss', 'Kevin Costner with the Lakota, sweeping and beautiful', null);  # 77728 Dances with Wolves 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (92573, 8, 'oriliss', 'Connery''s first outing, where it all began', null);  # 92573 Dr. No 1962
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (340901, 9, 'oriliss', 'Truman''s whole life is a TV show, brilliant satire that still feels relevant', null);  # 340901 Truman Show, The 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159172, 9, 'oriliss', 'Sean Connery as Indy''s dad, the best Indiana Jones for me', null);  # 159172 Indiana Jones and the Last Crusade 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (54209, 7, 'oriliss', 'De Niro tattooed and terrifying, classic 90s thriller', null);  # 54209 Cape Fear 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (113504, 9, 'oriliss', 'Just keep swimming, beautiful underwater adventure', null);  # 113504 Finding Nemo 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (275453, 8, 'oriliss', 'Denzel coaching a Virginia football team, very inspiring', null);  # 275453 Remember the Titans 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (278855, 7, 'oriliss', 'Tom Cruise dancing in his underwear, the movie that made him a star', null);  # 278855 Risky Business 1983
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (39551, 8, 'oriliss', 'Black Hawk Down in Mogadishu, intense from start to finish', null);  # 39551 Black Hawk Down 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (189233, 7, 'oriliss', 'Jim Carrey cant lie for 24 hours, pure physical comedy', null);  # 189233 Liar Liar 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313479, 9, 'oriliss', 'Ewoks and the redemption of Vader, a satisfying end to the trilogy', null);  # 313479 Star Wars: Episode VI - Return of the Jedi 1983
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (302329, 8, 'oriliss', 'Frank Miller meets Robert Rodriguez, comic book come alive', null);  # 302329 Sin City 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300230, 8, 'oriliss', 'Puss in Boots stole the show, the sequel is just as fun', null);  # 300230 Shrek 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (86287, 8, 'oriliss', 'Simon says, Samuel L. Jackson and Bruce in NYC is perfect', null);  # 86287 Die Hard: With a Vengeance 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (90772, 9, 'oriliss', 'Jake Gyllenhaal and Frank the bunny, strange and brilliant', null);  # 90772 Donnie Darko 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313059, 8, 'oriliss', 'River Phoenix and friends searching for a body, coming of age perfection', null);  # 313059 Stand by Me 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (158999, 7, 'oriliss', 'Will Smith punches an alien, what''s not to love', null);  # 158999 Independence Day 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (2000, 8, 'oriliss', 'Cillian Murphy waking up to empty London, redefined zombie films', null);  # 2000 28 Days Later... 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (129185, 10, 'oriliss', 'Are you not entertained, Russell Crowe gives a performance for the ages', null);  # 129185 Gladiator 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (346949, 8, 'oriliss', 'Clint Eastwood revenge western, deserved every Oscar', null);  # 346949 Unforgiven 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (141544, 8, 'oriliss', 'Pacino and De Niro in a diner, the greatest crime epic', null);  # 141544 Heat 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (166917, 8, 'oriliss', 'Show me the money, Tom Cruise at peak charm', null);  # 166917 Jerry Maguire 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (107166, 8, 'oriliss', 'Travolta and Cage swap faces, makes no sense and i love it', null);  # 107166 Face/Off 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (26064, 8, 'oriliss', 'That''ll do pig, talking sheepdog film that won everyone over', null);  # 26064 Babe 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10830, 8, 'oriliss', 'Pure dread in space, the alien is terrifying and Ripley is iconic.', null);  # 10830 Alien 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (337168, 9, 'oriliss', 'Pixar nails the sequel, Buzz and Woody journey continues', null);  # 337168 Toy Story 2 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30959, 9, 'oriliss', 'Nolan reboots Batman properly, dark and serious', null);  # 30959 Batman Begins 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (307913, 8, 'oriliss', 'Marilyn Monroe and Jack Lemmon in drag, nobody''s perfect', null);  # 307913 Some Like It Hot 1959
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (191246, 10, 'oriliss', 'Hakuna matata, the best Disney animation of all time', null);  # 191246 Lion King, The 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (64093, 8, 'oriliss', 'Russell Crowe as boxer Jim Braddock, true underdog story', null);  # 64093 Cinderella Man, The 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (270971, 8, 'oriliss', 'Black and white boxing masterpiece, De Niro physical transformation', null);  # 270971 Raging Bull 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (56431, 8, 'oriliss', 'Tom Hanks and Wilson the volleyball, survival drama', null);  # 56431 Cast Away 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (214755, 8, 'oriliss', 'Pre-crime concept is brilliant and Cruise carries the tension', null);  # 214755 Minority Report 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256632, 9, 'oriliss', 'Why is the rum gone, Depp invented Jack Sparrow and changed cinema', null);  # 256632 Pirates of the Caribbean: The Curse of the Black Pearl 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10920, 9, 'oriliss', 'Game over man, the action ramps up and the marines are unforgettable.', null);  # 10920 Aliens 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (120574, 8, 'oriliss', 'Train fight with Robert Shaw, peak Connery Bond', null);  # 120574 From Russia with Love 1963
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (114067, 8, 'oriliss', 'Stallone as Rambo, the first one is actually a sad film', null);  # 114067 First Blood 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (309634, 8, 'oriliss', 'Julie Andrews and the von Trapps, the hills are alive', null);  # 309634 Sound of Music, The 1965
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (250746, 7, 'oriliss', 'Mel Gibson as a revenge dad in colonial America', null);  # 250746 Patriot, The 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139655, 9, 'oriliss', 'Cuaron made the best Harry Potter, darker and more magical', null);  # 139655 Harry Potter and the Prisoner of Azkaban 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (146780, 7, 'oriliss', 'Will Smith as the date doctor, charming rom com', null);  # 146780 Hitch 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (291698, 9, 'oriliss', 'What''s in the box, Fincher''s most disturbing thriller', null);  # 291698 Se7en 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (239786, 6, 'oriliss', 'Will Ferrell streaking, frat pack peak silliness', null);  # 239786 Old School 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139650, 8, 'oriliss', 'the first movie from the iconic Harry Potter that make you belive in majicks', null);  # 139650 Harry Potter and the Chamber of Secrets 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (61751, 8, 'oriliss', 'Clive Owen in a dystopian future, the long take is breathtaking', null);  # 61751 Children of Men, The 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (369458, 8, 'oriliss', 'Bryan Singer brings X-Men to screen, leather suits and all', null);  # 369458 X-Men 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (165961, 10, 'oriliss', 'You''re gonna need a bigger boat, the original summer blockbuster', null);  # 165961 Jaws 1975
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (358593, 7, 'oriliss', 'Joaquin Phoenix as Johnny Cash, music biopic done right', null);  # 358593 Walk the Line 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (37178, 7, 'oriliss', 'The Dude abides, Coen brothers comedy that gets better each rewatch', null);  # 37178 Big Lebowski, The 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (32178, 9, 'oriliss', 'Tale as old as time, Belle and Beast story is timeless', null);  # 32178 Beauty and the Beast 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (218415, 9, 'oriliss', 'Sully and Mike Wazowski friendship, Pixar at its best', null);  # 218415 Monsters, Inc. 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30955, 8, 'oriliss', 'Burton''s gothic Gotham, Nicholson Joker steals the movie', null);  # 30955 Batman 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (367073, 9, 'oriliss', 'Theres no place like home, the original technicolor magic', null);  # 367073 Wizard of Oz, The 1939
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (267038, 10, 'oriliss', 'Royale with cheese, Tarantino changed cinema forever', null);  # 267038 Pulp Fiction 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (235790, 8, 'oriliss', 'I''m just a girl standing in front of a boy. Hugh Grant charm at peak', null);  # 235790 Notting Hill 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (336458, 7, 'oriliss', 'Twisty Mars sci-fi with Arnold doing what he does best', null);  # 336458 Total Recall 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (26844, 8, 'oriliss', 'A film that largely predicted the future many years ago', null);  # 26844 Back to the Future 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (328277, 10, 'oriliss', 'Hasta la vista baby, the T-1000 is the scariest villain and this is one of the greatest sequels ever', null);  # 328277 Terminator 2: Judgment Day 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (271826, 7, 'oriliss', 'Rambo goes back to Vietnam, peak 80s muscle action', null);  # 271826 Rambo: First Blood Part II 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (335245, 8, 'oriliss', 'I''m your huckleberry, Val Kilmer as Doc Holliday is iconic', null);  # 335245 Tombstone 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (16006, 7, 'oriliss', 'Stay classy San Diego, Will Ferrell at his most absurd', null);  # 16006 Anchorman: The Legend of Ron Burgundy 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (173933, 8, 'oriliss', 'Wax on wax off, Mr Miyagi is the best teacher in cinema', null);  # 173933 Karate Kid, The 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (206881, 7, 'oriliss', 'Practically perfect in every way, supercalifragilisticexpialidocious', null);  # 206881 Mary Poppins 1964
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (14131, 7, 'oriliss', 'American beverage and apple pie, defined teen comedy of an era', null);  # 14131 American Pie 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (185628, 8, 'oriliss', 'Tom Cruise learning bushido in Japan, surprisingly moving', null);  # 185628 Last Samurai, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (13789, 9, 'oriliss', 'Look closer, suburban suburbia hides so much darkness', null);  # 13789 American Beauty 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (130953, 9, 'oriliss', 'No mr Bond i expect you to die, the gold standard of Bond films', null);  # 130953 Goldfinger 1964
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (207992, 10, 'daninbar1904-ctrl', 'What makes this movie special for me is the original concept, the iconic action and the fact that it stays interesting even on repeat watches.', ''); -- 207992 Matrix, The (1999)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (194500, 10, 'daninbar1904-ctrl', 'This movie stands out to me because it feels epic from beginning to end and delivers a very satisfying ending to the whole story.', ''); -- 194500 Lord of the Rings: The Return of the King, The (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (194497, 10, 'daninbar1904-ctrl', 'The strongest part of this movie for me is the world building, which pulls me into the story very quickly.', ''); -- 194497 Lord of the Rings: The Fellowship of the Ring, The (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (129185, 9, 'daninbar1904-ctrl', 'I rated this movie highly because it combines strong action, a powerful lead character and many memorable scenes.', ''); -- 129185 Gladiator (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (291698, 9, 'daninbar1904-ctrl', 'The dark atmosphere and constant tension are the main reasons this movie works so well for me.', ''); -- 291698 Se7en (1995)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (303564, 9, 'daninbar1904-ctrl', 'For me, this movie is memorable because it mixes suspense, emotion and a twist that stays with you.', ''); -- 303564 Sixth Sense, The (1999)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (328277, 9, 'daninbar1904-ctrl', 'One reason I enjoy this movie so much is that the action is great while the story still feels easy and enjoyable to follow.', ''); -- 328277 Terminator 2: Judgment Day (1991)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (256632, 8, 'daninbar1904-ctrl', 'This is the kind of movie I enjoy because it is fast, entertaining and full of charismatic characters.', ''); -- 256632 Pirates of the Caribbean: The Curse of the Black Pearl (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (311038, 8, 'daninbar1904-ctrl', 'What I like here is the balance between action, emotion and a villain that keeps the movie entertaining.', ''); -- 311038 Spider-Man 2 (2004)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (214755, 8, 'daninbar1904-ctrl', 'The futuristic concept is what made this movie appealing to me, and the suspense helped keep the story moving.', ''); -- 214755 Minority Report (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (90772, 8, 'daninbar1904-ctrl', 'I connected to this movie because its strange psychological style makes it more interesting than a regular thriller.', ''); -- 90772 Donnie Darko (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (139655, 8, 'daninbar1904-ctrl', 'Compared to the earlier movies, this one feels darker and more mature, which made it more enjoyable for me.', ''); -- 139655 Harry Potter and the Prisoner of Azkaban (2004)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (39551, 8, 'daninbar1904-ctrl', 'The reason this movie fits my taste is that it feels intense and realistic and has very strong action scenes.', ''); -- 39551 Black Hawk Down (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (46169, 8, 'daninbar1904-ctrl', 'What stayed with me in this movie was the large scale of the battles and the emotional weight behind them.', ''); -- 46169 Braveheart (1995)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (2000, 8, 'daninbar1904-ctrl', 'This movie works for me because it builds tension well and feels more serious than a typical horror film.', ''); -- 2000 28 Days Later... (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (300229, 9, 'daninbar1904-ctrl', 'I keep rating this movie highly because it is creative, funny and full of memorable moments that still work well.', ''); -- 300229 Shrek (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (14131, 8, 'daninbar1904-ctrl', 'Its comedy style is the main reason I enjoy this movie, and it stays easy and fun to rewatch.', ''); -- 14131 American Pie (1999)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (276239, 7, 'daninbar1904-ctrl', 'Even though the plot is not especially deep, the atmosphere and action made this movie enjoyable for me.', ''); -- 276239 Resident Evil (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (152426, 8, 'daninbar1904-ctrl', 'Unlike many people, I still find this movie entertaining because I enjoy superhero films and some parts of it are genuinely interesting to me.', ''); -- 152426 Hulk (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (340652, 8, 'daninbar1904-ctrl', 'The epic scale, the battle scenes and the historical action are what make this movie enjoyable for me.', ''); -- 340652 Troy (2004)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (194502, 10, 'daninbar1904-ctrl', 'This movie deserves a top rating from me because it expands the world in a great way and delivers epic battles with a lot of tension.', ''); -- 194502 Lord of the Rings: The Two Towers, The (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (289109, 9, 'daninbar1904-ctrl', 'What impressed me most here is how intense and realistic the war scenes feel while the movie still stays emotional.', ''); -- 289109 Saving Private Ryan (1998)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (185628, 8, 'daninbar1904-ctrl', 'I enjoy this movie because it mixes strong action, honor and emotion in a way that makes the story feel powerful.', ''); -- 185628 Last Samurai, The (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (207989, 8, 'daninbar1904-ctrl', 'Even though it is not as strong as the first movie, it still works for me because of the action, scale and sci fi atmosphere.', ''); -- 207989 Matrix Reloaded, The (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (369486, 8, 'daninbar1904-ctrl', 'This is one of the superhero movies I enjoy more because it moves well and has a fun mix of action and characters.', ''); -- 369486 X2 (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (369458, 7, 'daninbar1904-ctrl', 'I like this movie because it introduced the X Men world in an enjoyable way even if the later movies are stronger.', ''); -- 369458 X-Men (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (155070, 8, 'daninbar1904-ctrl', 'The main reason I rate this movie highly is that the futuristic idea is fun and the action keeps it entertaining.', ''); -- 155070 I, Robot (2004)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (40187, 8, 'daninbar1904-ctrl', 'This movie stands out to me because of its dark style, fast action and the overall cool atmosphere.', ''); -- 40187 Blade (1998)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (40191, 8, 'daninbar1904-ctrl', 'I had a good time with this movie because it keeps the energy high and gives more of the same action horror style that I enjoy.', ''); -- 40191 Blade II (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (346364, 8, 'daninbar1904-ctrl', 'For me, this movie is enjoyable because the dark action style and creature elements fit my taste very well.', ''); -- 346364 Underworld (2003/I) (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (142491, 8, 'daninbar1904-ctrl', 'What I like about this movie is the mix of fantasy, action and a main character that feels different from regular superhero films.', ''); -- 142491 Hellboy (2004)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (210739, 8, 'daninbar1904-ctrl', 'This is the kind of movie I can easily enjoy because it combines science fiction, humor and a light entertaining pace.', ''); -- 210739 Men in Black (1997)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (283712, 8, 'daninbar1904-ctrl', 'I rate this movie well because the comedy and action work together and the chemistry between the two leads makes it fun.', ''); -- 283712 Rush Hour (1998)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (283713, 8, 'daninbar1904-ctrl', 'Compared to many action comedies, this one stays very easy to enjoy because it is fast and has entertaining characters.', ''); -- 283713 Rush Hour 2 (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (27168, 7, 'daninbar1904-ctrl', 'This movie fits my taste because of the energy and action even if it is not one of my absolute favorites.', ''); -- 27168 Bad Boys (1995)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (27171, 7, 'daninbar1904-ctrl', 'I still enjoy this movie because it is loud, exaggerated and entertaining in the kind of way that works for action films.', ''); -- 27171 Bad Boys II (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (254785, 8, 'daninbar1904-ctrl', 'What makes this movie work for me is that it takes a simple idea and builds strong tension around it almost the whole time.', ''); -- 254785 Phone Booth (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (301391, 8, 'daninbar1904-ctrl', 'This movie is memorable to me because it builds suspense slowly and creates a creepy atmosphere without needing constant action.', ''); -- 301391 Signs (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (345690, 7, 'daninbar1904-ctrl', 'I appreciate this movie because the idea is interesting and the serious tone makes it different from regular superhero stories.', ''); -- 345690 Unbreakable (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (113305, 7, 'daninbar1904-ctrl', 'I enjoy this movie mainly because the concept is memorable and it is one of those horror thrillers that stays fun to watch.', ''); -- 113305 Final Destination (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (311037, 8, 'daninbar1904-ctrl', 'This movie is enjoyable for me because it delivers fun superhero action and has a main character that is easy to connect with.', ''); -- 311037 Spider-Man (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (139650, 8, 'daninbar1904-ctrl', 'I like this movie because it keeps the magical world interesting and adds a mystery that makes it more engaging.', ''); -- 139650 Harry Potter and the Chamber of Secrets (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (139657, 8, 'daninbar1904-ctrl', 'What makes this movie work for me is how well it introduces the world and creates a strong sense of adventure.', ''); -- 139657 Harry Potter and the Sorcerer's Stone (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (300230, 9, 'daninbar1904-ctrl', 'This sequel stands out to me because it is funny, creative and full of memorable moments that still hold up very well.', ''); -- 300230 Shrek 2 (2004)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (113504, 8, 'daninbar1904-ctrl', 'I enjoy this movie because it is emotional, visually strong and very easy to stay connected to from beginning to end.', ''); -- 113504 Finding Nemo (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (218415, 8, 'daninbar1904-ctrl', 'The idea behind this movie is creative and the humor makes it consistently entertaining for me.', ''); -- 218415 Monsters, Inc. (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (112290, 10, 'daninbar1904-ctrl', 'This movie gets a top rating from me because of its dark tone, psychological depth and how memorable the whole experience is.', ''); -- 112290 Fight Club (1999)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (191246, 9, 'daninbar1904-ctrl', 'For me this movie is memorable because it combines strong emotion, great music and a story that stays powerful over time.', ''); -- 191246 Lion King, The (1994)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (264041, 8, 'daninbar1904-ctrl', 'I rate this movie highly because the story feels meaningful and the atmosphere and music make it more impressive.', ''); -- 264041 Prince of Egypt, The (1998)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (50639, 8, 'daninbar1904-ctrl', 'The main reason I enjoy this movie is the psychological idea behind it and the way it keeps the tension strong.', ''); -- 50639 Butterfly Effect, The (2004)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (198981, 7, 'daninbar1904-ctrl', 'This movie fits my taste because it feels unsettling and psychological, even if it is heavier than movies I watch for pure fun.', ''); -- 198981 Machinist, The (2004)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (291221, 7, 'daninbar1904-ctrl', 'I enjoy this movie because it is a recognizable horror film with good tension and a style that still makes it entertaining.', ''); -- 291221 Scream (1996)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (169736, 7, 'daninbar1904-ctrl', 'What I like here is the creepy atmosphere and the darker horror style, even if it is not one of my absolute favorites.', ''); -- 169736 Ju-on: The Grudge (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (14132, 7, 'daninbar1904-ctrl', 'This movie is fun for me because it keeps the same comedy style that made the first one easy to enjoy.', ''); -- 14132 American Pie 2 (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (14230, 6, 'daninbar1904-ctrl', 'I can enjoy this movie, but compared to the earlier entries it feels less fresh and a bit weaker overall.', ''); -- 14230 American Wedding (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (290378, 8, 'daninbar1904-ctrl', 'This movie works for me because it has a lot of energy, a fun concept and a very likable lead performance.', ''); -- 290378 School of Rock, The (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (48075, 7, 'daninbar1904-ctrl', 'I like this movie because it is light, funny and easy to watch, even if it is not one of the comedies I rate the highest.', ''); -- 48075 Bruce Almighty (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (239786, 7, 'daninbar1904-ctrl', 'The comedy style in this movie works for me and it stays entertaining because of the characters and the overall pace.', ''); -- 239786 Old School (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (113306, 6, 'daninbar1904-ctrl', 'This sequel is still watchable for me, but the idea feels less fresh than the first movie and less memorable overall.', ''); -- 113306 Final Destination 2 (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (313474, 5, 'daninbar1904-ctrl', 'I feel neutral about this movie because it has scale and well known characters, but it does not connect with me as strongly as better fantasy or sci fi films.', ''); -- 313474 Star Wars: Episode I - The Phantom Menace (1999)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (207991, 6, 'daninbar1904-ctrl', 'I can still enjoy this movie because the action and scale are there, but it feels noticeably weaker than the earlier Matrix movies.', ''); -- 207991 Matrix Revolutions, The (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (328281, 7, 'daninbar1904-ctrl', 'This movie still works for me as an action film, even if it does not reach the level of Terminator 2.', ''); -- 328281 Terminator 3: Rise of the Machines (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (337814, 8, 'daninbar1904-ctrl', 'What makes this movie strong for me is the tension, the atmosphere and the way it stays engaging throughout.', ''); -- 337814 Training Day (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (67052, 8, 'daninbar1904-ctrl', 'I enjoy this movie because it has a dark urban feeling and keeps the suspense very steady from start to finish.', ''); -- 67052 Collateral (2004)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (107166, 7, 'daninbar1904-ctrl', 'This movie is enjoyable to me because the concept is memorable and the exaggerated action makes it fun to watch.', ''); -- 107166 Face/Off (1997)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (68940, 6, 'daninbar1904-ctrl', 'I can watch this movie for the action and energy, but it feels more entertaining than truly impressive to me.', ''); -- 68940 Con Air (1997)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (304862, 7, 'daninbar1904-ctrl', 'The gothic style and creepy atmosphere are the main reasons this movie fits my taste.', ''); -- 304862 Sleepy Hollow (1999)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (158999, 7, 'daninbar1904-ctrl', 'I like this movie because it is a very watchable large scale sci fi film with a fun invasion idea.', ''); -- 158999 Independence Day (1996)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (296980, 6, 'daninbar1904-ctrl', 'This movie has some style and action that I can enjoy, but it does not stand out to me as much as stronger action thrillers.', ''); -- 296980 Shaft (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (24430, 7, 'daninbar1904-ctrl', 'The humor here is silly and exaggerated, but that is exactly what makes the movie entertaining for me.', ''); -- 24430 Austin Powers: International Man of Mystery (1997)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (24432, 7, 'daninbar1904-ctrl', 'I enjoy this sequel because it keeps the same comedy style and stays easy to watch when I want something light.', ''); -- 24432 Austin Powers: The Spy Who Shagged Me (1999)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (24429, 6, 'daninbar1904-ctrl', 'Some parts of this movie are still funny to me, but overall it feels less sharp than the earlier Austin Powers movies.', ''); -- 24429 Austin Powers in Goldmember (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (27344, 7, 'daninbar1904-ctrl', 'This movie works for me because its darker comedy style feels different and still manages to be entertaining.', ''); -- 27344 Bad Santa (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (99164, 7, 'daninbar1904-ctrl', 'I enjoy this movie as a light comedy because it is easy to watch and has a warm fun tone.', ''); -- 99164 Elf (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (209658, 7, 'daninbar1904-ctrl', 'The awkward situations and the comedy around them make this movie consistently enjoyable for me.', ''); -- 209658 Meet the Parents (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (5573, 7, 'daninbar1904-ctrl', 'What makes this movie fun for me is the over the top performance and the fast silly humor.', ''); -- 5573 Ace Ventura: Pet Detective (1994)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (189233, 7, 'daninbar1904-ctrl', 'This movie stays entertaining because the central idea is simple, funny and works very well for a comedy.', ''); -- 189233 Liar Liar (1997)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (279460, 6, 'daninbar1904-ctrl', 'I can enjoy this movie as a casual comedy, but it is not one of the ones that stays especially memorable for me.', ''); -- 279460 Road Trip (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (86263, 6, 'daninbar1904-ctrl', 'There is enough action here to keep me interested, but compared to stronger action movies it feels more average.', ''); -- 86263 Die Another Day (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (335336, 6, 'daninbar1904-ctrl', 'This movie is watchable for the action and pace, but it does not leave as strong an impression on me as better entries in the genre.', ''); -- 335336 Tomorrow Never Dies (1997)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (44034, 8, 'daninbar1904-ctrl', 'This movie fits my taste because it has a dark crime atmosphere, memorable characters and a style that keeps it interesting.', ''); -- 44034 Boondock Saints, The (1999)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (79716, 7, 'daninbar1904-ctrl', 'I enjoy this movie mainly for the disaster scale and the fast entertaining pace even if it is not especially deep.', ''); -- 79716 Day After Tomorrow, The (2004)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (338173, 7, 'daninbar1904-ctrl', 'What works for me here is the simple action formula, the pacing and the fact that it stays easy to watch.', ''); -- 338173 Transporter, The (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (354548, 6, 'daninbar1904-ctrl', 'The atmosphere is strong in this movie, but overall it connected with me less than other thrillers with a bigger payoff.', ''); -- 354548 Village, The (2004)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (112205, 8, 'daninbar1904-ctrl', 'I rate this movie highly because it is creative, visually different and has a science fiction style that feels very fun.', ''); -- 112205 Fifth Element, The (1997)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (107265, 7, 'daninbar1904-ctrl', 'This movie is enjoyable for me because it mixes horror, suspense and a familiar school setting in a fun way.', ''); -- 107265 Faculty, The (1998)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (267215, 7, 'daninbar1904-ctrl', 'I like this movie because the revenge angle and rough action make it satisfying even if it is not one of the best superhero films.', ''); -- 267215 Punisher, The (2004)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (244458, 8, 'daninbar1904-ctrl', 'The strongest part of this movie for me is the atmosphere because it builds suspense quietly and keeps the tension very steady.', ''); -- 244458 Others, The (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (210511, 9, 'daninbar1904-ctrl', 'This movie stands out to me because the structure is clever, the idea is memorable and it keeps me thinking the whole time.', ''); -- 210511 Memento (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (102225, 8, 'daninbar1904-ctrl', 'I enjoy this movie a lot because the dark futuristic world and the stylized action fit my taste very well.', ''); -- 102225 Equilibrium (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (274069, 8, 'daninbar1904-ctrl', 'What makes this movie work for me is the dark thriller tone, the tension and the interesting characters around the main story.', ''); -- 274069 Red Dragon (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (138463, 6, 'daninbar1904-ctrl', 'I can appreciate parts of this movie, but compared to stronger psychological thrillers it feels less sharp and less gripping to me.', ''); -- 138463 Hannibal (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (101070, 8, 'daninbar1904-ctrl', 'This movie is very watchable to me because it moves quickly and the conspiracy thriller style keeps the pressure high.', ''); -- 101070 Enemy of the State (1998)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (336458, 8, 'daninbar1904-ctrl', 'I like this movie because the concept is memorable, the action is fun and the sci fi setting gives it a strong identity.', ''); -- 336458 Total Recall (1990)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (313820, 7, 'daninbar1904-ctrl', 'This movie works for me as a sci fi action film because it has energy, scale and a style that stays entertaining.', ''); -- 313820 Starship Troopers (1997)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (362312, 7, 'daninbar1904-ctrl', 'I enjoy the suspense in this movie because it builds unease well and keeps a creepy feeling without needing nonstop action.', ''); -- 362312 What Lies Beneath (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (292671, 7, 'daninbar1904-ctrl', 'For me this movie is interesting because it stays psychological and unsettling in a way that matches the kind of thriller I like.', ''); -- 292671 Secret Window (2004)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (326496, 6, 'daninbar1904-ctrl', 'There are parts of this movie I enjoy because of the serious tone and military action, but it is not one that stayed with me strongly.', ''); -- 326496 Tears of the Sun (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (90771, 8, 'daninbar1904-ctrl', 'This movie earns a high rating from me because the crime story is strong and the character dynamics keep it engaging.', ''); -- 90771 Donnie Brasco (1997)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (176711, 8, 'daninbar1904-ctrl', 'I enjoy this movie because it has a strong style, memorable action scenes and a darker tone that keeps it very entertaining for me.', ''); -- 176711 Kill Bill: Vol. 1 (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (14145, 8, 'daninbar1904-ctrl', 'What makes this movie work for me is the dark psychological tone and the strange unsettling feeling it keeps throughout.', ''); -- 14145 American Psycho (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (101055, 7, 'daninbar1904-ctrl', 'I like this movie because it combines war tension and sniper suspense in a way that stays engaging.', ''); -- 101055 Enemy at the Gates (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (360480, 7, 'daninbar1904-ctrl', 'This movie fits my taste because the military action is solid and the serious tone keeps it watchable.', ''); -- 360480 We Were Soldiers (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (32900, 5, 'daninbar1904-ctrl', 'I feel neutral about this movie because it has enough action to be watchable but it does not stand out much to me.', ''); -- 32900 Behind Enemy Lines (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (343874, 6, 'daninbar1904-ctrl', 'There are parts of this movie I enjoy because the submarine setting creates tension, but overall it is not one of my stronger war favorites.', ''); -- 343874 U-571 (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (57762, 6, 'daninbar1904-ctrl', 'This movie is entertaining enough because the pace is quick and the idea is easy to follow, even if it is not very memorable.', ''); -- 57762 Cellular (2004)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (57735, 5, 'daninbar1904-ctrl', 'The visual style is interesting here, but compared to stronger psychological thrillers this movie connected with me less.', ''); -- 57735 Cell, The (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (12332, 6, 'daninbar1904-ctrl', 'I can enjoy this movie as a thriller, but it feels more decent than truly gripping for me.', ''); -- 12332 Along Came a Spider (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (178138, 6, 'daninbar1904-ctrl', 'The suspense makes this movie watchable for me, although it does not feel as sharp as the thrillers I rate more highly.', ''); -- 178138 Kiss the Girls (1997)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (273926, 6, 'daninbar1904-ctrl', 'This movie has a good setup and some tension, but overall it stayed closer to average than memorable for me.', ''); -- 273926 Recruit, The (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (163715, 7, 'daninbar1904-ctrl', 'I enjoy this movie because it is stylish, easy to watch and does a good job as a fun heist film.', ''); -- 163715 Italian Job, The (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (178929, 7, 'daninbar1904-ctrl', 'What I like here is the light adventurous tone and the fact that the movie stays fun without taking itself too seriously.', ''); -- 178929 Knight's Tale, A (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (251247, 4, 'daninbar1904-ctrl', 'The concept had potential, but the final result felt flatter and less exciting than I expected.', ''); -- 251247 Paycheck (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (21213, 5, 'daninbar1904-ctrl', 'I can appreciate the idea behind this movie, but the slower dramatic style makes it less suited to my usual taste.', ''); -- 21213 Artificial Intelligence: AI (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (256839, 7, 'daninbar1904-ctrl', 'This movie works for me because the dark science fiction atmosphere is strong and the survival tension keeps it interesting.', ''); -- 256839 Pitch Black (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (238695, 6, 'daninbar1904-ctrl', 'I understand why people like this comedy and some parts are funny, but it is not the kind of humor I connect to the most.', ''); -- 238695 Office Space (1999)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (279420, 5, 'daninbar1904-ctrl', 'This is a solid movie, but the slower dramatic crime style makes it less enjoyable for me than action driven films.', ''); -- 279420 Road to Perdition (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (203344, 8, 'daninbar1904-ctrl', 'The intensity, revenge angle and serious action style are the main reasons this movie fits my taste so well.', ''); -- 203344 Man on Fire (2004)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (284621, 5, 'daninbar1904-ctrl', 'I feel mostly neutral about this movie because it has some action but ends up feeling pretty generic overall.', ''); -- 284621 S.W.A.T. (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (281334, 7, 'daninbar1904-ctrl', 'This movie is enjoyable to me because it has a cool thriller style and action scenes that feel grounded and effective.', ''); -- 281334 Ronin (1998)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (78789, 8, 'daninbar1904-ctrl', 'This movie fits my taste very well because it mixes dark science fiction, mystery and a psychological atmosphere in a memorable way.', ''); -- 78789 Dark City (1998)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (84956, 8, 'daninbar1904-ctrl', 'What I like here is the dark tone and the way the movie keeps feeling intense and unsettling throughout.', ''); -- 84956 Devil's Advocate, The (1997)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (107842, 7, 'daninbar1904-ctrl', 'I enjoy this movie because the central idea is interesting and the suspense makes it easy to stay engaged.', ''); -- 107842 Fallen (1998)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (9023, 6, 'daninbar1904-ctrl', 'This movie is watchable for me because the action and setup are solid, but it does not stand out as much as stronger thrillers.', ''); -- 9023 Air Force One (1997)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (105723, 6, 'daninbar1904-ctrl', 'I can enjoy this movie as a tense action film, although it feels more decent than truly memorable to me.', ''); -- 105723 Executive Decision (1996)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (321718, 6, 'daninbar1904-ctrl', 'The style and pace keep this movie entertaining enough, but overall it feels closer to average than great for me.', ''); -- 321718 Swordfish (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (69812, 6, 'daninbar1904-ctrl', 'The conspiracy angle is interesting, but compared to stronger thrillers this movie connected with me a bit less.', ''); -- 69812 Conspiracy Theory (1997)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (330610, 7, 'daninbar1904-ctrl', 'I like this movie because the science fiction concept is clever and gives it a different feel from a regular thriller.', ''); -- 330610 Thirteenth Floor, The (1999)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (124554, 8, 'daninbar1904-ctrl', 'This movie stands out to me because the futuristic idea is smart and the serious tone makes it feel meaningful.', ''); -- 124554 Gattaca (1997)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (71564, 7, 'daninbar1904-ctrl', 'I enjoy this movie because the revenge story is satisfying and the adventure style makes it easy to get into.', ''); -- 71564 Count of Monte Cristo, The (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (193960, 6, 'daninbar1904-ctrl', 'There is enough action and energy here to keep me interested, but it is not one of the movies that stays with me strongly.', ''); -- 193960 Long Kiss Goodnight, The (1996)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (245275, 6, 'daninbar1904-ctrl', 'I find this movie reasonably engaging because of the outbreak scenario, even if it feels more functional than exciting.', ''); -- 245275 Outbreak (1995)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (304765, 6, 'daninbar1904-ctrl', 'This is a solid movie, but the heavier dramatic style makes it less natural for my taste than darker thrillers or action films.', ''); -- 304765 Sleepers (1996)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (242549, 4, 'daninbar1904-ctrl', 'The survival idea had potential, but the movie felt too dry and less rewarding than I expected.', ''); -- 242549 Open Water (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (314745, 5, 'daninbar1904-ctrl', 'I can appreciate the atmosphere and concept here, but overall the movie did not fully work for me.', ''); -- 314745 Stigmata (1999)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (79050, 4, 'daninbar1904-ctrl', 'This movie has some creepy elements, but compared to better horror films it felt weaker and less effective to me.', ''); -- 79050 Darkness (2002/I) (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (82662, 7, 'daninbar1904-ctrl', 'I still enjoy this movie because the action is fun and the exaggerated sci fi style gives it a lot of entertainment value.', ''); -- 82662 Demolition Man (1993)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (313601, 7, 'daninbar1904-ctrl', 'The world and adventure concept are the main reasons this movie remains enjoyable for me even if it is a bit older in style.', ''); -- 313601 Stargate (1994)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (206488, 3, 'daninbar1904-ctrl', 'I understand the style this movie is going for, but the humor and tone did not connect with me very much.', ''); -- 206488 Mars Attacks! (1996)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (79044, 2, 'daninbar1904-ctrl', 'The concept is not bad, but the overall movie felt too dated and much less enjoyable to me than stronger dark action films.', ''); -- 79044 Darkman (1990)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (65627, 4, 'daninbar1904-ctrl', 'The action is there, but the movie feels too dated and one dimensional compared with stronger action films I enjoy more.', ''); -- 65627 Cliffhanger (1993)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (278830, 3, 'daninbar1904-ctrl', 'The idea is not bad, but the movie felt too dry and never created enough tension to keep me fully interested.', ''); -- 278830 Rising Sun (1993)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (331529, 3, 'daninbar1904-ctrl', 'This movie has some adventure energy, but it feels too light and not sharp enough to stay memorable for me.', ''); -- 331529 Three Musketeers, The (1993)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (118925, 2, 'daninbar1904-ctrl', 'The source idea is strong, but the execution felt heavy and dragged more than it should have.', ''); -- 118925 Frankenstein (1994)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (258884, 3, 'daninbar1904-ctrl', 'There are some decent thriller moments here, but overall it felt flatter and less gripping than I expected.', ''); -- 258884 Point of No Return (1994)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (82683, 4, 'daninbar1904-ctrl', 'I can enjoy parts of the horror action style, but the movie ends up feeling more exaggerated than genuinely strong.', ''); -- 82683 Demon Knight (1995)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (170522, 4, 'daninbar1904-ctrl', 'The concept is fun, but a lot of the movie feels too childish for me now and less effective than stronger fantasy films.', ''); -- 170522 Jumanji (1995)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (261962, 2, 'daninbar1904-ctrl', 'The movie tries to be emotional and unusual, but for me it was more slow and awkward than moving.', ''); -- 261962 Powder (1995)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (269765, 3, 'daninbar1904-ctrl', 'The style is noticeable, but the story and characters did not hold my attention enough to make the movie work.', ''); -- 269765 Quick and the Dead, The (1995)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (171094, 3, 'daninbar1904-ctrl', 'This thriller is watchable, but it feels too generic and never really rises above average for me.', ''); -- 171094 Just Cause (1995)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (92868, 4, 'daninbar1904-ctrl', 'The fantasy setup has potential, but the effects and tone make the movie feel less impressive than it should be.', ''); -- 92868 Dragonheart (1996)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (74259, 1, 'daninbar1904-ctrl', 'The exaggerated style and musical tone did not work for me at all and made the movie feel annoying more than entertaining.', ''); -- 74259 Cry-Baby (1990)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (134017, 2, 'daninbar1904-ctrl', 'The movie felt too small and slow for me, and neither the humor nor the chemistry made it interesting enough.', ''); -- 134017 Green Card (1990)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (223734, 3, 'daninbar1904-ctrl', 'There are a few amusing moments, but overall the comedy is not sharp enough to make the movie really work for me.', ''); -- 223734 My Blue Heaven (1990)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (117674, 2, 'daninbar1904-ctrl', 'The idea behind the movie is interesting, but the execution feels too soft and does not keep me invested.', ''); -- 117674 Forever Young (1992)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (39274, 1, 'daninbar1904-ctrl', 'This movie simply does not hold my attention because it feels too flat and too far from the kind of movies I normally enjoy.', ''); -- 39274 Black Beauty (1994)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (135195, 2, 'daninbar1904-ctrl', 'The movie stays too mild for me and never becomes funny or engaging enough to leave much of an impression.', ''); -- 135195 Guarding Tess (1994)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (194319, 3, 'daninbar1904-ctrl', 'The tone feels uneven and the story comes across as more silly than fun, so the movie did not land for me.', ''); -- 194319 Looks Can Kill (1994)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (236083, 2, 'daninbar1904-ctrl', 'The nostalgic emotional approach did not connect with me, and the movie felt too soft and slow overall.', ''); -- 236083 Now and Then (1995)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (252823, 2, 'daninbar1904-ctrl', 'The story never really pulled me in and the movie ended up feeling weak and not very memorable.', ''); -- 252823 Perez Family, The (1995)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (30967, 6, 'daninbar1904-ctrl', 'The atmosphere and style are noticeable, but the movie feels less fun and less smooth to me than stronger superhero films.', ''); -- 30967 Batman Returns (1992)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (279757, 5, 'daninbar1904-ctrl', 'The adventure idea is good, but the movie feels too long and never becomes as sharp or exciting as I want it to be.', ''); -- 279757 Robin Hood: Prince of Thieves (1991)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (130202, 4, 'daninbar1904-ctrl', 'There are effects and scale here, but the movie itself feels weak and does not create enough excitement for me.', ''); -- 130202 Godzilla 2001 (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (338821, 4, 'daninbar1904-ctrl', 'The world is interesting, but the story did not hold me emotionally or keep me very invested.', ''); -- 338821 Treasure Planet (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (350424, 5, 'daninbar1904-ctrl', 'The movie has interesting ideas, but for me it feels more confusing and uneven than truly impressive.', ''); -- 350424 Vanilla Sky (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (209591, 3, 'daninbar1904-ctrl', 'The main issue for me is the pacing because the movie drags too much and loses my attention.', ''); -- 209591 Meet Joe Black (1998)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (250514, 4, 'daninbar1904-ctrl', 'I can see the intention behind the movie, but it feels too forced emotionally and less natural than it should.', ''); -- 250514 Patch Adams (1998)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (362188, 3, 'daninbar1904-ctrl', 'Visually the movie is unique, but the story itself did not keep me engaged enough to really work for me.', ''); -- 362188 What Dreams May Come (1998)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (36536, 4, 'daninbar1904-ctrl', 'The concept is good, but the softer and slower execution makes the movie less effective for my taste.', ''); -- 36536 Bicentennial Man (1999)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (251194, 4, 'daninbar1904-ctrl', 'I respect the message, but the movie feels too heavy handed and not very natural in the way it delivers it.', ''); -- 251194 Pay It Forward (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (21448, 4, 'daninbar1904-ctrl', 'It is clearly well made, but the style and pace are less interesting to me than movies with stronger suspense or action.', ''); -- 21448 As Good as It Gets (1997)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (289787, 5, 'daninbar1904-ctrl', 'The acting is strong, but as a full movie it does not keep me involved enough from beginning to end.', ''); -- 289787 Scent of a Woman (1992)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (331427, 6, 'daninbar1904-ctrl', 'There are some strong moments here, but the mix of tones feels uneven and keeps it from landing better for me.', ''); -- 331427 Three Kings (1999)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (317261, 2, 'daninbar1904-ctrl', 'This movie feels too childish for me and I never found it engaging enough to care much about what happens.', ''); -- 317261 Stuart Little (1999)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (221259, 4, 'daninbar1904-ctrl', 'There are some decent moments, but overall the movie is less funny and less sharp to me than I expected.', ''); -- 221259 Mrs. Doubtfire (1993)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (215507, 3, 'daninbar1904-ctrl', 'The movie is easy enough to watch, but it feels too predictable and does not really leave much of an impression.', ''); -- 215507 Miss Congeniality (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (151616, 2, 'daninbar1904-ctrl', 'The central dynamic did not work for me and the movie felt too formula driven to stay interesting.', ''); -- 151616 How to Lose a Guy in 10 Days (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (74010, 4, 'daninbar1904-ctrl', 'The style is there, but the movie feels more superficial than smart and did not connect with me strongly.', ''); -- 74010 Cruel Intentions (1999)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (289024, 3, 'daninbar1904-ctrl', 'I did not find the story very compelling because it felt too familiar and not strong enough emotionally.', ''); -- 289024 Save the Last Dance (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (26079, 2, 'daninbar1904-ctrl', 'The movie felt too strange in a way that did not become enjoyable for me and I stayed disconnected from it.', ''); -- 26079 Babe: Pig in the City (1998)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (340901, 8, 'daninbar1904-ctrl', 'What makes this movie strong for me is the central idea, which stays interesting and meaningful from beginning to end.', ''); -- 340901 Truman Show, The (1998)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (119879, 8, 'daninbar1904-ctrl', 'I enjoy this movie because it combines suspense, emotion and a time related concept in a very engaging way.', ''); -- 119879 Frequency (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (314965, 7, 'daninbar1904-ctrl', 'The atmosphere works well here and the supernatural tension makes the movie easy for me to stay with.', ''); -- 314965 Stir of Echoes (1999)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (118689, 8, 'daninbar1904-ctrl', 'This movie stands out to me because it feels dark, controlled and genuinely unsettling in a memorable way.', ''); -- 118689 Frailty (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (263740, 8, 'daninbar1904-ctrl', 'I rate this movie highly because the tension is strong and it keeps building interest very effectively.', ''); -- 263740 Primal Fear (1996)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (229428, 7, 'daninbar1904-ctrl', 'The movie stays engaging for me thanks to the pressure, dialogue and the way the standoff keeps moving.', ''); -- 229428 Negotiator, The (1998)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (250737, 6, 'daninbar1904-ctrl', 'I can enjoy this movie as a solid action thriller, but it does not feel especially sharp or memorable to me.', ''); -- 250737 Patriot Games (1992)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (65501, 6, 'daninbar1904-ctrl', 'There is enough tension here to keep it watchable, but the movie feels more steady than exciting for my taste.', ''); -- 65501 Clear and Present Danger (1994)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (43565, 6, 'daninbar1904-ctrl', 'The setup is decent, but compared to better dark thrillers this one feels less gripping and less impressive to me.', ''); -- 43565 Bone Collector, The (1999)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (61291, 7, 'daninbar1904-ctrl', 'I like this movie because it is creative and fun, even if it does not hit me as strongly as my favorite animated films.', ''); -- 61291 Chicken Run (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (222112, 8, 'daninbar1904-ctrl', 'This movie works for me because it has a strong story, good energy and an atmosphere that makes it easy to connect to.', ''); -- 222112 Mulan (1998)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (155213, 7, 'daninbar1904-ctrl', 'It is an enjoyable animated movie with good humor, but for me it stays more light and fun than truly outstanding.', ''); -- 155213 Ice Age (2002)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (283480, 7, 'daninbar1904-ctrl', 'The pace and action make this movie entertaining for me even if it is not one of the stronger films in the genre.', ''); -- 283480 Rundown, The (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (364424, 7, 'daninbar1904-ctrl', 'I enjoy the lighter crime comedy style here because it stays watchable and has enough character based fun.', ''); -- 364424 Whole Nine Yards, The (2000)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (113337, 5, 'daninbar1904-ctrl', 'The visuals are interesting, but the movie feels emotionally distant and less engaging than the concept suggests.', ''); -- 113337 Final Fantasy: The Spirits Within (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (285701, 6, 'daninbar1904-ctrl', 'There is some style and entertainment value here, but overall the movie lands closer to average than memorable for me.', ''); -- 285701 Saint (1996)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (208245, 6, 'daninbar1904-ctrl', 'This movie is easy enough to watch, but it never becomes strong enough to leave a big impression on me.', ''); -- 208245 Maverick (1994)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (74731, 7, 'daninbar1904-ctrl', 'The main idea is clever and the pressure of the situation keeps the movie interesting even with its simple structure.', ''); -- 74731 Cube (1997)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (283434, 7, 'daninbar1904-ctrl', 'I like this movie because it stays smooth and engaging, even if it does not reach the level of the best thrillers.', ''); -- 283434 Runaway Jury (2003)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
+values (185127, 6, 'daninbar1904-ctrl', 'There are solid moments here, but the movie feels less powerful to me than the stronger military dramas I have rated higher.', ''); -- 185127 Last Castle, The (2001)
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (276085, 10, 'GiliBarak', 'This movie is so upsetting and it really shocks your soul.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (289109, 10, 'GiliBarak', 'A brutal, unforgettable war picture; the opening Omaha Beach sequence is legendary.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (330388, 8, 'GiliBarak', 'A meditative, visually stunning meditation on war.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300230, 10, 'GiliBarak', 'I love this sequel. The funny songs make it a joy to watch.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300229, 7, 'GiliBarak', 'A very funny movie that makes fun of old stories in a cool way.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30959, 8, 'GiliBarak', 'The best way to show how Batman started. It feels real.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (207992, 9, 'GiliBarak', 'The techno music fits the digital world and action perfectly.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (18960, 9, 'GiliBarak', 'A hallucinatory descent into the heart of Vietnam.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (333856, 8, 'GiliBarak', 'A very sad love story. The moving flute music made me sad.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (210511, 8, 'GiliBarak', 'The story moves backwards and it is very smart and unique.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (112290, 8, 'GiliBarak', 'A wild movie with a big surprise that makes you think.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (267038, 10, 'GiliBarak', 'The retro songs fit the cool vibe of the movie perfectly, most iconic Tarantino film.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (131780, 9, 'GiliBarak', 'A great look at mob life. The period songs fit the era well.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (257459, 8, 'GiliBarak', 'Raw and unflinching combat through a young soldier''''s eyes.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (290070, 10, 'GiliBarak', 'A very sad story. The violin music is truly heartbreaking.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (337166, 9, 'GiliBarak', 'A classic that I loved as a kid and still enjoy today.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10830, 8, 'GiliBarak', 'A scary space movie. The silence makes it feel very lonely.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (141544, 9, 'GiliBarak', 'The diner scene alone is worth the whole movie.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10920, 8, 'GiliBarak', 'Action at its best and more exciting than the first one.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (297838, 10, 'GiliBarak', 'A beautiful story about having a real friend in prison.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (40199, 7, 'GiliBarak', 'The dark synth music fits this future city vibe perfectly.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (46169, 9, 'GiliBarak', 'Big battles and a strong story about fighting for freedom.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (335835, 8, 'GiliBarak', 'Fast planes and cool rock songs that make you feel the speed.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (326155, 7, 'GiliBarak', 'A dark story about a lonely man. The city feels very dirty.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159172, 9, 'GiliBarak', 'The adventure music and the jokes make this a perfect movie.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (271095, 8, 'GiliBarak', 'The trumpet theme is famous and makes scenes feel exciting.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313478, 9, 'GiliBarak', 'A great sequel with a big secret and iconic hero music.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313479, 8, 'GiliBarak', 'A satisfying ending to the original story with a lot of heart.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (49696, 9, 'GiliBarak', 'The whistling music in the desert makes this feel so cool.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188507, 8, 'GiliBarak', 'The saxophone music really fits the cool cop vibe of the eighties.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188509, 8, 'GiliBarak', 'A great action sequel that keeps the same high energy.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (301540, 10, 'GiliBarak', 'Hopkins is hypnotic; the tension never lets up.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139657, 7, 'GiliBarak', 'The magical music theme makes you feel like you are there.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (137655, 8, 'GiliBarak', 'The simple piano notes are so scary and iconic for horror.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139655, 8, 'GiliBarak', 'My favorite in the series. The style and the music are cool.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (191246, 10, 'GiliBarak', 'The opening song is one of the best moments in any cartoon.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (319602, 8, 'GiliBarak', 'The classic hero music makes you believe he can really fly.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (97727, 9, 'GiliBarak', 'A beautiful but sad story. The pretty music fits it well.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30955, 8, 'GiliBarak', 'A dark and cool Batman. The music by Danny Elfman is great.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (291698, 9, 'GiliBarak', 'A grim, relentless thriller with a devastating finale.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311038, 9, 'GiliBarak', 'The best Spider-Man movie. It shows the hard hero life.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (130128, 9, 'GiliBarak', 'The classic slow music makes the whole story feel grand.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (348944, 9, 'GiliBarak', 'Twisty, stylish, and the ending still surprises on rewatches.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215876, 8, 'GiliBarak', 'A cool spy movie with a theme song that everyone knows.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256632, 9, 'GiliBarak', 'The pirate music is fun and makes the adventure better.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (129185, 10, 'GiliBarak', 'Epic scale, great score, and a career-defining performance.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (123435, 9, 'GiliBarak', 'A clever movie that keeps you guessing. Very tense and cool.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (56304, 9, 'GiliBarak', 'A fast look at the bad side of Vegas with a cool soundtrack.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (96593, 9, 'GiliBarak', 'Spielberg at his most tender; still magical.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (82967, 9, 'GiliBarak', 'Scorsese''''s Boston crime epic; an ending nobody saw coming.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (65811, 10, 'GiliBarak', 'The five music notes are so famous and work perfectly.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (254986, 10, 'GiliBarak', 'The piano songs are beautiful and make the story sad.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (26844, 10, 'GiliBarak', 'A near-perfect blockbuster with wit and heart.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (186439, 10, 'GiliBarak', 'The desert theme music is grand and sounds amazing.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (121538, 9, 'GiliBarak', 'The rhythmic songs in the army scenes feel strong.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (70959, 8, 'GiliBarak', 'A dark but sweet story. The songs fit the style well.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (74259, 8, 'GiliBarak', 'A funny take on old movies. The music is high energy.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (106790, 9, 'GiliBarak', 'The slow violin soundtrack is beautiful and very sad.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (66194, 8, 'GiliBarak', 'A smart and funny look at school life. The songs are great.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (644, 8, 'GiliBarak', 'A fresh and fun version of an old story with good music.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313059, 9, 'GiliBarak', 'The friendship drama that defines coming-of-age.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (67395, 9, 'GiliBarak', 'The gospel songs make the story feel very emotional.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (299073, 9, 'GiliBarak', 'The weird high noises in the music make this movie creepy.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (62076, 9, 'GiliBarak', 'A perfect neo-noir with one of the great endings.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313459, 9, 'GiliBarak', 'The Imperial March is so cool and very scary for a movie.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (70248, 8, 'GiliBarak', 'Paranoia done with surgical precision.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (303564, 9, 'GiliBarak', 'A ghost story that earns its twist.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311040, 5, 'GiliBarak', 'Too many bad guys and the story felt a bit messy to me.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30952, 2, 'GiliBarak', 'This was just a bad movie. It felt like a joke gone wrong.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (238073, 5, 'GiliBarak', 'It was okay but felt a bit too messy compared to the first.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (220805, 5, 'GiliBarak', 'Lots of action and shooting but the story was very simple.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188511, 6, 'GiliBarak', 'Still okay but there was too much going on in the story.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (149287, 6, 'GiliBarak', 'A different take on Peter Pan. It was a nice family movie.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (379290, 8, 'GiliBarak', 'A cool old Batman cartoon. It sounds just like the 60s.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (33179, 8, 'GiliBarak', 'Weird, wonderful, and hilariously unsettling.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (134672, 9, 'GiliBarak', 'Sweet, existential, and quietly profound.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (337830, 9, 'GiliBarak', 'Kinetic, ugly, funny — the 90s on film.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (113506, 9, 'GiliBarak', 'A very pretty movie about dreams and the Peter Pan creator.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (123849, 9, 'GiliBarak', 'The old city sounds and music make it feel very real.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (185628, 9, 'GiliBarak', 'The Japanese flute music makes the battles look epic.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (220276, 9, 'GiliBarak', 'The songs are amazing. It is a very pretty movie to see.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280270, 10, 'GiliBarak', 'The trumpet music in the training is very famous and good.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (359297, 9, 'GiliBarak', 'The scary horn sound in the movie is very terrifying.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (372233, 8, 'GiliBarak', 'Bond in Japan. The soundtrack is actually very pretty.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (406411, 8, 'GiliBarak', 'The war sounds in the cartoons are very well done.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (1390, 7, 'GiliBarak', 'Spielberg''''s loud, chaotic WWII comedy.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (1038, 9, 'GiliBarak', 'The 80s songs are amazing in this very fun comedy.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (1121, 8, 'GiliBarak', 'The epic Vangelis music is just incredible to hear.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280281, 9, 'GiliBarak', 'The trumpet theme is still so strong and good here.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280282, 8, 'GiliBarak', 'The Eye of the Tiger song is just perfect for this.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (124554, 8, 'GiliBarak', 'Quiet sci-fi with big ideas about fate and choice.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311037, 8, 'GiliBarak', 'A good start for Spider-Man. It felt just like the comics.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (160524, 8, 'GiliBarak', 'A tense thriller where the sun never goes down. Cool.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (328277, 10, 'GiliBarak', 'Action filmmaking at its absolute peak.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (209158, 9, 'GiliBarak', 'A raw story about guys in a rough city. Good acting.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (328285, 9, 'GiliBarak', 'Lean, mean, and genre-defining.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (34104, 8, 'GiliBarak', 'A sweet and odd story about love. It has heart.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (304862, 8, 'GiliBarak', 'A dark scary story. The music makes it feel spooky.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (59578, 7, 'GiliBarak', 'A colorful candy factory. The songs are fun for kids.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139650, 8, 'GiliBarak', 'Darker and more exciting. The magic world looks great.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (350424, 7, 'GiliBarak', 'A strange story about dreams. The songs are very moody.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (86274, 10, 'GiliBarak', 'The template every action movie since has tried to copy.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (238695, 9, 'GiliBarak', 'Mike Judge''''s workplace comedy that only gets funnier.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (120506, 8, 'GiliBarak', 'A dark mystery set in old London. Very tense vibe.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (247579, 8, 'GiliBarak', 'A tense thriller in one house. The sound design is good.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (69812, 7, 'GiliBarak', 'A fun movie about secret plots and mystery. Exciting.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (181766, 8, 'GiliBarak', 'A very pretty movie that takes its time to tell the story.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (185704, 8, 'GiliBarak', 'A bold story that really makes you think about things.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (328272, 8, 'GiliBarak', 'A nice story about a man stuck in an airport. Sweet.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (318388, 8, 'GiliBarak', 'A fast road movie with a lot of soul and heart.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (183873, 8, 'GiliBarak', 'A nice magic story from long ago. The vibe was good.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311428, 8, 'GiliBarak', 'A funny story with a lot of charm. The music is light.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (114955, 8, 'GiliBarak', 'A good story about growing up. It has a summer feeling.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (235615, 8, 'GiliBarak', 'A serious look at a family. The dialogue is well written.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (31715, 8, 'GiliBarak', 'A sad and beautiful story about friends over years.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (308025, 8, 'GiliBarak', 'A cool look for the city. It has a very tense feeling.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (210739, 9, 'GiliBarak', 'Fun with cool aliens. The music makes it high energy.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (158999, 8, 'GiliBarak', 'A huge movie about aliens. The action is very big.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (14477, 8, 'GiliBarak', 'A tough and important story. The acting is powerful.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (330670, 8, 'GiliBarak', 'A real story with great acting. It feels grounded.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (118980, 8, 'GiliBarak', 'A sweet story with stars. The music is very nice.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (208245, 8, 'GiliBarak', 'A fast and fun western trip. The music is upbeat.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (379327, 9, 'GiliBarak', 'A classic adventure with very bright and fun colors.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311036, 7, 'GiliBarak', 'A cool hero cartoon. I liked the funny sound effects.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (18979, 9, 'GiliBarak', 'A gripping true story told with real craft.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (370017, 8, 'GiliBarak', 'High energy action. The rock music is very loud.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (158927, 9, 'GiliBarak', 'Superhero family drama that works on every level.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (113504, 9, 'GiliBarak', 'Gorgeous, funny, and surprisingly moving.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (218415, 9, 'GiliBarak', 'Pixar at its most charming and inventive.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194874, 9, 'GiliBarak', 'Quiet, melancholy, and wonderfully acted.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (267165, 8, 'GiliBarak', 'Sandler in a role no one expected; it works.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (13789, 8, 'GiliBarak', 'Suburban disquiet captured with unusual clarity.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (222194, 9, 'GiliBarak', 'Lynch at his most hypnotic and baffling.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (32712, 9, 'GiliBarak', 'A whole romance in one walking conversation.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (32713, 9, 'GiliBarak', 'Even better than the original; real-time romance.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (35522, 8, 'GiliBarak', 'Eddie Murphy''''s charm carries a sharp action-comedy.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (239851, 9, 'GiliBarak', 'Shocking, stylish Korean revenge thriller.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300945, 8, 'GiliBarak', 'Wine country, midlife, and a genuinely human script.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (270971, 9, 'GiliBarak', 'De Niro committing to the role like few actors ever have.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (13978, 9, 'GiliBarak', 'Powerful, painful, and still relevant.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (37178, 9, 'GiliBarak', 'Shaggy, quotable, endlessly rewatchable.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (104338, 9, 'GiliBarak', 'Romance told backwards and sideways; emotionally brutal.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194818, 8, 'GiliBarak', 'Lynch noir that refuses to explain itself.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (306032, 9, 'GiliBarak', 'Fast, funny British crime caper with a killer ensemble.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (193253, 9, 'GiliBarak', 'Ritchie''''s debut; stylish crime comedy.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (276217, 10, 'GiliBarak', 'A warehouse, a heist gone wrong, and a soundtrack to die for.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176711, 9, 'GiliBarak', 'Pure Tarantino spectacle.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176712, 9, 'GiliBarak', 'The quieter, richer half of the story.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (7842, 9, 'GiliBarak', 'A wild night in the city. The jazz is cool.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (77701, 8, 'GiliBarak', 'Lars von Trier at his most emotionally ruthless.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (109093, 10, 'GiliBarak', 'Darkly funny, quietly devastating Coen classic.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280305, 5, 'GiliBarak', 'Not a great one. The music was okay though.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (41988, 9, 'GiliBarak', 'Lynch at his most unsettling and visually striking.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (271339, 8, 'GiliBarak', 'Coen brothers comedy at its warmest.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (299846, 8, 'GiliBarak', 'Altman weaving stories into a kaleidoscopic portrait.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (99075, 8, 'GiliBarak', 'Quiet, clinical, devastating.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (218345, 8, 'GiliBarak', 'Charlize Theron disappears into the role.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (90772, 8, 'GiliBarak', 'Weird, dreamy, and instantly iconic.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (14942, 9, 'GiliBarak', 'Intersecting tragedies told with raw energy.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (56044, 10, 'GiliBarak', 'Still the most romantic movie ever made.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (64729, 10, 'GiliBarak', 'The film that invented modern cinema.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (352639, 10, 'GiliBarak', 'Hitchcock''''s most hypnotic and haunting masterpiece.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (266574, 10, 'GiliBarak', 'The shower scene is only the beginning.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (235062, 9, 'GiliBarak', 'Hitchcock''''s perfect chase thriller.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (273543, 9, 'GiliBarak', 'A one-room thriller that never stops tightening.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (307913, 9, 'GiliBarak', 'Still the funniest film of its era.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (302696, 10, 'GiliBarak', 'A musical where every number is a showstopper.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (130129, 10, 'GiliBarak', 'Expands and deepens the original in every way.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (367073, 10, 'GiliBarak', 'The original spectacle; still mesmerizing.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (1711, 10, 'GiliBarak', 'A cosmic trip nothing else has matched.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (92616, 10, 'GiliBarak', 'Kubrick''''s darkest, funniest satire.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (241347, 10, 'GiliBarak', 'Nicholson at the peak of his powers.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (165961, 10, 'GiliBarak', 'The original summer blockbuster, still terrifying.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (42056, 9, 'GiliBarak', 'A musical chase film with unbeatable energy.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (264146, 10, 'GiliBarak', 'Fairy-tale perfection from start to finish.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (131885, 9, 'GiliBarak', 'The 80s adventure that lives on in every kid''''s memory.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (111442, 9, 'GiliBarak', 'The most charming truancy ever filmed.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (46322, 9, 'GiliBarak', 'John Hughes at his sharpest.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (80583, 9, 'GiliBarak', 'Williams turns the teacher drama into something unforgettable.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (271192, 8, 'GiliBarak', 'Brother-road-movie with one of Hoffman''''s best performances.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (362808, 9, 'GiliBarak', 'The romantic comedy template every other tries to copy.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (117874, 9, 'GiliBarak', 'Sentimental in the best way; Hanks carries everything.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (77728, 8, 'GiliBarak', 'Sweeping revisionist western.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (271915, 9, 'GiliBarak', 'Kurosawa''''s devastating late masterpiece.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (371844, 9, 'GiliBarak', 'Kurosawa invents the lone-gunslinger archetype.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (241141, 9, 'GiliBarak', 'Leone''''s sprawling gangster epic.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (198435, 9, 'GiliBarak', 'Fritz Lang''''s serial-killer thriller still shocks.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (212097, 9, 'GiliBarak', 'Silent sci-fi that invented the genre.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312963, 9, 'GiliBarak', 'Tarkovsky''''s slow, haunting journey.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (253440, 9, 'GiliBarak', 'Bergman''''s most unsettling psychological study.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (202537, 9, 'GiliBarak', 'The noir that set the template for every detective film after.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (92573, 8, 'GiliBarak', 'The Bond film that started it all.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (130953, 9, 'GiliBarak', 'Peak Connery-era Bond.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (120574, 9, 'GiliBarak', 'Bond at his most cold-war spiky.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159175, 8, 'GiliBarak', 'Darker, weirder Indy sequel.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (309634, 9, 'GiliBarak', 'A musical landslide you can hum in your sleep.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (361688, 9, 'GiliBarak', 'Musical romance with some of the best dance ever filmed.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (223867, 8, 'GiliBarak', 'Stage-to-screen perfection.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (250861, 8, 'GiliBarak', 'Scott''''s portrait of war''''s most complicated general.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (7678, 8, 'GiliBarak', 'Bogart and Hepburn at their best.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139652, 8, 'GiliBarak', 'A grand tournament spectacle that raises the stakes and transitions the story into a more mature era.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256631, 8, 'GiliBarak', 'An energetic and fun sequel that manages to capture the same spirit as the original film.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (238072, 8, 'GiliBarak', 'A stylish, breezy, and incredibly cool heist movie that is pure entertainment from start to finish.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (56871, 9, 'GiliBarak', 'A charming and fast-paced true story about identity and pursuit that is perfectly acted.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312150, 7, 'GiliBarak', 'A fun and imaginative family spy movie that was full of gadgets and childhood wonder.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (33492, 8, 'GiliBarak', 'A gentle, atmospheric, and beautifully filmed European romance centered around food and connection.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (257744, 8, 'GiliBarak', 'A compelling ensemble drama that weaves together multiple stories of love and loss with sincerity.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (12744, 7, 'GiliBarak', 'A gentle and sentimental Spielberg story that focuses on the emotional side of memory and loss.', null);
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10702, 8, 'GiliBarak', 'A sincere and empowering look at a woman rebuilding her life on her own terms with grit and grace.', null);
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (96593, 8, 'EliLevey', 'Balances strong performances with memorable scenes that still hold up extremely well today.', null);  # 96593 E.T. the Extra-Terrestrial 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (303564, 9, 'EliLevey', 'The atmosphere, pacing, and performances make this movie easy to revisit repeatedly.', null);  # 303564 Sixth Sense, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (13978, 9, 'EliLevey', 'Feels influential and entertaining at the same time, which makes it stand out from similar films.', null);  # 13978 American History X 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (109093, 8, 'EliLevey', 'The combination of storytelling, direction, and memorable characters makes this highly recommendable.', null);  # 109093 Fargo 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (134672, 8, 'EliLevey', 'A very rewatchable movie because the tension and emotional moments both land effectively.', null);  # 134672 Groundhog Day 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (46322, 8, 'EliLevey', 'Balances strong performances with memorable scenes that still hold up extremely well today.', null);  # 46322 Breakfast Club, The 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (111442, 8, 'EliLevey', 'The atmosphere, pacing, and performances make this movie easy to revisit repeatedly.', null);  # 111442 Ferris Bueller's Day Off 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (328285, 9, 'EliLevey', 'Feels influential and entertaining at the same time, which makes it stand out from similar films.', null);  # 328285 Terminator, The 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10920, 9, 'EliLevey', 'The combination of storytelling, direction, and memorable characters makes this highly recommendable.', null);  # 10920 Aliens 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (224842, 8, 'EliLevey', 'A very rewatchable movie because the tension and emotional moments both land effectively.', null);  # 224842 Mystic River 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (173933, 9, 'EliLevey', 'A strong recommendation thanks to its sharp pacing, standout performances, and clear rewatch value. (1984 pick)', null);  # 173933 Karate Kid, The 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (272644, 9, 'EliLevey', 'Ratatouille earns this score because it combines lasting cultural impact with scenes that still feel memorable.', null);  # 272644 Ratatouille 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (276085, 4, 'EliLevey', 'The movie is memorable enough to include, though it is weaker than most of the list.', null);  # 276085 Requiem for a Dream 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (235790, 7, 'EliLevey', 'The movie has mainstream appeal and enough personality to stand out from similar films. (1999 pick)', null);  # 235790 Notting Hill 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (210739, 7, 'EliLevey', 'The movie has mainstream appeal and enough personality to stand out from similar films.', null);  # 210739 Men in Black 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (207992, 8, 'EliLevey', 'The Matrix earns this score because it combines lasting cultural impact with scenes that still feel memorable.', null);  # 207992 Matrix, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (363780, 2, 'EliLevey', 'The movie is memorable enough to include, though it is weaker than most of the list. (2004 pick)', null);  # 363780 White Chicks 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (26064, 7, 'EliLevey', 'A charming family movie with a simple story, likeable characters, and a surprisingly sincere emotional center.', null);  # 26064 Babe 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (97727, 8, 'EliLevey', 'It has a distinctive identity, strong momentum, and enough iconic moments to justify the high rating. (1990 pick)', null);  # 97727 Edward Scissorhands 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (158927, 9, 'EliLevey', 'The Incredibles is a classic crowd-pleaser with enough craft and energy to hold up well over time.', null);  # 158927 Incredibles, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (134077, 9, 'EliLevey', 'The Green Mile delivers exactly what people remember it for, while still feeling entertaining beyond nostalgia.', null);  # 134077 Green Mile, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (189403, 8, 'EliLevey', 'A strong recommendation thanks to its sharp pacing, standout performances, and clear rewatch value. (1989 pick)', null);  # 189403 Licence to Kill 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (368418, 6, 'EliLevey', 'The film has recognizable charm, good pacing, and enough standout scenes to recommend. (1999 pick)', null);  # 368418 World Is Not Enough, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (359297, 7, 'EliLevey', 'It is a fun, accessible movie with a few strong sequences that make it easy to watch. (2005 pick)', null);  # 359297 War of the Worlds 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (222339, 7, 'EliLevey', 'The movie has mainstream appeal and enough personality to stand out from similar films. (1999 pick)', null);  # 222339 Mummy, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (46169, 8, 'EliLevey', 'The film has the kind of iconic moments and confident storytelling that make it easy to recommend. (1995 pick)', null);  # 46169 Braveheart 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (166917, 9, 'EliLevey', 'Jerry Maguire remains popular for a reason: it balances entertainment, style, and memorable character moments.', null);  # 166917 Jerry Maguire 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (123849, 8, 'EliLevey', 'Gangs of New York earns this score because it combines lasting cultural impact with scenes that still feel memorable.', null);  # 123849 Gangs of New York 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (66194, 8, 'EliLevey', 'This works because the story stays engaging while the performances give the whole film real weight. (1995 pick)', null);  # 66194 Clueless 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312151, 7, 'EliLevey', 'A worthwhile choice because the performances and premise carry it even when it is not flawless. (2002 pick)', null);  # 312151 Spy Kids 2: Island of Lost Dreams 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (151616, 8, 'EliLevey', 'It has a distinctive identity, strong momentum, and enough iconic moments to justify the high rating. (2003 pick)', null);  # 151616 How to Lose a Guy in 10 Days 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (328277, 9, 'EliLevey', 'It has a distinctive identity, strong momentum, and enough iconic moments to justify the high rating. (1991 pick)', null);  # 328277 Terminator 2: Judgment Day 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311037, 8, 'EliLevey', 'A popular and reliable choice because the characters, tone, and big moments all land well. (2002 pick)', null);  # 311037 Spider-Man 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (45129, 10, 'EliLevey', 'A popular and reliable choice because the characters, tone, and big moments all land well. (2004 pick)', null);  # 45129 Bourne Supremacy, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (104699, 8, 'EliLevey', 'The film has the kind of iconic moments and confident storytelling that make it easy to recommend. (2004 pick)', null);  # 104699 Eurotrip 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215880, 8, 'EliLevey', 'A popular and reliable choice because the characters, tone, and big moments all land well. (2006 pick)', null);  # 215880 Mission: Impossible III 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (336458, 9, 'EliLevey', 'Total Recall earns this score because it combines lasting cultural impact with scenes that still feel memorable.', null);  # 336458 Total Recall 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (130121, 9, 'EliLevey', 'This works because the story stays engaging while the performances give the whole film real weight. (1992 pick)', null);  # 130121 Godfather 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (270971, 8, 'EliLevey', 'It has a distinctive identity, strong momentum, and enough iconic moments to justify the high rating. (1980 pick)', null);  # 270971 Raging Bull 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (297802, 8, 'EliLevey', 'It blends zombie horror with British comedy in a way that is funny, clever, and surprisingly heartfelt.', null);  # 297802 Shaun of the Dead 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (90772, 9, 'EliLevey', 'Donnie Darko earns this score because it combines lasting cultural impact with scenes that still feel memorable.', null);  # 90772 Donnie Darko 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (177328, 7, 'EliLevey', 'A worthwhile choice because the performances and premise carry it even when it is not flawless. (2005 pick)', null);  # 177328 King Kong 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (337814, 9, 'EliLevey', 'The mix of memorable scenes, strong lead performances, and polished direction makes this an easy pick. (2001 pick)', null);  # 337814 Training Day 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (375827, 8, 'EliLevey', 'This works because the story stays engaging while the performances give the whole film real weight. (2001 pick)', null);  # 375827 Zoolander 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (264146, 10, 'EliLevey', 'The film has the kind of iconic moments and confident storytelling that make it easy to recommend. (1987 pick)', null);  # 264146 Princess Bride, The 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (160524, 7, 'EliLevey', 'A worthwhile choice because the performances and premise carry it even when it is not flawless. (2002 pick)', null);  # 160524 Insomnia 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (112290, 10, 'EliLevey', 'A popular and reliable choice because the characters, tone, and big moments all land well. (1999 pick)', null);  # 112290 Fight Club 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (223799, 8, 'EliLevey', 'A strong recommendation thanks to its sharp pacing, standout performances, and clear rewatch value. (1992 pick)', null);  # 223799 My Cousin Vinny 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (80583, 9, 'EliLevey', 'Dead Poets Society earns this score because it combines lasting cultural impact with scenes that still feel memorable.', null);  # 80583 Dead Poets Society 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (55727, 8, 'EliLevey', 'The film has the kind of iconic moments and confident storytelling that make it easy to recommend. (2005 pick)', null);  # 55727 Cars 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300229, 7, 'EliLevey', 'Shrek is not the strongest film on the list, but it is memorable and still entertaining.', null);  # 300229 Shrek 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (37178, 7, 'EliLevey', 'A good recommendation for its mix of familiar storytelling, charisma, and replay value. (1998 pick)', null);  # 37178 Big Lebowski, The 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (2709, 8, 'EliLevey', 'A popular and reliable choice because the characters, tone, and big moments all land well. (2004 pick)', null);  # 2709 50 First Dates 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (131665, 9, 'EliLevey', 'Good Will Hunting is a classic crowd-pleaser with enough craft and energy to hold up well over time.', null);  # 131665 Good Will Hunting 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (335336, 8, 'EliLevey', 'A strong recommendation thanks to its sharp pacing, standout performances, and clear rewatch value. (1997 pick)', null);  # 335336 Tomorrow Never Dies 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (333856, 9, 'EliLevey', 'It has a distinctive identity, strong momentum, and enough iconic moments to justify the high rating. (1997 pick)', null);  # 333856 Titanic 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139657, 10, 'EliLevey', 'A popular and reliable choice because the characters, tone, and big moments all land well. (2001 pick)', null);  # 139657 Harry Potter and the Sorcerer's Stone 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (26847, 7, 'EliLevey', 'It has some rough edges, but the core idea and key scenes still make it enjoyable. (1990 pick)', null);  # 26847 Back to the Future Part III 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256632, 10, 'EliLevey', 'This works because the story stays engaging while the performances give the whole film real weight. (2003 pick)', null);  # 256632 Pirates of the Caribbean: The Curse of the Black Pearl 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (199255, 8, 'EliLevey', 'Madagascar remains popular for a reason: it balances entertainment, style, and memorable character moments.', null);  # 199255 Madagascar 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (14132, 8, 'EliLevey', 'This works because the story stays engaging while the performances give the whole film real weight.', null);  # 14132 American Pie 2 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (158999, 8, 'EliLevey', 'A strong recommendation thanks to its sharp pacing, standout performances, and clear rewatch value. (1996 pick)', null);  # 158999 Independence Day 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (301540, 10, 'EliLevey', 'This works because the story stays engaging while the performances give the whole film real weight. (1991 pick)', null);  # 301540 Silence of the Lambs, The 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (26844, 8, 'EliLevey', 'The film has the kind of iconic moments and confident storytelling that make it easy to recommend. (1985 pick)', null);  # 26844 Back to the Future 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (112205, 8, 'EliLevey', 'The Fifth Element remains popular for a reason: it balances entertainment, style, and memorable character moments.', null);  # 112205 Fifth Element, The 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (1529, 9, 'EliLevey', '2 Fast 2 Furious is a classic crowd-pleaser with enough craft and energy to hold up well over time.', null);  # 1529 2 Fast 2 Furious 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (9795, 8, 'EliLevey', 'The songs, humor, and Robin Williams performance make it one of Disney’s most entertaining animated films.', null);  # 9795 Aladdin 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (279841, 8, 'EliLevey', 'RoboCop is a classic crowd-pleaser with enough craft and energy to hold up well over time.', null);  # 279841 RoboCop 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312152, 6, 'EliLevey', 'The movie has mainstream appeal and enough personality to stand out from similar films. (2003 pick)', null);  # 312152 Spy Kids 3-D: Game Over 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (155213, 10, 'EliLevey', 'It has a distinctive identity, strong momentum, and enough iconic moments to justify the high rating. (2002 pick)', null);  # 155213 Ice Age 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (162380, 9, 'EliLevey', 'The mix of memorable scenes, strong lead performances, and polished direction makes this an easy pick. (2005 pick)', null);  # 162380 Iron Man 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (238072, 10, 'EliLevey', 'A strong recommendation thanks to its sharp pacing, standout performances, and clear rewatch value. (2001 pick)', null);  # 238072 Ocean's Eleven 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (195300, 7, 'EliLevey', 'Love Actually is not the strongest film on the list, but it is memorable and still entertaining.', null);  # 195300 Love Actually 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (50639, 7, 'EliLevey', 'It has some rough edges, but the core idea and key scenes still make it enjoyable. (2004 pick)', null);  # 50639 Butterfly Effect, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (138797, 7, 'EliLevey', 'Happy Gilmore is enjoyable and well-made, with enough memorable moments to make it worth adding.', null);  # 138797 Happy Gilmore 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (155070, 8, 'EliLevey', 'The film has the kind of iconic moments and confident storytelling that make it easy to recommend. (2004 pick)', null);  # 155070 I, Robot 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (9125, 10, 'EliLevey', 'Airplane! delivers exactly what people remember it for, while still feeling entertaining beyond nostalgia.', null);  # 9125 Airplane! 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (131885, 7, 'EliLevey', 'The Goonies works well because it understands its genre and gives the audience what they came for.', null);  # 131885 Goonies, The 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (289558, 9, 'EliLevey', 'The mix of memorable scenes, strong lead performances, and polished direction makes this an easy pick. (1983 pick)', null);  # 289558 Scarface 1983
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (235541, 8, 'EliLevey', 'The Notebook remains popular for a reason: it balances entertainment, style, and memorable character moments.', null);  # 235541 Notebook, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (39551, 9, 'EliLevey', 'A popular and reliable choice because the characters, tone, and big moments all land well.', null);  # 39551 Black Hawk Down 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (299073, 8, 'EliLevey', 'It has a distinctive identity, strong momentum, and enough iconic moments to justify the high rating. (1980 pick)', null);  # 299073 Shining, The 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (79716, 7, 'EliLevey', 'The film has recognizable charm, good pacing, and enough standout scenes to recommend. (2004 pick)', null);  # 79716 Day After Tomorrow, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (289787, 9, 'EliLevey', 'The mix of memorable scenes, strong lead performances, and polished direction makes this an easy pick. (1992 pick)', null);  # 289787 Scent of a Woman 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (14145, 10, 'EliLevey', 'This works because the story stays engaging while the performances give the whole film real weight. (2000 pick)', null);  # 14145 American Psycho 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313476, 5, 'EliLevey', 'A known film with some fun moments, but it does not fully deliver compared with stronger picks.', null);  # 313476 Star Wars: Episode II - Attack of the Clones 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (267038, 10, 'EliLevey', 'The mix of memorable scenes, strong lead performances, and polished direction makes this an easy pick. (1994 pick)', null);  # 267038 Pulp Fiction 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (32114, 9, 'EliLevey', 'A Beautiful Mind is a classic crowd-pleaser with enough craft and energy to hold up well over time.', null);  # 32114 Beautiful Mind, A 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (291221, 6, 'EliLevey', 'It has some rough edges, but the core idea and key scenes still make it enjoyable.', null);  # 291221 Scream 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194502, 9, 'EliLevey', 'This works because the story stays engaging while the performances give the whole film real weight. (2002 pick)', null);  # 194502 Lord of the Rings: The Two Towers, The 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (191246, 10, 'EliLevey', 'The Lion King delivers exactly what people remember it for, while still feeling entertaining beyond nostalgia.', null);  # 191246 Lion King, The 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (275453, 10, 'EliLevey', 'The film has the kind of iconic moments and confident storytelling that make it easy to recommend. (2000 pick)', null);  # 275453 Remember the Titans 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (32178, 8, 'EliLevey', 'The music, animation, and central romance give it a classic Disney feeling that holds up well.', null);  # 32178 Beauty and the Beast 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (370017, 5, 'EliLevey', 'XXX has appeal in places, but the writing and pacing make the recommendation more limited.', null);  # 370017 XXX 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139654, 8, 'EliLevey', 'It has a distinctive identity, strong momentum, and enough iconic moments to justify the high rating. (2007 pick)', null);  # 139654 Harry Potter and the Order of the Phoenix 2007
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (290070, 9, 'EliLevey', 'Schindler''s List delivers exactly what people remember it for, while still feeling entertaining beyond nostalgia.', null);  # 290070 Schindler's List 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (37002, 7, 'EliLevey', 'A good recommendation for its mix of familiar storytelling, charisma, and replay value. (1999 pick)', null);  # 37002 Big Daddy 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (337166, 10, 'EliLevey', 'A popular and reliable choice because the characters, tone, and big moments all land well. (1995 pick)', null);  # 337166 Toy Story 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280284, 8, 'EliLevey', 'Rocky IV remains popular for a reason: it balances entertainment, style, and memorable character moments.', null);  # 280284 Rocky IV 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (117314, 8, 'EliLevey', 'It has a distinctive identity, strong momentum, and enough iconic moments to justify the high rating. (1981 pick)', null);  # 117314 For Your Eyes Only 1981
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (109421, 9, 'EliLevey', 'The Fast and the Furious delivers exactly what people remember it for, while still feeling entertaining beyond nostalgia.', null);  # 109421 Fast and the Furious, The 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (238073, 6, 'EliLevey', 'The film has recognizable charm, good pacing, and enough standout scenes to recommend. (2004 pick)', null);  # 238073 Ocean's Twelve 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (86274, 9, 'EliLevey', 'It has a distinctive identity, strong momentum, and enough iconic moments to justify the high rating. (1988 pick)', null);  # 86274 Die Hard 1988
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (340901, 9, 'EliLevey', 'The Truman Show earns this score because it combines lasting cultural impact with scenes that still feel memorable.', null);  # 340901 Truman Show, The 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (87280, 8, 'EliLevey', 'Dirty Dancing remains popular for a reason: it balances entertainment, style, and memorable character moments.', null);  # 87280 Dirty Dancing 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (131780, 10, 'EliLevey', 'Goodfellas remains popular for a reason: it balances entertainment, style, and memorable character moments.', null);  # 131780 Goodfellas 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (121538, 10, 'EliLevey', 'A strong recommendation thanks to its sharp pacing, standout performances, and clear rewatch value. (1987 pick)', null);  # 121538 Full Metal Jacket 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159175, 8, 'EliLevey', 'The film has the kind of iconic moments and confident storytelling that make it easy to recommend. (1984 pick)', null);  # 159175 Indiana Jones and the Temple of Doom 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (163715, 9, 'EliLevey', 'The Italian Job delivers exactly what people remember it for, while still feeling entertaining beyond nostalgia.', null);  # 163715 Italian Job, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (16006, 9, 'EliLevey', 'This works because the story stays engaging while the performances give the whole film real weight. (2004 pick)', null);  # 16006 Anchorman: The Legend of Ron Burgundy 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (56304, 9, 'EliLevey', 'A strong recommendation thanks to its sharp pacing, standout performances, and clear rewatch value.', null);  # 56304 Casino 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313474, 5, 'EliLevey', 'It is worth including for popularity, even though the story and execution are uneven.', null);  # 313474 Star Wars: Episode I - The Phantom Menace 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (340652, 9, 'EliLevey', 'The film has the kind of iconic moments and confident storytelling that make it easy to recommend. (2004 pick)', null);  # 340652 Troy 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (113504, 10, 'EliLevey', 'The mix of memorable scenes, strong lead performances, and polished direction makes this an easy pick. (2003 pick)', null);  # 113504 Finding Nemo 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139653, 8, 'EliLevey', 'The mix of memorable scenes, strong lead performances, and polished direction makes this an easy pick. (2008 pick)', null);  # 139653 Harry Potter and the Half-Blood Prince 2008
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (129185, 9, 'EliLevey', 'Gladiator remains popular for a reason: it balances entertainment, style, and memorable character moments.', null);  # 129185 Gladiator 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (66286, 10, 'EliLevey', 'A strong recommendation thanks to its sharp pacing, standout performances, and clear rewatch value. (2005 pick)', null);  # 66286 Coach Carter 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (348944, 9, 'EliLevey', 'A popular and reliable choice because the characters, tone, and big moments all land well. (1995 pick)', null);  # 348944 Usual Suspects, The 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194497, 9, 'EliLevey', 'The Lord of the Rings: The Fellowship of the Ring remains popular for a reason: it balances entertainment, style, and memorable character moments.', null);  # 194497 Lord of the Rings: The Fellowship of the Ring, The 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (248878, 5, 'EliLevey', 'It is worth including for popularity, even though the story and execution are uneven. (1998 pick)', null);  # 248878 Parent Trap, The 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (254986, 9, 'EliLevey', 'The Pianist remains popular for a reason: it balances entertainment, style, and memorable character moments.', null);  # 254986 Pianist, The 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194500, 10, 'EliLevey', 'The film has the kind of iconic moments and confident storytelling that make it easy to recommend. (2003 pick)', null);  # 194500 Lord of the Rings: The Return of the King, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (644, 7, 'EliLevey', 'A solid pick that may not be perfect, but still has strong entertainment value and clear appeal.', null);  # 644 10 Things I Hate About You 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313479, 8, 'EliLevey', 'Star Wars: Episode VI - Return of the Jedi is a classic crowd-pleaser with enough craft and energy to hold up well over time.', null);  # 313479 Star Wars: Episode VI - Return of the Jedi 1983
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (119358, 7, 'EliLevey', 'A solid pick that may not be perfect, but still has strong entertainment value and clear appeal. (2003 pick)', null);  # 119358 Freaky Friday 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (40187, 9, 'EliLevey', 'A strong recommendation thanks to its sharp pacing, standout performances, and clear rewatch value. (1998 pick)', null);  # 40187 Blade 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (276217, 9, 'EliLevey', 'A popular and reliable choice because the characters, tone, and big moments all land well. (1992 pick)', null);  # 276217 Reservoir Dogs 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (302329, 8, 'EliLevey', 'The film has the kind of iconic moments and confident storytelling that make it easy to recommend. (2005 pick)', null);  # 302329 Sin City 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194123, 8, 'EliLevey', 'This works because the story stays engaging while the performances give the whole film real weight. (2005 pick)', null);  # 194123 Longest Yard, The 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256631, 10, 'EliLevey', 'The film has the kind of iconic moments and confident storytelling that make it easy to recommend. (2006 pick)', null);  # 256631 Pirates of the Caribbean 2 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (207157, 8, 'EliLevey', 'This works because the story stays engaging while the performances give the whole film real weight. (1994 pick)', null);  # 207157 Mask, The 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30955, 8, 'EliLevey', 'The gothic style, memorable villain, and darker superhero tone make it an important Batman film.', null);  # 30955 Batman 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (328272, 6, 'EliLevey', 'The Terminal is enjoyable and well-made, with enough memorable moments to make it worth adding.', null);  # 328272 Terminal, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (209133, 6, 'EliLevey', 'Mean Girls is enjoyable and well-made, with enough memorable moments to make it worth adding.', null);  # 209133 Mean Girls 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280305, 5, 'EliLevey', 'Rocky V has appeal in places, but the writing and pacing make the recommendation more limited.', null);  # 280305 Rocky V 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (271095, 9, 'EliLevey', 'Raiders of the Lost Ark delivers exactly what people remember it for, while still feeling entertaining beyond nostalgia.', null);  # 271095 Raiders of the Lost Ark 1981
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139652, 9, 'EliLevey', 'Harry Potter and the Goblet of Fire is a classic crowd-pleaser with enough craft and energy to hold up well over time.', null);  # 139652 Harry Potter and the Goblet of Fire 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30967, 9, 'EliLevey', 'It has a distinctive identity, strong momentum, and enough iconic moments to justify the high rating.', null);  # 30967 Batman Returns 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (34077, 8, 'EliLevey', 'Benjamin Button delivers exactly what people remember it for, while still feeling entertaining beyond nostalgia.', null);  # 34077 Benjamin Button 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (310726, 8, 'EliLevey', 'This works because the story stays engaging while the performances give the whole film real weight. (1994 pick)', null);  # 310726 Speed 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312150, 8, 'EliLevey', 'Spy Kids remains popular for a reason: it balances entertainment, style, and memorable character moments.', null);  # 312150 Spy Kids 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139650, 8, 'EliLevey', 'This works because the story stays engaging while the performances give the whole film real weight. (2002 pick)', null);  # 139650 Harry Potter and the Chamber of Secrets 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (209591, 7, 'EliLevey', 'Meet Joe Black is enjoyable and well-made, with enough memorable moments to make it worth adding.', null);  # 209591 Meet Joe Black 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (337168, 9, 'EliLevey', 'A strong recommendation thanks to its sharp pacing, standout performances, and clear rewatch value. (1999 pick)', null);  # 337168 Toy Story 2 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139655, 10, 'EliLevey', 'Harry Potter and the Prisoner of Azkaban delivers exactly what people remember it for, while still feeling entertaining beyond nostalgia.', null);  # 139655 Harry Potter and the Prisoner of Azkaban 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176711, 9, 'EliLevey', 'Kill Bill: Vol. 1 delivers exactly what people remember it for, while still feeling entertaining beyond nostalgia.', null);  # 176711 Kill Bill: Vol. 1 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280282, 7, 'EliLevey', 'A solid pick that may not be perfect, but still has strong entertainment value and clear appeal. (1982 pick)', null);  # 280282 Rocky III 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (297838, 10, 'EliLevey', 'The mix of memorable scenes, strong lead performances, and polished direction makes this an easy pick. (1994 pick)', null);  # 297838 Shawshank Redemption, The 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313478, 10, 'EliLevey', 'This works because the story stays engaging while the performances give the whole film real weight. (1980 pick)', null);  # 313478 Star Wars: Episode V - The Empire Strikes Back 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30965, 9, 'EliLevey', 'The mix of memorable scenes, strong lead performances, and polished direction makes this an easy pick.', null);  # 30965 Batman Forever 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (142491, 7, 'EliLevey', 'Hellboy is enjoyable and well-made, with enough memorable moments to make it worth adding.', null);  # 142491 Hellboy 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (289666, 8, 'EliLevey', 'A strong recommendation thanks to its sharp pacing, standout performances, and clear rewatch value. (2000 pick)', null);  # 289666 Scary Movie 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (297761, 9, 'EliLevey', 'Se7en stays gripping because the mystery, performances, and dark atmosphere all work together extremely well.', null);  # 297761 Se7en 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (134979, 9, 'EliLevey', 'The Dark Knight combines strong action, memorable characters, and a standout villain performance.', null);  # 134979 Dark Knight, The 2008
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (178103, 8, 'EliLevey', 'Jurassic Park remains exciting because the adventure, effects, and suspense still hold up today.', null);  # 178103 Jurassic Park 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (113277, 9, 'EliLevey', 'Finding Neverland balances emotional storytelling with performances that make the film memorable.', null);  # 113277 Finding Neverland 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (257756, 8, 'EliLevey', 'The Prestige rewards repeat viewings thanks to its structure, performances, and clever twists.', null);  # 257756 Prestige, The 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (190590, 9, 'EliLevey', 'Leon: The Professional works because the action and emotional core support each other effectively.', null);  # 190590 Leon: The Professional 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215670, 8, 'EliLevey', 'Memento stands out for its unusual structure and the way it keeps the audience engaged.', null);  # 215670 Memento 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (330566, 9, 'EliLevey', 'The Departed delivers strong performances, tension, and sharp dialogue throughout.', null);  # 330566 The Departed 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10830, 9, 'EliLevey', 'Alien builds tension brilliantly with a simple setting, strong atmosphere, and memorable sci-fi horror.', null);  # 10830 Alien 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30959, 9, 'EliLevey', 'Batman Begins gives the character a grounded origin story with strong action and clear emotional stakes.', null);  # 30959 Batman Begins 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (40199, 9, 'EliLevey', 'Blade Runner stands out because of its visuals, atmosphere, and lasting influence on science fiction.', null);  # 40199 Blade Runner 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (56871, 9, 'EliLevey', 'Catch Me If You Can is stylish, fast-paced, and carried by very strong lead performances.', null);  # 56871 Catch Me If You Can 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (59578, 7, 'EliLevey', 'Charlie and the Chocolate Factory is visually creative and entertaining, even if it is not perfect.', null);  # 59578 Charlie and the Chocolate Factory 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (92573, 8, 'EliLevey', 'Dr. No is important because it introduces the Bond style with charm, danger, and memorable spy elements.', null);  # 92573 Dr. No 1962
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (130953, 9, 'EliLevey', 'Goldfinger is one of the strongest Bond films because of its villain, style, and iconic moments.', null);  # 130953 Goldfinger 1964
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159172, 9, 'EliLevey', 'Indiana Jones and the Last Crusade mixes adventure, humor, and family emotion extremely well.', null);  # 159172 Indiana Jones and the Last Crusade 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159665, 9, 'EliLevey', 'Inglorious Bastards works because of its tense dialogue, stylish scenes, and memorable characters.', null);  # 159665 Inglorious Bastards 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (165961, 9, 'EliLevey', 'Jaws stays effective because the suspense builds slowly and the threat feels memorable throughout.', null);  # 165961 Jaws 1975
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176712, 8, 'EliLevey', 'Kill Bill Vol. 2 adds more character depth while keeping the revenge story stylish and engaging.', null);  # 176712 Kill Bill Vol. 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (185628, 8, 'EliLevey', 'The Last Samurai combines large-scale action with a personal story about loyalty and identity.', null);  # 185628 Last Samurai, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215876, 8, 'EliLevey', 'Mission Impossible is entertaining because of its espionage tension, twists, and memorable set pieces.', null);  # 215876 Mission Impossible 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215879, 6, 'EliLevey', 'Mission Impossible II has fun action and style, but it is weaker than the better franchise entries.', null);  # 215879 Mission Impossible II 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (220805, 7, 'EliLevey', 'Mr. and Mrs. Smith is enjoyable because of the chemistry between the leads and the action-comedy tone.', null);  # 220805 Mr. and Mrs. Smith 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (263360, 7, 'EliLevey', 'Pretty Woman remains memorable because of its charm, romance, and strong lead performances.', null);  # 263360 Pretty Woman 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280270, 9, 'EliLevey', 'Rocky is a classic underdog story with strong emotion, memorable training scenes, and real heart.', null);  # 280270 Rocky 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280281, 7, 'EliLevey', 'Rocky II continues the underdog story well and keeps the emotional connection from the first film.', null);  # 280281 Rocky II 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (289109, 10, 'EliLevey', 'Saving Private Ryan is powerful because of its realism, emotional weight, and unforgettable war scenes.', null);  # 289109 Saving Private Ryan 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300230, 8, 'EliLevey', 'Shrek 2 is funny, clever, and expands the original story without losing its charm.', null);  # 300230 Shrek 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311038, 9, 'EliLevey', 'Spider-Man 2 improves the superhero story with stronger emotion, action, and a great villain.', null);  # 311038 Spider-Man 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313477, 8, 'EliLevey', 'Star Wars Episode III has strong dramatic moments and gives the prequel story a memorable payoff.', null);  # 313477 Star Wars Episode III 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (326155, 9, 'EliLevey', 'Taxi Driver is intense and memorable because of its atmosphere, character study, and lead performance.', null);  # 326155 Taxi Driver 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (335835, 9, 'EliLevey', 'Top Gun is entertaining because of its energy, aerial scenes, soundtrack, and confident style.', null);  # 335835 Top Gun 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (45128, 9, 'EliLevey', 'The Bourne Identity feels sharp and exciting because of its grounded action and spy mystery.', null);  # 45128 Bourne Identity, The 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (18960, 9, 'EliLevey', 'Apocalypse Now is unforgettable because of its atmosphere, scale, and powerful look at war.', null);  # 18960 Apocalypse Now 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (65764, 8, 'EliLevey', 'A Clockwork Orange is disturbing but memorable because of its bold style and unusual storytelling.', null);  # 65764 Clockwork Orange, A 1971
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (141544, 9, 'EliLevey', 'Heat is gripping because of its crime story, strong performances, and tense confrontations.', null);  # 141544 Heat 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (969, 10, 'EliLevey', '12 Angry Men is excellent because it creates constant tension through dialogue and character conflict.', null);  # 969 12 Angry Men 1957
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (2238, 8, 'EliLevey', '300 is visually memorable and entertaining because of its style, action, and simple heroic story.', null);  # 2238 300 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (148200, 9, 'EliLevey', 'Home Alone is still funny and rewatchable because of its simple idea and memorable comedy scenes.', null);  # 148200 Home Alone 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (369458, 8, 'EliLevey', 'X-Men works because it combines superhero action with characters who feel different and interesting.', null);  # 369458 X-Men 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (218415, 9, 'EliLevey', 'Monsters Inc. is funny, creative, and emotional in a way that makes it easy to rewatch.', null);  # 218415 Monsters Inc 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (26846, 8, 'EliLevey', 'Back to the Future Part II keeps the time-travel idea fun, clever, and very entertaining.', null);  # 26846 Back to the Future Part II 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (362808, 8, 'EliLevey', 'When Harry Met Sally works because the dialogue, chemistry, and humor feel natural and memorable.', null);  # 362808 When Harry Met Sally 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (18979, 9, 'EliLevey', 'Apollo 13 is tense and inspiring because the survival story feels realistic and emotional.', null);  # 18979 Apollo 13 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (120574, 8, 'EliLevey', 'From Russia with Love is a strong Bond film because it focuses on tension, espionage, and style.', null);  # 120574 From Russia with Love 1963
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (332065, 7, 'EliLevey', 'Thunderball has classic Bond style, memorable underwater action, and a strong adventure feeling.', null);  # 332065 Thunderball 1965
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (117874, 10, 'EliLevey', 'Forrest Gump is memorable because it mixes humor, emotion, history, and a very strong lead performance.', null);  # 117874 Forrest Gump 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (226939, 8, 'EliLevey', 'The Naked Gun is funny and memorable because of its absurd jokes and fast comic timing.', null);  # 226939 Naked Gun 1988
+
+
+-- 645, 10 to Midnight (1983)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (645, 6, 'yoavkidar', 'A standard Charles Bronson action movie. It starts off as a police procedural and just turns into a crazy slasher film.', '');
+
+-- 646, 10 Violent Women (1982)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (646, 2, 'yoavkidar', 'A really cheap exploitation movie. The acting is awful, the plot makes no sense, and the editing is totally broken.', '');
+
+-- 695, 100 Jahre Adolf Hitler - Die letzte Stunde im Fhrerbunker (1989)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (695, 7, 'yoavkidar', 'A very chaotic German movie shot in one room with a handheld camera. It is messy but definitely creates a claustrophobic feeling.', '');
+
+-- 707, 100 Mile Rule (2002)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (707, 5, 'yoavkidar', 'A dark comedy about cheating husbands that tries way too hard to be edgy and ends up just being annoying.', '');
+
+-- 709, 100 minuta slave (2004)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (709, 8, 'yoavkidar', 'A beautiful Croatian drama about a deaf painter. The cinematography really focuses on the visual details, which fits the story perfectly.', '');
+
+-- 714, 100 Proof (1997)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (714, 4, 'yoavkidar', 'A super low-budget crime movie that feels more like a bad student project. The pacing is way too slow.', '');
+
+-- 807, 1000 Boomerangs (1994)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (807, 6, 'yoavkidar', 'A decent low-budget film with a pretty weird plot. Not exactly a masterpiece, but it has some funny moments.', '');
+
+-- 822, 1000 Rosen (1994)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (822, 7, 'yoavkidar', 'A nice, quiet European drama. The character interactions feel very natural, even if nothing huge happens in the story.', '');
+
+-- 845, 101 (1989)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (845, 8, 'yoavkidar', 'A super interesting documentary about Depeche Mode fans. It does a great job showing how crazy fan culture can get.', '');
+
+-- 869, 101 Rent Boys (2000)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (869, 7, 'yoavkidar', 'A very raw documentary that just lets people talk without adding too much dramatic editing. It feels very honest.', '');
+
+-- 893, 10:10 (2000)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (893, 6, 'yoavkidar', 'A short film with an interesting concept about time, but it ends right when the story starts getting good.', '');
+
+-- 907, 11 commandements, Les (2004)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (907, 5, 'yoavkidar', 'Basically a French version of Jackass. Some of the stunts are funny, but it gets repetitive really fast.', '');
+
+-- 910, 11 Harrowhouse (1974)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (910, 6, 'yoavkidar', 'A heist movie with an overly complicated plot. The robbery sequence itself is cool, but the setup takes way too long.', '');
+
+-- 926, 110 Stories (2002)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (926, 8, 'yoavkidar', 'A really emotional documentary that respects its subject matter and does not use cheap tricks to make you cry.', '');
+
+-- 949, 119 (1994)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (949, 5, 'yoavkidar', 'A Japanese thriller with a very slow buildup. The ending is okay, but it is not enough to make up for the slow pace.', '');
+
+-- 965, 12 (2003/I)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (965, 6, 'yoavkidar', 'A coming-of-age movie that tries to be super realistic but ends up feeling a bit boring because the characters lack depth.', '');
+
+-- 973, 12 Bucks (1998)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (973, 4, 'yoavkidar', 'A 90s indie movie that tries to be edgy but just comes off as a bunch of people yelling at each other in cheap apartments.', '');
+
+-- 979, 12 horas (2001)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (979, 6, 'yoavkidar', 'An interesting concept to have the whole movie take place in half a day, but the dialogue feels a bit forced sometimes.', '');
+
+-- 993, 12 Stops on the Road to Nowhere (1999)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (993, 8, 'yoavkidar', 'A great short indie film. It manages to tell a complete, engaging story with really limited resources.', '');
+
+-- 995, 12 stulyev (1971)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (995, 9, 'yoavkidar', 'A classic Russian comedy. The two main actors are hilarious, and the whole treasure hunt plot is just a great setup for jokes.', '');
+
+-- 1016, 125 rue Montmartre (1959)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (1016, 7, 'yoavkidar', 'A solid French noir movie. The plot twists are nice, even if you can see some of them coming from a mile away.', '');
+
+-- 1019, 12:01 PM (1990)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (1019, 8, 'yoavkidar', 'A very clever short film about a time loop. It does a lot with a tiny budget and just a few locations.', '');
+
+-- 1026, 13 Dead Men (2003)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (1026, 2, 'yoavkidar', 'A terrible action movie. The shootout scenes look like they were filmed in someone backyard with fake guns.', '');
+
+-- 1030, 13 Fighting Men (1960)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (1030, 5, 'yoavkidar', 'An old B-movie about the Civil War. Not much action, mostly just guys talking in camps. Pretty forgettable.', '');
+
+-- 1039, 13 jours en France (1968)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (1039, 7, 'yoavkidar', 'A nice documentary about the Winter Olympics. The music is great and the ski footage actually looks really cool.', '');
+
+-- 1040, 13 kaidan (2003)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (1040, 6, 'yoavkidar', 'A Japanese thriller about the death penalty. Has some good suspense, but the plot gets way too complicated at the end.', '');
+
+-- 1046, 13 Moons (2002)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (1046, 6, 'yoavkidar', 'An indie comedy with an amazing cast (like Steve Buscemi), but the script is kind of a mess and doesn’t really go anywhere.', '');
+
+-- 1054, 13 West Street (1962)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (1054, 7, 'yoavkidar', 'A solid, tense movie about a guy tracking down a gang. It feels surprisingly dark for an early 60s film.', '');
+
+-- 1057, 13. jul (1982)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (1057, 6, 'yoavkidar', 'A massive Yugoslav war movie. Lots of explosions and shouting, but the characters feel more like symbols than real people.', '');
+
+-- 1069, 13ta godenitsa na printsa (1987)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (1069, 7, 'yoavkidar', 'A cute Bulgarian fantasy movie. The special effects are totally outdated, but it has a nice, charming fairytale vibe.', '');
+
+-- 1072, 13th Child (2002)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (1072, 3, 'yoavkidar', 'A very bad horror movie about the Jersey Devil. The monster looks terrible and the acting is completely flat.', '');
+
+-- 1073, 13th Floor, The (1988)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (1073, 4, 'yoavkidar', 'Not the cool sci-fi movie from the 90s, but a weird, cheap Australian horror film. Has a few funny kills, but that is it.', '');
+
+-- 1075, 13th House, The (2003)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (1075, 5, 'yoavkidar', 'Another generic indie horror movie. It relies on jump scares instead of actually building a scary atmosphere.', '');
+
+-- 1087, 13th Letter, The (1951)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (1087, 6, 'yoavkidar', 'A decent mystery about anonymous letters ruining a town. A bit slow, but the final reveal is kind of cool.', '');
+
+-- 31, $pent (2000)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (31, 4, 'yoavkidar', 'An indie drama about acting that just feels super pretentious and tries way too hard to be deep.', '');
+
+-- 33, $windle (2002)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (33, 5, 'yoavkidar', 'An action movie with Tom Sizemore. It has lots of shooting but absolutely no character development or interesting plot.', '');
+
+-- 36, '15' (2002)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (36, 7, 'yoavkidar', 'A rough, fast-paced Singaporean movie about teenage gangs. The handheld camera work makes it feel like a real documentary.', '');
+
+-- 41, '49-'17 (1917)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (41, 6, 'yoavkidar', 'A very old silent Western. It is interesting because it makes fun of the Western genre even back in 1917.', '');
+
+-- 44, '68 (1988)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (44, 5, 'yoavkidar', 'A movie that tries to capture the crazy vibe of the 1960s, but it just feels like a collection of hippy clichés.', '');
+
+-- 49, '94 du bi dao zhi qing (1994)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (49, 6, 'yoavkidar', 'A modern take on the one-armed swordsman movies. The fights are decent, but the story is totally forgettable.', '');
+
+-- 51, 'A' (1965)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (51, 8, 'yoavkidar', 'A fantastic short animated film. It is super simple but does a great job conveying its message without any words.', '');
+
+-- 52, 'A' gai waak (1983)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (52, 9, 'yoavkidar', 'Classic Jackie Chan movie. The bicycle chase and the clock tower stunt are some of the best action scenes ever filmed.', '');
+
+-- 53, 'A' gai waak juk jaap (1987)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (53, 8, 'yoavkidar', 'A really good sequel. Not quite as iconic as the first one, but the choreography is still mind-blowing.', '');
+
+-- 62, 'Babicky dobjejte presne!' (1983)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (62, 6, 'yoavkidar', 'A weird sci-fi comedy from Czechoslovakia. It is creative but the jokes don’t really translate well today.', '');
+
+-- 100, 'E' (1981)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (100, 8, 'yoavkidar', 'An incredibly clever Canadian short animation. It makes a smart point about crowds and society using very simple graphics.', '');
+
+-- 101, 'El Chicko' - der Verdacht (1995)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (101, 4, 'yoavkidar', 'A very confusing German thriller. The plot jumps all over the place and it is really hard to care about the main character.', '');
+
+-- 124, 'Hyp-Nut-Tist', The (1935)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (124, 7, 'yoavkidar', 'A classic Popeye cartoon. The gags still hold up, and the animation is really expressive for the 1930s.', '');
+
+-- 153, 'Mad' Boy, I'll Blow Your Blues Away. Be Mine (1997)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (153, 8, 'yoavkidar', 'A very stylish, weird indie movie. It uses music and bizarre visuals to create a really unique atmosphere.', '');
+
+-- 184, 'Ne gnstige Gelegenheit (1999)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (184, 5, 'yoavkidar', 'A German action-comedy that tries to be like a Quentin Tarantino movie, but the dialogue is just not sharp enough.', '');
+
+-- 196, 'Non', ou A V Glria de Mandar (1990)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (196, 7, 'yoavkidar', 'A heavy historical drama about Portuguese military history. Visually beautiful, but you need to know the history to enjoy it.', '');
+
+-- 2, $ (1971)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (2, 7, 'yoavkidar', 'A weird 70s bank robbery movie. The plot is a bit all over the place, but it is kinda funny.', '');
+
+-- 6, $1,000,000 Duck (1971)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (6, 5, 'yoavkidar', 'Classic Disney live-action stuff. It is super silly and honestly pretty dated, but still kinda cute.', '');
+
+-- 11, $1000 a Touchdown (1939)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (11, 4, 'yoavkidar', 'An old 1930s comedy about football. It relies way too much on goofy slapstick.', '');
+
+-- 38, '38 (1987)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (38, 8, 'yoavkidar', 'An interesting Austrian drama set before WWII. The atmosphere is really tense.', '');
+
+-- 130, 'Imhar', une lgende (1997)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (130, 6, 'yoavkidar', 'A cool little short film. Not much plot but visually it looks nice.', '');
+
+-- 136, 'Java Madness' formerly titled 'Coffee Madness' (1995)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (136, 7, 'yoavkidar', 'A short film about coffee addiction. It is actually pretty relatable.', '');
+
+-- 139, 'J to tedy beru, sfe...!' (1977)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (139, 5, 'yoavkidar', 'A Czech comedy that has some funny moments but the pacing is weird.', '');
+
+-- 141, 'Kaash' (1987)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (141, 6, 'yoavkidar', 'A sad Bollywood family drama. It gets a little too melodramatic for my taste.', '');
+
+-- 195, 'Night, Mother (1986)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (195, 8, 'yoavkidar', 'A really heavy and depressing drama. The acting is amazing though.', '');
+
+-- 198, 'O re (1989)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (198, 4, 'yoavkidar', 'An Italian historical comedy. The jokes did not really land for me.', '');
+
+-- 338, ...A Valparaso (1962)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (338, 8, 'yoavkidar', 'A nice documentary short. It shows the city in a really cool way.', '');
+
+-- 352, ...And the Earth Did Not Swallow Him (1995)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (352, 7, 'yoavkidar', 'A touching indie drama about a migrant family. Pretty raw and emotional.', '');
+
+-- 359, ...Aur Pyaar Ho Gaya (1997)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (359, 5, 'yoavkidar', 'A standard Bollywood romance. Nothing too special but the music is alright.', '');
+
+-- 361, ...Because She Disobeyed (1935)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (361, 4, 'yoavkidar', 'A basic 1930s drama. The plot is super predictable.', '');
+
+-- 365, ...borgnes sont rois, Les (1974)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (365, 9, 'yoavkidar', 'An Oscar-winning short film. The story is simple but really effective.', '');
+
+-- 369, ...Comme elle respire (1998)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (369, 5, 'yoavkidar', 'A French comedy thriller. The main character is kinda annoying, honestly.', '');
+
+-- 370, ...continuavano a chiamarlo Trinit (1972)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (370, 7, 'yoavkidar', 'A classic Spaghetti Western comedy. The fight scenes are just ridiculous in a good way.', '');
+
+-- 393, ...e tanta paura (1976)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (393, 6, 'yoavkidar', 'An Italian thriller with a decent mystery. The ending was a bit confusing though.', '');
+
+-- 408, ...ing (2003)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (408, 8, 'yoavkidar', 'A Korean romance movie. It is sweet but definitely a tearjerker.', '');
+
+-- 413, ...Ja teeb trikke (1978)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (413, 7, 'yoavkidar', 'A weird Estonian film. It has some cool visuals but the story is hard to follow.', '');
+
+-- 417, ...Lost (2000)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (417, 5, 'yoavkidar', 'An indie thriller that tries to be smart but just ends up being slow.', '');
+
+-- 418, ...Maybe This Time (1980)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (418, 5, 'yoavkidar', 'An Australian romance that feels a bit like a soap opera.', '');
+
+-- 428, ...Or Forever Hold Your Peace (2000)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (428, 7, 'yoavkidar', 'A decent indie comedy about a wedding. Some of the dialogue is actually pretty funny.', '');
+
+-- 445, ...som havets nakna vind (1968)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (445, 4, 'yoavkidar', 'A Swedish drama from the 60s. Very artsy and kind of boring to be honest.', '');
+
+-- 453, ...und abends in die Scala (1958)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (453, 5, 'yoavkidar', 'A German musical comedy. The songs are okay but the story is totally forgettable.', '');
+
+-- 467, ...und fhre uns nicht in Versuchung (1957)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (467, 4, 'yoavkidar', 'An old German drama. Takes itself way too seriously.', '');
+
+-- 476, ...und sowas mu um 8 ins Bett (1965)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (476, 4, 'yoavkidar', 'A silly German comedy. The jokes are incredibly dated.', '');
+
+-- 480, ...und ber uns der Himmel (1947)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (480, 7, 'yoavkidar', 'A post-war German movie. It gives a really interesting look at the ruined cities.', '');
+
+-- 487, ...Y al tercer ao, resucit (1981)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (487, 5, 'yoavkidar', 'A Spanish comedy about politics. I think you need to know the history to get the jokes.', '');
+
+-- 499, ...ya no puede caminar. (2001)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (499, 8, 'yoavkidar', 'A solid Mexican drama. The acting feels very real and grounded.', '');
+
+-- 509, .com for Murder (2002)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (509, 3, 'yoavkidar', 'A terrible thriller about the internet. Feels like it was written by someone who never used a computer.', '');
+
+-- 529, 007 1/2 no Carnaval (1966)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (529, 3, 'yoavkidar', 'A really cheap 60s spy spoof. Not funny at all.', '');
+
+-- 544, 06 (1994)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (544, 6, 'yoavkidar', 'A weird Dutch thriller where the whole thing happens over a phone. Creative but gets dull.', '');
+
+-- 549, 08/15 - In der Heimat (1955)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (549, 6, 'yoavkidar', 'The sequel to the German war movie. Not as good as the first one, but still decent.', '');
+
+-- 550, 08/15 - Zweiter Teil (1955)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (550, 6, 'yoavkidar', 'The third part of the German war trilogy. It wraps things up okay, but feels a bit dragged out.', '');
+
+-- 551, 091 Polica al habla (1960)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (551, 6, 'yoavkidar', 'A Spanish police procedural. Pretty standard cop stuff.', '');
+
+-- 563, 1 Giant Leap (2002)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (563, 7, 'yoavkidar', 'A cool documentary combining music and travel. The soundtrack is amazing.', '');
+
+-- 572, 1 na 1 (2002)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (572, 7, 'yoavkidar', 'A gritty Polish drama about street life. Feels very authentic.', '');
+
+-- 591, 1-2-3-4 ou Les Collants noirs (1960)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (591, 7, 'yoavkidar', 'A French dance movie. The choreography is great, but there is basically no plot.', '');
+
+-- 597, 1. April 2000 (1952)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (597, 8, 'yoavkidar', 'An old Austrian sci-fi comedy. The retro-futuristic stuff looks super cool.', '');
+
+-- 603, 1/2 Mensch (1986)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (603, 8, 'yoavkidar', 'A weird industrial music documentary. Visually interesting but definitely not for everyone.', '');
+
+-- 615, 10 del Texas, I (1961)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (615, 4, 'yoavkidar', 'A very average Spaghetti Western. You have seen this plot a hundred times.', '');
+
+-- 628, 10 minuta (2002)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (628, 9, 'yoavkidar', 'A really powerful short film about war. Gets straight to the point in just 10 minutes.', '');
+
+-- 634, 10 on Ten (2004)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (634, 7, 'yoavkidar', 'A documentary about Iranian filmmaking. Really inspiring to see how they work.', '');
+
+-- 641, 10 Seconds (1998)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (641, 8, 'yoavkidar', 'A short film that builds tension nicely. Better than a lot of full-length thrillers.', '');
+
+-- 672, 100 aos de perdn (1998)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (672, 7, 'yoavkidar', 'A fun Venezuelan heist movie. The characters are actually pretty smart for a change.', '');
+
+-- 675, 100 Days (1991)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (675, 5, 'yoavkidar', 'An action movie that takes itself way too seriously. The shootouts are okay.', '');
+
+-- 676, 100 Days (2001)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (676, 7, 'yoavkidar', 'A Rwandan drama that is incredibly hard to watch, but definitely an important film.', '');
+
+-- 682, 100 Girls (2000)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (682, 6, 'yoavkidar', 'A typical teen comedy. The jokes are pretty dumb but it is an okay background movie.', '');
+
+-- 713, 100 Pro (2001)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (713, 4, 'yoavkidar', 'A German comedy that falls totally flat. I did not laugh once.', '');
+
+
+-- 24, $50,000 Climax Show, The (1975)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (24, 3, 'yoavkidar', 'Honestly a really weird 70s movie. I did not really get what was going on half the time.', '');
+
+-- 32, $ucces Part One (1986)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (32, 5, 'yoavkidar', 'Average 80s film. It has some okay moments but mostly it just feels a bit dated now.', '');
+
+-- 61, 'As se hizo' - Torremolinos 73 (2003)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (61, 6, 'yoavkidar', 'A pretty cool behind-the-scenes documentary. Nice to see how they set up some of the shots.', '');
+
+-- 71, 'Broadway Melody of 1940' (1940)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (71, 7, 'yoavkidar', 'The tap dancing scenes are actually amazing. You just do not see choreography like that anymore.', '');
+
+-- 94, 'Crocodile' Dundee II (1988)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (94, 5, 'yoavkidar', 'Not nearly as fun as the first one. The jokes feel a bit forced and the pacing is kind of slow.', '');
+
+-- 118, 'Halloween' Unmasked 2000 (1999)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (118, 7, 'yoavkidar', 'Good documentary if you like the Halloween movies. Tells you a lot about the original production budget.', '');
+
+-- 133, 'It's Alive!' (1969)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (133, 4, 'yoavkidar', 'An old B-movie that is more funny than scary. The special effects are basically just rubber suits.', '');
+
+-- 165, 'Midnight Cowboy' Revisited (1994)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (165, 8, 'yoavkidar', 'Really solid retrospective on a classic movie. It gives a lot of good context on why the original was so controversial.', '');
+
+-- 181, 'N Sync: No Strings Attached (1999)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (181, 6, 'yoavkidar', 'Just a standard concert video. Nostalgic if you grew up listening to them, but otherwise skip it.', '');
+
+-- 220, 'Rope' Unleashed (2001)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (220, 7, 'yoavkidar', 'Interesting look at how Hitchcock filmed Rope. The stuff about hiding the camera cuts is pretty clever.', '');
+
+-- 230, 'Salem's Lot (2004)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (230, 6, 'yoavkidar', 'A decent Stephen King adaptation. Some good creepy moments but the acting from the supporting cast is a bit weak.', '');
+
+-- 245, 'Space: 1999' Documentary, The (1996)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (245, 6, 'yoavkidar', 'Good for sci-fi nerds. Shows how they made the old TV show with basically zero CGI.', '');
+
+-- 249, 'Sunset Blvd.': A Look Back (2002)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (249, 8, 'yoavkidar', 'A great breakdown of one of the best movies ever. The interviews add a lot of value.', '');
+
+-- 291, 'Weird Al' Yankovic Live! (1999)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (291, 7, 'yoavkidar', 'Super energetic concert. The guy never stops running around the stage and changing costumes.', '');
+
+-- 329, *Corpus Callosum (2002)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (329, 5, 'yoavkidar', 'A really experimental film. The visual distortions are cool for a few minutes but get tiring pretty fast.', '');
+
+-- 334, ...4 ...3 ...2 ...1 ...morte (1967)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (334, 4, 'yoavkidar', 'A very basic 60s sci-fi movie. The sets look like cardboard and the plot is totally predictable.', '');
+
+-- 337, ...a tutte le auto della polizia (1975)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (337, 7, 'yoavkidar', 'A gritty Italian crime movie. The car chases are surprisingly good for the time period.', '');
+
+-- 340, ...A ya uezzhayu domoy (1968)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (340, 5, 'yoavkidar', 'An old Russian drama. It is okay but moves at a really slow pace.', '');
+
+-- 341, ...a zase ta Lucie! (1984)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (341, 6, 'yoavkidar', 'A cute Czech family comedy. Nice if you just want something light in the background.', '');
+
+-- 345, ...Almost (1990)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (345, 5, 'yoavkidar', 'A forgettable 90s comedy. The main characters make a lot of dumb decisions that just annoy the viewer.', '');
+
+-- 350, ...And Millions Die! (1973)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (350, 4, 'yoavkidar', 'A thriller about a deadly virus. Mostly just people talking in rooms looking worried.', '');
+
+-- 378, ...Duren' ty, duren'! (1931)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (378, 6, 'yoavkidar', 'Interesting historical artifact from the 30s. The picture quality is rough but it has some charm.', '');
+
+-- 400, ...First Do No Harm (1997)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (400, 7, 'yoavkidar', 'A pretty sad medical drama. Meryl Streep gives a great performance as usual.', '');
+
+-- 438, ...Remote... Remote... (1973)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (438, 5, 'yoavkidar', 'A weird experimental short. Feels like someone just testing out an old camera.', '');
+
+-- 503, ... la campagne (1995)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (503, 7, 'yoavkidar', 'A nice, quiet French drama about escaping the city. Beautiful cinematography of the countryside.', '');
+
+-- 521, 0 Uhr 15, Zimmer 9 (1950)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (521, 6, 'yoavkidar', 'An old German crime film. The mystery is okay but the audio quality is a bit rough to sit through.', '');
+
+-- 554, 1 + 1 = 1.5 (1969)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (554, 5, 'yoavkidar', 'An abstract art film. Kind of confusing and definitely not for a mainstream audience.', '');
+
+-- 555, 1 + 1 = 3 (1979)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (555, 6, 'yoavkidar', 'A drama about complicated relationships. Some good dialogue but a little too dramatic at times.', '');
+
+-- 558, 1 Berlin-Harlem (1974)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (558, 7, 'yoavkidar', 'A harsh look at racism in 70s Germany. Really raw and uncomfortable to watch, but well made.', '');
+
+-- 585, 1,99 - Um Supermercado Que Vende Palavras (2003)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (585, 5, 'yoavkidar', 'A Brazilian movie that tries to be a smart satire about consumerism but just feels a bit preachy.', '');
+
+-- 609, 10 Again (2003)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (609, 6, 'yoavkidar', 'A decent coming-of-age story. The child actors are actually pretty good for an indie movie.', '');
+
+-- 610, 10 Attitudes (2001)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (610, 2, 'yoavkidar', 'A terrible romantic comedy. The acting is totally wooden and the script makes zero sense.', '');
+
+-- 618, 10 from Your Show of Shows (1973)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (618, 8, 'yoavkidar', 'A great compilation of classic comedy sketches. Mel Brooks is just a genius writer.', '');
+
+-- 684, 100 gramm dlya khrabrosti (1976)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (684, 6, 'yoavkidar', 'A set of Russian comedy shorts. Some of the jokes are funny but a lot is lost in translation.', '');
+
+-- 718, 100 to One Shot; or, A Run of Luck, The (1906)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (718, 6, 'yoavkidar', 'It is crazy watching something from 1906. It is barely a movie, more like a moving photograph.', '');
+
+-- 749, 100% Arabica (1997)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (749, 3, 'yoavkidar', 'A musical comedy that really missed the mark. The plot is thin and the pacing is awful.', '');
+
+-- 798, 100% Service (1931)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (798, 7, 'yoavkidar', 'An early sound-era comedy. The slapstick holds up surprisingly well even today.', '');
+
+-- 823, 1000 Shapes of a Female (1963)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (823, 2, 'yoavkidar', 'An incredibly cheesy 60s exploitation film. Not worth watching at all.', '');
+
+-- 829, 10000th Day, The (1997)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (829, 8, 'yoavkidar', 'A solid short film. It gets its message across quickly and leaves you thinking.', '');
+
+-- 837, 1001 Nights (1998)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (837, 9, 'yoavkidar', 'The visual design here is stunning. They did a great job bringing the classic folklore to life.', '');
+
+-- 848, 101 Dalmatians (1998)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (848, 5, 'yoavkidar', 'Just a cartoon spin-off. It is okay for kids but does not really add anything to the original story.', '');
+
+-- 896, 10:30 P.M. Summer (1966)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (896, 6, 'yoavkidar', 'A tense psychological drama. It takes a bit too long to get going but the final act is pretty good.', '');
+
+-- 898, 10e chambre - Instants d'audience (2004)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (898, 7, 'yoavkidar', 'A documentary showing real French court cases. It is super interesting to see how the system actually works.', '');
+
+-- 909, 11 de septiembre de 1973. El ltimo combate de Salvador Allende (1998)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (909, 8, 'yoavkidar', 'A very informative and heavy documentary about the coup in Chile. Great historical footage.', '');
+
+-- 953, 11:11 (2004)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (953, 5, 'yoavkidar', 'An indie thriller that leans way too hard on jump scares instead of an actual plot.', '');
+
+-- 1018, 12:01 (1993)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (1018, 7, 'yoavkidar', 'A cool time-loop movie that came out around the same time as Groundhog Day. Feels a bit more sci-fi.', '');
+
+-- 1034, 13 Frightened Girls (1963)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (1034, 5, 'yoavkidar', 'A goofy Cold War spy movie featuring kids. It is kind of ridiculous but a bit fun in a cheesy way.', '');
+
+-- 1051, 13 Sthle (1938)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (1051, 7, 'yoavkidar', 'An old German comedy about finding hidden money in chairs. Fast paced and actually pretty clever.', '');
+
+-- 1088, 13th Man, The (1937)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (1088, 5, 'yoavkidar', 'A standard 1930s crime movie. The mystery is resolved a little too easily at the end.', '');
+
+-- 1097, 14 Carrot Rabbit (1952)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (1097, 8, 'yoavkidar', 'Classic Bugs Bunny. The animation and the timing of the jokes are just perfect.', '');
+
+
+-- 969, 12 Angry Men (1957)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (969, 10, 'yoavkidar', 'A great lesson in how to frame shots. The tension in the jury room builds up perfectly just through the dialogue.', '');
+
+-- 644, 10 Things I Hate About You (1999)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (644, 8, 'yoavkidar', 'A surprisingly fun update to Shakespeare that works mostly because the two main actors have great chemistry together.', '');
+
+-- 1038, 13 Going On 30 (2004)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (1038, 7, 'yoavkidar', 'A cute, lighthearted comedy. Jennifer Garner really carries the whole movie with her energetic performance.', '');
+
+-- 847, 101 Dalmatians (1996)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (847, 6, 'yoavkidar', 'Glenn Close is pretty iconic as the villain, even if the rest of the movie feels a bit too cartoonish at times.', '');
+
+-- 1092, 13th Warrior, The (1999)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (1092, 7, 'yoavkidar', 'A gritty action-adventure movie that mixes historical fiction with some horror elements pretty well.', '');
+
+-- 880, 102 Dalmatians (2000)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (880, 4, 'yoavkidar', 'A totally unnecessary sequel that just recycles jokes from the first one. The costumes are nice, though.', '');
+
+-- 955, 11:14 (2003)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (955, 8, 'yoavkidar', 'A really cool dark comedy thriller. Figuring out how all the overlapping timelines connect is super satisfying.', '');
+
+-- 870, 101 Reykjavk (2000)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (870, 7, 'yoavkidar', 'A weird but funny look at isolation, set against a very cold and atmospheric Icelandic background.', '');
+
+-- 606, 10 (1979)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (606, 7, 'yoavkidar', 'A classic late-70s comedy about a midlife crisis that balances slapstick with some sad reality checks.', '');
+
+-- 594, 1-900 (1996)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (594, 5, 'yoavkidar', 'An interesting idea to build a movie entirely around phone calls, but it gets a bit boring halfway through.', '');
+
+-- 548, 08/15 (1954)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (548, 8, 'yoavkidar', 'A really harsh look at military bureaucracy and how training completely strips away your humanity.', '');
+
+-- 349, ...And Justice for All (1979)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (349, 8, 'yoavkidar', 'The movie is a bit messy, but Al Pacino makes it completely worth watching with his legendary explosive courtroom scene.', '');
+
+-- 450, ...tick...tick...tick... (1970)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (450, 7, 'yoavkidar', 'A tense thriller that does a solid job showing the racial tension of a small Southern town.', '');
+
+-- 715, 100 Rifles (1969)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (715, 5, 'yoavkidar', 'Just an average Western. The main actors are cool, but the directing is super flat.', '');
+
+-- 921, 11'09''01 - September 11 (2002)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (921, 8, 'yoavkidar', 'A powerful collection of short stories, even if the quality jumps around a lot depending on which director is behind the camera.', '');
+
+-- 831, 1001 Arabian Nights (1959)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (831, 6, 'yoavkidar', 'The animation is pretty dated by now, but it still captures the magic of the original stories.', '');
+
+-- 524, 00 Schneider - Jagd auf Nihil Baxter (1994)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (524, 7, 'yoavkidar', 'A very bizarre German comedy. It relies heavily on deadpan jokes and just weird, random situations.', '');
+
+-- 69, 'Breaker' Morant (1980)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (69, 9, 'yoavkidar', 'A really sad anti-war movie. The script completely destroys the hypocrisy of the military justice system.', '');
+
+-- 72, 'Bullitt': Steve McQueen's Commitment to Reality (1968)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (72, 8, 'yoavkidar', 'A cool behind-the-scenes look. Seeing the raw 35mm film texture and how they set up the cameras gives you a great appreciation for analog filmmaking.', '');
+
+-- 73, 'burbs, The (1989)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (73, 8, 'yoavkidar', 'A super funny satire of the suburbs. Tom Hanks is great at playing a guy who slowly loses his mind.', '');
+
+-- 108, 'G' Men (1935)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (108, 7, 'yoavkidar', 'A fast-paced crime thriller from the 30s. Cagney has the same intense energy whether he is playing a gangster or a cop.', '');
+
+-- 223, 'Round Midnight (1986)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (223, 8, 'yoavkidar', 'A beautiful tribute to the 1950s jazz scene. The lead actor gives a very authentic and soulful performance.', '');
+
+-- 328, *batteries not included (1987)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (328, 6, 'yoavkidar', 'A sweet sci-fi movie. It works best when it focuses on the practical effects of the little robots and the old characters.', '');
+
+-- 589, 1-2-3 Go! (1941)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (589, 4, 'yoavkidar', 'More of an old historical clip than an actual movie. It is okay to watch once, but not very engaging.', '');
+
+-- 1036, 13 Ghosts (1960)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (1036, 6, 'yoavkidar', 'A fun old horror movie that relies a lot on gimmicks. Not scary at all today, but definitely entertaining.', '');
+
+-- 1048, 13 Rue Madeleine (1947)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (1048, 7, 'yoavkidar', 'A solid spy movie that feels almost like a documentary, leading up to a surprisingly dark ending.', '');
+
+-- 15, $30 (1999)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (15, 6, 'yoavkidar', 'A short film that does a good job building tension without needing a lot of dialogue or big sets.', '');
+
+-- 18, $40,000 (1996)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (18, 3, 'yoavkidar', 'An indie movie with terrible audio quality and a confusing plot. Was really hard to sit through the whole thing.', '');
+
+-- 50, '?' Motorist, The (1906)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (50, 7, 'yoavkidar', 'A cool piece of early cinema history showing how they experimented with visual tricks before CGI existed.', '');
+
+-- 87, 'Columbia' Winning the Cup (1899)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (87, 5, 'yoavkidar', 'Just a basic archive clip of a sports event. Cool to see something this old, but there is no story.', '');
+
+-- 121, 'High Sign', The (1921)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (121, 8, 'yoavkidar', 'Buster Keaton is amazing here. The set design and physical stunts make it a great comedy short.', '');
+
+-- 127, 'If Only' Jim (1920)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (127, 4, 'yoavkidar', 'A very predictable silent drama. The shots are okay, but the story relies on too many cliches.', '');
+
+-- 137, 'Je vous salue, Marie' (1985)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (137, 6, 'yoavkidar', 'A weird, modern take on a religious story. The directors style is very detached, making it hard to follow sometimes.', '');
+
+-- 156, 'Manos' the Hands of Fate (1966)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (156, 1, 'yoavkidar', 'Probably one of the worst movies ever made. The editing and dubbing are a total disaster, but it is funny to watch.', '');
+
+-- 160, 'Merci la vie' (1991)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (160, 7, 'yoavkidar', 'A super chaotic movie that keeps changing its tone. It is weird but definitely leaves an impression on you.', '');
+
+-- 186, 'Neath Brooklyn Bridge (1942)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (186, 4, 'yoavkidar', 'Just a basic comedy that uses the exact same jokes over and over again. Kind of repetitive.', '');
+
+-- 188, 'Neath the Arizona Skies (1934)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (188, 5, 'yoavkidar', 'A low-budget John Wayne movie. Forgettable plot, but some of the horseback stunts are pretty impressive.', '');
+
+-- 209, 'Pimpernel' Smith (1941)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (209, 8, 'yoavkidar', 'A smart propaganda movie that makes fun of the Nazi regime using some really sharp British humor.', '');
+
+-- 257, 'Teddy' Bears, The (1907)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (257, 5, 'yoavkidar', 'A bizarre old movie that mixes family stuff with people walking around in really creepy bear suits.', '');
+
+-- 263, 'Til There Was You (1997)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (263, 3, 'yoavkidar', 'A really boring romantic comedy. The script is super predictable and the actors do not have any chemistry.', '');
+
+-- 264, 'Til We Meet Again (1940)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (264, 7, 'yoavkidar', 'A sad romance movie that works mainly because the actors give such strong, emotional performances.', '');
+
+-- 331, -30- (1959)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (331, 7, 'yoavkidar', 'A cool, fast-paced drama that perfectly shows the crazy energy of a newspaper office right before a deadline.', '');
+
+-- 336, ...a pty jezdec je Strach (1964)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (336, 9, 'yoavkidar', 'A very dark Czech movie that uses creepy lighting to show the real terror of the Holocaust. Very powerful.', '');
+
+-- 344, ...All the Marbles (1981)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (344, 7, 'yoavkidar', 'A fun road movie about wrestling. Peter Falk is great playing a manager who is kind of sleazy but likable.', '');
+
+-- 362, ...Belpaese, Il (1977)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (362, 5, 'yoavkidar', 'An Italian comedy that tries to be serious at times, but the mix of jokes and drama just does not work out well.', '');
+
+-- 390, ...e per tetto un cielo di stelle (1968)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (390, 5, 'yoavkidar', 'A very basic Spaghetti Western. It is missing the cool camera work and epic music that usually make these movies good.', '');
+
+-- 430, ...Po prozvishchu 'Zver' (1990)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (430, 6, 'yoavkidar', 'A Russian action movie with a super simple revenge plot, but the fight scenes are actually pretty solid.', '');
+
+-- 437, ...reitet fr Deutschland (1941)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (437, 2, 'yoavkidar', 'An old propaganda film hiding as a sports movie. Interesting only as a piece of history, otherwise terrible.', '');
+
+-- 486, ...wie einst Lili Marleen (1956)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (486, 6, 'yoavkidar', 'A German movie from after the war that uses music and nostalgia to talk about the trauma everyone went through.', '');
+
+-- 639, 10 Rillington Place (1971)
+INSERT INTO personal_movies_ranking (movie_id, recommendation, suggested_by, justification, comment)
+VALUES (639, 9, 'yoavkidar', 'A really creepy true-crime movie. The main actor plays the serial killer so quietly, which makes it even scarier.', '');
+
+
+
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (1390, 5, 'erangolani27', 'Not one of Spielberg''s stronger efforts, the plot feels disjointed', null); # 1390 1941 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (7842, 8, 'erangolani27', 'A tense and gritty urban descent into paranoia, hard to look away', null); # 7842 After Hours 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (14132, 4, 'erangolani27', 'Has its funny moments but falls well short of what the first film achieved', null); # 14132 American Pie 2 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (14477, 8, 'erangolani27', 'A powerful true story told with conviction and strong performances throughout', null); # 14477 Amistad 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30686, 8, 'erangolani27', 'A brutal and unflinching portrait of addiction, DiCaprio carries it brilliantly', null); # 30686 Basketball Diaries, The 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30955, 8, 'erangolani27', 'Tim Burton''s gothic vision of Gotham still holds up as one of the definitive Batman films', null); # 30955 Batman 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30967, 7, 'erangolani27', 'Darker and weirder than the first, still enjoyable if not quite as fresh', null); # 30967 Batman Returns 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (31715, 6, 'erangolani27', 'Emotionally heavy story about lifelong friendship that leaves a real mark', null); # 31715 Beaches 1988
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (32707, 7, 'erangolani27', 'A tense and moving film about the cost of living authentically under oppression', null); # 32707 Before Night Falls 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (34104, 7, 'erangolani27', 'A warm and gentle film that treats mental illness with real care and charm', null); # 34104 Benny & Joon 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (39551, 8, 'erangolani27', 'Relentlessly intense combat sequences based on real events, exhausting in the best way', null); # 39551 Black Hawk Down 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (40199, 9, 'erangolani27', 'A landmark sci-fi film with a world so detailed and atmospheric it feels completely real', null); # 40199 Blade Runner 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (44238, 3, 'erangolani27', 'Messy and cheap horror that wastes its premise with weak writing and acting', null); # 44238 Bordello of Blood 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (46167, 6, 'erangolani27', 'A bleak and sorrowful story that is difficult to shake once you have seen it', null); # 46167 Brave, The 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (46169, 8, 'erangolani27', 'A sweeping historical epic with great battle scenes and a strong sense of place', null); # 46169 Braveheart 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (46878, 5, 'erangolani27', 'Likeable enough but too predictable to rise above standard romantic comedy territory', null); # 46878 Bridget Jones: The Edge of Reason 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (47130, 7, 'erangolani27', 'A darkly compelling Scorsese film that puts you inside a truly exhausting night shift', null); # 47130 Bringing Out the Dead 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (53921, 4, 'erangolani27', 'A self-indulgent comedy about filmmaking that never really finds its footing', null); # 53921 Cannes Man 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (54209, 9, 'erangolani27', 'De Niro is genuinely terrifying and the slow-burn tension never lets up', null); # 54209 Cape Fear 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (56304, 8, 'erangolani27', 'Scorsese pulls back the curtain on the casino world with style and sharp detail', null); # 56304 Casino 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (56871, 8, 'erangolani27', 'DiCaprio and Hanks make a wonderful pairing in this slick and charming true story', null); # 56871 Catch Me If You Can 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (59578, 10, 'erangolani27', 'A wildly imaginative and nostalgic film that works on every level for all ages', null); # 59578 Charlie and the Chocolate Factory 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (61751, 8, 'erangolani27', 'A gripping dystopian thriller with real emotional stakes and stunning long takes', null); # 61751 Children of Men, The 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (62460, 5, 'erangolani27', 'Pleasant and well-acted but too slight to leave a lasting impression', null); # 62460 Chocolat 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (65811, 6, 'erangolani27', 'A classic of the genre that still conveys genuine wonder despite its age', null); # 65811 Close Encounters of the Third Kind 1977
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (66194, 5, 'erangolani27', 'Breezy and fun at times but too shallow to stick with you', null); # 66194 Clueless 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (67395, 8, 'erangolani27', 'A deeply affecting drama anchored by outstanding performances from its entire cast', null); # 67395 Color Purple, The 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (69812, 7, 'erangolani27', 'An intriguing setup that unfortunately drifts into generic thriller territory by the end', null); # 69812 Conspiracy Theory 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (70959, 6, 'erangolani27', 'Beautifully animated with a distinctive look, though the story feels a bit thin', null); # 70959 Corpse Bride, The 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (74259, 3, 'erangolani27', 'Deliberately over the top but the jokes land rarely enough to justify the effort', null); # 74259 Cry-Baby 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (85871, 5, 'erangolani27', 'One of the more forgettable Bond entries, lacking any real tension or personality', null); # 85871 Diamonds Are Forever 1971
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (86263, 5, 'erangolani27', 'Over-produced and hollow, the CGI has aged terribly and the plot is embarrassing', null); # 86263 Die Another Day 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (92573, 6, 'erangolani27', 'Rough around the edges but you can feel the birth of an iconic franchise', null); # 92573 Dr. No 1962
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (96593, 9, 'erangolani27', 'A timeless and heartwarming story about connection that holds up for every generation', null); # 96593 E.T. the Extra-Terrestrial 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (97360, 8, 'erangolani27', 'Depp and Burton make incompetence utterly mesmerizing in this oddly touching biography', null); # 97360 Ed Wood 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (97727, 6, 'erangolani27', 'Depp is captivating but the film leans too hard into fairy-tale logic', null); # 97727 Edward Scissorhands 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (98681, 4, 'erangolani27', 'A weak follow-up that relies on tired gags and adds nothing new', null); # 98681 El Mariachi: 10 Years Later 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (109421, 6, 'erangolani27', 'Pure popcorn entertainment that does not pretend to be anything more', null); # 109421 Fast and the Furious, The 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (114955, 7, 'erangolani27', 'A quiet and observant coming-of-age story with a solid grasp of class dynamics', null); # 114955 Flamingo Kid, The 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (116556, 7, 'erangolani27', 'Impressively assured debut from Nolan, rough edges and all', null); # 116556 Following 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (117314, 6, 'erangolani27', 'A watchable but fairly routine Bond entry without much that distinguishes it', null); # 117314 For Your Eyes Only 1981
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (118367, 6, 'erangolani27', 'Uneven anthology with wildly different tones across its four segments', null); # 118367 Four Rooms 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (118980, 6, 'erangolani27', 'Well acted but the story never develops beyond its basic romantic premise', null); # 118980 Frankie and Johnny 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (120506, 7, 'erangolani27', 'A moody and stylish take on the Jack the Ripper legend with a good cast', null); # 120506 From Hell 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (123435, 9, 'erangolani27', 'An incredibly clever thriller that keeps pulling the rug out from under you', null); # 123435 Game, The 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (123849, 8, 'erangolani27', 'A sweeping and atmospheric portrait of New York''s immigrant underworld', null); # 123849 Gangs of New York 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (25192, 7, 'erangolani27', 'A slick and well-crafted biopic about a fascinating and complex figure', null); # 25192 Aviator, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (129185, 9, 'erangolani27', 'A spectacular action epic with a strong emotional core and Crowe at his best', null); # 129185 Gladiator 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (130945, 7, 'erangolani27', 'Pierce Brosnan''s best Bond outing, tense and reasonably grounded', null); # 130945 GoldenEye 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (130953, 7, 'erangolani27', 'Connery at his most suave, a classic Cold War spy adventure', null); # 130953 Goldfinger 1964
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (131780, 9, 'erangolani27', 'Scorsese''s definitive crime epic, electric from the opening scene to the last', null); # 131780 Goodfellas 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (142491, 6, 'erangolani27', 'A quirky superhero film that never quite decides what kind of movie it wants to be', null); # 142491 Hellboy 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (149287, 6, 'erangolani27', 'An interesting reimagining of Peter Pan that works better in concept than execution', null); # 149287 Hook 1991
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30959, 8, 'erangolani27', 'A grounded and intelligent reboot that takes the character seriously for the first time', null); # 30959 Batman Begins 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (151616, 7, 'erangolani27', 'Light and enjoyable, McConaughey''s charm does a lot of the heavy lifting', null); # 151616 How to Lose a Guy in 10 Days 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159172, 8, 'erangolani27', 'A satisfying and adventurous conclusion to the original Indiana Jones trilogy', null); # 159172 Indiana Jones and the Last Crusade 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (160375, 7, 'erangolani27', 'A grounded and quietly moving drama that treats its characters with real dignity', null); # 160375 Inside Moves 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (164572, 8, 'erangolani27', 'A tightly plotted Tarantino film with outstanding performances and sharp dialogue', null); # 164572 Jackie Brown 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (165961, 6, 'erangolani27', 'More effective as a thriller than a horror film, and still surprisingly tense today', null); # 165961 Jaws 1975
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176711, 8, 'erangolani27', 'A stylish and visceral revenge story packed with Tarantino''s signature wit', null); # 176711 Kill Bill: Vol. 1 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (176712, 7, 'erangolani27', 'More contemplative than the first volume but loses some of the kinetic energy', null); # 176712 Kill Bill: Vol. 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (177369, 7, 'erangolani27', 'A chilling and uncomfortable portrait of celebrity obsession told with dark humor', null); # 177369 King of Comedy, The 1983
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (178994, 7, 'erangolani27', 'A competent mob drama that benefits from a strong cast even if the plot is familiar', null); # 178994 Knockaround Guys 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (181766, 7, 'erangolani27', 'A meditative and visually stunning biography that rewards patient viewing', null); # 181766 Kundun 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (183873, 6, 'erangolani27', 'A visually inventive fantasy romance that is more style than substance', null); # 183873 Ladyhawke 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (185628, 8, 'erangolani27', 'A respectful and engaging look at cultural collision with Tom Cruise giving his best dramatic work', null); # 185628 Last Samurai, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188507, 9, 'erangolani27', 'The chemistry between Gibson and Glover makes this one of the great buddy cop films', null); # 188507 Lethal Weapon 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188511, 6, 'erangolani27', 'The series is running on fumes by this point, though the leads remain likeable', null); # 188511 Lethal Weapon 4 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (192514, 7, 'erangolani27', 'An entertaining Bond romp even if the plot is more ridiculous than most', null); # 192514 Live and Let Die 1973
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194497, 10, 'erangolani27', 'A breathtaking adaptation that captures the full scope and magic of Tolkien''s world', null); # 194497 Lord of the Rings: The Fellowship of the Ring, The 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194500, 9, 'erangolani27', 'A triumphant and emotionally satisfying conclusion to one of cinema''s greatest trilogies', null); # 194500 Lord of the Rings: The Return of the King, The 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (194502, 8, 'erangolani27', 'Helm''s Deep alone is worth the price of admission, even if the pacing is uneven', null); # 194502 Lord of the Rings: The Two Towers, The 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (200521, 8, 'erangolani27', 'A sprawling and operatic ensemble drama that somehow holds all its threads together', null); # 200521 Magnolia 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (200864, 5, 'erangolani27', 'Polished and watchable but entirely predictable from start to finish', null); # 200864 Maid in Manhattan 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (203649, 7, 'erangolani27', 'A fun Bond with a memorable villain concept even if the execution is uneven', null); # 203649 Man with the Golden Gun, The 1974
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (208245, 8, 'erangolani27', 'A hugely entertaining Western comedy that does not take itself too seriously', null); # 208245 Maverick 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (209158, 7, 'erangolani27', 'An early Scorsese with raw energy and a strong sense of street-level authenticity', null); # 209158 Mean Streets 1973
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (210511, 8, 'erangolani27', 'Nolan''s reverse-chronology puzzle is as clever as it is emotionally gripping', null); # 210511 Memento 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (210739, 7, 'erangolani27', 'A fun and breezy sci-fi comedy that never outstays its welcome', null); # 210739 Men in Black 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (214755, 8, 'erangolani27', 'A polished and thought-provoking sci-fi thriller with great action to match its ideas', null); # 214755 Minority Report 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215876, 7, 'erangolani27', 'Slick and entertaining spy action with Cruise fully committed to the role', null); # 215876 Mission: Impossible 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215879, 6, 'erangolani27', 'Bigger and flashier but lacks the tightness and tension of the original', null); # 215879 Mission: Impossible II 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (218219, 8, 'erangolani27', 'A rich and visually stunning Miyazaki epic with real environmental depth', null); # 218219 Mononoke-hime 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (218808, 5, 'erangolani27', 'Absurdly over the top even by Bond standards, more parody than spy film', null); # 218808 Moonraker 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (220276, 6, 'erangolani27', 'Visually dazzling but emotionally exhausting, the excess starts to numb you', null); # 220276 Moulin Rouge! 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (220805, 7, 'erangolani27', 'The leads have real spark together and the action sequences are surprisingly good', null); # 220805 Mr. and Mrs. Smith 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (230947, 8, 'erangolani27', 'Three distinct stories from elite directors, uneven but consistently interesting', null); # 230947 New York Stories 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (230963, 7, 'erangolani27', 'A lavish musical drama with De Niro and Minnelli giving everything they have', null); # 230963 New York, New York 1977
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (233058, 8, 'erangolani27', 'A brooding and unsettling occult thriller with a genuinely creepy atmosphere', null); # 233058 Ninth Gate, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (235615, 6, 'erangolani27', 'A decent drama about a father-son relationship, anchored by Hanks and Jackie Gleason', null); # 235615 Nothing in Common 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (238073, 7, 'erangolani27', 'Still stylish and fun but the plot is unnecessarily convoluted compared to the first', null); # 238073 Ocean''s Twelve 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (240327, 7, 'erangolani27', 'A genuinely unsettling horror film that builds its dread methodically and effectively', null); # 240327 Omen, The 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (240521, 8, 'erangolani27', 'A bold and entertaining Bond with a different lead that deserves more credit than it gets', null); # 240521 On Her Majesty''s Secret Service 1969
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (244421, 5, 'erangolani27', 'Well-meaning but every story beat can be seen coming from miles away', null); # 244421 Other Sister, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (245699, 6, 'erangolani27', 'A lightweight but likeable comedy carried by the charm of its two leads', null); # 245699 Overboard 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (247579, 9, 'erangolani27', 'Fincher builds an almost unbearable level of claustrophobic tension throughout', null); # 247579 Panic Room 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (253010, 8, 'erangolani27', 'Eastwood at his most restrained and affecting, a quietly powerful road movie', null); # 253010 Perfect World, A 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256627, 7, 'erangolani27', 'A sharp and well-researched look at the early Silicon Valley rivalry', null); # 256627 Pirates of Silicon Valley 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256632, 9, 'erangolani27', 'A hugely entertaining swashbuckler with Depp creating one of cinema''s most beloved characters', null); # 256632 Pirates of the Caribbean: The Curse of the Black Pearl 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (257744, 7, 'erangolani27', 'A warm ensemble romance with an impressive cast and genuine emotional moments', null); # 257744 Playing by Heart 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (258948, 6, 'erangolani27', 'An intriguing psychological setup that tips into melodrama before the end', null); # 258948 Poison Ivy 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (259826, 7, 'erangolani27', 'A fun and creepy haunted house film with some genuinely effective scares', null); # 259826 Poltergeist 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (263360, 6, 'erangolani27', 'Hard to resist even if the fairy-tale romance is completely implausible', null); # 263360 Pretty Woman 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (264157, 5, 'erangolani27', 'Harmless fun but entirely forgettable, exists mainly as a showcase for Hathaway', null); # 264157 Princess Diaries 2: Royal Engagement, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (267038, 9, 'erangolani27', 'Tarantino''s masterwork, layered with dark humor and unforgettable dialogue', null); # 267038 Pulp Fiction 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (270971, 8, 'erangolani27', 'De Niro''s physical and emotional transformation is one of the great screen performances', null); # 270971 Raging Bull 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (271095, 8, 'erangolani27', 'A perfect adventure film that set the template for action cinema that followed', null); # 271095 Raiders of the Lost Ark 1981
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (271344, 6, 'erangolani27', 'Watchable but forgettable family comedy that plays it very safe throughout', null); # 271344 Raising Helen 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280270, 8, 'erangolani27', 'A genuinely inspiring underdog story that earned every one of its accolades', null); # 280270 Rocky 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280281, 7, 'erangolani27', 'A solid follow-up that recaptures some of the original''s heart and energy', null); # 280281 Rocky II 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280282, 6, 'erangolani27', 'The formula is starting to feel stretched and the villain is underdeveloped', null); # 280282 Rocky III 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280284, 7, 'erangolani27', 'The Cold War backdrop gives the film an unexpected layer of political interest', null); # 280284 Rocky IV 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (289109, 10, 'erangolani27', 'The most visceral and honest depiction of combat ever committed to film', null); # 289109 Saving Private Ryan 1998
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (291698, 9, 'erangolani27', 'A masterfully constructed thriller with Spacey delivering a chilling and unforgettable performance', null); # 291698 Se7en 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (297838, 10, 'erangolani27', 'One of the greatest films ever made, with hope and resilience at its beating heart', null); # 297838 Shawshank Redemption, The 1994
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300229, 9, 'erangolani27', 'A brilliantly funny and subversive fairy tale that works for children and adults equally', null); # 300229 Shrek 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (300230, 8, 'erangolani27', 'A worthy sequel with more laughs, even if it cannot match the freshness of the original', null); # 300230 Shrek 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (304862, 8, 'erangolani27', 'Burton''s gothic atmosphere is perfectly matched to the Washington Irving source material', null); # 304862 Sleepy Hollow 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (306032, 9, 'erangolani27', 'Guy Ritchie''s snappy editing and overlapping plots make this endlessly rewatchable', null); # 306032 Snatch. 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311038, 7, 'erangolani27', 'A strong sequel with Doc Ock as a genuinely compelling villain', null); # 311038 Spider-Man 2 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311428, 7, 'erangolani27', 'A sweet and inventive romantic fantasy that still holds a lot of charm', null); # 311428 Splash 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312170, 7, 'erangolani27', 'A well-crafted Bond entry with a great underwater set-piece and solid pacing', null); # 312170 Spy Who Loved Me, The 1977
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313160, 7, 'erangolani27', 'A thorough and absorbing portrait of one of cinema''s most enigmatic directors', null); # 313160 Stanley Kubrick: A Life in Pictures 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313474, 6, 'erangolani27', 'Visually impressive but dramatically flat, the prequel trilogy stumbles out of the gate', null); # 313474 Star Wars: Episode I - The Phantom Menace 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313476, 6, 'erangolani27', 'An improvement over Episode I but the romance storyline drags the film down', null); # 313476 Star Wars: Episode II - Attack of the Clones 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313477, 7, 'erangolani27', 'The strongest of the prequel trilogy, with Anakin''s fall finally feeling earned', null); # 313477 Star Wars: Episode III - Revenge of the Sith 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (326155, 8, 'erangolani27', 'De Niro''s haunted performance makes Taxi Driver one of the most powerful character studies ever filmed', null); # 326155 Taxi Driver 1976
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (328272, 7, 'erangolani27', 'A warm and gentle Spielberg film held together by Hanks'' effortless likability', null); # 328272 Terminal, The 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (330670, 7, 'erangolani27', 'A raw and honest coming-of-age story with a brave early performance from DiCaprio', null); # 330670 This Boy''s Life 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (332209, 7, 'erangolani27', 'A quiet and intimate spiritual biography told with great care and sincerity', null); # 332209 Thrse: The Story of Saint Thrse of Lisieux 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (332065, 6, 'erangolani27', 'A passable Bond entry with some entertaining underwater sequences but little else', null); # 332065 Thunderball 1965
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (333856, 9, 'erangolani27', 'An overwhelming spectacle with a love story that still manages to feel genuinely tragic', null); # 333856 Titanic 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (335336, 5, 'erangolani27', 'A weak and forgettable Bond entry that wastes a decent cast on a dull plot', null); # 335336 Tomorrow Never Dies 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (335835, 8, 'erangolani27', 'Cruise is magnetic and the aerial sequences are exhilarating, a crowd-pleaser that earns it', null); # 335835 Top Gun 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (337166, 9, 'erangolani27', 'Pixar''s founding masterpiece, a warm and inventive story that changed animation forever', null); # 337166 Toy Story 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (340652, 9, 'erangolani27', 'A grand and visually stunning epic that brings the siege of Troy to vivid life', null); # 340652 Troy 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (350424, 7, 'erangolani27', 'An ambitious sci-fi remake that is more interesting for its ideas than its execution', null); # 350424 Vanilla Sky 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (354178, 5, 'erangolani27', 'A tired and uninspired Bond entry that feels like it is going through the motions', null); # 354178 View to a Kill, A 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (359297, 5, 'erangolani27', 'Spielberg delivers spectacle but the human story never connects the way it should', null); # 359297 War of the Worlds 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (368418, 6, 'erangolani27', 'A watchable Bond with some good moments but nothing that stands out from the crowd', null); # 368418 World Is Not Enough, The 1999
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (372233, 7, 'erangolani27', 'Connery''s final Bond has aged well and the Japan setting gives it a distinctive feel', null); # 372233 You Only Live Twice 1967
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (372525, 5, 'erangolani27', 'A broad medical comedy that relies too heavily on cheap gags and caricature', null); # 372525 Young Doctors in Love 1982
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (372733, 8, 'erangolani27', 'A clever and atmospheric Holmes origin story with strong production values', null); # 372733 Young Sherlock Holmes 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10830, 8, 'erangolani27', 'A tense and groundbreaking sci-fi horror with Sigourney Weaver as one of cinema''s great heroes', null); # 10830 Alien 1979
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (10920, 7, 'erangolani27', 'Cameron shifts the tone to action but delivers some genuinely thrilling set-pieces', null); # 10920 Aliens 1986
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (21213, 7, 'erangolani27', 'A visually ambitious Spielberg film that raises big questions even if it does not fully answer them', null); # 21213 Artificial Intelligence: AI 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (158999, 6, 'erangolani27', 'A bombastic blockbuster that prioritizes spectacle over substance but remains entertaining', null); # 158999 Independence Day 1996
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (120574, 8, 'erangolani27', 'The most refined and suspenseful of the early Bond films, a true Cold War thriller', null); # 120574 From Russia with Love 1963
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (131885, 8, 'erangolani27', 'Pure adventure filmmaking with heart, the kind of movie that defined a generation''s childhood', null); # 131885 Goonies, The 1985
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139655, 8, 'erangolani27', 'Cuaron brings genuine darkness and visual imagination to the franchise''s best entry', null); # 139655 Harry Potter and the Prisoner of Azkaban 2004
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139650, 7, 'erangolani27', 'A solid middle chapter that expands the world even if the tone feels slightly off', null); # 139650 Harry Potter and the Chamber of Secrets 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (139652, 7, 'erangolani27', 'The stakes are raised and the action is thrilling, though the film strains under its own weight', null); # 139652 Harry Potter and the Goblet of Fire 2005
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (159175, 8, 'erangolani27', 'Darker and more intense than Raiders, with a relentless pace and brilliant set-pieces', null); # 159175 Indiana Jones and the Temple of Doom 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188509, 7, 'erangolani27', 'The South Africa setting refreshes the formula and the chemistry between the leads remains strong', null); # 188509 Lethal Weapon 2 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (188510, 6, 'erangolani27', 'Still watchable thanks to the leads but the series is clearly running low on inspiration', null); # 188510 Lethal Weapon 3 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (189403, 6, 'erangolani27', 'Dalton brings a harder edge to Bond but the film itself never fully comes alive', null); # 189403 Licence to Kill 1989
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (190869, 7, 'erangolani27', 'A loveable animated film with a big heart and a wonderfully odd central friendship', null); # 190869 Lilo & Stitch 2002
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (192702, 6, 'erangolani27', 'Dalton tries his best but the script lets him down with a forgettable story', null); # 192702 Living Daylights, The 1987
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (256631, 7, 'erangolani27', 'A fun if overstuffed sequel that loses focus by cramming in too many characters and subplots', null); # 256631 Pirates of the Caribbean 2 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (280305, 5, 'erangolani27', 'A misguided entry that strips away everything that made the original series work', null); # 280305 Rocky V 1990
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (291495, 7, 'erangolani27', 'Murray''s dry cynicism is perfect for this dark Christmas comedy with real bite', null); # 291495 Scrooged 1988
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (311040, 6, 'erangolani27', 'An overcrowded mess that squanders three villains and undoes the goodwill of the previous films', null); # 311040 Spider-Man 3 2007
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (312150, 6, 'erangolani27', 'A fun and inventive kids adventure that does not talk down to its young audience', null); # 312150 Spy Kids 2001
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313478, 9, 'erangolani27', 'The darkest and most emotionally complex Star Wars film, and easily the best of the saga', null); # 313478 Star Wars: Episode V - The Empire Strikes Back 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (319613, 7, 'erangolani27', 'The Kryptonian villains add real menace and the film matches the original in energy and fun', null); # 319613 Superman II 1980
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (342512, 7, 'erangolani27', 'A mixed but worthwhile anthology with a couple of segments that are genuinely haunting', null); # 342512 Twilight Zone: The Movie 1983
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (174953, 8, 'erangolani27', 'A breathtaking Miyazaki epic with stunning hand-drawn visuals and a powerful ecological message', null); # 174953 Kaze no tani no Naushika 1984
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30965, 5, 'erangolani27', 'Carrey is entertaining in isolation but the film around him is an incoherent disaster', null); # 30965 Batman Forever 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30952, 3, 'erangolani27', 'A catastrophic misfire that nearly killed the superhero genre before it truly began', null); # 30952 Batman & Robin 1997
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (94741, 8, 'erangolani27', 'Spielberg''s TV debut is a masterclass in sustained tension with almost no dialogue', null); # 94741 Duel 1971
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (270628, 7, 'erangolani27', 'A heartfelt and difficult film about childhood trauma that does not shy away from the pain', null); # 270628 Radio Flyer 1992
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (336445, 7, 'erangolani27', 'A bold and uncompromising film with DiCaprio delivering a fearless early performance', null); # 336445 Total Eclipse 1995
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (215880, 7, 'erangolani27', 'The best of the Cruise sequels, with tighter action and a more confident directorial hand', null); # 215880 Mission: Impossible III 2006
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (20253, 7, 'erangolani27', 'A beautifully strange film that follows its own dream logic with complete conviction', null); # 20253 Arizona Dream 1993
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (30961, 7, 'erangolani27', 'A surprisingly dark and mature animated film that takes the Batman mythology seriously', null); # 30961 Batman Beyond: Return of the Joker 2000
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (299073, 9, 'erangolani27', 'The weird high noises in the music make this movie creepy.', null); # 299073 Shining, The (1980)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (18960, 9, 'erangolani27', 'A hallucinatory descent into the heart of Vietnam.', null); # 18960 Apocalypse Now (1979)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (276085, 10, 'erangolani27', 'This movie is so upsetting and it really shocks your soul.', null); # 276085 Requiem for a Dream (2000)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (137655, 8, 'erangolani27', 'The simple piano notes are so scary and iconic for horror.', null); # 137655 Halloween (1978)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (301540, 10, 'erangolani27', 'Hopkins is hypnotic; the tension never lets up.', null); # 301540 Silence of the Lambs, The (1991)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (303564, 9, 'erangolani27', 'A ghost story that earns its twist.', null); # 303564 Sixth Sense, The (1999)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (257459, 8, 'erangolani27', 'Raw and unflinching combat through a young soldier''s eyes.', null); # 257459 Platoon (1986)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (70248, 8, 'erangolani27', 'Paranoia done with surgical precision.', null); # 70248 Conversation, The (1974)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (207992, 9, 'erangolani27', 'The techno music fits the digital world and action perfectly.', null); # 207992 Matrix, The (1999)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (254986, 10, 'erangolani27', 'The piano songs are beautiful and make the story sad.', null); # 254986 Pianist, The (2002)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313459, 9, 'erangolani27', 'The Imperial March is so cool and very scary for a movie.', null); # 313459 Star Wars (1977)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (26844, 10, 'erangolani27', 'A near-perfect blockbuster with wit and heart.', null); # 26844 Back to the Future (1985)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (330388, 8, 'erangolani27', 'A meditative, visually stunning meditation on war.', null); # 330388 Thin Red Line, The (1998)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (106790, 9, 'erangolani27', 'The slow violin soundtrack is beautiful and very sad.', null); # 106790 Fa yeung nin wa (2000)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (348944, 9, 'erangolani27', 'Twisty, stylish, and the ending still surprises on rewatches.', null); # 348944 Usual Suspects, The (1995)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (62076, 9, 'erangolani27', 'A perfect neo-noir with one of the great endings.', null); # 62076 Chinatown (1974)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (186439, 10, 'erangolani27', 'The desert theme music is grand and sounds amazing.', null); # 186439 Lawrence of Arabia (1962)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (130128, 9, 'erangolani27', 'The classic slow music makes the whole story feel grand.', null); # 130128 Godfather, The (1972)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (141544, 9, 'erangolani27', 'The diner scene alone is worth the whole movie.', null); # 141544 Heat (1995)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (49696, 9, 'erangolani27', 'The whistling music in the desert makes this feel so cool.', null); # 49696 Buono, il brutto, il cattivo, Il (1966)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (644, 8, 'erangolani27', 'A fresh and fun version of an old story with good music.', null); # 644 10 Things I Hate About You (1999)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (313059, 9, 'erangolani27', 'The friendship drama that defines coming-of-age.', null); # 313059 Stand by Me (1986)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (191246, 10, 'erangolani27', 'The opening song is one of the best moments in any cartoon.', null); # 191246 Lion King, The (1994)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (82967, 9, 'erangolani27', 'Scorsese''s Boston crime epic; an ending nobody saw coming.', null); # 82967 Departed, The (2006)
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (121538, 9, 'erangolani27', 'The rhythmic songs in the army scenes feel strong.', null); # 121538 Full Metal Jacket (1987)
