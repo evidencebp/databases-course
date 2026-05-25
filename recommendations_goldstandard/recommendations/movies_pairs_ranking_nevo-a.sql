@@ -1,4 +1,3 @@
-Use imdb_ijs;
 
 INSERT INTO movies_recommendations (`base_movie_id`,`recommended_movie_id`,`recommendation`,`suggested_by`,`comment`,`justification`) VALUES (1038,48075,6,'nevo-a',NULL,'Both are lighthearted 2000s comedies with magical realism, but cater to slightly different comedic tastes.');
 INSERT INTO movies_recommendations (`base_movie_id`,`recommended_movie_id`,`recommendation`,`suggested_by`,`comment`,`justification`) VALUES (1038,104338,2,'nevo-a',NULL,'Though both explore alternate paths of the heart, it is a weak recommendation since Eternal Sunshine is deeply melancholic compared to a bubbly rom-com.');
