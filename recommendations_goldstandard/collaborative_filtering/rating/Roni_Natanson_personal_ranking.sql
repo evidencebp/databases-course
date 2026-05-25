@@ -1,7 +1,3 @@
-use imdb_ijs;
-SET SQL_SAFE_UPDATES = 0;
-DELETE FROM personal_movies_ranking WHERE suggested_by = 'roni88882-ctrl';
-SET SQL_SAFE_UPDATES = 1;
 insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (310726, 8, 'roni88882-ctrl', 'non-stop adrenaline from start to finish', null); # 310726 Speed 1994
 insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (9023, 8, 'roni88882-ctrl', 'Harrison Ford saves the day aboard his own plane', null); # 9023 Air Force One 1997
 insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (303564, 9, 'roni88882-ctrl', 'twist ending I never saw coming', null); # 303564 Sixth Sense, The 1999
