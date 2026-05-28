@@ -1,12 +1,3 @@
-CREATE TABLE movies_recommendations (
-    base_movie_id INT,
-    recommended_movie_id INT,
-    recommendation INT,
-    suggested_by VARCHAR(255),
-    justification TEXT,
-    comment TEXT,
-    PRIMARY KEY (base_movie_id, recommended_movie_id)
-);
 
 -- 969 12 Angry Men (1957) -> 349 ...And Justice for All (1979)
 INSERT INTO movies_recommendations (base_movie_id, recommended_movie_id, recommendation, suggested_by, justification, comment)
