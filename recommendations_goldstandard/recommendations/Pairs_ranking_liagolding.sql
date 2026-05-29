@@ -1,4 +1,4 @@
- 100 UNIQUE GOOD RECOMMENDATIONS 
+#100 UNIQUE GOOD RECOMMENDATIONS 
 insert into imdb_ijs.movies_recommendations values ('291698', '210511', 10, 'liagolding', 'Both films are psychological crime thrillers that require intense analytical thinking. Viewers who enjoy the dark, investigative progression of Se7en will find Mementos rewarding.', null); -- Se7en -> Memento
 insert into imdb_ijs.movies_recommendations values ('210511', '123435', 9, 'liagolding', 'analytical plots and unexpected final twists.', null); -- Memento -> The Game
 insert into imdb_ijs.movies_recommendations values ('112290', '350424', 9, 'liagolding', 'These are heavy psychological dramas. If you appreciate Fight Clubs dark mental twists, Vanilla Sky offers a parallel experience with a tragic undertone.', null); -- Fight Club -> Vanilla Sky
@@ -99,7 +99,7 @@ insert into imdb_ijs.movies_recommendations values ('118367', '306032', 8, 'liag
 insert into imdb_ijs.movies_recommendations values ('130953', '312170', 9, 'liagolding', 'Classic action spy movies with iconic Hollywood style, high stakes.', null); -- Goldfinger -> Spy Who Loved Me
 insert into imdb_ijs.movies_recommendations values ('311604', '300229', 8, 'liagolding', 'Animated projects with witty writing and clever parodies that appeal to adult viewers.', null); -- SpongeBob Legend Spatula -> Shrek
 insert into imdb_ijs.movies_recommendations values ('287501', '335266', 8, 'liagolding', 'Grounded Israeli drama movies focusing on serious character analysis and deep personal themes.', null); -- Sanhedrin -> Tomer Ve-Hasrutim
- 100 UNIQUE NOT GOOD YET REASONABLE RECOMMENDATIONS 
+#100 UNIQUE NOT GOOD YET REASONABLE RECOMMENDATIONS 
 insert into imdb_ijs.movies_recommendations values ('30955', '30952', 2, 'liagolding', 'Both are live-action Batman movies but the second one drops the serious tone for silly jokes and campy action.', null); -- Batman -> Batman & Robin
 insert into imdb_ijs.movies_recommendations values ('30955', '30965', 3, 'liagolding', 'Both are part of the original series but the second one shifts to bright colors and less interesting story writing.', null); -- Batman -> Batman Forever
 insert into imdb_ijs.movies_recommendations values ('30967', '30952', 2, 'liagolding', 'Both share the same universe but the second completely loses the dark atmosphere and character depth.', null); -- Batman Returns -> Batman & Robin
