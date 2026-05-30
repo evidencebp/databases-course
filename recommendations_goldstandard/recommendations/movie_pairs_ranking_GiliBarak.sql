@@ -2,30 +2,61 @@ use imdb_ijs;
 
 # Good movie recommendations
 # Recommending highly-rated classics to each other, with dynamic ratings (8, 9, or 10)
-# based on the lower rating of the two paired movies.
+# and diverse, contextual justifications based on movie genres and franchises.
 INSERT INTO movies_recommendations (base_movie_id, recommended_movie_id, recommendation, suggested_by, justification, comment)
 WITH Top_Movies AS (
-  SELECT 207992 AS movie_id, 10 AS rating UNION ALL # The Matrix (1999)
-  SELECT 313478, 10 UNION ALL                       # Star Wars: Episode V (1980)
-  SELECT 313479, 9 UNION ALL                        # Star Wars: Episode VI (1983)
-  SELECT 289109, 9 UNION ALL                        # Saving Private Ryan (1998)
-  SELECT 290070, 10 UNION ALL                       # Schindler's List (1993)
-  SELECT 267038, 10 UNION ALL                       # Pulp Fiction (1994)
-  SELECT 131780, 9 UNION ALL                        # Goodfellas (1990)
-  SELECT 297838, 10 UNION ALL                       # The Shawshank Redemption (1994)
-  SELECT 159172, 9 UNION ALL                        # Raiders of the Lost Ark (1981)
-  SELECT 130128, 10 UNION ALL                       # The Godfather (1972)
-  SELECT 130129, 10 UNION ALL                       # The Godfather Part II (1974)
-  SELECT 337166, 9 UNION ALL                        # Toy Story (1995)
-  SELECT 215876, 8 UNION ALL                        # Mission: Impossible (1996)
-  SELECT 238072, 8                                  # Ocean's Eleven (2001)
+  SELECT 207992 AS movie_id, 10 AS rating, 'Sci-Fi' AS genre_group UNION ALL # The Matrix (1999)
+  SELECT 313478, 10, 'Sci-Fi' UNION ALL                                     # Star Wars: Episode V (1980)
+  SELECT 313479, 9, 'Sci-Fi' UNION ALL                                      # Star Wars: Episode VI (1983)
+  SELECT 289109, 9, 'Drama/War' UNION ALL                                   # Saving Private Ryan (1998)
+  SELECT 290070, 10, 'Drama/War' UNION ALL                                  # Schindler's List (1993)
+  SELECT 267038, 10, 'Crime' UNION ALL                                      # Pulp Fiction (1994)
+  SELECT 131780, 9, 'Crime' UNION ALL                                       # Goodfellas (1990)
+  SELECT 297838, 10, 'Drama' UNION ALL                                      # The Shawshank Redemption (1994)
+  SELECT 159172, 9, 'Adventure' UNION ALL                                   # Raiders of the Lost Ark (1981)
+  SELECT 130128, 10, 'Crime' UNION ALL                                      # The Godfather (1972)
+  SELECT 130129, 10, 'Crime' UNION ALL                                      # The Godfather Part II (1974)
+  SELECT 337166, 9, 'Animation' UNION ALL                                   # Toy Story (1995)
+  SELECT 215876, 8, 'Action' UNION ALL                                      # Mission: Impossible (1996)
+  SELECT 238072, 8, 'Crime'                                                 # Ocean's Eleven (2001)
 )
 SELECT 
   t1.movie_id AS base_movie_id,
   t2.movie_id AS recommended_movie_id,
   LEAST(t1.rating, t2.rating) AS recommendation,
   'GiliBarak' AS suggested_by,
-  'Both are highly-acclaimed cinematic classics with outstanding storytelling, performances, and direction.' AS justification,
+  CASE 
+    # Godfather specific pairing
+    WHEN t1.movie_id IN (130128, 130129) AND t2.movie_id IN (130128, 130129)
+      THEN 'Both are epic chapters of the Corleone family saga, showcasing some of the greatest acting and direction in film history.'
+    
+    # Star Wars specific pairing
+    WHEN t1.movie_id IN (313478, 313479) AND t2.movie_id IN (313478, 313479)
+      THEN 'Both are legendary space opera chapters with iconic characters, epic conflicts, and a John Williams score.'
+    
+    # Same Genre: Sci-Fi
+    WHEN t1.genre_group = 'Sci-Fi' AND t2.genre_group = 'Sci-Fi' 
+      THEN 'Both are groundbreaking science fiction masterpieces with visionary world-building and philosophical depth.'
+    
+    # Same Genre: Crime
+    WHEN t1.genre_group = 'Crime' AND t2.genre_group = 'Crime' 
+      THEN 'Both are gripping crime classics that offer a realistic, gritty look at the criminal underworld.'
+    
+    # Same Genre: Drama/War
+    WHEN t1.genre_group = 'Drama/War' AND t2.genre_group = 'Drama/War' 
+      THEN 'Both are powerful and emotionally intense historical dramas focused on human conflict and sacrifice.'
+    
+    # Cross-over: Crime & Action/Adventure
+    WHEN (t1.genre_group = 'Crime' AND t2.genre_group IN ('Action', 'Adventure')) OR (t1.genre_group IN ('Action', 'Adventure') AND t2.genre_group = 'Crime')
+      THEN 'Both are stylish, fast-paced thrillers featuring high stakes, clever plans, and charismatic leads.'
+    
+    # Cross-over: Drama & War
+    WHEN (t1.genre_group = 'Drama' AND t2.genre_group = 'Drama/War') OR (t1.genre_group = 'Drama/War' AND t2.genre_group = 'Drama')
+      THEN 'Both are deeply moving character studies exploring moral choices and resilience under pressure.'
+    
+    # Default fallback
+    ELSE 'Both are landmark cinematic masterpieces with stellar performances, tight screenplays, and massive cultural impact.'
+  END AS justification,
   NULL AS comment
 FROM Top_Movies t1
 CROSS JOIN Top_Movies t2
