@@ -11,14 +11,6 @@
 --
 -- Good pairs: 100  |  Bad/unreasonable pairs: 100  |  Total: 200
 
-CREATE TABLE IF NOT EXISTS movies_recommendations (
-    base_movie_id       INT          NOT NULL,
-    recommended_movie_id INT         NOT NULL,
-    recommendation      INT          NOT NULL,   -- 1 bad, 5 neutral, 10 great
-    suggested_by        VARCHAR(100) NOT NULL,
-    justification       TEXT,
-    comment             TEXT
-);
 
 -- GOOD RECOMMENDATIONS
 -- Both movies are ones I personally rated high and they share a clear connection.
