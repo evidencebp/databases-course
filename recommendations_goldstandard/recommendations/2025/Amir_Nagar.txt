@@ -1,0 +1,1699 @@
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(214755  -- Minority Report
+, 259826  -- Poltergeist
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(314618  -- Steven Spielberg''s Director''s Chair
+, 342512  -- Twilight Zone: The Movie
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1390  -- 1941
+, 399427  -- Night Gallery""
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(12744  -- Always
+, 231917  -- Night Gallery
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(13547  -- Amblin''
+, 14477  -- Amistad
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(100130  -- Empire of the Sun
+, 288904  -- Savage (1973/I)
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(56871  -- Catch Me If You Can
+, 379931  -- Amazing Stories""
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(21213  -- Artificial Intelligence: AI
+, 159175  -- Indiana Jones and the Temple of Doom
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(21213  -- Artificial Intelligence: AI
+, 271095  -- Raiders of the Lost Ark
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(94741  -- Duel (1971/I)
+, 165961  -- Jaws
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31256  -- Battle Squad
+, 305079  -- Slipstream
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(21213  -- Artificial Intelligence: AI
+, 406759  -- Strokes of Genius""
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(103334  -- Escape to Nowhere
+, 328272  -- Terminal, The
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(13396  -- Amazing Stories: Book One
+, 399427  -- Night Gallery""
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(103334  -- Escape to Nowhere
+, 351705  -- Vengeance
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(314618  -- Steven Spielberg''s Director''s Chair
+, 355356  -- Visionary, The
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(67395  -- Color Purple, The
+, 289109  -- Saving Private Ryan
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(67592  -- Columbo: Murder by the Book
+, 185306  -- Last Gun, The
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(271095  -- Raiders of the Lost Ark
+, 289109  -- Saving Private Ryan
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(342512  -- Twilight Zone: The Movie
+, 359297  -- War of the Worlds
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31256  -- Battle Squad
+, 342512  -- Twilight Zone: The Movie
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(100130  -- Empire of the Sun
+, 159175  -- Indiana Jones and the Temple of Doom
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(159167  -- Indiana Jones 4
+, 314618  -- Steven Spielberg''s Director''s Chair
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(159172  -- Indiana Jones and the Last Crusade
+, 399427  -- Night Gallery""
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(231917  -- Night Gallery
+, 351705  -- Vengeance
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(288904  -- Savage (1973/I)
+, 318388  -- Sugarland Express, The
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(65811  -- Close Encounters of the Third Kind
+, 318388  -- Sugarland Express, The
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(305079  -- Slipstream
+, 342512  -- Twilight Zone: The Movie
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(65811  -- Close Encounters of the Third Kind
+, 328272  -- Terminal, The
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(100130  -- Empire of the Sun
+, 328272  -- Terminal, The
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1390  -- 1941
+, 185306  -- Last Gun, The
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(94741  -- Duel (1971/I)
+, 159172  -- Indiana Jones and the Last Crusade
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(290070  -- Schindler''s List
+, 400612  -- Owen Marshall: Counselor at Law""
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(342512  -- Twilight Zone: The Movie
+, 346916  -- Unfinished Journey, The
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(14477  -- Amistad
+, 159172  -- Indiana Jones and the Last Crusade
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(113931  -- Firelight
+, 355356  -- Visionary, The
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(231917  -- Night Gallery
+, 314618  -- Steven Spielberg''s Director''s Chair
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(56871  -- Catch Me If You Can
+, 259826  -- Poltergeist
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(113931  -- Firelight
+, 351705  -- Vengeance
+, 10
+, 'Amir Nagar'
+, 'same genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31715  -- Beaches
+, 80969  -- Beaches II
+, 8
+, 'Amir Nagar'
+, 'different genre, directed by Marshall'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31715  -- Beaches
+, 105851  -- Another Story
+, 8
+, 'Amir Nagar'
+, 'different genre, directed by Marshall'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31715  -- Beaches
+, 114955  -- Lost Hearts
+, 10
+, 'Amir Nagar'
+, 'same genre, directed by Marshall'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  177369,  -- King of Comedy, The
+  9,
+  'Amir Nagar',
+  'Same director and Shared genre(s): Drama'
+ , NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  181766,  -- Kundun
+  9,
+  'Amir Nagar',
+  'Same director and Shared genre(s): Drama'
+  , NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  185704,  -- Last Temptation of Christ, The
+  9,
+  'Amir Nagar',
+  'Same director and Shared genre(s): Drama'
+  ,NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  209158,  -- Mean Streets
+  9,
+  'Amir Nagar',
+  'Same director and Shared genre(s): Drama'
+  ,NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  230947,  -- New York Stories
+  9,
+  'Amir Nagar',
+  'Same director and Shared genre(s): Drama'
+ , NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  230963,  -- New York, New York
+  9,
+  'Amir Nagar',
+  'Same director and Shared genre(s): Drama'
+  ,NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  270971,  -- Raging Bull
+  9,
+  'Amir Nagar',
+  'Same director and Shared genre(s): Drama',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  326155,  -- Taxi Driver
+  9,
+  'Amir Nagar',
+  'Same director and Shared genre(s): Drama',
+  NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations
+VALUES (
+  8183,  -- Age of Innocence, The
+  362473,  -- What's a Nice Girl Like You Doing in a Place Like This?
+  9,
+  'Amir Nagar',
+  'Same director and Shared genre(s): Drama',
+  NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31715  -- Beaches
+, 118980  -- Morning Rise
+, 8
+, 'Amir Nagar'
+, 'different genre, directed by Marshall'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31715  -- Beaches
+, 195081  -- Loving Again
+, 8
+, 'Amir Nagar'
+, 'different genre, directed by Marshall'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31715  -- Beaches
+, 235615  -- Final Dance
+, 10
+, 'Amir Nagar'
+, 'same genre, directed by Marshall'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31715  -- Beaches
+, 244421  -- Summer Days
+, 8
+, 'Amir Nagar'
+, 'different genre, directed by Marshall'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31715  -- Beaches
+, 245699  -- Golden Hour
+, 10
+, 'Amir Nagar'
+, 'same genre, directed by Marshall'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31715  -- Beaches
+, 263360  -- Whispers
+, 8
+, 'Amir Nagar'
+, 'different genre, directed by Marshall'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31715  -- Beaches
+, 264157  -- Unwritten Love
+, 8
+, 'Amir Nagar'
+, 'different genre, directed by Marshall'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(351705  -- Vengeance
+, 400612  -- Owen Marshall: Counselor at Law""
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31256  -- Battle Squad
+, 406759  -- Strokes of Genius""
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(56871  -- Catch Me If You Can
+, 159175  -- Indiana Jones and the Temple of Doom
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31256  -- Battle Squad
+, 100130  -- Empire of the Sun
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(67395  -- Color Purple, The
+, 214755  -- Minority Report
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(214755  -- Minority Report
+, 399427  -- Night Gallery""
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(13547  -- Amblin''
+, 259826  -- Poltergeist
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(314618  -- Steven Spielberg''s Director''s Chair
+, 359297  -- War of the Worlds
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31256  -- Battle Squad
+, 288904  -- Savage (1973/I)
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(14477  -- Amistad
+, 342512  -- Twilight Zone: The Movie
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(159167  -- Indiana Jones 4
+, 165961  -- Jaws
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(100130  -- Empire of the Sun
+, 149287  -- Hook
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(67395  -- Color Purple, The
+, 149287  -- Hook
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(355356  -- Visionary, The
+, 359297  -- War of the Worlds
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(159167  -- Indiana Jones 4
+, 259826  -- Poltergeist
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(65811  -- Close Encounters of the Third Kind
+, 100130  -- Empire of the Sun
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(305079  -- Slipstream
+, 351705  -- Vengeance
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(14477  -- Amistad
+, 289109  -- Saving Private Ryan
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(100130  -- Empire of the Sun
+, 271095  -- Raiders of the Lost Ark
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(56871  -- Catch Me If You Can
+, 351705  -- Vengeance
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(21213  -- Artificial Intelligence: AI
+, 214755  -- Minority Report
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(318388  -- Sugarland Express, The
+, 399427  -- Night Gallery""
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(96593  -- E.T. the Extra-Terrestrial
+, 159172  -- Indiana Jones and the Last Crusade
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(13396  -- Amazing Stories: Book One
+, 355356  -- Visionary, The
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(67395  -- Color Purple, The
+, 399427  -- Night Gallery""
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(214755  -- Minority Report
+, 328272  -- Terminal, The
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(12744  -- Always
+, 308057  -- Something Evil
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(103334  -- Escape to Nowhere
+, 400612  -- Owen Marshall: Counselor at Law""
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(94741  -- Duel (1971/I)
+, 288904  -- Savage (1973/I)
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1390  -- 1941
+, 12744  -- Always
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(31256  -- Battle Squad
+, 94741  -- Duel (1971/I)
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(149287  -- Hook
+, 379931  -- Amazing Stories""
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1390  -- 1941
+, 67592  -- Columbo: Murder by the Book
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(259826  -- Poltergeist
+, 271095  -- Raiders of the Lost Ark
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(65811  -- Close Encounters of the Third Kind
+, 165961  -- Jaws
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(288904  -- Savage (1973/I)
+, 314618  -- Steven Spielberg''s Director''s Chair
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(149287  -- Hook
+, 159172  -- Indiana Jones and the Last Crusade
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(96593  -- E.T. the Extra-Terrestrial
+, 290070  -- Schindler''s List
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Spielberg'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1049  -- 13 Seconds
+, 4607  -- Abbaye de Maredsous, L''
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2393  -- 3inui geomeun pyobeom
+, 2502  -- 40,000 Years of Dreaming
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(737  -- 100 Years of Horror: Witchcraft and Demons
+, 3896  -- A&E Biography: Theodore Roosevelt - Roughrider to Rushmore
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(3432  -- A la memoria de las sirenas
+, 3620  -- A&E Biography: Betty Boop
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(726  -- 100 Years of Horror: Giants and Dinosaurs
+, 3318  -- A
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2200  -- 30 cm zgvis donidan
+, 406  -- ...ich bin keiner von uns
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1710  -- 2001 Yonggary
+, 845  -- 101
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(320  -- (R)
+, 80  -- ''Columbia'' and ''Shamrock II'' Finishing Second Race
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(540  -- 01412 pasasingeum
+, 3870  -- A&E Biography: Stonewall Jackson
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2898  -- 639+1 Nights
+, 940  -- 112th & Central: Through the Eyes of the Children
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(3257  -- 967 et les anges
+, 354  -- ...and They Lived Happily Ever After
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1092  -- 13th Warrior, The
+, 3822  -- A&E Biography: Peter Graves - Mission Accomplished
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(726  -- 100 Years of Horror: Giants and Dinosaurs
+, 2605  -- 48th Highlanders Regiment
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1666  -- 200 Motels
+, 2707  -- 50 E Cnicos Anos de Teatro - Geninha da Rosa Borges
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1294  -- 18 Bronze Girls of Shaolin
+, 3806  -- A&E Biography: Mozart
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(3267  -- 976-WISH
+, 2051  -- 2nd Company Governor''s Footguards, Conn.
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1029  -- 13 Erotic Ghosts
+, 3027  -- 71st Annual Academy Awards, The
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(374  -- ...des contes d''Hoffmann
+, 3027  -- 71st Annual Academy Awards, The
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(3432  -- A la memoria de las sirenas
+, 235  -- ''Shamrock'' and ''Columbia'' Jockeying for a Start
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2979  -- 7 fois... par jour
+, 3694  -- A&E Biography: Frank Serpico
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(3518  -- A sablazo limpio
+, 569  -- 1 Maj 1973
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(3518  -- A sablazo limpio
+, 498  -- ...y tenemos sabor
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1038  -- 13 Going On 30
+, 3707  -- A&E Biography: Hadrian - Emperor of the Golden Age
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2979  -- 7 fois... par jour
+, 3497  -- A proposito dell''Angola
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(879  -- 102 Boulevard Haussmann
+, 4607  -- Abbaye de Maredsous, L''
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(281  -- ''Twas the Night Before Christmas
+, 2679  -- 5 minutter nu
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1710  -- 2001 Yonggary
+, 3613  -- A&E Biography: Babe Ruth
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1092  -- 13th Warrior, The
+, 1387  -- 1940''s: Music, Memories & Milestones, The
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(4028  -- Aaah Belinda
+, 232  -- ''Shamrock''
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(3267  -- 976-WISH
+, 866  -- 101 Most Starlicious Makeovers
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(737  -- 100 Years of Horror: Witchcraft and Demons
+, 3012  -- 7. Jahr - Ansichten zur Lage der Nation, Das
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(320  -- (R)
+, 725  -- 100 Years of Horror: Freaks
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1049  -- 13 Seconds
+, 3706  -- A&E Biography: Greta Garbo - The Mysterious Lady
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(3518  -- A sablazo limpio
+, 1985  -- 27 Miles
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2980  -- 7 fugas del capitn fantasma
+, 2209  -- 30 godina Jugoslavije
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(879  -- 102 Boulevard Haussmann
+, 2166  -- 3 x 3 = ?
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(831  -- 1001 Arabian Nights
+, 3881  -- A&E Biography: The Gettys - A Tragedy of Riches
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(4489  -- Aayushkalam
+, 2317  -- 35 godina G.P. Neimar
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(3399  -- A gozar, a gozar, que el mundo se va acabar
+, 3599  -- A&E Biography: Andrew Cunanan
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(831  -- 1001 Arabian Nights
+, 2293  -- 32 giro ciclistico d''Italia
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(4489  -- Aayushkalam
+, 660  -- 10,000 Kids and a Cop
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1294  -- 18 Bronze Girls of Shaolin
+, 2445  -- 4 Little Girls
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1799  -- 2176
+, 3539  -- A Tale of two Cities - Eine Erzhlung von zwei Stdten
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(3041  -- 7337
+, 2509  -- 4000 milja daleki
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1294  -- 18 Bronze Girls of Shaolin
+, 3786  -- A&E Biography: Marie Antoinette - Tragic Queen
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(4489  -- Aayushkalam
+, 647  -- 10 vistas de los lugares ms poticos y concurridos de Orizaba
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(50  -- ''?'' Motorist, The
+, 2422  -- 4 fans fik chancen for at mde ''Vegas folket'' p Comedy Zoo i Kbenhavn
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(4016  -- Aa! Megamisama!
+, 3638  -- A&E Biography: Charles Atlas - Modern Day Hercules
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2164  -- 3 Worlds of Gulliver, The
+, 1754  -- 2010: The Odyssey Continues
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2900  -- 64 Disks
+, 72  -- ''Bullitt'': Steve McQueen''s Commitment to Reality
+, 2
+, 'Amir Nagar'
+, 'fantasy vs documentary genre mismatch'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1076  -- 13th Infantry, U.S. Army Marching Through Sallyport, Governors Island
+, 532  -- 008
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(660  -- 10,000 Kids and a Cop
+, 693  -- 100 Greatest Videos
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(87  -- ''Columbia'' Winning the Cup
+, 1075  -- 13th House, The
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(332  -- -But the Flesh Is Weak
+, 763  -- 100% Blowjobs 20
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(287  -- ''V'' enfrenta a la Blitzkrieg, La
+, 42  -- ''60s Pop Rock Reunion
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1333  -- 1857
+, 917  -- 11 septembre n''a pas eu lieu..., Le
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(283  -- ''Tween Two Loves
+, 1284  -- 18 and Nasty Interracial 3
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(54  -- ''Abbot'' and ''Cresceus'' Race, The
+, 323  -- (Un)
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(905  -- 10th U.S. Infantry, 2nd Battalion Leaving Cars
+, 686  -- 100 Greatest Movie Stars, The
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(889  -- 1066: And All That
+, 1037  -- 13 Ghosts: The Magic of Illusion-O
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(588  -- 1-2-3 Corona
+, 396  -- ...en fin, el mar
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(149  -- ''Lorenzo'', The (1898/I)
+, 1506  -- 2
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(221  -- ''Roslin Castle'' (Troopship)
+, 320  -- (R)
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(828  -- 100000 lires
+, 1345  -- 18Eighteen Xtra 2
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(361  -- ...Because She Disobeyed
+, 1189  -- 16th Annual Soul Train Music Awards, The
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1085  -- 13th Infantry, U.S. Army: Scaling Walls in Retreat, Governors Island
+, 556  -- 1 2 3
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(143  -- ''Kronprinz Wilhelm'' with Prince Henry (of Prussia)
+, 1033  -- 13 French Street
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(246  -- ''St. Paul'' Outward Bound, The
+, 1201  -- 17 sta 18
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1175  -- 15th Infantry
+, 873  -- 101 Things Removed From the Human Body
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(425  -- ...och alla dessa kvinnor
+, 1317  -- 1800 Seconds: Chasing Canada''s Snowbirds
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(54  -- ''Abbot'' and ''Cresceus'' Race, The
+, 1100  -- 14 Million Dreams
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(116  -- ''Graf Waldersee''
+, 890  -- 108 Stitches
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(647  -- 10 vistas de los lugares ms poticos y concurridos de Orizaba
+, 1140  -- 15 fvrier 1839
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(480  -- ...und ber uns der Himmel
+, 1223  -- 18 & Willing
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(238  -- ''Shamrock'' and ''Columbia'' Yacht Race: 1st Race, No. 2
+, 607  -- 10 + 2: El gran secreto
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(588  -- 1-2-3 Corona
+, 968  -- 12 and Holding
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(124  -- ''Hyp-Nut-Tist'', The
+, 780  -- 100% Cotton
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1082  -- 13th Infantry, U.S. Army: Manual of Arms, Governors Island
+, 763  -- 100% Blowjobs 20
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1321  -- 1810 o Los libertadores de Mxico
+, 612  -- 10 Cents a Minute
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1180  -- 16 Fathoms Deep
+, 303  -- ()
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(567  -- 1 Maj 1949
+, 1142  -- 15 Minute Death
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1175  -- 15th Infantry
+, 324  -- (Winter)
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(218  -- ''Richard Peck'', The
+, 898  -- 10e chambre - Instants d''audience
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(798  -- 100% Service
+, 1300  -- 18 Fingers of Death!
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(7  -- $1,000,000 Reward, The
+, 280  -- ''Twas the Night
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(224  -- ''Round the World in 80 Days
+, 677  -- 100 Days in the Jungle
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(187  -- ''Neath Canadian Skies
+, 1547  -- 2 minutter
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(466  -- ...und fhre uns nicht in Versuchung
+, 1001  -- 12/09/01
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1137  -- 15 de septiembre, El
+, 1256  -- 18 and Nasty 22
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(105  -- ''Fighting'' Dan McCool
+, 1266  -- 18 and Nasty 31
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(825  -- 1000 Worte deutsch
+, 61  -- ''As se hizo'' - Torremolinos 73
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(437  -- ...reitet fr Deutschland
+, 1255  -- 18 and Nasty 21
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1080  -- 13th Infantry, U.S. Army: Full Dress Parade and Manoeuvering, Governors Island
+, 1506  -- 2
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(268  -- ''Tis Mother!
+, 961  -- 11th Hour
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(96  -- ''Den vide verden''s billedbog nr. 1
+, 1316  -- 180 Miles Away
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(60  -- ''Arry on the Steamboat
+, 329  -- *Corpus Callosum
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1048  -- 13 Rue Madeleine
+, 1119  -- 1465 Westerly
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1062  -- 13.000, El
+, 576  -- 1 s a semmi
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1350  -- 18th Pennsylvania Volunteers
+, 1020  -- 12:35
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(708  -- 100 milinu zen
+, 1224  -- 18
+, 3
+, 'Amir Nagar'
+, 'movies released over 40 years apart'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(256632  -- Pirates of the Caribbean: The Curse of the Black Pearl
+, 70959  -- Corpse Bride, The
+, 9
+, 'Amir Nagar'
+, 'Johnny Depp – different genres'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(70959  -- Corpse Bride, The
+, 256632  -- Pirates of the Caribbean: The Curse of the Black Pearl
+, 9
+, 'Amir Nagar'
+, 'Johnny Depp – different genres'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(256631  -- Pirates of the Caribbean 2: Dead Man's Chest
+, 59578  -- Charlie and the Chocolate Factory
+, 9
+, 'Amir Nagar'
+, 'Johnny Depp, different genres'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(70959  -- Corpse Bride, The
+, 256631  -- Pirates of the Caribbean 2: Dead Man's Chest
+, 9
+, 'Amir Nagar'
+, 'Johnny Depp, different genres'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(90837  -- Doodlebug
+, 210511  -- Memento
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Nolan'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(105697  -- Exec, The
+, 30959  -- Batman Begins
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Nolan'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(105697  -- Exec, The
+, 64187  -- Cinema16
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Nolan'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(59578  -- Charlie and the Chocolate Factory
+, 256631  -- Pirates of the Caribbean 2: Dead Man's Chest
+, 9
+, 'Amir Nagar'
+, 'Johnny Depp, different genres'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(256631  -- Pirates of the Caribbean 2: Dead Man's Chest
+, 70959  -- Corpse Bride, The
+, 9
+, 'Amir Nagar'
+, 'Johnny Depp, different genres'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(90837  -- Doodlebug
+, 160524  -- Insomnia
+, 8
+, 'Amir Nagar'
+, 'different genres, directed by Nolan'
+, NULL
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(112290  -- Fight Club
+, 306032  -- Snatch
+, 8
+, 'Amir Nagar'
+, 'Both star Brad Pitt',
+null
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(112290  -- Fight Club
+, 238072  -- Ocean's Eleven
+, 8
+, 'Amir Nagar'
+, 'Both star Brad Pitt',
+null
+);
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(112290  -- Fight Club
+, 340652  -- Troy
+, 8
+, 'Amir Nagar'
+, 'Both star Brad Pitt',
+null
+);
+
+
+
+
+
+
+
+
