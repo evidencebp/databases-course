@@ -114,3 +114,21 @@ WINDOW w AS (
     ORDER BY SUM(volume) DESC
 )
 ORDER BY year, yearly_volume DESC;
+
+# Product share in category
+WITH product_totals AS (
+    SELECT
+        product,
+        category,
+        SUM(volume) AS product_total_volume
+    FROM sales
+    GROUP BY product, category
+)
+SELECT
+    product,
+    category,
+    product_total_volume,
+    SUM(product_total_volume) OVER (PARTITION BY category) AS category_volume,
+    product_total_volume / SUM(product_total_volume) OVER (PARTITION BY category) AS product_vs_category_ratio
+FROM product_totals
+ORDER BY category, product;
