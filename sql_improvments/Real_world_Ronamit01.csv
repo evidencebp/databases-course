@@ -1,0 +1,2 @@
+﻿1," `fa` BLOB NULL ,`fa_il` BLOB NULL ,",storage,change BLOB to MEDIUMBLOB to allow heavier data,"`fa`  MEDIUMBLOB NULL ,  `fa_il`  MEDIUMBLOB NULL ,"
+2,"   SUM(t1.cost * t1.run_time)    AS `Total CPU Time Usage`,",representation,divide by 3600 to represent running time by hours, SUM((t1.cost * t1.run_time)/3600)    AS `Total CPU Time Usage`
