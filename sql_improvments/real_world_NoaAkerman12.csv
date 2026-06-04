@@ -1,0 +1,47 @@
+Number,Question,What was the problem type?,What was the problem?,How would you fix it?,Answer,Commit,Comment
+1,"`units` char(20) collate utf8mb4_unicode_ci not null default 'POINT',
+`callnum_split` int(1) default 0,
+`text_justify` char(1) collate utf8mb4_unicode_ci not null default 'L',
+`format_string` varchar(210) collate utf8mb4_unicode_ci not null default 'barcode',
+`layout_xml` mediumtext collate utf8mb4_unicode_ci not null,
+`creator` char(15) collate utf8mb4_unicode_ci not null default 'Labels',
+`line_height` decimal(4,2) not null default '1.00',",Bug,"The 'format_string' column length limit is too small (varchar(210)), causing valid longer string inputs to be truncated or fail during database insertion, leading to data loss.",Increase the maximum allowed length of the 'format_string' column to varchar(1024) to safely accommodate longer text inputs.,"`units` char(20) collate utf8mb4_unicode_ci not null default 'POINT',
+`callnum_split` int(1) default 0,
+`text_justify` char(1) collate utf8mb4_unicode_ci not null default 'L',
+`format_string` varchar(1024) collate utf8mb4_unicode_ci not null default 'barcode',
+`layout_xml` mediumtext collate utf8mb4_unicode_ci not null,
+`creator` char(15) collate utf8mb4_unicode_ci not null default 'Labels',
+`line_height` decimal(4,2) not null default '1.00',",40be0a556f604fc07c442a8d56f281015ab56ebb,Increasing column capacity to avoid silent data truncation and ensure system stability with larger inputs.
+2,"  `sort1` varchar(80) default NULL,
+  `sort2` varchar(80) default NULL,
+  UNIQUE KEY `cardnumber` (`cardnumber`),
+  KEY `borrowernumber` (`borrowernumber`),
+  KEY `categorycode` (`categorycode`),
+  KEY `branchcode` (`branchcode`),
+  KEY `userid` (`userid`),",Data Integrity,"The borrowernumber column was defined only as a regular key. A regular key improves search performance but does not enforce uniqueness or prevent NULL values. As a result, records may not be uniquely identified.",Define borrowernumber as the primary key of the table.,"  `sort1` varchar(80) default NULL,
+  `sort2` varchar(80) default NULL,
+  UNIQUE KEY `cardnumber` (`cardnumber`),
+   PRIMARY KEY `borrowernumber` (`borrowernumber`),
+  KEY `categorycode` (`categorycode`),
+  KEY `branchcode` (`branchcode`),
+  KEY `userid` (`userid`),",64278fd6b3de8c5b072819ba0a82f9c0c391405b,Changed borrowernumber from a regular key to the primary key of the table.
+3,"DEALLOCATE PREPARE stmt;
+
+-- First create the foreign key that we dropped earlier
+ALTER TABLE `theme_user_counts` ADD CONSTRAINT `addon_id_refs_id_ac19f783` FOREIGN KEY (`addon_id`) REFERENCES `addons` (`id`)
+
+-- Now create our new, proper index.
+ALTER TABLE `theme_user_counts` ADD CONSTRAINT `theme_user_counts_date_cc9034dde90789f_uniq` UNIQUE (`date`, `addon_id`);",Bug,"The SQL statement was missing a semicolon. Without a semicolon, the database may not correctly separate SQL commands, causing the migration script to fail.",Add the missing semicolon at the end of the SQL statement.,"DEALLOCATE PREPARE stmt;
+
+-- First create the foreign key that we dropped earlier
+ALTER TABLE `theme_user_counts` ADD CONSTRAINT `addon_id_refs_id_ac19f783` FOREIGN KEY (`addon_id`) REFERENCES `addons` (`id`);
+
+-- Now create our new, proper index.
+ALTER TABLE `theme_user_counts` ADD CONSTRAINT `theme_user_counts_date_cc9034dde90789f_uniq` UNIQUE (`date`, `addon_id`);",42dd849a280d1fa878a2cbd0a831d6b8d7503d1b,
+4,"
+INSERT INTO `letter` (module, code, branchcode, name, is_html, title, content, message_transport_type)
+VALUES ('members','PASSWORD_RESET','','Online password reset',1,'Koha password recovery','<html>\r\n<p>This email has been sent in response to your password recovery request for the account <strong><<user>></strong>.\r\n</p>\r\n<p>\r\nYou can now create your new password using the following link:\r\n<br/><a href=\""<<passwordreseturl>>\""><<passwordreseturl>></a>\r\n</p>\r\n<p>This link will be valid for 2 days from this email\'s reception, then you must reapply if you do not change your password.</p>\r\n<p>Thank you.</p>\r\n</html>\r\n','email'),
+('members','MEMBERSHIP_EXPIRY','','Account expiration','Account expiration','Dear <<borrowers.title>> <<borrowers.firstname>> <<borrowers.surname>>,.\r\n\r\nYour library card will expire soon, on:\r\n\r\n<<borrowers.dateexpiry>>\r\n\r\nThank you,\r\n\r\nLibrarian\r\n\r\n<<branches.branchname>>','email');","In the second VALUE set, there is a mismatch between the number of columns defined (8 columns) and the number of values provided (7 values). The 'is_html' column value was accidentally skipped, causing the SQL query to fail with a column count mismatch error.",Bug,Insert the missing '0' value for the 'is_html' column in the second row of the VALUES clause so that it aligns correctly with the 8-column table structure.,"INSERT INTO `letter` (module, code, branchcode, name, is_html, title, content, message_transport_type)
+VALUES ('members','PASSWORD_RESET','','Online password reset',1,'Koha password recovery','<html>\r\n<p>This email has been sent in response to your password recovery request for the account <strong><<user>></strong>.\r\n</p>\r\n<p>\r\nYou can now create your new password using the following link:\r\n<br/><a href=\""<<passwordreseturl>>\""><<passwordreseturl>></a>\r\n</p>\r\n<p>This link will be valid for 2 days from this email\'s reception, then you must reapply if you do not change your password.</p>\r\n<p>Thank you.</p>\r\n</html>\r\n','email'),
+('members','MEMBERSHIP_EXPIRY','','Account expiration',0,'Account expiration','Dear <<borrowers.title>> <<borrowers.firstname>> <<borrowers.surname>>,.\r\n\r\nYour library card will expire soon, on:\r\n\r\n<<borrowers.dateexpiry>>\r\n\r\nThank you,\r\n\r\nLibrarian\r\n\r\n<<branches.branchname>>','email');",2ce4b1635d24179fb3d5b11459045d86b9cf977e,Fixed column count mismatch in the INSERT statement by providing the missing 'is_html' value for the membership expiry row.
+5,-- First rename the existing table (don't delete it) ALTER TABLE events RENAME TO events_022; -- Create new events table CREATE TABLE atomic.events (,"he ALTER TABLE statement used a non-qualified table name ('events') instead of specifying the schema ('atomic.events'). If the script is executed outside the default 'atomic' schema context, the database engine will fail to find the table and throw a 'table does not exist' error.",Bug,"Explicitly qualify the table name by adding the schema prefix, changing 'events' to 'atomic.events' in the ALTER TABLE statement.",-- First rename the existing table (don't delete it) ALTER TABLE atomic.events RENAME TO events_022; -- Create new events table CREATE TABLE atomic.events (,bbd63311fb76a0728e7941af2fc994ba46ac9e0b,
