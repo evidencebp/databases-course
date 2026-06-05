@@ -203,3 +203,43 @@ md.movie_id = m.id
 window w as (partition by director_id  order by director_id, year)
 ) as inSql
 ;
+
+# 2026, assignment 4, question 4
+# Probability of a role  in a movie and in a genere
+WITH base AS (
+    SELECT
+        r.role,
+        g.genre,
+        r.movie_id
+    FROM roles r
+	JOIN movies_genres g ON r.movie_id = g.movie_id
+),
+role_global AS (
+    SELECT
+        role,
+        COUNT(*) AS movies_with_role,
+        COUNT(*) OVER () AS total_movies # Look outside our group
+    FROM base
+    GROUP BY role
+),
+role_genre AS (
+    SELECT
+        role,
+        genre,
+        COUNT(*) AS movies_with_role_in_genre,
+        COUNT(*) OVER (PARTITION BY genre) AS total_movies_in_genre # group by two columns, look in a group by one column
+    FROM base
+    GROUP BY role, genre
+)
+SELECT
+    rg.role,
+    rg.genre,
+    rg.movies_with_role_in_genre,
+    rg.total_movies_in_genre,
+    rg.movies_with_role_in_genre / rg.total_movies_in_genre AS probability_in_genre,
+    rglob.movies_with_role,
+    rglob.total_movies,
+    rglob.movies_with_role / rglob.total_movies AS probability_in_all_movies
+FROM role_genre rg
+JOIN role_global rglob USING (role)
+ORDER BY role, genre;
