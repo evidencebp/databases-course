@@ -1,0 +1,37 @@
+Number,Question,What was the problem type?,What was the problem?,How would you fix it?,Answer,Commit,Comment
+1," SELECT
+    t1.end_period                 AS `Period`,
+    SUM(t1.cost * t1.run_time)    AS `Total CPU Time Usage`,
+    ref_cat_table.ref_category    AS ref_category
+FROM %DB%.accounting_view AS t1
+RIGHT JOIN user_info.user_refcats AS ref_cat_table 
+    ON t1.owner = ref_cat_table.username 
+    WHERE end_time > start_time
+    AND ref_cat_table.ref_category = '%REFCAT%'",representation,The time was shown in seconds which is not relevant,change the time to hours,"   t1.end_period			AS `Period`,
+    SUM((t1.cost * t1.run_time)/3600)	AS `Total CPU Time Usage`,
+    ref_cat_table.ref_category		AS ref_category
+FROM %DB%.accounting_view		AS t1
+RIGHT JOIN user_info.user_refcats 	AS ref_cat_table 
+    ON t1.owner = ref_cat_table.username 
+    WHERE end_time > start_time
+    AND ref_cat_table.ref_category = '%REFCAT%'",62246ed0312999027fca7561c5c3a0a345ab972b,
+2," private[ldbc] def mediumblobType: Parser[DataType] =
+    customError(
+      caseSensitivity(""mediumblob"") ^^ (_ => DataType.TINYBLOB()),
+      input => s""""""",storage,datatype to small for the data,Change bug TinyBlob to MediumBlob,"  private[ldbc] def mediumblobType: Parser[DataType] =
+    customError(
+      caseSensitivity(""mediumblob"") ^^ (_ => DataType.MEDIUMBLOB()),
+      input => s""""""
+        |===============================================================================
+        |Failed to parse mediumblob data type.",a809185eda2910d6aa5621958d274be4e097997c,
+3,"CREATE TABLE groups (
+	id SERIAL PRIMARY KEY NOT NULL,
+	name VARCHAR(50) UNIQUE NOT NULL
+);
+
+/*",data integrity,group name could be empty,add a check contraint to make sure that char_lnegth >= 1,"CREATE TABLE groups (
+	id SERIAL PRIMARY KEY NOT NULL,
+	name VARCHAR(50) UNIQUE NOT NULL CHECK (char_length(name) >= 1)
+);
+
+/*",dfe62cb36a95bfce3e4446bfc04d80eeee01f9a5,
