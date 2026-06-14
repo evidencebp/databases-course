@@ -20,6 +20,7 @@
 3. [Harvard introduction to databases with SQL](https://www.edx.org/learn/sql/harvard-university-cs50-s-introduction-to-databases-with-sql)
 4. [Learn Databases and SQL from Harvard University](https://www.freecodecamp.org/news/learn-databases-and-sql-from-harvard-university/)
 5. [Grokking Relational Database Design](https://github.com/StructuredCS/grokking-relational-database-design)
+6. [Data.Sql IL קמפוס](https://campus.gov.il/course/course-v1cs-gov-sql-he/)
    
 # SQL questions representing market expectations
 1. [GeeksForGeeks database interview questions](https://www.geeksforgeeks.org/database-interview-questions/)
