@@ -1,0 +1,29 @@
+"Number","Question","What was the problem type?","What was the problem?","How would you fix it?","Answer","Commit","Comment"
+1,"SELECT
+    ...
+    CASE
+        WHEN lower(cvr.""STMT_TYPE"") = 'PE' THEN 'Pre-Election'
+        ...
+        ELSE 'Unknown'
+    END AS statement_type
+    cvr.""FROM_DATE"" AS from_date,
+    cvr.""THRU_DATE"" AS thru_date,
+    ...",fix,missing comma after END AS statement_type, so it gets merged with the next column,add the missing comma after statement_type,"SELECT
+    ...
+    CASE
+        WHEN lower(cvr.""STMT_TYPE"") = 'PE' THEN 'Pre-Election'
+        ...
+        ELSE 'Unknown'
+    END AS statement_type,
+    cvr.""FROM_DATE"" AS from_date,
+    cvr.""THRU_DATE"" AS thru_date,
+    ...",558b9dc69dfbe80dc61c944d015b3f201f5c85a2,
+2,"CREATE TABLE IF NOT EXISTS bookbrainz.creator_import (
+	import_id INT PRIMARY KEY,
+	data_id INT
+);
+ALTER TABLE bookbrainz.creator_import ADD FOREIGN KEY (data_id) REFERENCES bookbrainz.creator_data (id);",data integrity,data_id is a FK but allows NULL so an import row can have no linked data,add NOT NULL to data_id,"CREATE TABLE IF NOT EXISTS bookbrainz.creator_import (
+	import_id INT PRIMARY KEY,
+	data_id INT NOT NULL
+);
+ALTER TABLE bookbrainz.creator_import ADD FOREIGN KEY (data_id) REFERENCES bookbrainz.creator_data (id);",105b112b6fb50c2e446a1bfd7a8f9687de073336,same fix applied to edition_import / publication_import / publisher_import / work_import too
