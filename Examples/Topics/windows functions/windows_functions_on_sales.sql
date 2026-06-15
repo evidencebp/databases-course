@@ -66,13 +66,8 @@ WINDOW w AS (
 )
 ORDER BY product, year, month;
 
-# How many items did we sell in the last 3 months (rolling)
-SELECT
-    product,
-    year,
-    month,
-    volume,
-    avg(volume) OVER w AS rolling_3m_avg
+SELECT  product,   year,   month,    volume,
+    avg(volume) OVER w AS rolling_3m_avg # Avg aggregation as the window function
 FROM sales
 WINDOW w AS ( # Name - the common name "w"
     PARTITION BY product # Partition - only other rows of the same product
