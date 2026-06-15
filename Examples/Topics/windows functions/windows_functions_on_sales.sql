@@ -76,7 +76,7 @@ SELECT
 FROM sales
 WINDOW w AS ( # Name - the common name "w"
     PARTITION BY product # Partition - only other rows of the same product
-    ORDER BY year, month # Order chronologicly
+    ORDER BY year, month # Order chronologically
     ROWS BETWEEN 2 PRECEDING AND CURRENT ROW # Frame - 3 last months
 )
 ORDER BY product, year, month; # Order the anchor rows - First by product, later by the same timeline
