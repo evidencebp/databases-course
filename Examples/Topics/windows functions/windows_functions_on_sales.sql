@@ -77,6 +77,26 @@ WINDOW w AS ( # Name - the common name "w"
 ORDER BY product, year, month; # Order the anchor rows - First by product, later by the same timeline
 
 
+
+# Debug - looking into the window...
+# MySql currently does not support group concat to get all the window items
+# However, for a fixed size window we can get them one by one
+SELECT  product,   year,   month,    volume,
+    avg(volume) OVER w AS rolling_3m_avg # Avg aggregation as the window function
+    , concat(product,  '_', year,  '_',  month, '_', volume) as current_record
+    , count(*) over w as window_records
+    , NTH_VALUE(concat(product,  '_', year,  '_',  month, '_', volume), 1) over w as w1 # Look at the first record in the window (the current one)
+    , NTH_VALUE(concat(product,  '_', year,  '_',  month, '_', volume), 2) over w as w2 # The second
+    , NTH_VALUE(concat(product,  '_', year,  '_',  month, '_', volume), 3) over w as w3 # The third
+    , NTH_VALUE(concat(product,  '_', year,  '_',  month, '_', volume), 4) over w as w4 # No such item in window, always null
+FROM sales
+WINDOW w AS ( # Name - the common name "w"
+    PARTITION BY product # Partition - only other rows of the same product
+    ORDER BY year, month # Order chronologically, defining before and after
+    ROWS BETWEEN 2 PRECEDING AND CURRENT ROW # Frame - 3 last months
+)
+ORDER BY product, year, month; # Order the anchor rows - First by product, later by the same timeline
+
 # Ranking in category per month
 SELECT
     category,
