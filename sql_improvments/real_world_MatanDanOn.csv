@@ -1,0 +1,51 @@
+Number,Question,What was the problem type?,What was the problem?,How would you fix it?,Answer,Commit,Comment
+1,"DELETE FROM ‘feedback_bvl_type’;
+ 
+TRUNCATE table feedback_bvl_type;",FIx,"The script attempts to empty the feedback_bvl_type table twice, moreover the truncate commend lacks backticks around the table name.","Keep either one of the commands but not both, if keeping truncate also add backticks",TRUNCATE table `feedback_bvl_type`;,8027203aa4b67c2a36e5bc2bf1ca8ef383733944,Redundancy
+2,"CREATE TABLE rolled_up_usage (
+    record_id serial unique,
+    id varchar(36) NOT NULL,
+    subscription_id varchar(36),
+    unit_type varchar(255),
+    subscription_id varchar(36),
+    unit_type varchar(255),
+    record_date date NOT NULL,
+    amount bigint NOT NULL,
+    tracking_id varchar(128) NOT NULL,",Data Integrity,"The 'unit_type' and 'subscription_id' columns are logically required for the application to function correctly, but the table schema allows them to accept NULL values.",Add 'NOT NULL' constraints to both 'unit_type' and 'subscription_id' columns in the table definition.,"CREATE TABLE rolled_up_usage (
+    record_id serial unique,
+    id varchar(36) NOT NULL,
+    subscription_id varchar(36),
+    unit_type varchar(255),
+    subscription_id varchar(36) NOT NULL,
+    unit_type varchar(255) NOT NULL,
+    record_date date NOT NULL,
+    amount bigint NOT NULL,
+    tracking_id varchar(128) NOT NULL,",43309c0b85acf5ba5450dcbb5eef74011f656e5f,Missing NOT NULL constraints
+3,"CREATE TABLE bookbrainz._editor_entity_visits (
+id SERIAL PRIMARY KEY,
+editor_id INT NOT NULL,
+bbid UUID NOT NULL
+);",Data Integrity,"Editor_id and bbid aren’t constrained to be unique, which may cause data integrity issues as they are ID columns.",Add a unique constraint for both columns.,"CREATE TABLE bookbrainz._editor_entity_visits (
+id SERIAL PRIMARY KEY,
+editor_id INT NOT NULL,
+bbid UUID NOT NULL,
+UNIQUE(editor_id, bbid)
+);",5853be748c051ad3fa3a8b65ba209ab5c83c04c8,Case-sensitivity issue in defaults
+4,"CREATE TABLE fepermissions_permProps(
+ target INTEGER NOT NULL,
+ isgroup BOOLEAN NOT NULL,,
+ isgroup BOOLEAN NOT NULL,
+ perm VARCHAR(255) NOT NULL,
+ property VARCHAR(255) NOT NULL,
+ zoneID INTEGER NOT NULL
+);",Fix,The script contains an extra comma in the isgroup definition line.,Fix the syntax error / typo.,"CREATE TABLE fepermissions_permProps(
+ target INTEGER NOT NULL,
+ isgroup BOOLEAN NOT NULL,
+ isgroup BOOLEAN NOT NULL,
+ perm VARCHAR(255) NOT NULL,
+ property VARCHAR(255) NOT NULL,
+ zoneID INTEGER NOT NULL
+);",c171068790e4dbfe42f57a8c92dfc930484debd3,Extra comma syntax error
+5,"INSERT INTO sysprefs (variable, value, options, explanation) 
+VALUES ('XSLTDetailsDisplay','0','' 'Enable XSL stylesheet control over details page display');",Bug,"There is a missing comma separating the third value (options) and the fourth value (explanation), causing a syntax error (ERROR 1064) upon execution.",Insert a comma between the empty string '' and the explanation string 'Enable...'.,"INSERT INTO sysprefs (variable, value, options, explanation) 
+VALUES ('XSLTDetailsDisplay','0','', 'Enable XSL stylesheet control over details page display');",570e6fc7c08c89a8aef89d450509fb1a45999891,Missing comma syntax error
