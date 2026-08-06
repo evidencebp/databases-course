@@ -1,6 +1,6 @@
 -- =====================================================================
 -- Recommendation ideas - Question 1: Partner actors
--- Barak Blaish, GitHub: BrianB413
+-- GitHub: BrianB413
 --
 -- Companion to Q1_partner_actors_BrianB413.pdf.
 -- Run top to bottom against imdb_ijs, MySQL 8.0.40.
