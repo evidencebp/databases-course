@@ -1,0 +1,1 @@
+# This directory contains plans for the project

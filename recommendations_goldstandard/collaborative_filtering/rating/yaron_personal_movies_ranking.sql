@@ -1,8 +1,3 @@
--- Yaron's Personal Movie Rankings
--- Format: movie_id, recommendation (1-10), suggested_by, justification, comment
--- Built interactively based on stated preferences
--- Comment field: 'Seen' = personally watched | 'Not seen - inferred from genre preference' = scored by taste fit
-
 insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment)
 values (311037, 9, 'Yaron', 'Childhood-defining film and the start of a superhero journey; Green Goblin and the origin story made this a personal classic.', 'Seen');  -- Spider-Man 2002
 
