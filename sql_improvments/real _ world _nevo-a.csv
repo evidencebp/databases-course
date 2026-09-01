@@ -11,3 +11,24 @@
 ALTER TABLE host DROP COLUMN icon_id; /* Placeholder SQL */",620844879b88ef87f3bc4487b599640a32a51c57,
 4,"CREATE INDEX idx_anzeige_name ON mv_organisation (anzeige_name); /* Placeholder SQL */",performance,The index on the string column exceeded the maximum allowed key length for the database engine.,Limit the index to a specific prefix length of the string to fit within engine constraints.,"CREATE INDEX idx_anzeige_name ON mv_organisation (anzeige_name(255)); /* Placeholder SQL */",4b15025750988e10753e508eb8ff838dce94e812,
 5,"ALTER TABLE backup_ids ADD CONSTRAINT backup_ids_uk UNIQUE (backup_code, table_name, old_id); /* Placeholder SQL */",data integrity,The unique constraint name was too generic causing naming collisions when multiple instances were installed in the same database.,Rename the constraint to include a specific prefix.,"ALTER TABLE backup_ids ADD CONSTRAINT prefix_backup_ids_uk UNIQUE (backup_code, table_name, old_id); /* Placeholder SQL */",88629fc41946d91ebd87579c369b82bcae652b31,
+"6","CREATE TABLE wcf1_user (
+    userID INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    username VARCHAR(255) NOT NULL,
+    email VARCHAR(255) NOT NULL DEFAULT ''
+); /* Placeholder SQL */","performance","The email column had no index, so any query that authenticates a user, checks for a duplicate email, or joins on email had to perform a full scan of wcf1_user. As the user table grows this full scan dominates the query cost.","Add a secondary index on the email column so equality lookups and joins on email use an index seek instead of scanning every row.","ALTER TABLE wcf1_user ADD INDEX email (email); /* Placeholder SQL */","6259fd829bc984d24ce74b91bae6ce546f233311","WoltLab/WCF - adding a missing index on a frequently filtered/joined column."
+"7","SELECT researcher_id,
+       MIN(year) AS min_year,
+       MAX(year) AS max_year,
+       COUNT(*) AS total
+FROM accomplishments
+GROUP BY researcher_id; /* Placeholder SQL */","performance","The query computed a COUNT(*) for every group, but that count was never used. The database did extra counting work for nothing.","Remove the unused COUNT so the query only computes the MIN and MAX it actually needs.","SELECT researcher_id,
+       MIN(year) AS min_year,
+       MAX(year) AS max_year
+FROM accomplishments
+GROUP BY researcher_id; /* Placeholder SQL */","5e89e3bf671f2075f5cfdfc54950d9a5affb4e83","scientilla/scientilla - drop an unused aggregate so the query does less work."
+"8","CREATE TABLE marc_subfield_structure (
+    authorised_value VARCHAR(255),
+    authtypecode VARCHAR(255)
+); /* Placeholder SQL */","performance","The two columns were defined far wider than the data needs, so every row and any index on them was larger than necessary, which slows scans and joins.","Shrink the columns to VARCHAR(20) so rows and indexes stay small.","ALTER TABLE marc_subfield_structure
+    MODIFY authorised_value VARCHAR(20),
+    MODIFY authtypecode VARCHAR(20); /* Placeholder SQL */","f1752b544f7f465c826665343627227941755c2b","bywatersolutions/bws-package - right-size oversized columns (also reads as a data-type fix)."

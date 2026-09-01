@@ -137,3 +137,24 @@ FROM movies;",Bonus idea,Bonus improvement idea: avoid SELECT * and select only 
 57,"CREATE TABLE allele_code ( allele_code_id int(10) unsigned NOT NULL AUTO_INCREMENT, allele varchar(100) DEFAULT NULL, PRIMARY KEY (allele_code_id), UNIQUE KEY allele_idx (allele(1000)) );","fix","The table was created without specifying a character set. Using utf8mb4 with a 1000-character prefix key exceeds the maximum allowed key length causing a creation error.","Add DEFAULT CHARSET=latin1 to keep the index within the allowed limit.","CREATE TABLE allele_code ( allele_code_id int(10) unsigned NOT NULL AUTO_INCREMENT, allele varchar(100) DEFAULT NULL, PRIMARY KEY (allele_code_id), UNIQUE KEY allele_idx (allele(1000)) ) DEFAULT CHARSET=latin1;","3fe240d8a3e12e6b9d63bd46d4ea9fa8f79b517b","When using long prefix indexes on varchar columns ensure single-byte charset or reduce the prefix length."
 58,"ALTER TABLE ladder1v1_rating_rank_view AUTO_INCREMENT = 1; START TRANSACTION; TRUNCATE ladder1v1_rating_rank_view; INSERT INTO ladder1v1_rating_rank_view(`id`, `mean`, `deviation`, `num_games`, `win_games`, `rating`) SELECT ladder1v1_rating.id, mean, deviation, numGames, winGames, rating FROM ladder1v1_rating INNER JOIN active_ladder_players ON ladder1v1_rating.id = active_ladder_players.playerId ORDER BY rating DESC; COMMIT;",data integrity,"TRUNCATE is DDL and forces an implicit commit, so the transaction does not protect the refresh. If the INSERT fails after the TRUNCATE, the view is left empty.",use DELETE instead of TRUNCATE,"START TRANSACTION; DELETE FROM ladder1v1_rating_rank_view; ALTER TABLE ladder1v1_rating_rank_view AUTO_INCREMENT = 1; INSERT INTO ladder1v1_rating_rank_view(`id`, `mean`, `deviation`, `num_games`, `win_games`, `rating`) SELECT ladder1v1_rating.id, mean, deviation, numGames, winGames, rating FROM ladder1v1_rating INNER JOIN active_ladder_players ON ladder1v1_rating.id = active_ladder_players.playerId ORDER BY rating DESC; COMMIT;",b654b3a358408a97815ea299d19d39640d949a79,DDL statements like TRUNCATE and ALTER cause implicit commits and break atomicity
 59,"CREATE TABLE `branch_item_rules` ( `branchcode` varchar(10) NOT NULL, `itemtype` varchar(10) NOT NULL, ... ) ENGINE=InnoDB DEFAULT CHARSET=utf8;",fix,"Re-running the installer failed with error 1050, the table already exists, because CREATE TABLE had no guard",add DROP TABLE IF EXISTS before the create,"DROP TABLE IF EXISTS `branch_item_rules`; CREATE TABLE `branch_item_rules` ( `branchcode` varchar(10) NOT NULL, `itemtype` varchar(10) NOT NULL, ... ) ENGINE=InnoDB DEFAULT CHARSET=utf8;",e33e05c46056ff37d08b10e8ad5ce0cb0fd5053e,Install scripts should be idempotent so they can be re-run
+60,"CREATE TABLE wcf1_user (
+    userID INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    username VARCHAR(255) NOT NULL,
+    email VARCHAR(255) NOT NULL DEFAULT ''
+); /* Placeholder SQL */","performance","The email column had no index, so any query that authenticates a user, checks for a duplicate email, or joins on email had to perform a full scan of wcf1_user. As the user table grows this full scan dominates the query cost.","Add a secondary index on the email column so equality lookups and joins on email use an index seek instead of scanning every row.","ALTER TABLE wcf1_user ADD INDEX email (email); /* Placeholder SQL */","6259fd829bc984d24ce74b91bae6ce546f233311","WoltLab/WCF - adding a missing index on a frequently filtered/joined column."
+61,"SELECT researcher_id,
+       MIN(year) AS min_year,
+       MAX(year) AS max_year,
+       COUNT(*) AS total
+FROM accomplishments
+GROUP BY researcher_id; /* Placeholder SQL */","performance","The query computed a COUNT(*) for every group, but that count was never used. The database did extra counting work for nothing.","Remove the unused COUNT so the query only computes the MIN and MAX it actually needs.","SELECT researcher_id,
+       MIN(year) AS min_year,
+       MAX(year) AS max_year
+FROM accomplishments
+GROUP BY researcher_id; /* Placeholder SQL */","5e89e3bf671f2075f5cfdfc54950d9a5affb4e83","scientilla/scientilla - drop an unused aggregate so the query does less work."
+62,"CREATE TABLE marc_subfield_structure (
+    authorised_value VARCHAR(255),
+    authtypecode VARCHAR(255)
+); /* Placeholder SQL */","performance","The two columns were defined far wider than the data needs, so every row and any index on them was larger than necessary, which slows scans and joins.","Shrink the columns to VARCHAR(20) so rows and indexes stay small.","ALTER TABLE marc_subfield_structure
+    MODIFY authorised_value VARCHAR(20),
+    MODIFY authtypecode VARCHAR(20); /* Placeholder SQL */","f1752b544f7f465c826665343627227941755c2b","bywatersolutions/bws-package - right-size oversized columns (also reads as a data-type fix)."
