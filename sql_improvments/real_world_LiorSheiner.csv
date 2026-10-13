@@ -1,7 +1,15 @@
 ﻿Number,Question,What was the problem type?,What was the problem?,How would you fix it?,Answer,Commit,Comment
-1,"CREATE TABLE `post` (... ) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4 ROW_FORMAT=DYNAMIC;
-ALTER TABLE `post` ADD KEY `post_user` (`user`);",data integrity,"The post table used the MyISAM storage engine. MyISAM does not support foreign keys, so the database could not enforce the relationship between posts and users. This may allow posts to reference users that do not exist.",Change the table engine to InnoDB and add a foreign key from post.user to user.id. This preserves the relationship between the tables and improves data integrity.,"ALTER TABLE `post` ENGINE=InnoDB;
-ALTER TABLE `post` ADD CONSTRAINT `post_user` FOREIGN KEY (`user`) REFERENCES `user` (`id`) ON DELETE CASCADE ON UPDATE CASCADE;",a1a63eb2f812d621d3b3d7db2c00346bb94c0709,"Commit 72412, group 12. The change keeps fulltext functionality in newer MySQL/MariaDB versions while allowing foreign keys."
+1,"SELECT '{{ batch_id }}'
+FROM {{ synclog_staging }} AS synclog_table
+JOIN {{ domain_dim }} AS domain_table
+    ON synclog_table.domain = domain_table.domain
+JOIN {{ user_dim }} AS user_table
+    ON synclog_table.user_id = user_table.user_id;",data integrity,"The query used regular JOINs between the synclog table and the dimension tables. Regular JOINs return only rows that have matching records in both tables, so synclog records without a matching domain or user could be removed from the result.","Replace the regular JOINs with LEFT JOINs so that all records from the synclog table are kept, even when there is no matching row in the dimension tables.","SELECT '{{ batch_id }}'
+FROM {{ synclog_staging }} AS synclog_table
+LEFT JOIN {{ domain_dim }} AS domain_table
+    ON synclog_table.domain = domain_table.domain
+LEFT JOIN {{ user_dim }} AS user_table
+    ON synclog_table.user_id = user_table.user_id;",cb7a61c1a8d9a8ff18dc0134f7efe67166c09da4,"Commit 27912, group 12. This is a simple JOIN to LEFT JOIN improvement."
 2,"CREATE TABLE `suggestions` (
   PRIMARY KEY (`suggestionid`),
   KEY `suggestedby` (`suggestedby`),
@@ -9,16 +17,17 @@ ALTER TABLE `post` ADD CONSTRAINT `post_user` FOREIGN KEY (`user`) REFERENCES `u
 );",performance,"The suggestions table was missing indexes on columns that are commonly used in queries, such as STATUS, biblionumber, and branchcode. Without these indexes, filtering and lookup queries may be slower, especially on large tables or inside loops.",Add indexes on the columns that are frequently used for filtering or lookup operations.,"KEY `status` (`STATUS`),
 KEY `biblionumber` (`biblionumber`),
 KEY `branchcode` (`branchcode`)",2ccecbe3ac308724ed7554592dcfbb93be76bd84,"Commit 75312, group 12. This is a clear real-world performance improvement using indexes."
-3,"SELECT w.id
-FROM way w
-WHERE w.id NOT IN (
-    SELECT way_id
-    FROM fusion_way
-);",performance,Using NOT IN with a subquery may be inefficient on large tables and can also behave unexpectedly if the subquery returns NULL values.,Replace NOT IN with a LEFT JOIN and keep only the rows where no matching row exists in the joined table.,"SELECT w.id
-FROM way w
-LEFT JOIN fusion_way fw
-    ON w.id = fw.way_id
-WHERE fw.way_id IS NULL;",Bonus idea,Bonus improvement idea based on a common query optimization pattern.
+3,"SELECT *
+FROM movies
+WHERE (SELECT COUNT(*)
+       FROM roles
+       WHERE roles.movie_id = movies.id) > 0;",performance,The query uses COUNT(*) only to check if at least one matching row exists. This may be inefficient because the database may count all matching rows instead of stopping after the first match.,"Use EXISTS, because it is clearer and can stop once a matching row is found.","SELECT *
+FROM movies
+WHERE EXISTS (
+    SELECT 1
+    FROM roles
+    WHERE roles.movie_id = movies.id
+);",Bonus idea,Bonus improvement idea: use EXISTS instead of COUNT(*) > 0 when checking existence.
 4,"SELECT DISTINCT customer_id, order_date
 FROM orders;",performance,"DISTINCT is used only to remove duplicate rows. On large result sets this may be slower, because the database must compare and remove duplicates from the output.",Use GROUP BY on the relevant columns when the goal is to return one row per group.,"SELECT customer_id, order_date
 FROM orders
